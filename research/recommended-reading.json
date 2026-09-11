@@ -1,0 +1,671 @@
+{
+ "aceramic": [
+  {
+   "a": "A. Bernard Knapp",
+   "t": "The Archaeology of Cyprus: From Earliest Prehistory through the Bronze Age",
+   "y": 2013,
+   "k": "book",
+   "n": "The standard synthesis of the island's prehistory, from the first hunters to the end of the Bronze Age."
+  },
+  {
+   "a": "Louise Steel",
+   "t": "Cyprus Before History: From the Earliest Settlers to the End of the Bronze Age",
+   "y": 2004,
+   "k": "book",
+   "n": "A readable single-volume account of prehistoric Cyprus for the general reader."
+  },
+  {
+   "a": "Alan H. Simmons",
+   "t": "Faunal Extinction in an Island Society: Pygmy Hippopotamus Hunters of Cyprus",
+   "y": 1999,
+   "k": "academic",
+   "n": "The Aetokremnos excavation report, and the argument that the first Cypriots hunted the island's dwarf hippos to extinction."
+  },
+  {
+   "a": "Jean-Denis Vigne and others",
+   "t": "First wave of cultivators spread to Cyprus at least 10,600 y ago",
+   "y": 2012,
+   "k": "article",
+   "n": "The PNAS paper on Klimonas that pushed the first Cypriot village back two millennia."
+  },
+  {
+   "a": "Alain Le Brun",
+   "t": "Fouilles récentes à Khirokitia (Chypre)",
+   "y": 1984,
+   "k": "academic",
+   "n": "The French mission's reports on the walled Neolithic village, the best-preserved of its age in the eastern Mediterranean."
+  },
+  {
+   "a": "Porphyrios Dikaios",
+   "t": "Khirokitia: Final Report on the Excavation of a Neolithic Settlement in Cyprus",
+   "y": 1953,
+   "k": "academic",
+   "n": "The original excavation of Khirokitia, still the foundation of everything written about it since."
+  }
+ ],
+ "ceramic": [
+  {
+   "a": "A. Bernard Knapp",
+   "t": "The Archaeology of Cyprus: From Earliest Prehistory through the Bronze Age",
+   "y": 2013,
+   "k": "book",
+   "n": "Covers the gap after the Aceramic villages and the arrival of the first pottery-making communities."
+  },
+  {
+   "a": "Porphyrios Dikaios",
+   "t": "Sotira",
+   "y": 1961,
+   "k": "academic",
+   "n": "The excavation report for the type-site of the Ceramic Neolithic, a hilltop village of fifty houses."
+  },
+  {
+   "a": "Edgar Peltenburg (ed.)",
+   "t": "Early Society in Cyprus",
+   "y": 1989,
+   "k": "academic",
+   "n": "Essays on how the island's first societies were organised, from villages to the beginnings of rank."
+  },
+  {
+   "a": "Louise Steel",
+   "t": "Cyprus Before History: From the Earliest Settlers to the End of the Bronze Age",
+   "y": 2004,
+   "k": "book",
+   "n": "Sets the Sotira culture in the long story of the island's settlement."
+  }
+ ],
+ "chalco": [
+  {
+   "a": "Edgar Peltenburg",
+   "t": "Lemba Archaeological Project (Studies in Mediterranean Archaeology)",
+   "y": 1985,
+   "k": "academic",
+   "n": "The excavation volumes for Lemba and Kissonerga, the villages that define the Cypriot Chalcolithic."
+  },
+  {
+   "a": "Diane Bolger",
+   "t": "Gender in Ancient Cyprus: Narratives of Social Change on a Mediterranean Island",
+   "y": 2003,
+   "k": "academic",
+   "n": "Reads the cruciform figurines and birth imagery of the Chalcolithic as evidence for how gender was lived."
+  },
+  {
+   "a": "A. Bernard Knapp",
+   "t": "The Archaeology of Cyprus: From Earliest Prehistory through the Bronze Age",
+   "y": 2013,
+   "k": "book",
+   "n": "The first copper, the picrolite figurines and the growth of villages, set in their wider context."
+  },
+  {
+   "a": "Louise Steel",
+   "t": "Cyprus Before History: From the Earliest Settlers to the End of the Bronze Age",
+   "y": 2004,
+   "k": "book",
+   "n": "An accessible account of the Chalcolithic villages of the south-west."
+  }
+ ],
+ "eba": [
+  {
+   "a": "David Frankel and Jennifer M. Webb",
+   "t": "Marki Alonia: An Early and Middle Bronze Age Settlement in Cyprus",
+   "y": 2006,
+   "k": "academic",
+   "n": "The full report on the village of four hundred people that anchors the Early Bronze Age in this atlas."
+  },
+  {
+   "a": "Jennifer M. Webb and David Frankel",
+   "t": "Characterizing the Philia Facies: Material Culture, Chronology, and the Origin of the Bronze Age in Cyprus",
+   "y": 1999,
+   "k": "article",
+   "n": "The American Journal of Archaeology paper that defined the Philia phase and its Anatolian connections."
+  },
+  {
+   "a": "Priscilla Keswani",
+   "t": "Mortuary Ritual and Society in Bronze Age Cyprus",
+   "y": 2004,
+   "k": "academic",
+   "n": "What the chamber tombs of Vounous and its neighbours say about status and ritual."
+  },
+  {
+   "a": "A. Bernard Knapp",
+   "t": "The Archaeology of Cyprus: From Earliest Prehistory through the Bronze Age",
+   "y": 2013,
+   "k": "book",
+   "n": "The arrival of the plough, rectangular houses and a real copper industry."
+  },
+  {
+   "a": "Louise Steel",
+   "t": "Cyprus Before History: From the Earliest Settlers to the End of the Bronze Age",
+   "y": 2004,
+   "k": "book",
+   "n": "The Red Polished pottery age told for a general reader."
+  }
+ ],
+ "lba": [
+  {
+   "a": "A. Bernard Knapp",
+   "t": "Sources for the History of Cyprus, Volume II: Near Eastern and Aegean Texts from the Third to the First Millennia BC",
+   "y": 1996,
+   "k": "academic",
+   "n": "Every ancient text that mentions Alashiya, translated, including the Amarna letters."
+  },
+  {
+   "a": "Yuval Goren, Shlomo Bunimovitz, Israel Finkelstein and Nadav Na'aman",
+   "t": "The Location of Alashiya: New Evidence from Petrographic Investigation of Alashiyan Tablets from El-Amarna and Ugarit",
+   "y": 2003,
+   "k": "article",
+   "n": "The clay analysis, in the American Journal of Archaeology, that placed the Alashiya letters on Cyprus's south coast."
+  },
+  {
+   "a": "Porphyrios Dikaios",
+   "t": "Enkomi: Excavations 1948-1958",
+   "y": 1969,
+   "k": "academic",
+   "n": "The excavation of the great Late Bronze Age city, ashlar buildings and the Ingot God included."
+  },
+  {
+   "a": "Silvia Ferrara",
+   "t": "Cypro-Minoan Inscriptions, Volume I: Analysis",
+   "y": 2012,
+   "k": "academic",
+   "n": "The fullest study of the island's undeciphered Bronze Age script."
+  },
+  {
+   "a": "Eric H. Cline",
+   "t": "1177 B.C.: The Year Civilization Collapsed",
+   "y": 2014,
+   "k": "book",
+   "n": "The end of the Bronze Age across the whole eastern Mediterranean, with Cyprus among the players and the survivors."
+  },
+  {
+   "a": "A. Bernard Knapp",
+   "t": "The Archaeology of Cyprus: From Earliest Prehistory through the Bronze Age",
+   "y": 2013,
+   "k": "book",
+   "n": "The towns, the copper trade and the collapse, in one place."
+  }
+ ],
+ "iron": [
+  {
+   "a": "Maria Iacovou (ed.)",
+   "t": "Cyprus and the Aegean in the Early Iron Age: The Legacy of Nicolas Coldstream",
+   "y": 2012,
+   "k": "academic",
+   "n": "How the city-kingdoms formed out of the Bronze Age collapse, and what came from Greece."
+  },
+  {
+   "a": "Vassos Karageorghis",
+   "t": "Early Cyprus: Crossroads of the Mediterranean",
+   "y": 2002,
+   "k": "book",
+   "n": "The excavator of Salamis on the island's first millennium BCE, generously illustrated."
+  },
+  {
+   "a": "Vassos Karageorghis",
+   "t": "Cyprus: From the Stone Age to the Romans",
+   "y": 1982,
+   "k": "book",
+   "n": "A compact general history of ancient Cyprus by the man who dug much of it."
+  },
+  {
+   "a": "Veronica Tatton-Brown",
+   "t": "Ancient Cyprus",
+   "y": 1997,
+   "k": "book",
+   "n": "The British Museum's short introduction, good on the objects the Iron Age left behind."
+  },
+  {
+   "a": "Homer",
+   "t": "Iliad, Book 11",
+   "y": -750,
+   "k": "primary",
+   "n": "Kinyras of Cyprus sends Agamemnon a breastplate: the island's first appearance in Greek literature."
+  }
+ ],
+ "archaic": [
+  {
+   "a": "Vassos Karageorghis",
+   "t": "Salamis in Cyprus: Homeric, Hellenistic and Roman",
+   "y": 1969,
+   "k": "book",
+   "n": "The royal tombs with their horses and chariots, by the man who found them."
+  },
+  {
+   "a": "Vassos Karageorghis",
+   "t": "Excavations in the Necropolis of Salamis",
+   "y": 1967,
+   "k": "academic",
+   "n": "The excavation volumes for the Royal Tombs, ivory throne and bronze horse-trappings included."
+  },
+  {
+   "a": "Einar Gjerstad and others",
+   "t": "The Swedish Cyprus Expedition",
+   "y": 1934,
+   "k": "academic",
+   "n": "The multi-volume publication of the 1927-31 digs at Ayia Irini, Vouni and elsewhere, the backbone of Cypriot Iron Age chronology."
+  },
+  {
+   "a": "Antoine Hermary and Joan R. Mertens",
+   "t": "The Cesnola Collection of Cypriot Art: Stone Sculpture",
+   "y": 2014,
+   "k": "academic",
+   "n": "The Metropolitan Museum's catalogue of the limestone sculpture Cesnola removed from Cyprus in the 1870s."
+  },
+  {
+   "a": "Franz Georg Maier and Vassos Karageorghis",
+   "t": "Paphos: History and Archaeology",
+   "y": 1984,
+   "k": "book",
+   "n": "Old Paphos and its sanctuary of Aphrodite from the Bronze Age to the Romans."
+  },
+  {
+   "a": "Herodotus",
+   "t": "The Histories, Book 5",
+   "y": -430,
+   "k": "primary",
+   "n": "The revolt of Onesilos of Salamis against Persia in 498 BCE, told a generation later."
+  }
+ ],
+ "classical": [
+  {
+   "a": "Isocrates",
+   "t": "Evagoras",
+   "y": -370,
+   "k": "primary",
+   "n": "An Athenian orator's encomium for the king of Salamis who Hellenised his city and defied Persia."
+  },
+  {
+   "a": "Herodotus",
+   "t": "The Histories, Book 7",
+   "y": -430,
+   "k": "primary",
+   "n": "Cypriot ships in the Persian fleet at Salamis in Greece, 480 BCE."
+  },
+  {
+   "a": "Olivier Masson",
+   "t": "Les inscriptions chypriotes syllabiques",
+   "y": 1961,
+   "k": "academic",
+   "n": "The corpus of Greek written in the Cypriot syllabary, the island's own script until the Hellenistic age."
+  },
+  {
+   "a": "Franz Georg Maier and Vassos Karageorghis",
+   "t": "Paphos: History and Archaeology",
+   "y": 1984,
+   "k": "book",
+   "n": "Includes the Persian siege mound at Palaepaphos, one of the best-preserved siege works of the ancient world."
+  },
+  {
+   "a": "Sir George Hill",
+   "t": "A History of Cyprus, Volume I: To the Conquest by Richard Lion Heart",
+   "y": 1940,
+   "k": "book",
+   "n": "The standard narrative history of antiquity on the island, still the fullest account of the city-kingdoms' politics."
+  }
+ ],
+ "hellenistic": [
+  {
+   "a": "Sir George Hill",
+   "t": "A History of Cyprus, Volume I: To the Conquest by Richard Lion Heart",
+   "y": 1940,
+   "k": "book",
+   "n": "The Ptolemaic governors, the naval battle of Salamis in 306 and the end of the kingdoms."
+  },
+  {
+   "a": "Diodorus Siculus",
+   "t": "Library of History, Book 20",
+   "y": -40,
+   "k": "primary",
+   "n": "Demetrius Poliorcetes takes Cyprus in 306 BCE: the siege of Salamis and the great sea battle."
+  },
+  {
+   "a": "Vassos Karageorghis",
+   "t": "Cyprus: From the Stone Age to the Romans",
+   "y": 1982,
+   "k": "book",
+   "n": "Ptolemaic Cyprus in a single chapter, for orientation."
+  },
+  {
+   "a": "Terence Bruce Mitford",
+   "t": "The Inscriptions of Kourion",
+   "y": 1971,
+   "k": "academic",
+   "n": "The inscriptions of one city, Hellenistic and Roman, and what they reveal of civic life."
+  }
+ ],
+ "roman": [
+  {
+   "a": "Terence Bruce Mitford",
+   "t": "Roman Cyprus",
+   "y": 1980,
+   "k": "essay",
+   "n": "The long survey in Aufstieg und Niedergang der römischen Welt that remains the starting point for the province."
+  },
+  {
+   "a": "David Soren and Jamie James",
+   "t": "Kourion: The Search for a Lost Roman City",
+   "y": 1988,
+   "k": "book",
+   "n": "The excavation of the earthquake of 365 at Kourion, with its victims still where they fell."
+  },
+  {
+   "a": "Demetrios Michaelides",
+   "t": "Cypriot Mosaics",
+   "y": 1987,
+   "k": "book",
+   "n": "The House of Dionysos and the other Roman floors of Paphos, explained."
+  },
+  {
+   "a": "Sir George Hill",
+   "t": "A History of Cyprus, Volume I: To the Conquest by Richard Lion Heart",
+   "y": 1940,
+   "k": "book",
+   "n": "Roman rule, the Jewish revolt of 115-117 and the coming of Christianity."
+  },
+  {
+   "a": "Luke",
+   "t": "Acts of the Apostles, Chapter 13",
+   "y": 90,
+   "k": "primary",
+   "n": "Paul and Barnabas cross Cyprus from Salamis to Paphos and convert the proconsul."
+  },
+  {
+   "a": "Strabo",
+   "t": "Geography, Book 14",
+   "y": 20,
+   "k": "primary",
+   "n": "A tour of the island's cities and resources as a Roman geographer knew them."
+  }
+ ],
+ "byzantine": [
+  {
+   "a": "Luca Zavagno",
+   "t": "Cyprus between Late Antiquity and the Early Middle Ages (ca. 600-800): An Island in Transition",
+   "y": 2017,
+   "k": "academic",
+   "n": "The Arab raids and the shared centuries, argued from archaeology rather than the old story of decline."
+  },
+  {
+   "a": "R. J. H. Jenkins",
+   "t": "Cyprus between Byzantium and Islam, A.D. 688-965",
+   "y": 1953,
+   "k": "essay",
+   "n": "The classic short account of the condominium, when the island paid tax to both Constantinople and the Caliphate."
+  },
+  {
+   "a": "Catia Galatariotou",
+   "t": "The Making of a Saint: The Life, Times and Sanctification of Neophytos the Recluse",
+   "y": 1991,
+   "k": "academic",
+   "n": "Twelfth-century Cyprus seen through one hermit's cave, writings and cult."
+  },
+  {
+   "a": "Andreas Stylianou and Judith A. Stylianou",
+   "t": "The Painted Churches of Cyprus: Treasures of Byzantine Art",
+   "y": 1985,
+   "k": "book",
+   "n": "Church by church, the fresco cycles of the Troodos and beyond: the essential companion to the painted churches."
+  },
+  {
+   "a": "Annemarie Weyl Carr",
+   "t": "Cyprus and the Devotional Arts of Byzantium in the Era of the Crusades",
+   "y": 2005,
+   "k": "academic",
+   "n": "Icons and painting on an island where Orthodox and Latin met."
+  },
+  {
+   "a": "Leontios of Neapolis",
+   "t": "Life of John the Almsgiver",
+   "y": 640,
+   "k": "primary",
+   "n": "A seventh-century Cypriot bishop's life of the Amathus-born patriarch of Alexandria, and a window on the island before the raids."
+  }
+ ],
+ "lusignan": [
+  {
+   "a": "Peter W. Edbury",
+   "t": "The Kingdom of Cyprus and the Crusades, 1191-1374",
+   "y": 1991,
+   "k": "book",
+   "n": "The standard history of the Lusignan kingdom's first two centuries."
+  },
+  {
+   "a": "Leontios Makhairas",
+   "t": "Recital concerning the Sweet Land of Cyprus entitled 'Chronicle'",
+   "y": 1430,
+   "k": "primary",
+   "n": "The great Cypriot chronicle of the Lusignan kings, in the island's own Greek; the Dawkins edition of 1932 gives the English."
+  },
+  {
+   "a": "Angel Nicolaou-Konnari and Chris Schabel (eds)",
+   "t": "Cyprus: Society and Culture 1191-1374",
+   "y": 2005,
+   "k": "academic",
+   "n": "Essays on Franks, Greeks and the others who shared the kingdom."
+  },
+  {
+   "a": "Nicholas Coureas",
+   "t": "The Latin Church in Cyprus, 1195-1312",
+   "y": 1997,
+   "k": "academic",
+   "n": "How a Latin hierarchy was set over an Orthodox island, and how the two churches lived together."
+  },
+  {
+   "a": "Camille Enlart",
+   "t": "Gothic Art and the Renaissance in Cyprus",
+   "y": 1899,
+   "k": "book",
+   "n": "The French architectural historian who first documented Bellapais, St Nicholas and the castles; David Hunt's 1987 translation."
+  },
+  {
+   "a": "Benjamin Arbel",
+   "t": "Cyprus, the Franks and Venice, 13th-16th Centuries",
+   "y": 2000,
+   "k": "academic",
+   "n": "Collected studies on the island's economy and society from the Lusignans to the Venetians."
+  },
+  {
+   "a": "Giovanni Boccaccio",
+   "t": "The Decameron, Day 1, Story 9",
+   "y": 1353,
+   "k": "fiction",
+   "n": "A Gascon lady shames the spineless first king of Cyprus into courage: the Lusignan court as fourteenth-century Italy imagined it."
+  }
+ ],
+ "venetian": [
+  {
+   "a": "Benjamin Arbel",
+   "t": "Cyprus, the Franks and Venice, 13th-16th Centuries",
+   "y": 2000,
+   "k": "academic",
+   "n": "The essential scholar of Venetian Cyprus on its administration, taxes and population."
+  },
+  {
+   "a": "Gilles Grivaud",
+   "t": "Villages désertés à Chypre (fin XIIe-fin XIXe siècle)",
+   "y": 1998,
+   "k": "academic",
+   "n": "The abandoned villages of Cyprus over seven centuries, and what they say about population and rural life."
+  },
+  {
+   "a": "Étienne de Lusignan",
+   "t": "Description de toute l'isle de Cypre",
+   "y": 1580,
+   "k": "primary",
+   "n": "A Cypriot Dominican's account of his island written in exile just after its fall."
+  },
+  {
+   "a": "Nestore Martinengo",
+   "t": "The True Report of All the Success of Famagosta",
+   "y": 1572,
+   "k": "primary",
+   "n": "An eyewitness on the eleven-month siege of Famagusta, translated into English within the year."
+  },
+  {
+   "a": "Sir George Hill",
+   "t": "A History of Cyprus, Volume III: The Frankish Period, 1432-1571",
+   "y": 1948,
+   "k": "book",
+   "n": "The fullest narrative of Venetian rule and the war of 1570-71."
+  },
+  {
+   "a": "William Shakespeare",
+   "t": "Othello",
+   "y": 1603,
+   "k": "fiction",
+   "n": "Four of its five acts are set in a Venetian garrison port on Cyprus with the Turkish fleet expected: the island's most famous fiction."
+  }
+ ],
+ "ottoman": [
+  {
+   "a": "Ronald C. Jennings",
+   "t": "Christians and Muslims in Ottoman Cyprus and the Mediterranean World, 1571-1640",
+   "y": 1993,
+   "k": "academic",
+   "n": "From the Ottoman court records: how the two communities actually lived side by side in the first decades."
+  },
+  {
+   "a": "Sir Harry Luke",
+   "t": "Cyprus under the Turks, 1571-1878",
+   "y": 1921,
+   "k": "book",
+   "n": "A colonial administrator's history of the Ottoman centuries, dated in tone but still the only general narrative."
+  },
+  {
+   "a": "Michalis N. Michael, Matthias Kappler and Eftihios Gavriel (eds)",
+   "t": "Ottoman Cyprus: A Collection of Studies on History and Culture",
+   "y": 2009,
+   "k": "academic",
+   "n": "Recent scholarship on the province from Ottoman sources, correcting the old picture of neglect."
+  },
+  {
+   "a": "Marc Aymes",
+   "t": "A Provincial History of the Ottoman Empire: Cyprus and the Eastern Mediterranean in the Nineteenth Century",
+   "y": 2014,
+   "k": "academic",
+   "n": "The last Ottoman century on the island, reform and all."
+  },
+  {
+   "a": "Claude Delaval Cobham",
+   "t": "Excerpta Cypria: Materials for a History of Cyprus",
+   "y": 1908,
+   "k": "primary",
+   "n": "Every traveller's account of the island from antiquity to 1878, translated: the source for most of what we know of Ottoman Cyprus from outside."
+  },
+  {
+   "a": "Giovanni Mariti",
+   "t": "Travels in the Island of Cyprus",
+   "y": 1769,
+   "k": "primary",
+   "n": "A Tuscan who lived on the island in the 1760s describes its towns, crops and people; Cobham's translation of 1909."
+  },
+  {
+   "a": "Archduke Louis Salvator of Austria",
+   "t": "Levkosia, the Capital of Cyprus",
+   "y": 1873,
+   "k": "primary",
+   "n": "A drawn and written portrait of Nicosia in the last Ottoman years, just before the British arrived."
+  }
+ ],
+ "british": [
+  {
+   "a": "Lawrence Durrell",
+   "t": "Bitter Lemons",
+   "y": 1957,
+   "k": "book",
+   "n": "Life in Bellapais as the EOKA emergency closed in: the most read book ever written about Cyprus, and a partial one."
+  },
+  {
+   "a": "Costas Montis",
+   "t": "Closed Doors: An Answer to Bitter Lemons by Lawrence Durrell",
+   "y": 1964,
+   "k": "fiction",
+   "n": "A Cypriot novelist's reply, the same years seen from inside a Nicosia family; English translation 2004."
+  },
+  {
+   "a": "Andrekos Varnava",
+   "t": "British Imperialism in Cyprus, 1878-1915: The Inconsequential Possession",
+   "y": 2009,
+   "k": "academic",
+   "n": "Why Britain took Cyprus and then did so little with it."
+  },
+  {
+   "a": "Robert Holland",
+   "t": "Britain and the Revolt in Cyprus, 1954-1959",
+   "y": 1998,
+   "k": "academic",
+   "n": "The definitive account of the EOKA years from the British archives."
+  },
+  {
+   "a": "Rolandos Katsiaounis",
+   "t": "Labour, Society and Politics in Cyprus during the Second Half of the Nineteenth Century",
+   "y": 1996,
+   "k": "academic",
+   "n": "The island's working people in the transition from Ottoman to British rule."
+  },
+  {
+   "a": "Rupert Gunnis",
+   "t": "Historic Cyprus: A Guide to Its Towns and Villages, Monasteries and Castles",
+   "y": 1936,
+   "k": "book",
+   "n": "A colonial inspector of antiquities' village-by-village guide, still consulted for monuments since lost or altered."
+  },
+  {
+   "a": "George Seferis",
+   "t": "Logbook III",
+   "y": 1955,
+   "k": "fiction",
+   "n": "The Nobel laureate's Cyprus poems, written on visits in 1953-55: 'Helen', 'Salamis in Cyprus' and the rest."
+  }
+ ],
+ "republic": [
+  {
+   "a": "Yiannis Papadakis",
+   "t": "Echoes from the Dead Zone: Across the Cyprus Divide",
+   "y": 2005,
+   "k": "book",
+   "n": "A Greek Cypriot anthropologist lives on both sides of the line and tests what each was taught about the other."
+  },
+  {
+   "a": "Rebecca Bryant",
+   "t": "The Past in Pieces: Belonging in the New Cyprus",
+   "y": 2010,
+   "k": "academic",
+   "n": "Lapithos after the crossings opened in 2003, and what home means to the displaced of both communities."
+  },
+  {
+   "a": "Christopher Hitchens",
+   "t": "Hostage to History: Cyprus from the Ottomans to Kissinger",
+   "y": 1984,
+   "k": "book",
+   "n": "A polemic on the great-power politics behind 1974; partisan, and influential."
+  },
+  {
+   "a": "James Ker-Lindsay",
+   "t": "The Cyprus Problem: What Everyone Needs to Know",
+   "y": 2011,
+   "k": "book",
+   "n": "The division and the negotiations explained in plain question-and-answer form."
+  },
+  {
+   "a": "Colin Thubron",
+   "t": "Journey into Cyprus",
+   "y": 1975,
+   "k": "book",
+   "n": "A six-hundred-mile walk across the whole island in 1972, two years before it was cut in two."
+  },
+  {
+   "a": "Elif Shafak",
+   "t": "The Island of Missing Trees",
+   "y": 2021,
+   "k": "fiction",
+   "n": "A Greek Cypriot and a Turkish Cypriot fall in love in Nicosia in 1974; a fig tree tells the rest."
+  },
+  {
+   "a": "Victoria Hislop",
+   "t": "The Sunrise",
+   "y": 2014,
+   "k": "fiction",
+   "n": "Famagusta in the summer of 1974, and the emptying of Varosha."
+  }
+ ]
+}

@@ -1,0 +1,896 @@
+{
+ "new_settlements": [
+  {
+   "id": "agios_georgios_pegeia",
+   "name": "Agios Georgios-Pegeia (Cape Drepanon)",
+   "modern": "Agios Georgios, Pegeia, Paphos district",
+   "lon": 32.321,
+   "lat": 34.902,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     100,
+     700
+    ],
+    [
+     1270,
+     1400
+    ]
+   ],
+   "desc": "An unwalled town spread over the neck and southern slope of Cape Drepanon, busy in the Roman period and at its height under Justinian, when three basilicas and a bath house stood on the headland. Its position at the island's north-west corner made it a natural call for ships carrying Egyptian grain to Constantinople, and the sherd dumps show it shipped wine of its own as well. The Department of Antiquities dug the churches between 1952 and 1955; the Aristotle University of Thessaloniki from 1992 and the Greek Archaeological Expedition since 1999 have worked on the settlement itself, which turned what had looked like a pilgrimage complex into a proper town.",
+   "finds": [
+    {
+     "n": "Basilica A and its baptistery",
+     "p": "6th century CE",
+     "t": "The largest of the three churches, three-aisled with a baptistery against its west end, standing on the neck of the cape where the main street ran. Its floors are laid with mosaic panels of geometric patterns and animals.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    },
+    {
+     "n": "Basilica B",
+     "p": "6th century CE",
+     "t": "A three-aisled church lower down the southern slope, close to the shore and the anchorage that the town used.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    },
+    {
+     "n": "Basilica C, with its oil press and hostel",
+     "p": "6th century CE",
+     "t": "The smallest church, with a range of working buildings attached: an oil press and a block the excavators read as lodging for travellers. It is the clearest sign that the cape served people passing through.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    },
+    {
+     "n": "The bath house",
+     "p": "6th century CE",
+     "t": "A small bath complex beside Basilica A, generous for a settlement of this size and one of the reasons the site is read as a watering and victualling stop for shipping.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    },
+    {
+     "n": "Rock-cut necropolis on the cliff edge",
+     "p": "Roman to Early Christian",
+     "t": "Chamber tombs cut into the soft rock along the cliff, with a further cemetery inland in the Meletis forest above the cape.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    },
+    {
+     "n": "The amphora dump",
+     "p": "6th century CE",
+     "t": "More than 700 kg of amphora sherds recorded under Stella Demesticha of the University of Cyprus, dominated by Late Roman 1 jars made near Paphos and in Cilicia, with Gaza and Palestinian imports among them. It is one of the plainest pictures anywhere of what a Cypriot port actually handled.",
+     "w": "Study collection, University of Cyprus and site store"
+    },
+    {
+     "n": "Chapel of Agios Georgios",
+     "p": "Late 13th to early 14th century",
+     "t": "A small vaulted chapel raised over part of the abandoned town, the reason the cape still carries the saint's name and still draws pilgrims on his feast day.",
+     "w": "In situ, Agios Georgios-Pegeia"
+    }
+   ],
+   "sources": [
+    "https://www.visitcyprus.com/discover-cyprus/rural/sites-monuments/agios-georgios-pegeia-archaeological-site-2/",
+    "https://akamasmunicipality.org.cy/en/2016/02/04/archaeological-site-of-agios-georgios/",
+    "https://www.academia.edu/8707924/Raptis_K_T_and_O_M_Bakirtzis_2008_Agios_Georgios_Pegeia_Cape_Drepanon_Integrating_an_Excavation_Site_into_an_Archaeological_Landscape",
+    "https://akamas.org.cy/a-proud-heritage/archaeological-sites/",
+    "https://pleiades.stoa.org/places/707503"
+   ]
+  },
+  {
+   "id": "yeronisos",
+   "name": "Yeronisos",
+   "modern": "Islet off Cape Drepanon, Pegeia, Paphos district",
+   "lon": 32.312,
+   "lat": 34.899,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     -3800,
+     -3500
+    ],
+    [
+     -80,
+     -30
+    ],
+    [
+     500,
+     700
+    ]
+   ],
+   "desc": "A flat-topped islet of about 2.6 hectares rising some 21 m out of the sea a short way off Cape Drepanon, its name meaning Holy Island. Sophocles Hadjisavvas began digging in 1982 when a hotel was proposed for it, and Joan Breton Connelly of New York University has directed the excavation since 1990. In the last decades of Ptolemaic rule, under Cleopatra VII, a striking amount of money went into turning the rock into a sanctuary of Apollo with its own kitchens, stores and lookout; it was abandoned after an earthquake around the turn of the era. Chalcolithic remains lie beneath the Hellenistic buildings and a Byzantine reservoir and animal shelters above them.",
+   "finds": [
+    {
+     "n": "The 'Apollo' ostrakon",
+     "p": "1st century BCE",
+     "t": "A potsherd inscribed with the god's name, and the only object that actually names the divinity of Holy Island. The identification of the sanctuary rests on this sherd and on amulets that match ones from Apollo shrines elsewhere on Cyprus.",
+     "w": "Paphos District Archaeological Museum"
+    },
+    {
+     "n": "Ptolemaic ostraka",
+     "p": "1st century BCE",
+     "t": "The only Ptolemaic ostraka found on Cyprus, written in Greek and concerned with the running of the sanctuary and its stores. Ostraka of this kind are common in Egypt and almost unknown on the island.",
+     "w": "Paphos District Archaeological Museum"
+    },
+    {
+     "n": "Stone parapegma",
+     "p": "1st century BCE",
+     "t": "A slab pierced with a row of holes for a peg to be shifted along through the days of the month, a working calendar of a kind rare anywhere in the Greek world.",
+     "w": "Paphos District Archaeological Museum"
+    },
+    {
+     "n": "Limestone amulets",
+     "p": "1st century BCE",
+     "t": "Small pierced amulets shaped rather like miniature loom weights, cut with a mixture of old Cypriot and Ptolemaic Egyptian motifs. Twenty-five years of digging have produced a whole series, and they are the strongest argument for what kind of cult was practised here.",
+     "w": "Paphos District Archaeological Museum"
+    },
+    {
+     "n": "The circular platform",
+     "p": "1st century BCE",
+     "t": "A paved circle in the middle of the island that Connelly reads as a dance floor used in rites of passage for boys. That is an interpretation and not a certainty, and other readings are possible.",
+     "w": "In situ, Yeronisos"
+    },
+    {
+     "n": "The southern service range",
+     "p": "1st century BCE",
+     "t": "A complex of rooms for preparing, distributing and storing food, built along the island's southern edge in the final years of Ptolemaic rule; in one room the plaster of the ground floor is still on the wall.",
+     "w": "In situ, Yeronisos"
+    },
+    {
+     "n": "Chalcolithic pestles and mortars",
+     "p": "c. 3800 BCE",
+     "t": "Stone tools from the island's first occupation, many found in the Hellenistic food-preparation area where they appear to have been picked up and put back to work three and a half thousand years later.",
+     "w": "Paphos District Archaeological Museum"
+    }
+   ],
+   "sources": [
+    "https://www.leventisfoundation.org/heritage-conservation/excavations-on-yeronisos-island-cyprus",
+    "https://en.wikipedia.org/wiki/Yeronisos",
+    "https://www.archaeological.org/field-report-from-yeronisos-island-excavation-2015/",
+    "https://www.explorers.org/journals/yeronisos-and-its-environs/"
+   ]
+  },
+  {
+   "id": "katalymata",
+   "name": "Akrotiri-Katalymata ton Plakoton",
+   "modern": "Akrotiri peninsula, Limassol district (Western Sovereign Base Area)",
+   "lon": 32.945,
+   "lat": 34.58,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     610,
+     650
+    ]
+   ],
+   "desc": "A church complex about 100 m long standing on its own in the western forest of the Akrotiri peninsula, surveyed from 2007 and excavated by Eleni Procopiou for the Department of Antiquities. Its main church is a three-aisled basilica 36 m wide and 29 m long crossed by a transverse aisle, a transept plan otherwise unknown on Cyprus and rare in the eastern Mediterranean. Pottery and inscriptions place its building in the first years of the reign of Heraclius, about 616 to 619, and its destruction shortly before the middle of the seventh century. Why so grand and so unusual a building was raised on an empty headland is still argued over.",
+   "finds": [
+    {
+     "n": "The transept basilica",
+     "p": "c. 616-619 CE",
+     "t": "A three-aisled church 36 m by 29 m with a transverse aisle crossing the nave in front of the sanctuary. No other transept basilica is known on Cyprus, which is why the building is read as the work of masons and patrons from outside the island.",
+     "w": "In situ, Akrotiri peninsula"
+    },
+    {
+     "n": "The T-shaped narthex and martyrium",
+     "p": "Early 7th century CE",
+     "t": "A narthex with three aisled branches forming a T, doubling as a martyrium. The plan implies relics or venerated burials, though whose is unknown.",
+     "w": "In situ, Akrotiri peninsula"
+    },
+    {
+     "n": "Mosaic and opus sectile floors",
+     "p": "Early 7th century CE",
+     "t": "Cut-marble and mosaic paving of high quality, uncovered in 2018, carrying Christian inscriptions of the reign of Heraclius including the plea 'My Lord, help those who honour thy name'.",
+     "w": "In situ, Akrotiri peninsula"
+    },
+    {
+     "n": "The second church",
+     "p": "Early 7th century CE",
+     "t": "A second sanctuary within the same 100 m complex, only partly dug. The pair make the site far more than a village church, and Procopiou has connected it with clergy fleeing the Persian conquest of Syria and Palestine, a reading that is not settled.",
+     "w": "In situ, Akrotiri peninsula"
+    },
+    {
+     "n": "The 'Alexander and Heraclius' stele",
+     "p": "7th century CE",
+     "t": "A carved stele from the martyrium recently read as setting Alexander the Great beside the emperor Heraclius. The reading is new and contested and should be treated as a proposal rather than a fact.",
+     "w": "Reported from the site; publication in progress"
+    },
+    {
+     "n": "The destruction layer",
+     "p": "Mid-7th century CE",
+     "t": "The complex was wrecked and abandoned shortly before the middle of the seventh century, in the years of the first Arab raids, and never rebuilt or robbed for stone, which is why so much of its floor survives.",
+     "w": "In situ, Akrotiri peninsula"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Katalymata_ton_Plakoton",
+    "https://vici.org/vici/103416/",
+    "https://www.archaeology.wiki/blog/2014/04/29/new-evidence-about-the-monumental-ecclesiastical-complex-at-katalymmata-ton-plakoton/",
+    "https://www.archaeology.wiki/blog/2014/12/11/excavations-site-katalymata-ton-plakoton/",
+    "https://www.academia.edu/150275049/The_Excavations_at_Akrotiri_Katalymata_ton_Plakoton_2007_2014"
+   ]
+  },
+  {
+   "id": "dreamers_bay",
+   "name": "Akrotiri-Dreamer's Bay",
+   "modern": "Akrotiri peninsula (RAF Akrotiri), Limassol district",
+   "lon": 32.966,
+   "lat": 34.569,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     100,
+     600
+    ]
+   ],
+   "desc": "A line of stone warehouses along the shore of a small bay at the southernmost point of Cyprus, with a masonry breakwater now under water and quarries on the cliffs behind. John Leonard and Stella Demesticha surveyed it from 2000; Simon James of the University of Leicester, with Vicki Score as field director, has excavated since 2015. The digging killed the old idea of a lost port town: geophysics and trenching found no houses behind the warehouses, so the harbour was worked by people living in the villages across the middle of the peninsula and probably by Kourion. Lying inside a military base has left it one of the best preserved ancient ports in the Mediterranean.",
+   "finds": [
+    {
+     "n": "The shoreline warehouse range",
+     "p": "2nd to 4th century CE",
+     "t": "Long stone buildings sharing a single alignment, several with internal partitions and walled yards, laid out in one short planned episode rather than growing piecemeal. Burnt deposits in some of them suggest workshops as well as stores.",
+     "w": "In situ, Dreamer's Bay"
+    },
+    {
+     "n": "The submerged breakwater",
+     "p": "Roman",
+     "t": "A masonry mole now beneath the water of the bay, along with scattered stone columns. How it joined the buildings on shore has still to be worked out.",
+     "w": "Submerged, Dreamer's Bay"
+    },
+    {
+     "n": "The cliff-top quarries",
+     "p": "Roman",
+     "t": "Quarries cut into the marine conglomerate above the bay for squared building blocks and millstones, with ceramic water channels and small buildings beside them. Exporting stone appears to have been the port's industrial reason for existing.",
+     "w": "In situ, Akrotiri peninsula"
+    },
+    {
+     "n": "The earthquake destruction",
+     "p": "c. 360 CE",
+     "t": "Most of the warehouses were brought down by an earthquake, part of the same run of shocks that ruined Kourion a few years later. Near the harbour, in the excavators' Area 4, some buildings were put back up later in the fourth century.",
+     "w": "In situ, Dreamer's Bay"
+    },
+    {
+     "n": "The 'phantom town' result",
+     "p": "2015-2019 excavations",
+     "t": "Surface survey, trial trenches and geophysics over the ground behind the warehouses found no residential quarter at all, overturning the assumption that a town stood here. It is a useful reminder of how easily a row of buildings gets read as a city.",
+     "w": "Published in Levant, 2020"
+    },
+    {
+     "n": "The offshore scatter",
+     "p": "Roman to Early Byzantine",
+     "t": "A broad spread of ancient material on the seabed off the bay, reported as covering some 130,000 square metres. Whether it is a single large wreck or an anchorage littered with jettisoned and lost cargo is not settled.",
+     "w": "Submerged, off Dreamer's Bay"
+    }
+   ],
+   "sources": [
+    "https://le.ac.uk/archaeology/research/big-antiquity/ancient-akrotiri-project-cyprus",
+    "https://www.tandfonline.com/doi/full/10.1080/00758914.2021.1887647",
+    "https://www.archaeology.wiki/blog/2018/06/08/akrotiri-dreamers-bay-one-of-the-best-preserved-ports-in-the-mediterranean/",
+    "https://honorfrostfoundation.org/2019/07/04/akrotiri-cyprus/",
+    "https://en.wikipedia.org/wiki/Dreamer%27s_Bay"
+   ]
+  },
+  {
+   "id": "pyla_koutsopetria",
+   "name": "Pyla-Koutsopetria",
+   "modern": "Pyla, Larnaca district",
+   "lon": 33.707,
+   "lat": 34.981,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -750,
+     700
+    ],
+    [
+     1500,
+     1800
+    ]
+   ],
+   "desc": "A hundred-hectare stretch of coast about 10 km east of Larnaca and much the same distance from ancient Kition, surveyed intensively since 2003 by William Caraher, R. Scott Moore and David Pettegrew. The ground carries an Iron Age sanctuary, a Classical and Hellenistic fortification on the Vigla ridge, a Late Roman town beside a bay that has since silted solid, and a coastal battery of the Venetian or Ottoman period. Its interest is method as much as material: the project published its survey data openly through Open Context, and it puts on the map a substantial Cypriot coastal settlement that no ancient author names.",
+   "finds": [
+    {
+     "n": "The fortification on the Vigla ridge",
+     "p": "Classical to Hellenistic",
+     "t": "Defensive walls excavated on the coastal ridge, the second time in a thousand years that people fortified this bay after Late Bronze Age Kokkinokremos a short way west. The repetition suggests the embayment itself was the strategic asset.",
+     "w": "In situ, Pyla"
+    },
+    {
+     "n": "The infilled harbour",
+     "p": "Iron Age to Late Roman",
+     "t": "Geomorphological work identified a natural bay behind the present beach, now completely filled in, which would have served as the harbour for everyone living in the Pyla area.",
+     "w": "Beneath the coastal plain, Pyla"
+    },
+    {
+     "n": "The Late Roman town",
+     "p": "4th to 7th century CE",
+     "t": "A dense spread of building material, tile and pottery marking a substantial settlement that was the largest phase of occupation on the site. Only a small part has been excavated; almost everything known comes from survey.",
+     "w": "In situ, Pyla"
+    },
+    {
+     "n": "The Late Roman amphora scatter",
+     "p": "5th to 7th century CE",
+     "t": "Quantities of Late Roman 1 amphora sherds, the standard Cypriot and Cilician wine and oil jar of the period, showing the place was shipping out as well as consuming.",
+     "w": "Study collection; data published on Open Context"
+    },
+    {
+     "n": "The Iron Age sanctuary material",
+     "p": "8th to 6th century BCE",
+     "t": "Votive terracottas and other sanctuary debris from the earliest phase of the microregion, the beginning of a sequence that runs almost unbroken to the seventh century CE.",
+     "w": "Larnaca District Museum; study collection"
+    },
+    {
+     "n": "The coastal battery",
+     "p": "Venetian to Ottoman",
+     "t": "A small gun position beside the shore, the last military use of a bay that had been fortified twice already in antiquity.",
+     "w": "In situ, Pyla"
+    }
+   ],
+   "sources": [
+    "https://opencontext.org/projects/3F6DCD13-A476-488E-ED10-47D25513FCB2",
+    "https://bmcr.brynmawr.edu/2016/2016.02.39/",
+    "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Crete-Cyprus/Koutsopetria-Caraher2008.pdf",
+    "https://mediterraneanworld.wordpress.com/category/pyla-koutsopetria-archaeological-project/",
+    "https://pleiades.stoa.org/places/707550"
+   ]
+  },
+  {
+   "id": "kopetra",
+   "name": "Kalavasos-Kopetra",
+   "modern": "Kalavasos, Larnaca district",
+   "lon": 33.312,
+   "lat": 34.749,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     350,
+     700
+    ]
+   ],
+   "desc": "The most thoroughly published Late Roman village on Cyprus, dug in the Vasilikos valley by Marcus Rautman and Murray McClellan and published in 2003. Three basilicas of the sixth and early seventh centuries stood in a settlement of a few hundred people, along with houses, storerooms and pressing installations. Its pottery, tested by neutron activation, was mostly made from the valley's own clays, while the amphora kilns at Zygi-Petrini a few kilometres away were turning out the standard export jar of the eastern Mediterranean. Kopetra matters because it shows the Cypriot countryside was not a backwater but wired into the economy of the late empire.",
+   "finds": [
+    {
+     "n": "The three basilicas",
+     "p": "6th to early 7th century CE",
+     "t": "Three churches for one modest village, all elaborately decorated, in the excavation areas the team called Kopetra, Sirmata and Spilios. Nobody has a wholly satisfying explanation for why a settlement this size needed three.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "Presses and storerooms",
+     "p": "6th to 7th century CE",
+     "t": "Pressing installations and storage rooms for oil and wine, the machinery of the surplus that paid for the churches.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "Village houses",
+     "p": "5th to 7th century CE",
+     "t": "Rubble-built rooms and courtyards of ordinary domestic use, the sort of evidence that almost never gets published in full for a Cypriot rural site.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "The neutron-activated pottery",
+     "p": "5th to 7th century CE",
+     "t": "Neutron activation analysis of the coarse and cooking wares matched most of them to clays from the Vasilikos valley itself, while the fine wares and amphorae came in from further afield. It is one of the earliest applications of the technique to a Cypriot rural assemblage.",
+     "w": "Study collection; published 2003"
+    },
+    {
+     "n": "The coin sequence",
+     "p": "4th to early 7th century CE",
+     "t": "Coins running from the fourth century and stopping early in the seventh, which is how the village's end is dated. The same terminal date turns up at Maroni-Petrera and across the south coast.",
+     "w": "Study collection; Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://journalofromanarchaeology.com/wp-content/uploads/2020/07/v5_18-Rautman.pdf",
+    "https://catalog.hathitrust.org/Record/003854846",
+    "https://www.researchgate.net/publication/236850307_Neutron_activation_analysis_of_Late_Roman_ceramics_from_Kalavasos-Kopetra_and_the_environs_of_the_Vasilikos_valley",
+    "https://ajaonline.org/book-review/422/",
+    "https://pleiades.stoa.org/places/707544"
+   ]
+  },
+  {
+   "id": "maroni_petrera",
+   "name": "Maroni-Petrera",
+   "modern": "Maroni, Larnaca district",
+   "lon": 33.362,
+   "lat": 34.747,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     400,
+     650
+    ]
+   ],
+   "desc": "A small rural church a little inland from the south coast, in what was probably the territory of Amathus. A bulldozer went through it in 1991, and Sturt Manning's Maroni Valley survey recorded and salvaged what was left between 1990 and 1997. Two churches were found, one succeeding the other on the same spot: a nearly square building of the early to mid fifth century, replaced around 500 by a larger one with a polygonal apse. Modest as it is, it is one of the very few rural churches on the island to have been properly excavated and published.",
+   "finds": [
+    {
+     "n": "The first church",
+     "p": "Early to mid 5th century CE",
+     "t": "An almost square church with large apses projecting from the east wall. The publication describes it as three-aisled, but its original arrangement seems to have been twin-aisled, which would be unusual in Early Christian architecture on Cyprus and has not been explained.",
+     "w": "In situ, Maroni"
+    },
+    {
+     "n": "The second church",
+     "p": "c. 500 CE",
+     "t": "A larger three-aisled replacement with an apse polygonal on the outside, a surprisingly deep narthex later subdivided, and a separate chapel alongside. Both the external polygonal apse and the deep narthex are uncommon on the island.",
+     "w": "In situ, Maroni"
+    },
+    {
+     "n": "The burial in the apse",
+     "p": "6th to 7th century CE",
+     "t": "One of several graves at the site, this one inside the apse itself, the most honoured position in a church and normally reserved for a founder or a cleric.",
+     "w": "In situ, Maroni"
+    },
+    {
+     "n": "Roof tiles with embossed decoration",
+     "p": "5th to 7th century CE",
+     "t": "Tiles stamped with raised patterns, part of an assemblage of worked stone, glass and metal that lets the church be dated and its building materials sourced.",
+     "w": "Study collection; Larnaca District Museum"
+    },
+    {
+     "n": "The cistern",
+     "p": "Late Roman",
+     "t": "A cut and lined cistern beside the church, with a nearby building of uncertain function that produced the same range of dates.",
+     "w": "In situ, Maroni"
+    },
+    {
+     "n": "The terminal coins",
+     "p": "Early to mid 7th century CE",
+     "t": "Coins of the first half of the seventh century are the latest things on the site, putting its abandonment in the generation of the Arab raids.",
+     "w": "Study collection; published 2002"
+    }
+   ],
+   "sources": [
+    "https://ajaonline.org/book-review/422/",
+    "https://archive.org/details/lateromanchurcha0000mann",
+    "https://www.worldcat.org/title/late-roman-church-at-maroni-petrera-survey-and-salvage-excavations-1990-1997-and-other-traces-of-roman-remains-in-the-lower-maroni-valley-cyprus/oclc/52303510",
+    "https://www.ancientcyprus.com/sites/maroni",
+    "https://pleiades.stoa.org/places/707608"
+   ]
+  },
+  {
+   "id": "ematousa",
+   "name": "Panayia Ematousa",
+   "modern": "Aradippou, Larnaca district",
+   "lon": 33.566,
+   "lat": 34.961,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -600,
+     700
+    ]
+   ],
+   "desc": "A rural site beside the chapel of Panayia Ematousa north of Aradippou, excavated by the University of Copenhagen between 1991 and 1999 as part of the teaching programme in classical archaeology and published in two volumes by the Danish Institute at Athens. Four periods of activity were found: Archaic to Early Classical, Hellenistic, Early Roman and Late Roman. Almost everything known about Hellenistic and Early Roman Cyprus comes from cities, so a farming settlement of those centuries dug and published in full is out of proportion to its size in importance.",
+   "finds": [
+    {
+     "n": "The four activity horizons",
+     "p": "Archaic to Late Roman",
+     "t": "Four distinct phases of use separated in the stratigraphy, running from the Archaic and Early Classical periods through the Hellenistic and Early Roman to a Late Roman occupation. The sequence, not any single object, is what the site is famous for.",
+     "w": "In situ, Aradippou"
+    },
+    {
+     "n": "Hellenistic and Early Roman fine wares",
+     "p": "3rd century BCE to 2nd century CE",
+     "t": "Imported table pottery studied by John Lund, which shows which Mediterranean markets an ordinary Cypriot farming household was tied into, and when those ties shifted.",
+     "w": "Larnaca District Museum; study collection"
+    },
+    {
+     "n": "Household equipment",
+     "p": "Hellenistic to Late Roman",
+     "t": "Querns, stone tools, cooking pots and loomweights: the ordinary furniture of rural life, and the reason the excavation can say something about work rather than just about dates.",
+     "w": "Larnaca District Museum; study collection"
+    },
+    {
+     "n": "The Late Roman phase",
+     "p": "4th to 7th century CE",
+     "t": "The final occupation, contemporary with Kopetra, Maroni-Petrera and Pyla-Koutsopetria, and part of the same picture of a countryside busier in late antiquity than at any time since the Bronze Age.",
+     "w": "In situ, Aradippou"
+    },
+    {
+     "n": "The chapel of Panayia Ematousa",
+     "p": "Medieval and later",
+     "t": "The small church that gives the site its name and still stands beside it; the excavation trenches lie in the fields around it.",
+     "w": "In situ, Aradippou"
+    }
+   ],
+   "sources": [
+    "https://www.academia.edu/1994676/Panayia_Ematousa_A_rural_site_in_south_eastern_Cyprus",
+    "https://www.academia.edu/55559996/Third_preliminary_report_of_the_Danish_archaeological_excavations_at_Panayia_Ematousa_Aradippou_Cyprus",
+    "https://www.academia.edu/35369661/Lund_J_2006_Ceramic_fine_wares_from_the_4th_century_BC_to_the_7th_century_AD_in_Wriedt_S%C3%B8rensen_L_and_Winther_Jacobsen_K_eds_Panayia_Ematousa_I_A_rural_site_in_south_eastern_Cyprus_Monographs_of_the_Danish_Institute_at_Athens_6_1_Athens_182_230"
+   ]
+  },
+  {
+   "id": "aphendrika",
+   "name": "Aphendrika (Ourania)",
+   "modern": "Afendrika, north-east of Rizokarpaso",
+   "lon": 34.441,
+   "lat": 35.648,
+   "lab": "r",
+   "type": "city",
+   "ranges": [
+    [
+     -550,
+     1400
+    ]
+   ],
+   "desc": "Strabo names Ourania among the towns of the Karpas, and in 306 BCE the troops of Demetrius Poliorcetes landed at neighbouring Karpasia and took both towns before marching on Salamis. What a visitor sees now is later: three ruined churches in a row, a citadel cut into the living rock on the hill behind, rock-cut tombs, and the silted harbour below. Nothing at Aphendrika has been excavated to modern standards, which is why the dates given for its churches vary widely from one account to the next, and it sits in the occupied north with no prospect of work soon.",
+   "finds": [
+    {
+     "n": "Panagia Chrysiotissa",
+     "p": "Byzantine, with a later chapel inserted",
+     "t": "The largest of the three churches, a ruined basilica into which a smaller vaulted chapel was later built, a common Cypriot economy when a congregation shrank.",
+     "w": "In situ, Afendrika"
+    },
+    {
+     "n": "Panagia Asomatos",
+     "p": "Byzantine",
+     "t": "A domed church of ashlar masonry standing next to the Chrysiotissa, with its vaults partly intact.",
+     "w": "In situ, Afendrika"
+    },
+    {
+     "n": "Panagia Aphendrika",
+     "p": "Byzantine",
+     "t": "The third and smallest of the group, which gave the whole site its modern name. The three standing side by side are the reason the place is visited at all.",
+     "w": "In situ, Afendrika"
+    },
+    {
+     "n": "The rock-cut citadel",
+     "p": "Hellenistic and Roman",
+     "t": "A fortified outcrop behind the churches with chambers, stairs and cisterns cut into the rock itself, the most likely core of the ancient town.",
+     "w": "In situ, Afendrika"
+    },
+    {
+     "n": "Rock-cut tombs",
+     "p": "Classical to Roman",
+     "t": "Chamber tombs cut into the rock around the site, the necropolis of Ourania. They have been robbed repeatedly and never recorded properly.",
+     "w": "In situ, Afendrika"
+    },
+    {
+     "n": "The harbour",
+     "p": "Hellenistic and Roman",
+     "t": "A small anchorage below the site, now largely silted, of the same family as the harbour moles still visible at Karpasia a few kilometres west.",
+     "w": "In situ and submerged, Afendrika"
+    }
+   ],
+   "sources": [
+    "https://pleiades.stoa.org/places/707594",
+    "https://en.wikipedia.org/wiki/Karpasia_(town)",
+    "https://topostext.org/place/356344UOur"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "neapaphos",
+   "finds": [
+    {
+     "n": "House of Orpheus mosaics",
+     "p": "3rd century CE",
+     "t": "A villa west of the Villa of Theseus with three mythological floors: Orpheus playing to the beasts, Hercules and the Nemean lion, and an Amazon with her horse. Excavated in the 1980s and still not open to visitors.",
+     "w": "In situ, Paphos Archaeological Park (closed to the public)"
+    },
+    {
+     "n": "The Hellenistic House",
+     "p": "3rd century BCE to mid 2nd century CE",
+     "t": "A large courtyard house south of the Villa of Theseus with four courts, one a peristyle garden with Corinthian and Ionic porticoes. It was divided into two dwellings around 100 CE and brought down by an earthquake in the middle of the second century, one of several shocks the city absorbed between the disasters of 15 BCE and 365 CE.",
+     "w": "In situ, Paphos Archaeological Park"
+    },
+    {
+     "n": "The Asklepieion",
+     "p": "2nd century CE",
+     "t": "The city's healing sanctuary, immediately beside the Odeon and the agora, so that the sick, the market and the concerts shared one civic centre.",
+     "w": "In situ, Paphos Archaeological Park"
+    },
+    {
+     "n": "Coins of the Koinon Kyprion",
+     "p": "1st to 2nd century CE",
+     "t": "Bronze coins struck for the league of the island's cities, whose reverses show the temple of Aphrodite at Palaepaphos with the conical stone standing inside it. The league ran the imperial cult, voted honours and set up statues of deified emperors, and it is the nearest thing Roman Cyprus had to a native government. Which city struck the coins is not certain.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "The milestones of the Paphos roads",
+     "p": "1st to 3rd century CE",
+     "t": "Thirty Roman milestones have been recorded on Cyprus, most of them in the hills, and they fall into phases: new roads under Augustus and Titus, civic repairs under the Severans, then old stones re-cut for propaganda. The Peutinger Table shows the island squashed flat and gives almost no road detail, so the stones are the real evidence.",
+     "w": "Cyprus Museum, Nicosia; Paphos District Archaeological Museum; several in situ"
+    }
+   ]
+  },
+  {
+   "id": "kourion",
+   "finds": [
+    {
+     "n": "The East aqueduct",
+     "p": "2nd century CE",
+     "t": "A conduit running some 22 km from a spring near Souni and crossing a 60 m bridge to reach the city, one of two aqueducts built as Kourion outgrew its rainwater cisterns.",
+     "w": "In situ, fragments between Souni and Kourion"
+    },
+    {
+     "n": "The rock-cut cistern in the agora",
+     "p": "2nd century CE",
+     "t": "A large colonnaded reservoir cut into the bedrock of the agora, part of the same programme as the aqueducts. Water, not marble, was the expensive part of building a Roman city on a dry limestone bluff.",
+     "w": "In situ, Kourion"
+    },
+    {
+     "n": "The forum",
+     "p": "2nd century CE",
+     "t": "The civic square formalised in the second century with long colonnaded stoas on its north, west and south sides, the setting for the inscriptions that name Kourion's proconsuls.",
+     "w": "In situ, Kourion"
+    },
+    {
+     "n": "House of the Apsed Triclinium",
+     "p": "Late 3rd century CE",
+     "t": "A large house built in the same generation as the House of the Gladiators, with an apsed dining room and mosaic floors. Both were standing when the earthquake struck.",
+     "w": "In situ, Kourion"
+    },
+    {
+     "n": "The theatre's beast arena",
+     "p": "c. 214-217 CE",
+     "t": "Under Caracalla the Greek theatre was rebuilt so that wild beast hunts could be staged in it, with the lower seats removed and a barrier put up. Later in the same century it was turned back into a theatre, a rare case of a Roman city changing its mind about blood sports.",
+     "w": "In situ, Kourion"
+    }
+   ]
+  },
+  {
+   "id": "salamis",
+   "finds": [
+    {
+     "n": "The forty-four seat latrine",
+     "p": "2nd century CE",
+     "t": "A semicircular public latrine off the gymnasium court with places for forty-four people at once, its flushing channels, water tanks and stone armrests still in place. It is the best preserved latrine in the eastern Mediterranean and says more about Roman daily life than any statue on the site.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "The agora and the temple of Zeus Olympios",
+     "p": "1st to 2nd century CE",
+     "t": "A colonnaded square 230 m by 55 m, among the largest in the Roman world, with the temple of Zeus Olympios on a podium about 28 m by 22 m at its southern end carrying twelve free-standing columns. One marble capital from it is carved with winged bulls in a manner that looks back to Achaemenid Persia.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "Mosaics of the Roman baths",
+     "p": "3rd to 4th century CE",
+     "t": "Floors and wall mosaics in the bath block behind the palaestra, including Leda with the swan and the river god Eurotas, and a fight between men and Amazons, with patches of painted plaster surviving beside them.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "The mismatched columns of the palaestra",
+     "p": "Rebuilt 2nd century CE and later",
+     "t": "The colonnade around the gymnasium court is made of columns of different sizes and stones, several of them lifted from the theatre during repairs after the earthquakes. The seam in the architecture is the clearest visible trace of the disasters.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "The Vouta cistern",
+     "p": "7th century CE",
+     "t": "A vaulted reservoir carried on thirty-six square pillars, fed by the aqueduct that brought spring water some 45 km from Kythrea. Built in the last years before the Arab raids, it is the final large public work of the ancient city.",
+     "w": "In situ, Salamis"
+    }
+   ]
+  },
+  {
+   "id": "amathus",
+   "finds": [
+    {
+     "n": "The Hellenistic collapse and the Antonine revival",
+     "p": "3rd century BCE to 2nd century CE",
+     "t": "Under the Ptolemies Amathus lost out to Paphos: the harbour silted, the acropolis was largely abandoned and the city shrank. It was rebuilt in the second century CE, when the gates, fountains, nymphaea and agora were all renewed. The stratigraphy of that gap is the clearest thing on the site.",
+     "w": "In situ, Amathus"
+    },
+    {
+     "n": "The basilica of St Tychon",
+     "p": "5th century CE onwards",
+     "t": "Amathus became a bishopric, and its most famous bishop, Tychon, gave his name to the modern village of Agios Tychonas beside the ruins. The church built at his tomb was one of a cluster of basilicas that mark the city's Christian centuries.",
+     "w": "In situ, Agios Tychonas"
+    },
+    {
+     "n": "The Roman copper of Amathus",
+     "p": "1st to 3rd century CE",
+     "t": "Amathus was one of only three cities, with Tamassos and Soli, still named as producing copper under Rome. The slag from its workings lies as much as 3 km from the mines, so ore was hauled to the fuel.",
+     "w": "In situ, the hills north of Amathus"
+    },
+    {
+     "n": "The quarrying of the ruins",
+     "p": "12th to 19th century",
+     "t": "Amathus was already almost deserted when Richard I took the island in 1191, and its cut stone went into the buildings of Limassol and, in 1869, into the works of the Suez Canal. A large part of the city is not lost but relocated.",
+     "w": "Dispersed; some blocks reused in Limassol"
+    }
+   ]
+  },
+  {
+   "id": "soli",
+   "finds": [
+    {
+     "n": "The inscription of the proconsul Paulus",
+     "p": "1st century CE, or later",
+     "t": "An inscription found at Soli in 1887 naming a proconsul called Paulus, long taken as the Sergius Paulus who heard Paul at Paphos in Acts 13. D. G. Hogarth dated it to the first century; Terence Mitford argued on epigraphic grounds that it is considerably later, and the identification remains open.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The copper of Soli's territory",
+     "p": "Bronze Age to Roman",
+     "t": "The Skouriotissa mines lay in Soli's hinterland, and Soli was one of three Cypriot cities still named as producing copper under Rome. The city's wealth and its position on Morphou bay both come from the ore behind it.",
+     "w": "In situ, Skouriotissa and Katydata"
+    },
+    {
+     "n": "The see of St Auxibios",
+     "p": "1st century CE by tradition; basilica 4th to 6th century",
+     "t": "Cypriot tradition makes Auxibios the first bishop of Soli, ordained in the generation of Barnabas and Mark, and the great basilica on the site is usually identified as his church. The tradition rests on a Life written centuries later and cannot be checked.",
+     "w": "In situ, Soli"
+    }
+   ]
+  },
+  {
+   "id": "limassol",
+   "finds": [
+    {
+     "n": "The town under the town",
+     "p": "5th to 12th century",
+     "t": "Almost nothing of Limassol's Late Roman and Byzantine beginnings has been excavated, because the ancient settlement lies directly under the modern city centre. What is known comes from rescue work on building plots, and there is no excavated urban core to visit.",
+     "w": "Beneath the old town of Limassol"
+    },
+    {
+     "n": "The inheritance of Amathus and Kourion",
+     "p": "c. 650-700 CE",
+     "t": "Both of the district's ancient cities failed within a couple of generations, Kourion after the earthquakes and Amathus after the Arab raids, and their people moved to the small town between them. Limassol's rise is not a founding but a consolidation.",
+     "w": "Settlement pattern, Limassol district"
+    },
+    {
+     "n": "Limassol District Archaeological Museum",
+     "p": "Present building opened 1975",
+     "t": "The district's collection, running from the Neolithic to the Roman period, and the place where much of the material from Amathus, Kourion and the Vasilikos valley sites is kept.",
+     "w": "Limassol"
+    }
+   ]
+  },
+  {
+   "id": "famagusta",
+   "finds": [
+    {
+     "n": "Arsinoe of the Ptolemies",
+     "p": "c. 274 BCE onwards",
+     "t": "Ptolemy II founded a town called Arsinoe here, one of several he named for his sister and wife Arsinoe II, and it lived quietly in the shadow of Salamis for nine hundred years. Practically none of it has been excavated: it lies under the medieval walled city, and Famagusta's ancient phase is known almost entirely from texts.",
+     "w": "Beneath the walled city, Famagusta"
+    },
+    {
+     "n": "Ancient stone in the medieval city",
+     "p": "Reused 13th to 16th century",
+     "t": "Granite and marble columns and cut blocks from Salamis and from Arsinoe itself were carried into Famagusta's churches, palace and walls. The Venetian Palace front stands on columns from Salamis, so the ancient city is visible in the medieval one.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "The natural harbour",
+     "p": "Hellenistic to modern",
+     "t": "The reef-sheltered anchorage that made Arsinoe worth founding is the same basin that made Famagusta the richest port in Christendom after 1291 and is still the harbour today. Salamis, 6 km north, lost its harbour to silt; this one never silted.",
+     "w": "In use, Famagusta"
+    }
+   ]
+  },
+  {
+   "id": "marion",
+   "finds": [
+    {
+     "n": "Arsinoe of the north-west",
+     "p": "c. 270 BCE onwards",
+     "t": "After Ptolemy I destroyed Marion in 312 BCE and moved its people to Paphos, Ptolemy II refounded the place as Arsinoe, one of the string of towns he named for Arsinoe II. The new name stuck for a thousand years, and Byzantine sources still use it.",
+     "w": "Beneath Polis Chrysochous"
+    },
+    {
+     "n": "The Hellenistic and Roman town quarters",
+     "p": "3rd century BCE to 7th century CE",
+     "t": "Princeton University's excavations between 1983 and 2007 found streets, houses and workshops of the Hellenistic to Late Roman town under the modern streets of Polis. Digging a living town in small plots is slow, and the plan is still patchy.",
+     "w": "In situ, Polis Chrysochous"
+    },
+    {
+     "n": "Hellenistic and Roman burials",
+     "p": "3rd century BCE to 4th century CE",
+     "t": "The cemeteries that produced the famous Classical Attic pottery stayed in use for centuries afterwards, yielding mould-made bowls, glass and lamps of the Ptolemaic and Roman periods. These later graves attracted far less nineteenth-century looting than the painted vases did.",
+     "w": "Local Museum of Marion-Arsinoe, Polis Chrysochous"
+    }
+   ]
+  },
+  {
+   "id": "karpasia",
+   "finds": [
+    {
+     "n": "Stone houses of Phoenician technique",
+     "p": "7th to 4th century BCE",
+     "t": "The town's masonry and house plans show Phoenician influence, and tradition made Pygmalion of Tyre its founder. Its first appearance in a text is in 399 BCE, and in 306 BCE the army of Demetrius Poliorcetes landed here and took Karpasia and neighbouring Ourania before marching on Salamis.",
+     "w": "In situ, Ayios Philon"
+    },
+    {
+     "n": "Philo of Carpasia",
+     "p": "4th century CE",
+     "t": "The town's first known bishop, whose commentary on the Song of Songs survives and is the earliest Cypriot biblical commentary we have. The basilica beside the harbour carries his name, and a later bishop, Hermolaus, sat at the Council of Chalcedon in 451.",
+     "w": "Manuscripts in European libraries; church in situ at Ayios Philon"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "hellenistic",
+   "events": [
+    [
+     -306,
+     "Demetrius lands at Karpasia and takes it and Ourania before marching on Salamis"
+    ],
+    [
+     -274,
+     "Ptolemy II plants cities named Arsinoe, among them the ancestor of Famagusta and the refounded Marion"
+    ],
+    [
+     -225,
+     "Onesagoras the barber begins dedicating inscribed jars to the Nymph at Kafizin, the last dated use of the Cypriot syllabary"
+    ],
+    [
+     -217,
+     "Pelops son of Pelops, the first strategos securely attested by inscriptions, governs from Salamis"
+    ],
+    [
+     -80,
+     "Building begins on Yeronisos island off Cape Drepanon, a sanctuary of Apollo and a lookout in the last Ptolemaic years"
+    ]
+   ]
+  },
+  {
+   "id": "roman",
+   "events": [
+    [
+     47,
+     "Sergius Paulus, the proconsul who heard Paul at Paphos, is next recorded at Rome as a curator of the Tiber's banks"
+    ],
+    [
+     77,
+     "An earthquake and its wave wreck Salamis and Paphos; Trajan and Hadrian pay for the new gymnasium and baths at Salamis"
+    ],
+    [
+     80,
+     "Milestones record the coastal and mountain roads laid out under Augustus and Titus"
+    ],
+    [
+     100,
+     "The koinon of the Cypriot cities strikes its own bronze coinage and takes charge of the imperial cult"
+    ],
+    [
+     214,
+     "Caracalla's builders convert the Kourion theatre for wild beast shows"
+    ],
+    [
+     360,
+     "An earthquake brings down the warehouses at Dreamer's Bay on Akrotiri, five years before the shock that ends Kourion"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "ptolemies",
+   "rulers": [
+    {
+     "n": "Ptolemy of Cyprus",
+     "d": "c. 80-58 BCE",
+     "t": "Last Ptolemaic king of Cyprus; offered the priesthood of Aphrodite at Paphos by Cato in exchange for his kingdom, he took poison instead."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "COORDINATES, verified: Agios Georgios-Pegeia is the OSM position of Basilica A (34.9018, 32.3213), which agrees with Pleiades' Cape Drepanon point (707503). Yeronisos is the OSM islet way (34.8994, 32.3117). Katalymata ton Plakoton is Vici.org's surveyed point, stated accuracy 0-5 m. Dreamer's Bay is the Wikipedia geo (34.5687, 32.9659). Pyla-Koutsopetria is Pleiades 707550 via DARE, stated accuracy 10 m. Aphendrika is Pleiades 707594 (Ourania) via DARE and matches three OSM ruin nodes for the churches (Panayia Afentrika 35.64799/34.44108, Asomatos 35.64718/34.44129, a third tagged simply Aphendrika 35.64701/34.44098).",
+  "COORDINATES, weaker: Kopetra (33.312, 34.749) and Maroni-Petrera (33.362, 34.747) come from Pleiades 707544 and 707608, both DARMC points with a stated accuracy of 10 km. They plot in the right valleys and near the right villages, so they are usable at map scale, but they are not survey-grade and should not be trusted to 3 decimals. Panayia Ematousa (33.566, 34.961) is the OSM position of the chapel that gives the site its name; the Danish trenches were in the fields around it, not under it. Skouriotissa (32.885, 35.091) is the Wikipedia village geo and stands for a mining district several kilometres across, not a single monument.",
+  "DROPPED, Tremithous / Tremetousia: verified as a real ancient city (Ptolemy and Stephanus of Byzantium name it; St Spyridon was its bishop at Nicaea in 325, and Theopompus, Theodore and George sat at later councils). But it is unexcavated, lies under Turkish Cypriot control, and its only visible monument is a medieval monastery of St Spyridon. Spyridon is already in the roman era events, so an entry would have been four sentences of texts and no material. Pleiades 707636 gives 33.6038, 35.0724 (10 km accuracy); the village node is 33.6086, 35.0846, if you ever want to add it.",
+  "DROPPED, Alassa-Ayia Mavri: this is a Late Bronze Age and Chalcolithic site in the Kouris valley, not a Hellenistic or Roman one. It belongs to whoever has the lba or chalco slice, not here.",
+  "DROPPED, Kornos-Petra and Kophinou-Kannaviou: I could not verify either as a Hellenistic or Roman site under those names. Kornos has a Neolithic cave and a modern pottery tradition; Kannaviou is a village in Paphos district, a long way from Kophinou in Larnaca district, and the pairing may be a garbled note. Worth re-checking against whatever source suggested them before anyone adds them.",
+  "FOLDED IN, Ayios Philon and Panayia Aphendrika: Ayios Philon is the church of the existing karpasia entry and needs no separate settlement; the atlas's karpasia coordinate (34.38, 35.6) agrees with Wikipedia's 34.3781, 35.5964, so leave it. Panayia Aphendrika is one of the three churches at Aphendrika and is included there as a find.",
+  "DISPUTED, the Alexander and Heraclius stele at Katalymata: this reading has circulated in conference talks and social media ahead of full publication. I have flagged it in the find text; if you would rather not carry an unpublished claim, delete that find and the entry still has five.",
+  "DISPUTED, Sergius Paulus: the Soli inscription of 1887 names a proconsul Paulus, and the equation with Acts 13 rests on Hogarth's first-century dating, which Mitford rejected on epigraphic grounds. The atlas already lists Sergius Paulus among the Roman rulers with 'according to Acts 13', which is the right level of confidence; the new soli find spells out the dispute.",
+  "DISPUTED, Maroni-Petrera's first church: the excavation report calls it three-aisled with protruding apses, while the summaries of its architectural significance stress an originally twin-aisled arrangement as the unusual feature. I have written the find to record both. Someone with the 2002 volume should settle it.",
+  "SHAKY, the Kafizin find locations: Mitford's material was excavated by the Department of Antiquities and published in 1980, and the Cyprus Museum is the expected home, but I could not confirm accession details for individual vessels. Same caution for the Yeronisos portable finds, which I have put in the Paphos District Archaeological Museum on the reasonable assumption that a Paphos-district excavation deposits there; a licensed dig's material can also sit in a site store.",
+  "SHAKY, the koinon coinage mint: the Koinon Kyprion bronzes with the Palaepaphos temple reverse are certain, and the temple type is the standard image of Aphrodite's Roman sanctuary. Which city struck them is not, and I have said so in the find text. If you want the Aphrodite-pilgrimage theme carried properly it belongs on palaepaphos as well as neapaphos, and palaepaphos was not in my brief.",
+  "SHAKY, the Roman Cyprus figures: the 240,000 dead in the Jewish revolt is Dio's number and should never be repeated as a count. The earthquake magnitudes floating around Roman Cyprus literature (9-10 for 76 CE, 10 for 342) are not credible on any modern scale and I have kept them out. The '10 per cent of the island inaccessible' figure for unexcavated Roman Cyprus is the one usually quoted for the buffer zone and base areas; the honest version of the theme is that no Roman city on Cyprus has been fully excavated, that Salamis and Soli have been closed to research since 1974, and that the rural sites in this file are almost the whole published sample for a countryside of thousands of settlements.",
+  "SCOPE, the Late Roman century: five of the eleven new sites (Agios Georgios-Pegeia, Katalymata, Kopetra, Maroni-Petrera, and the late phases of Pyla-Koutsopetria and Ematousa) run past 330 CE and will light up in the byzantine era as well as roman. That is right for them, but whoever writes the byzantine slice should check this file first so the same basilicas are not entered twice.",
+  "LIMASSOL: I have given it three finds as asked, but they are honest scaffolding rather than discoveries. Limassol has essentially no excavated Roman material, because the town is on top of it. Its real content belongs to the byzantine, lusignan and ottoman slices. The 1975 date for the museum building is the commonly given one and worth checking.",
+  "NOT USED but worth someone's time: Zygi-Petrini, the amphora kiln site a few kilometres from Kopetra that made Late Roman 1 jars, is mentioned in the Kopetra description but has too little published to carry its own entry. The Cyprus Museum's epigraphic collection would make a good find on the existing nicosia entry, which already has 'The Cyprus Museum' as a find and could take a second on the inscriptions; nicosia was not in my extra_finds list.",
+  "RECONCILED: kafizin was also proposed in 04-ironage.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: skouriotissa was also proposed in 08-ottoman-british-republic.json, which now carries the merged record. This file contributed its finds, ranges and sources to it."
+ ]
+}

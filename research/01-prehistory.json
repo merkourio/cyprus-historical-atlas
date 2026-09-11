@@ -1,0 +1,1075 @@
+{
+ "new_settlements": [
+  {
+   "id": "mylouthkia",
+   "name": "Kissonerga-Mylouthkia",
+   "modern": "Kissonerga, Paphos district, on the sea cliff",
+   "lon": 32.39,
+   "lat": 34.821,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     -8600,
+     -8200
+    ],
+    [
+     -7300,
+     -6800
+    ],
+    [
+     -3900,
+     -2700
+    ]
+   ],
+   "desc": "A coastal site eroding into the sea just south of Kissonerga, dug by Edgar Peltenburg's Lemba Archaeological Project between 1976 and 1996. Its earliest phase survives as almost nothing but wells: cylindrical shafts eight and seven metres deep, cut into bedrock with hand and footholds, among the oldest water wells known anywhere in the world. Nothing comparable is found on the Levantine mainland until much later, which suggests the settlers had to invent their own answer to a dry island. The wells were later filled with rubbish, animal carcasses and human bone, and that rubbish is now the richest single source we have for the first farmers of Cyprus.",
+   "finds": [
+    {
+     "n": "Well 116",
+     "p": "c. 8600–8200 BCE",
+     "t": "A cylindrical shaft at least 8 m deep cut into unweathered bedrock, with hand and footholds carved down the sides for climbing in and out. It is the only trace of the site's earliest occupation, and one of the two or three oldest water wells known from anywhere on earth. Specialists prefer 'among the earliest known' to 'the world's oldest', because the Cypriot wells and those at Shillourokambos overlap in date.",
+     "w": "In situ, backfilled; finds with the Department of Antiquities"
+    },
+    {
+     "n": "Fishhook of pig tusk",
+     "p": "c. 8500 BCE",
+     "t": "A hook cut from a slice of wild boar tusk, from the lowest fill of Well 116. It is the earliest fishing tackle known from Cyprus, and it came out of a well eight metres deep rather than off a beach.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Human remains from Well 133",
+     "p": "c. 7600–6800 BCE",
+     "t": "The jumbled bones of six people recovered from the fills of two wells. In 2024 a team led from Oxford sequenced their genomes and found that these early Cypriots drew roughly 80 per cent of their ancestry from Aceramic Neolithic central Anatolia, around the Konya plain, and the rest from a genetically basal Levantine population: the first direct evidence of where the colonists came from.",
+     "w": "Department of Antiquities; samples analysed at Oxford"
+    },
+    {
+     "n": "Bony growths in the ear canals",
+     "p": "c. 7600–6800 BCE",
+     "t": "Several of the Mylouthkia skeletons carry external auditory exostoses, knots of bone that form in the ear canal after repeated immersion in cold water. The condition is common in modern divers and swimmers, and here it is read as evidence that some of these villagers habitually worked in the sea.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Marine shell and fish bone from the wells",
+     "p": "c. 8600–6800 BCE",
+     "t": "Over 2,300 edible marine shells and hundreds of fish bones came out of the well fills, an unusually complete picture of a Neolithic coastal diet because the shafts were excavated and sieved with care.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Sheep and goat carcasses in Well 133",
+     "p": "c. 7300–6800 BCE",
+     "t": "Whole and partial bodies of caprines were dropped down the well when it went out of use. They include some of the earliest sheep and goats on the island, animals that can only have arrived by boat.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Andesite bowls and picrolite working",
+     "p": "Aceramic Neolithic",
+     "t": "Both wells produced stone vessels in quantity, hollowed from hard grey volcanic rock collected as river cobbles from the Troodos, together with debris from working picrolite, the blue-green stone of the Cypriot river beds.",
+     "w": "Paphos District Museum; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Copper hook",
+     "p": "c. 3500 BCE",
+     "t": "A small hammered copper hook from the site's later Chalcolithic levels, often cited as the earliest metal object excavated on Cyprus. The claim competes with the copper chisel from Erimi-Pamboula, and which is genuinely older is not settled.",
+     "w": "Department of Antiquities"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/kissonerga",
+    "https://www.nature.com/articles/s41598-024-60161-z",
+    "https://www.sciencedirect.com/science/article/abs/pii/S1879981720300310",
+    "https://archaeologydataservice.ac.uk/archives/view/mylouthkia_ba_2009/overview.cfm",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  },
+  {
+   "id": "ais_giorkis",
+   "name": "Kritou Marottou-Ais Giorkis",
+   "modern": "Near Kritou Marottou, Paphos district, in the western Troodos foothills",
+   "lon": 32.566,
+   "lat": 34.93,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -7700,
+     -7000
+    ]
+   ],
+   "desc": "The one early Neolithic settlement on Cyprus that is not on or near the coast. It sits in the hills about 25 km from the sea, and Alan Simmons of the University of Nevada dug it over campaigns from 1997 to 2018. Everything about it is awkward for the standard story: the architecture is unlike anything else on the island, the cattle bones are among the earliest directly dated domesticates anywhere in the Near East, and 982 marine shells were carried all the way up from the coast. It is the main reason the colonisation of Cyprus is no longer told as a story of coastal beachheads.",
+   "finds": [
+    {
+     "n": "Cobble platforms",
+     "p": "c. 7500 BCE",
+     "t": "Roughly circular platforms of packed river cobbles, several metres across, with pits and caches of blades around them. They are unparalleled on Cyprus. Foundations for dwellings is the least strained reading, but the excavators concede other uses cannot be excluded.",
+     "w": "In situ, Ais Giorkis"
+    },
+    {
+     "n": "Cattle bones",
+     "p": "c. 7500 BCE",
+     "t": "Some of the earliest directly dated domestic cattle in the Near East, at a site 25 km inland and 500 m up. Cattle then disappear from the Cypriot record for thousands of years, which suggests the first herds could not be sustained without fresh animals shipped from the mainland.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Charred cereals",
+     "p": "c. 7500 BCE",
+     "t": "Emmer, einkorn and barley, much of it in a partly processed state, together with plants that may have been medicinal. The archaeobotany showed island crops changing shape unusually fast, an accelerated evolution under isolation.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Vaisselle blanche",
+     "p": "Aceramic Neolithic",
+     "t": "Vessels moulded from lime plaster, a mainland technique that does what pottery does and predates the first Cypriot pots by well over two thousand years. Its presence here is one of the arguments that contact with the mainland never stopped.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Obsidian blades",
+     "p": "c. 7500 BCE",
+     "t": "Sixty-six pieces of Cappadocian obsidian, brought across open sea and then 25 km uphill. Small beside the four thousand from Akanthou, but a great deal for a hill farm.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Carnelian beads",
+     "p": "Aceramic Neolithic",
+     "t": "Two beads of orange-red carnelian, part of a group of only about fifty known from the whole island. Portable XRF shows at least two chemical groups, but the source, somewhere in Anatolia or the Caucasus, has still not been pinned down.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Marine and freshwater shells",
+     "p": "Aceramic Neolithic",
+     "t": "982 marine shells, 189 freshwater shells and nine fossils, catalogued by David Reese. The marine shells had to be carried some 25 km from the coast, which says something about how the uplands and the shore were used by the same people.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Feasting deposits",
+     "p": "Aceramic Neolithic",
+     "t": "Concentrations of animal bone and ground stone read as the debris of communal eating, alongside caches of unused blades. Feasting at an upland site raises the possibility that Ais Giorkis was a gathering place as much as a farm.",
+     "w": "In situ; finds with the Department of Antiquities"
+    }
+   ],
+   "sources": [
+    "https://journals.openedition.org/cchyp/1915",
+    "https://oasis.library.unlv.edu/anthro_fac_articles/406/",
+    "https://www.nsf.gov/awardsearch/showAward?AWD_ID=1220351",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  },
+  {
+   "id": "asprokremnos",
+   "name": "Ayia Varvara-Asprokremnos",
+   "modern": "Between Ayia Varvara and Mathiati, Nicosia district",
+   "lon": 33.353,
+   "lat": 34.979,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -8850,
+     -8550
+    ]
+   ],
+   "desc": "One of only two places on Cyprus as old as the Pre-Pottery Neolithic A of the mainland, and the odd one of the pair: not a village but a working camp in the eastern Troodos foothills, where people made stone tools and ground red ochre. Carole McCartney's Elaborating Early Neolithic Cyprus project dug 203 square metres over five seasons up to 2013. The suggestion that its pigment was being produced partly for export back to the Levant turns the usual picture around, with Cyprus supplying the mainland rather than only receiving from it.",
+   "finds": [
+    {
+     "n": "The oldest figurine on Cyprus",
+     "p": "c. 8600 BCE or earlier",
+     "t": "A small complete human figure of picrolite, found in 2013 in a group of igneous stone objects and announced by teams from Toronto, Cornell and the University of Cyprus. It is the earliest complete anthropomorphic figurine known from the island, older by two thousand years than the stone figures of Khirokitia.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Ochre grinding equipment",
+     "p": "c. 8700 BCE",
+     "t": "Flat stone tools found with the figurine, one of them thickly coated in red ochre residue, alongside worn blocks of the raw pigment. Ochre processing on this scale at so small a site is what prompted the idea that Asprokremnos was extracting a mineral commodity rather than simply farming.",
+     "w": "Cyprus Museum, Nicosia; Department of Antiquities"
+    },
+    {
+     "n": "Structure F300",
+     "p": "c. 8700 BCE",
+     "t": "A semi-subterranean building, the only substantial structure on the site. Everything else is hearths and thin camping traces, so the excavators read Asprokremnos as seasonal or periodic rather than a settled village.",
+     "w": "In situ, Asprokremnos"
+    },
+    {
+     "n": "Two incised shaft-straighteners",
+     "p": "c. 8700 BCE",
+     "t": "Grooved stones for straightening arrow shafts, both cut with lattice patterns. The same designs appear in the Early Neolithic of the Near Eastern mainland, early evidence that Cyprus and the Levant shared a set of symbols and not just a tool kit.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Wild boar bones",
+     "p": "c. 8700 BCE",
+     "t": "Hunted pigs supply about 95 per cent of the animal bone at Asprokremnos and Klimonas alike. These were the descendants of boar shipped over by the earlier Epipalaeolithic visitors, and for five centuries they were the only large game on the island.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Bladelet and microlith workshop debris",
+     "p": "c. 8700 BCE",
+     "t": "Large quantities of chipped stone waste showing on-site production of small blades and microliths, of a kind that ties the site to the mainland PPNA rather than to anything later on Cyprus.",
+     "w": "Department of Antiquities"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/ayia-varvara-asprokremnos",
+    "https://www.sci.news/archaeology/science-ayia-varvara-asprokremnos-01608.html",
+    "https://www.utoronto.ca/news/archaeologists-find-oldest-evidence-late-stone-age-settlement-cyprus",
+    "https://www.tandfonline.com/doi/full/10.1080/00758914.2021.1909869"
+   ]
+  },
+  {
+   "id": "akanthou",
+   "name": "Akanthou-Arkosykos",
+   "modern": "Tatlisu (Akanthou), north coast",
+   "lon": 33.757,
+   "lat": 35.38,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -8250,
+     -7700
+    ]
+   ],
+   "desc": "A ninth-millennium village on the north coast, and the place where Anatolian obsidian came ashore. Over four thousand pieces have been recorded here, more than every other Cypriot site put together, all of it finished bladelets from the Kömürcü-Kaletepe source in Cappadocia. Müge Sevketoglu ran rescue excavations from 2000 after building work began to destroy the site; less than five per cent of it has been dug. Its buildings had lime-plaster floors and painted plaster walls, and a broad ditch cut into bedrock runs across the excavated area.",
+   "finds": [
+    {
+     "n": "The obsidian assemblage",
+     "p": "c. 8200–7700 BCE",
+     "t": "More than four thousand pieces of Cappadocian obsidian, of which 3,600 have been catalogued. Over 95 per cent are finished bladelets, with almost no core waste, so the blades were made at the quarry in Anatolia and shipped across as a product. By comparison Shillourokambos has about 430 pieces, Ais Giorkis 42 and the Mylouthkia wells 8.",
+     "w": "Excavation stores, Cyprus International University; analysed at Tübingen"
+    },
+    {
+     "n": "Painted plaster walls and floors",
+     "p": "c. 8200–7700 BCE",
+     "t": "Six buildings of stone and mudbrick, round and rectilinear, with floors of fine lime plaster relaid many times over and fragments of painted wall plaster in the collapse layers. Making quicklime this early puts Akanthou alongside the great plaster-using sites of Anatolia and the Levant.",
+     "w": "In situ; samples with the excavation project"
+    },
+    {
+     "n": "The rock-cut ditch",
+     "p": "c. 8200–7700 BCE",
+     "t": "A wide ditch with vertical sides cut into bedrock, running east to west across the whole excavated trench, with the buildings and the plaster surface respecting its line. It filled slowly with erosion and rubbish after the village was abandoned, and one collapsing wall fell into it.",
+     "w": "In situ, Akanthou-Arkosykos"
+    },
+    {
+     "n": "Disarticulated human bone in the ditch fills",
+     "p": "c. 8200–7700 BCE",
+     "t": "Teeth, skull and jaw fragments, vertebrae and the small bones of hands and feet, several from children, scattered through the ditch deposits. These are exactly the parts left behind when a body is dug up and moved after the flesh has gone. No graves have been found anywhere on the site.",
+     "w": "Excavation stores"
+    },
+    {
+     "n": "Deep-water fish and sea turtles",
+     "p": "c. 8200–7700 BCE",
+     "t": "Hake, dogfish, shark and tunny alongside smaller inshore fish, plus the remains of ten complete loggerhead turtles. Catching tunny and shark means going out well beyond the shore.",
+     "w": "Excavation stores"
+    },
+    {
+     "n": "Incised picrolite cups",
+     "p": "c. 8200–7700 BCE",
+     "t": "Two small hollow cups of blue-green picrolite, under 3 cm long, cut with hatched lines. Near-identical pieces come from Shillourokambos. They have been read, imaginatively, as models of boats, which would make them the oldest pictures of a vessel in the Mediterranean; the reading is not widely accepted.",
+     "w": "Excavation stores, Cyprus International University"
+    },
+    {
+     "n": "Standardised mudbricks",
+     "p": "c. 8200–7700 BCE",
+     "t": "Bricks laid in regular courses, averaging 0.33 by 0.20 by 0.10 m and bonded with white plaster or gypsum mortar, so consistent in size that they suggest a standardised way of making them.",
+     "w": "In situ, Akanthou-Arkosykos"
+    },
+    {
+     "n": "The animal bones",
+     "p": "c. 8200–7700 BCE",
+     "t": "Fallow deer make up 45 per cent of the identified bones, sheep and goat 27 per cent and pig 17 per cent, while cattle amount to barely 2 per cent. The sheep and goats were killed young, as herders kill them; the deer were taken at all ages, as hunters take them.",
+     "w": "Excavation stores"
+    }
+   ],
+   "sources": [
+    "https://www.tandfonline.com/doi/abs/10.1179/1749631415Y.0000000018",
+    "https://www.researchgate.net/publication/282598691_Akanthou-_Arkosykos_a_ninth_Millenium_BC_coastal_settlement_in_Cyprus",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7",
+    "https://ciu.edu.tr/en/news/ciu-continuing-shed-light-historical-archaeology-cyprus"
+   ]
+  },
+  {
+   "id": "kastros",
+   "name": "Cape Andreas-Kastros",
+   "modern": "Zafer Burnu, tip of the Karpas peninsula",
+   "lon": 34.587,
+   "lat": 35.694,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     -6500,
+     -5500
+    ]
+   ],
+   "desc": "A fishing hamlet clinging to a ledge on the steep flank of a limestone headland at the very tip of the Karpas, halfway between the plateau above and the sea below, in a position so awkward that it can only have been chosen for the water. Alain Le Brun's French mission dug it in three seasons between 1970 and 1973; the 1974 war ended the work and the site has since been badly damaged. Of all the Neolithic settlements on Cyprus this is the one that comes closest to being a genuine fishing village.",
+   "finds": [
+    {
+     "n": "The small round houses",
+     "p": "c. 6500–5500 BCE",
+     "t": "Circular dwellings only 2.5 to 2.8 m across, with thin dry-stone walls, hearths inside and storage bins set at floor level, some grouped around shared courtyards. They are the smallest Neolithic houses known on the island, a third the diameter of the largest at Khirokitia.",
+     "w": "In situ, damaged"
+    },
+    {
+     "n": "The fish bones",
+     "p": "c. 6500–5500 BCE",
+     "t": "Nearly four thousand identified fish bones. Tuna alone accounts for 36.5 per cent of the assemblage, alongside grouper, sea bass, sea bream and mullet. Tuna are large, fast, migratory fish; taking them needs skilled crews and specialised tackle, not a line off the rocks.",
+     "w": "Study collections, France; Department of Antiquities"
+    },
+    {
+     "n": "Bone fishhooks and stone rings",
+     "p": "c. 6500–5500 BCE",
+     "t": "An array of hooks cut from bone together with perforated stone rings, generally taken for net sinkers. Together with the tuna they are the best direct evidence of Neolithic fishing gear from Cyprus.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Shells, crabs and sea urchins",
+     "p": "c. 6500–5500 BCE",
+     "t": "Over 4,500 marine invertebrate remains, mostly dove shell, topshell and limpet, with some 350 crab remains and sea urchins. The shore was the household larder as much as the fields were.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Drilled shells from a burial",
+     "p": "c. 6500–5500 BCE",
+     "t": "Four pierced shells and one dentalium found with a body, the only ornaments from a grave at the site. Dentalium in burials links Kastros to a mortuary habit that runs from the Natufian of the Levant right through the Neolithic.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Stone bowls and querns",
+     "p": "c. 6500–5500 BCE",
+     "t": "Shallow bowls and pots of local stone with grinding querns, the standard aceramic kit. Carbonised remains show einkorn, emmer and barley with lentils, and gathered wild pistachio, fig and olive, so this was a farming household as well as a fishing one.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Thirteen pieces of obsidian",
+     "p": "c. 6500–5500 BCE",
+     "t": "A tenth of what the earlier villages handled. Across the Late Aceramic Neolithic the whole island yields about 57 pieces, against some 4,500 in the preceding centuries, a tenfold collapse in the obsidian trade whose cause is still argued.",
+     "w": "Department of Antiquities"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kastros",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7",
+    "https://search.worldcat.org/title/cap-andreas-kastros-une-site-neolithique-preceramique-en-chypre/oclc/17919881",
+    "https://www.semanticscholar.org/paper/Osteometry-and-fishing-strategies-at-Cape-Andreas-Desse-Desse-Berset/e895bb10e51826fe649df867ecb4b32a9e9486d1"
+   ]
+  },
+  {
+   "id": "ortos",
+   "name": "Kholetria-Ortos",
+   "modern": "Kholetria, Paphos district, above the Xeros Potamos",
+   "lon": 32.585,
+   "lat": 34.769,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -6500,
+     -5500
+    ]
+   ],
+   "desc": "A large village of the Khirokitia culture on a vine-covered plateau above the lower Xeros Potamos, spotted by the Canadian archaeologist Bill Fox during the Palaipaphos survey in the 1980s and tested by Alan Simmons in 1993 and 1996. Ploughing has taken away the buildings, so Ortos is known almost entirely from pits and the material in the soil. Even so it ranks with Khirokitia and Kalavasos-Tenta among the larger settlements of its day, which is a warning about how many equally big villages have been quietly erased by farming.",
+   "finds": [
+    {
+     "n": "The Ortos Head",
+     "p": "c. 6000 BCE",
+     "t": "A fist-sized head of grey diabase, 8.5 cm high, with chiselled brows, a flat vertical nose and a jutting chin, and diagonal lines engraved for what looks like a braided hairstyle. It is broken off just below the chin and was once part of a larger figure. Found on the surface in 1988.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Engraved pebbles",
+     "p": "c. 6000 BCE",
+     "t": "Pebbles scored with grids of fine lines on one or both faces, matching examples from Khirokitia and from the earlier village at Shillourokambos. They have been read as pictures of fishing nets, as net weights, and as counters in a system of exchange; all three readings are still in play, and the same objects turn up in Levantine sites of the same date.",
+     "w": "Cyprus Museum, Nicosia; Department of Antiquities"
+    },
+    {
+     "n": "139 marine shells",
+     "p": "c. 6000 BCE",
+     "t": "Shells carried some 9 km inland from the coast, a reminder that even the hill villages of the Late Aceramic Neolithic kept a working relationship with the sea.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Two pieces of obsidian",
+     "p": "c. 6000 BCE",
+     "t": "Two, at a village of Khirokitia's size. Set beside the four thousand pieces at Akanthou a thousand years earlier, this is the clearest single measure of how far the Anatolian trade had fallen away.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Andesite and diabase vessels",
+     "p": "c. 6000 BCE",
+     "t": "Bowls, trays and basins hollowed from hard igneous rock, in a period with no pottery at all. The raw material is river cobble from the Troodos, and the Ortos Head is carved from the same diabase.",
+     "w": "Cyprus Museum, Nicosia; Department of Antiquities"
+    },
+    {
+     "n": "A village without architecture",
+     "p": "Excavated 1993 and 1996",
+     "t": "Simmons found pits, hearth bases and a dense artefact scatter, but no standing walls: the plough had gone through everything. The negative result is itself the find, and it is the reason Ortos is cited whenever anyone argues that the map of Neolithic Cyprus is badly incomplete.",
+     "w": "In situ, under vines"
+    }
+   ],
+   "sources": [
+    "https://www.cyprusexploration.com/history/archaeology/ortos/",
+    "https://www.researchgate.net/publication/338104364_Kholetria-Ortos_A_Khirokitia_Culture_Settlement_in_Paphos_District",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  },
+  {
+   "id": "kouphovounos",
+   "name": "Kantou-Kouphovounos",
+   "modern": "Kantou, Limassol district",
+   "lon": 32.903,
+   "lat": 34.694,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -4500,
+     -3900
+    ]
+   ],
+   "desc": "A Ceramic Neolithic village on a prominent hill 243 m above sea level on the west bank of the Kouris, about 5 km inland. It was the first Cypriot field project of the University of Athens, dug by Eleni Mantzourani from 1992 to 1999 and published in full in 2009 and 2019, which makes it one of the best documented villages of the Sotira culture. Its two floor burials are the only ones of their kind in the whole period.",
+   "finds": [
+    {
+     "n": "The burials under Building 15",
+     "p": "c. 4200 BCE",
+     "t": "Two pits cut into the floor of an apparently abandoned building held an adult man and a baby of about nine months. In the Aceramic Neolithic burying the dead under house floors was the rule; in the Ceramic Neolithic the dead were normally taken outside the village, and these two are the only known exceptions, which may say something about who they were.",
+     "w": "In situ, conserved; skeletal material with the University of Athens project"
+    },
+    {
+     "n": "The injured skull",
+     "p": "c. 4200 BCE",
+     "t": "The adult male has an oval depression measuring 1 by 2 cm above the right eye socket, consistent with a blow from a blunt object. It is very nearly the only trace of interpersonal violence from Neolithic Cyprus, though the excavators are reluctant to make it evidence of unrest in what otherwise looks like a thoroughly egalitarian society.",
+     "w": "Study collection, National and Kapodistrian University of Athens"
+    },
+    {
+     "n": "Marine shells at an inland village",
+     "p": "c. 4500–3900 BCE",
+     "t": "Thirty-five marine species, dominated by murex with over 120 fragments, cockle with 97 and oyster with 31, along with 23 crab fragments and two sea urchins. All of it was carried up from a coast 5 km away, and murex in that quantity raises the question of whether the shells were food, dye or ornament.",
+     "w": "Department of Antiquities; study collections, University of Athens"
+    },
+    {
+     "n": "Fifteen loose teeth",
+     "p": "c. 4200 BCE",
+     "t": "A group of teeth found north of Building 1 in the western sector, from at least one further adult. Scattered teeth without a grave are the usual signature of a body that has been dug up and moved, a practice better attested at Akanthou two thousand years earlier.",
+     "w": "Study collection, University of Athens"
+    },
+    {
+     "n": "Combed Ware and Red-on-White pottery",
+     "p": "c. 4500–3900 BCE",
+     "t": "The village lies in the southern zone where the combed style dominates, its red slip dragged into wavy bands with a multi-toothed tool, but it also holds painted Red-on-White of the sort commoner in the north and east.",
+     "w": "Limassol District Archaeological Museum; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Houses with rounded corners",
+     "p": "c. 4500–3900 BCE",
+     "t": "Free-standing single-roomed buildings, sub-rectangular with rounded corners, on stone footings under mudbrick, arranged along the summit and the western and southern slopes. The plan is close to Sotira-Teppes, one of several signs that the Ceramic Neolithic was culturally uniform even where its pottery was not.",
+     "w": "In situ, Kantou-Kouphovounos"
+    }
+   ],
+   "sources": [
+    "https://epub.lib.uoa.gr/index.php/aura/article/view/2210",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2352409X19305425",
+    "https://nccp.arch.uoa.gr/fileadmin/depts/arch.uoa.gr/nccp/uploads/document/Voskos___Vika_2020_-_Prehistoric_human_remains_reviewed__palaeopathology_and_palaeodiet_in_Neolithic_and_Chalcolithic_Cyprus__Limassol_district..pdf",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  },
+  {
+   "id": "nissia",
+   "name": "Paralimni-Nissia",
+   "modern": "Protaras, Famagusta district, on the shore",
+   "lon": 34.063,
+   "lat": 35.002,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -4600,
+     -3900
+    ]
+   ],
+   "desc": "A Ceramic Neolithic village on a low hillock right on the shore beside a natural harbour, excavated for the Department of Antiquities by Pavlos Flourentzos between 1995 and 2000. Around forty round and sub-rectangular houses stood on 3,250 square metres inside a horseshoe-shaped wall with two gates. If any Cypriot Neolithic site deserves to be called a fishing village it is this one, and yet three quarters of its meat came from hunted deer. An underwater survey published in 2025 has traced five drowned shorelines offshore, so how close to the water the village actually sat is now being reconsidered.",
+   "finds": [
+    {
+     "n": "The horseshoe enclosure wall",
+     "p": "c. 4500 BCE",
+     "t": "A curved wall around the settlement with a main gate and a second on the south side, an unusual piece of communal building for the Ceramic Neolithic, when most villages were simply clusters of free-standing houses.",
+     "w": "In situ, Paralimni-Nissia"
+    },
+    {
+     "n": "Forty houses at 30 cm depth",
+     "p": "c. 4600–3900 BCE",
+     "t": "Not more than forty circular and sub-rectangular buildings, exposed at a depth of only 20 to 30 cm around a central plateau. The shallowness is why the site was so easily found and is so vulnerable.",
+     "w": "In situ, Paralimni-Nissia"
+    },
+    {
+     "n": "Fish-shaped figurine",
+     "p": "c. 4500 BCE",
+     "t": "A small figure carved in the shape of a fish, among the most distinctive small finds from the site and a rarity in a period when figurine-making had largely stopped on Cyprus.",
+     "w": "Famagusta district collections, Department of Antiquities"
+    },
+    {
+     "n": "Stone fishhooks and grooved weights",
+     "p": "c. 4500 BCE",
+     "t": "Hooks cut from stone together with perforated and grooved stones described in the excavation report as loom weights. They are almost certainly net sinkers instead: the earliest genuine loom weights on Cyprus are a thousand years later.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Shell midden",
+     "p": "c. 4600–3900 BCE",
+     "t": "Sixteen mollusc species with over 950 individuals, but only nine fish bones from seven deposits and two crab claws. The imbalance is a reminder that flotation and water-sieving were not used consistently, and that fish are almost certainly under-counted.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Deer bones",
+     "p": "c. 4600–3900 BCE",
+     "t": "Some 77 per cent of the mammal bones are Mesopotamian fallow deer, which supplied roughly 90 per cent of the meat. A coastal village next to a harbour was living mainly by hunting an animal its ancestors had shipped to the island for exactly that purpose.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Five drowned shorelines",
+     "p": "Surveyed 2020s",
+     "t": "Bathymetric survey, geomorphology and diving off Nissia have identified five possible palaeocoastlines, published in 2025. The work matters beyond this one site: it offers a way of telling how far the Neolithic shore lay from villages that today sit at the water's edge.",
+     "w": "In situ, offshore Protaras"
+    }
+   ],
+   "sources": [
+    "https://www.cyprusisland.net/attractions/nissia-neolithic-settlement",
+    "https://www.tandfonline.com/doi/full/10.1080/10572414.2025.2525122",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  },
+  {
+   "id": "limniti",
+   "name": "Petra tou Limniti",
+   "modern": "Islet off Limnitis (Yesilirmak), north-west coast",
+   "lon": 32.738,
+   "lat": 35.182,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -6500,
+     -5500
+    ]
+   ],
+   "desc": "The only Neolithic settlement in Cyprus on an offshore island: a small rocky islet a few hundred metres out from the coast at Limnitis. The Swedish Cyprus Expedition dug it in 1929, which makes it the first aceramic site ever excavated on the island and the reason the period was recognised at all. In the Neolithic the sea stood lower and the rock may still have been attached to the shore, so whether these people were islanders within an island is genuinely open.",
+   "finds": [
+    {
+     "n": "Round stone houses on the summit",
+     "p": "c. 6500–5500 BCE",
+     "t": "Circular dry-stone buildings crowded onto the top of the rock, of the same family as those at Khirokitia and Cape Andreas-Kastros. The whole settlement is smaller than a single Khirokitia courtyard.",
+     "w": "In situ, Petra tou Limniti"
+    },
+    {
+     "n": "Stone bowls",
+     "p": "c. 6500–5500 BCE",
+     "t": "Vessels hollowed from andesite and diabase, carried out to the islet ready-made, since the rock itself is limestone and the igneous cobbles come from Troodos rivers well to the south.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "A single piece of obsidian",
+     "p": "c. 6500–5500 BCE",
+     "t": "One flake, the smallest obsidian count from any excavated aceramic site on Cyprus. It is a useful corrective: even a settlement out in the water was barely touched by the Anatolian trade by this date.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Twelve marine shells and 25 fish bones",
+     "p": "c. 6500–5500 BCE",
+     "t": "The recorded totals from a site surrounded by sea. The figures say far more about 1929 excavation methods, which involved no sieving, than about what the inhabitants ate, and Petra tou Limniti is regularly cited as a site that would repay re-excavation.",
+     "w": "Medelhavsmuseet, Stockholm"
+    },
+    {
+     "n": "Chipped stone and querns",
+     "p": "c. 6500–5500 BCE",
+     "t": "Blades and flakes of local Lefkara chert with grinding stones, the ordinary equipment of a farming household, which is the point: people were growing and grinding grain on a rock in the sea.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7",
+    "https://en.wikipedia.org/wiki/Swedish_Cyprus_Expedition",
+    "https://www.openstreetmap.org/?mlat=35.1815&mlon=32.7383",
+    "https://www.medelhavsmuseet.se/"
+   ]
+  },
+  {
+   "id": "roudias",
+   "name": "Vretsia-Roudias",
+   "modern": "Near Vretsia, Paphos district, upper Xeros valley",
+   "lon": 32.681,
+   "lat": 34.89,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     -10000,
+     -5500
+    ]
+   ],
+   "desc": "A hunters' camp high in the western Troodos, excavated by Nikolaos Efstratiou of Thessaloniki from 2011 and still under study. It matters for two reasons. It shows that the earliest Cypriots did not cling to the coast but went up into the mountains and adapted to them, shedding their maritime habits; and it helps fill the long blank in the record between the rock shelter at Aetokremnos and the first villages. Occupation was intermittent, with a later Aceramic Neolithic phase on top of the Epipalaeolithic one.",
+   "finds": [
+    {
+     "n": "The stone feature",
+     "p": "Epipalaeolithic and later",
+     "t": "A large built stone platform with at least three construction phases of different dates, closely resembling features at Ayia Varvara-Asprokremnos. What it was for is unresolved; that two upland sites hundreds of years apart built the same thing is the interesting part.",
+     "w": "In situ, Roudias"
+    },
+    {
+     "n": "Grinders and pounders",
+     "p": "c. 10,000 BCE",
+     "t": "Large ground stone tools together with fragments of possible stone vessels, found in the earliest levels. Heavy equipment of this sort is not what one expects from a mobile hunting camp, and it is part of why the site is being read as more than a stopping place.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Stone beads",
+     "p": "c. 10,000 BCE",
+     "t": "A small number of beads, the ornaments of people who were 25 km from the nearest coast and had left the shell-bead habit of the Aetokremnos generation behind them.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Epipalaeolithic chipped stone",
+     "p": "c. 10,000 BCE",
+     "t": "Blades, bladelets and microliths of a technology that parallels the Natufian of the Levantine mainland, the same industry as at Aetokremnos and the basis for dating the camp to around twelve thousand years ago.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Later Aceramic animal bones",
+     "p": "c. 6500–5500 BCE",
+     "t": "Fallow deer with sheep and goat from the upper levels, published in 2023. They show the Troodos being worked by the later farming villages as well, presumably as summer grazing and hunting ground, which is a use of the mountains almost invisible elsewhere in the record.",
+     "w": "Study collections, Aristotle University of Thessaloniki"
+    },
+    {
+     "n": "Flotation samples",
+     "p": "Excavated 2021–2023",
+     "t": "Systematic flotation of the deeper layers for charcoal and seeds, run by Maria Ntinou, aimed at reconstructing what the Troodos woodland looked like when the first Cypriots walked into it. Results are still coming out.",
+     "w": "Aristotle University of Thessaloniki"
+    }
+   ],
+   "sources": [
+    "https://hellenicstudies.gsu.edu/2023/06/08/archaeological-excavations-at-agios-ioannis-vretsia-roudias-cyprus/",
+    "https://www.archaeology.wiki/blog/2015/01/07/new-data-stone-feature-vretsia-roudias-site/",
+    "https://www.aegeussociety.org/en/news/vretsiaag-ioannis-roudias-troodos-mountains-aristotle-university-of-thessaloniki/",
+    "https://repository.cyi.ac.cy/bitstream/CyI/1820/1/Hadjikoumis%20et%20al%20(2023)%20Glimpses%20fauna%20Later%20Aceramic%20Neolithic%20upland%20Cyprus%20Roudias.pdf"
+   ]
+  },
+  {
+   "id": "kokkinoyia",
+   "name": "Kalavasos-Kokkinoyia and Pamboules",
+   "modern": "Kalavasos, Larnaca district, in the Vasilikos valley",
+   "lon": 33.313,
+   "lat": 34.747,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -4600,
+     -3900
+    ]
+   ],
+   "desc": "Two adjacent Ceramic Neolithic sites in the Vasilikos valley, downstream from Kalavasos-Tenta, first dug by Porphyrios Dikaios in the 1940s as Kalavasos Site A and Site B and reinvestigated by Joanne Clarke. Instead of building houses, the people here cut chambers and pits into the soft local limestone called havara and linked them together. Nothing else on Cyprus at this date looks like it, and the practice reappears in the Early Chalcolithic at nearby Kalavasos-Ayious.",
+   "finds": [
+    {
+     "n": "The rock-cut chamber complexes",
+     "p": "c. 4400 BCE",
+     "t": "Chambers and pits cut into the havara bedrock and connected to one another, with post-holes in some suggesting roofed structures standing over them. Whether these were dwellings, stores or something else is not resolved, and it is the central puzzle of the site.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "Two triton shells",
+     "p": "c. 4400 BCE",
+     "t": "Large sea-snail shells found in Chambers 105 and 221. Because triton shells are useless as food at that size and turn up in special places elsewhere in the Mediterranean, they have been read as deliberate ritual deposits marking particular chambers.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Obsidian: two blades and a bladelet",
+     "p": "c. 4400 BCE",
+     "t": "Three pieces, the largest Ceramic Neolithic obsidian find on the island. Carole McCartney called what remained of the Anatolian traffic by this date an infrequent trinket trade, and this is the whole of it at one village.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Engraved cross-hatched pebble",
+     "p": "Surface find",
+     "t": "A sandstone pebble cut with a grid of lines, of exactly the type otherwise confined to the earlier aceramic villages at Khirokitia and Ortos. It was picked up on the surface, and it is the only hint that there might be an older phase here, which nothing else supports.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "A burial and the remains of an earlier one",
+     "p": "c. 4400 BCE",
+     "t": "One intact interment together with fragments of a previous burial disturbed by it. Ceramic Neolithic burials are scarce across the whole island, so even two counts. Dikaios also mentions a burial of uncertain date at nearby Pamboules.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Combed Ware pottery",
+     "p": "c. 4600–3900 BCE",
+     "t": "Kokkinoyia is one of the southern sites on which the definition of the combed style rests, the red slip dragged into wavy bands with a toothed tool while still wet.",
+     "w": "Larnaca District Archaeological Museum; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Thirty marine invertebrates",
+     "p": "c. 4600–3900 BCE",
+     "t": "Mostly limpets, collected over many seasons of survey and excavation. A very small total for a site 4 km from the sea, and further evidence that the Ceramic Neolithic villages of the interior had largely turned their backs on the shore.",
+     "w": "Department of Antiquities"
+    }
+   ],
+   "sources": [
+    "https://www.researchgate.net/publication/233622021_Site_Diversity_in_Cyprus_in_the_Late_5th_Millennium_cal_BC_Evidence_from_Kalavasos_Kokkinoyia",
+    "https://nccp.arch.uoa.gr/fileadmin/depts/arch.uoa.gr/nccp/uploads/document/Voskos___Vika_2020_-_Prehistoric_human_remains_reviewed__palaeopathology_and_palaeodiet_in_Neolithic_and_Chalcolithic_Cyprus__Limassol_district..pdf",
+    "https://www.aegeussociety.org/wp-content/uploads/2021/12/Todd-1982-Vasilikos.pdf",
+    "https://link.springer.com/article/10.1007/s11457-020-09277-7"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "aetokremnos",
+   "finds": [
+    {
+     "n": "Shell beads",
+     "p": "c. 11,000–10,000 BCE",
+     "t": "About 160 beads worked from marine shell, most of them dove shell, with dentalium and cone shell among them. They are the oldest ornaments known from Cyprus, and they are made from the sea.",
+     "w": "Limassol District Archaeological Museum; Department of Antiquities"
+    },
+    {
+     "n": "The shell midden",
+     "p": "c. 11,000–10,000 BCE",
+     "t": "Over 73,000 fragments of marine invertebrates, roughly 21,000 individual animals: topshell, limpet, crab, cuttlefish and sea urchin. Whatever the argument about the hippos, these people unquestionably lived off the shore.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Bird bones",
+     "p": "c. 11,000–10,000 BCE",
+     "t": "The remains of 73 individual birds, including bustards, geese and ducks, so the rock shelter was also used as a fowling station.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Wild pig bones",
+     "p": "c. 11,000–10,000 BCE",
+     "t": "Eighteen bones of pig, an animal with no place in the island's native fauna. Boar were brought over from the mainland, most likely to stock the island with something worth hunting, and their descendants were still being hunted at Klimonas two thousand years later. This is the first animal introduction to Cyprus and one of the earliest anywhere.",
+     "w": "Limassol District Archaeological Museum"
+    },
+    {
+     "n": "A grey mullet vertebra",
+     "p": "c. 11,000–10,000 BCE",
+     "t": "One bone of a coastal fish. Small, but the earliest evidence of fishing from Cyprus, and the beginning of a habit that runs unbroken through the whole of the island's prehistory.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "The 2024 demographic models",
+     "p": "Published 2024",
+     "t": "Age-structured population modelling combined with hindcast climate, published in PNAS, argues that Cyprus was permanently peopled between about 14,250 and 13,180 years ago by two or three organised movements of roughly a thousand to fourteen hundred people each, reaching four to five thousand inhabitants within three centuries. If that is right, Aetokremnos is not a first landfall but a late episode in a longer settlement, and the island was never the empty, hostile place the older accounts assumed.",
+     "w": "Not applicable; modelling study"
+    }
+   ]
+  },
+  {
+   "id": "khirokitia",
+   "finds": [
+    {
+     "n": "Fish amulet",
+     "p": "Aceramic Neolithic",
+     "t": "A small carved fish, found on the surface by Dikaios and unique on the island. It is probably a grouper or a sea bream, which happen to be the two species the villagers actually caught, six kilometres from the sea.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Engraved pebbles and conical stones",
+     "p": "Aceramic Neolithic",
+     "t": "Pebbles scored with grids of lines, and small cones decorated with chevrons on the sides and a chequered pattern on the base. Weights for fishing nets, pictures of nets, and tokens in a system of social storage or exchange have all been proposed and none has won. Identical objects turn up in the Levant from the Natufian onwards, which suggests a shared symbolic world rather than parallel invention.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Carnelian beads",
+     "p": "Aceramic Neolithic",
+     "t": "About forty beads of orange-red carnelian, including one shaped like a butterfly. This is by far the largest carnelian group on Cyprus, out of only fifty known pieces island-wide. Portable XRF on twenty-seven of them found at least two chemical groups, but the source, somewhere in Anatolia or the Caucasus, has not been identified.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Artificial skull deformation",
+     "p": "Aceramic Neolithic",
+     "t": "A number of the skulls appear to have been reshaped by binding the head in infancy, and the practice is recorded roughly twice as often in women as in men. The interpretation goes back to Lawrence Angel's study in the 1950s and is still contested, with some arguing the flattening is a result of burial conditions rather than deliberate moulding.",
+     "w": "Cyprus Museum, Nicosia; Department of Antiquities"
+    },
+    {
+     "n": "Andesite and diabase from the Troodos rivers",
+     "p": "Aceramic Neolithic",
+     "t": "The stone the bowls are made of is not local. Hard igneous cobbles of andesite and diabase were collected from river beds draining the Troodos ophiolite, carried to the village and hollowed out with stone tools, the same rocks that supplied the querns, axes and adzes. At Kalavasos-Tenta the ground stone comes from riverbeds in the same way, so this was an island-wide habit and not one village's trick.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Sea food carried six kilometres inland",
+     "p": "Aceramic Neolithic",
+     "t": "Nearly 650 marine molluscs and around 250 fish bones, mainly grouper and sea bream, all of them large fish. Khirokitia sits six kilometres from the coast, so somebody was making that walk regularly, and more of the material still waits to be published.",
+     "w": "Department of Antiquities"
+    }
+   ]
+  },
+  {
+   "id": "sotira",
+   "finds": [
+    {
+     "n": "The extramural cemetery",
+     "p": "c. 4200 BCE",
+     "t": "Twelve pit graves cut into the eastern slope below the village. The dead have moved out of the houses, a clean break with the Aceramic habit of burying people under the floor, and the largest group of Ceramic Neolithic burials known from Cyprus.",
+     "w": "In situ; skeletal material with the Department of Antiquities"
+    },
+    {
+     "n": "Grave 3",
+     "p": "c. 4200 BCE",
+     "t": "An adult man of about thirty-nine, loosely contracted with his head to the south and his face east, a limestone boulder laid on his chest and a small stone set behind his head. Twelve potsherds and a single flint came from the soil of the grave, and that was all: grave goods are essentially absent, in sharp contrast to the necklaces buried with the dead at Khirokitia.",
+     "w": "In situ; skeletal material with the Department of Antiquities"
+    },
+    {
+     "n": "The earthquake at the end of Phase 2",
+     "p": "c. 4000 BCE",
+     "t": "The densely packed houses and narrow lanes of the village's second phase came down together. What followed was a brief patched-up reoccupation, Phase 3, with repairs and a new retaining wall, before Sotira was left for good. It is the clearest destruction horizon in the Cypriot Neolithic and the reason earthquakes are blamed for the end of the Sotira culture.",
+     "w": "In situ, Sotira-Teppes"
+    },
+    {
+     "n": "Bone fishhook",
+     "p": "c. 4500–3900 BCE",
+     "t": "A hook cut from bone, found at a hilltop village 330 m up and several kilometres inland. Together with the grooved stones from the same site it shows fishing was still part of the economy of a community that mostly farmed and hunted.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The plateau and its springs",
+     "p": "c. 4500–3900 BCE",
+     "t": "The village occupies a defensible plateau at 330 m above the Kouris valley with two or three perennial springs beside it, controlling a small well-watered valley with access both to the coast and inland. Where the Sotira-culture villages chose to sit is one of the few things about them that looks like a deliberate strategy.",
+     "w": "In situ, Sotira"
+    },
+    {
+     "n": "Petrographic analysis of the pottery",
+     "p": "Ceramic Neolithic",
+     "t": "Thin sections show the pots were made locally, household by household, each using its own clay recipe. Nobody at Sotira was a full-time potter, which makes the sharp regional split between combed pottery in the south and painted pottery in the north harder to explain as anything other than a deliberate statement of identity.",
+     "w": "Cyprus Museum, Nicosia; Penn Museum, Philadelphia"
+    }
+   ]
+  },
+  {
+   "id": "vrysi",
+   "finds": [
+    {
+     "n": "Shellfish, crabs and marine turtle",
+     "p": "c. 4400–3800 BCE",
+     "t": "Thirty-six mollusc species with over 1,500 examples, mostly edible limpet and topshell, along with 159 crab fragments and bones identified as marine turtle. Only sixty fish bones were recorded from twenty deposits, which almost certainly reflects the absence of water-sieving rather than the diet of a village on a sea cliff.",
+     "w": "Department of Antiquities; Kyrenia Castle"
+    },
+    {
+     "n": "Bone fishhook",
+     "p": "c. 4400–3800 BCE",
+     "t": "A hook cut from bone, matching examples from Paralimni-Nissia on the far side of the island and stone ones from Sotira. Between them these three sites are most of what we know about how Ceramic Neolithic Cypriots fished.",
+     "w": "Kyrenia Castle"
+    },
+    {
+     "n": "A single obsidian nugget",
+     "p": "c. 4400–3800 BCE",
+     "t": "One lump of volcanic glass. After three thousand years in which Anatolian obsidian reached Cyprus in thousands of pieces, this is the entire haul of a substantial north-coast village, and it sits at the bottom of a decline that nobody has satisfactorily explained.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Perforated stones and stone discs",
+     "p": "c. 4400–3800 BCE",
+     "t": "Grooved and pierced stones and flat discs, called spindle whorls in the excavation report. Net sinkers is the likelier reading, given that spinning equipment of this date is otherwise unknown on the island.",
+     "w": "Kyrenia Castle"
+    },
+    {
+     "n": "Three metres of stratigraphy",
+     "p": "c. 4400–3800 BCE",
+     "t": "Because the houses were sunk into hollows and rebuilt two or three times in the same spot, Vrysi accumulated deposits deep enough to give a proper sequence, which is exactly what the shallow southern villages lack. Peltenburg's excavation records were formally handed over in 2016, so a site now beyond the reach of most archaeologists can still be worked on.",
+     "w": "In situ; archive with the Department of Antiquities"
+    }
+   ]
+  },
+  {
+   "id": "klimonas",
+   "finds": [
+    {
+     "n": "Wild boar bones and Sus scrofa circeus",
+     "p": "c. 8800 BCE",
+     "t": "Over five hundred specimens, some 97 per cent of the animal remains from the village. Geometric morphometrics on teeth and heel bones, published in 2021, showed these boar were an island subspecies descended from animals brought from the northern Levant, and named it Sus scrofa circeus after the goddess who turned Odysseus's crew into pigs. They were 10 to 16 per cent smaller than their mainland ancestors, and the pigs of later Shillourokambos are their domesticated descendants: Cyprus domesticated its own pigs rather than importing them.",
+     "w": "Department of Antiquities; study collections, Muséum national d'Histoire naturelle, Paris"
+    },
+    {
+     "n": "Dog remains",
+     "p": "c. 8800 BCE",
+     "t": "The earliest dogs on Cyprus, shipped over with the first cultivators. Dogs and cereals arrived together, before any of the herd animals, which suggests the first colonists came as hunters who farmed rather than as herders.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "How the boar were killed",
+     "p": "c. 8800 BCE",
+     "t": "The age and sex profile of the bones shows the hunters targeting females and their young. That is a pattern of management, not opportunism, and it is one of the reasons the Klimonas boar are read as a stocked and tended resource rather than simply wild game.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Four pieces of obsidian",
+     "p": "c. 8800 BCE",
+     "t": "Three bladelets and one blade of Cappadocian obsidian, the sum of the village's imported stone. It is enough to prove the crossing was being made, and little enough to show it was not yet routine.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Small houses and storage",
+     "p": "c. 8800 BCE",
+     "t": "Besides the great communal building there were several small round houses and dedicated storage, so this was a real settlement with granaries and not a camp. The sea crossing that supplied it was 60 to 90 km of open water.",
+     "w": "In situ, Klimonas"
+    }
+   ]
+  },
+  {
+   "id": "shillourokambos",
+   "finds": [
+    {
+     "n": "The wells",
+     "p": "c. 8400–7000 BCE",
+     "t": "Deep shafts cut into the bedrock, dug from the earliest phase onwards and, with those at Kissonerga-Mylouthkia, among the oldest water wells known anywhere in the world. Cypriot wells span the second half of the ninth millennium to the middle of the seventh. Nothing comparable is known on the Levantine mainland until considerably later, so this looks like an island invention forced by island conditions.",
+     "w": "In situ, Shillourokambos"
+    },
+    {
+     "n": "Cattle",
+     "p": "c. 8500–7500 BCE",
+     "t": "Aurochs-sized cattle ferried across from the mainland and kept in post-built enclosures. Whether they arrived already domesticated or as managed wild animals is argued from morphology on one side and culling patterns on the other. What is certain is that cattle then died out on Cyprus during the eighth millennium and were not seen again for thousands of years, so the first herds could not sustain themselves.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Sea bass and grouper",
+     "p": "c. 8400–7000 BCE",
+     "t": "Ninety per cent of the identified fish from Sector 1 are sea bass and large groupers weighing between four and seventeen kilograms. Fish that size are not caught from the beach, and the village sits several kilometres inland.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Picrolite micro-cups",
+     "p": "c. 8400–7500 BCE",
+     "t": "Small hollow cups of blue-green picrolite under 3 cm across, incised with vertical and horizontal hatching. Two near-identical pieces come from Akanthou on the north coast. Jean Guilaine and others have suggested they are models of boats, which would make them the earliest images of watercraft in the region; most specialists reserve judgement.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Shell ornaments and grooved stones",
+     "p": "c. 8400–7000 BCE",
+     "t": "372 pieces of fossil and marine shell used as ornaments and tools, together with grooved stones carrying carved geometric motifs that may have served as net sinkers. The same engraved patterns turn up later at Khirokitia and Kholetria-Ortos, and in the Levant.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "Byblos points and composite sickles",
+     "p": "c. 8400–7500 BCE",
+     "t": "The projectile points of the early phases are straight out of the Levantine Pre-Pottery Neolithic B, and the first sickles were made of several small elements set in a haft. Around 7500 BCE the points vanish and the sickles become single robust blades, which is why the later Khirokitia-culture villages have no arrowheads at all: Cyprus had begun to go its own way.",
+     "w": "Department of Antiquities"
+    }
+   ]
+  },
+  {
+   "id": "tenta",
+   "finds": [
+    {
+     "n": "The pillared buildings on the summit",
+     "p": "c. 6950–6200 BCE",
+     "t": "Three circular buildings with internal pillars, Structures 36, 17 and 14, each rebuilt on the ruins of the last on the western top of the hill. The form has its ancestors in the mainland Pre-Pottery Neolithic A, and only Tenta and Khirokitia have it on Cyprus. Whether they were the houses of important people or communal buildings for the village is unresolved.",
+     "w": "In situ under the shelter"
+    },
+    {
+     "n": "The wall and the rock-cut ditch",
+     "p": "c. 7500 BCE",
+     "t": "In its fourth period the village ringed the hill with a substantial wall and an outer ditch cut into the havara, the soft local limestone. It was a large piece of communal labour and it is rare in Neolithic Cyprus, which is why Tenta keeps being described as fortified even though nobody can say against whom.",
+     "w": "In situ, Kalavasos-Tenta"
+    },
+    {
+     "n": "Fourteen burials",
+     "p": "Aceramic Neolithic",
+     "t": "Fourteen graves holding at least eighteen people, adults, children and infants. Six were buried in pits under house floors, seven in pits outside the buildings and sometimes in rubbish layers, and grave goods are essentially absent. Against Khirokitia's 254 burials with their necklaces and querns, the contrast between two villages a few hours' walk apart is hard to explain.",
+     "w": "In situ; skeletal material with the Department of Antiquities"
+    },
+    {
+     "n": "White marble rings",
+     "p": "Aceramic Neolithic",
+     "t": "Rings of white marble, a material not native to the island. Along with the obsidian and the carnelian at Khirokitia they show that the Late Aceramic Neolithic, usually painted as an inward-looking period, was still receiving things from across the sea.",
+     "w": "Larnaca District Archaeological Museum; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "471 marine shells",
+     "p": "Aceramic Neolithic",
+     "t": "Including perforated dove and cone shells and the lips of two helmet shells, cut to be worn. The sea is three kilometres away down the Vasilikos valley.",
+     "w": "Department of Antiquities"
+    },
+    {
+     "n": "The Clarke and Wasse re-dating",
+     "p": "Published 2020",
+     "t": "Joanne Clarke and Alexander Wasse have argued that the pillared summit buildings belong to the same architectural tradition as Building 10 at Klimonas, and that Tenta's earliest phase, Period 5, may therefore reach back into the Initial Aceramic Neolithic rather than the Cypro-PPNB. That would make Tenta older than anyone had it, and older than the wall and ditch by well over a millennium. The case is not settled.",
+     "w": "Not applicable; published re-assessment"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "aceramic",
+   "events": [
+    [
+     -8850,
+     "Hunters quarry and grind red ochre at Ayia Varvara-Asprokremnos and carve the oldest human figurine known from Cyprus"
+    ],
+    [
+     -8600,
+     "A well eight metres deep is cut into bedrock at Kissonerga-Mylouthkia, among the oldest water wells known anywhere"
+    ],
+    [
+     -8500,
+     "Cattle, goats and Mesopotamian fallow deer are ferried across from the mainland; sheep follow within a few centuries"
+    ],
+    [
+     -8200,
+     "Cappadocian obsidian comes ashore at Akanthou-Arkosykos on the north coast, which handles more of it than every other Cypriot site put together"
+    ],
+    [
+     -7000,
+     "Cattle vanish from the island and are not seen again until the Bronze Age; fallow deer become the mainstay of the meat supply"
+    ],
+    [
+     -6500,
+     "Fishermen at Cape Andreas-Kastros, at the tip of the Karpas, take tuna and grouper from deep water"
+    ]
+   ]
+  },
+  {
+   "id": "ceramic",
+   "events": [
+    [
+     -5200,
+     "The last Aceramic villages fall silent; whether the island emptied or its people simply became harder to see is still argued"
+    ],
+    [
+     -4600,
+     "Pottery appears already fully formed, brought from the mainland rather than invented on the island"
+    ],
+    [
+     -4500,
+     "At Paralimni-Nissia on the east coast some forty houses are ringed with a horseshoe-shaped wall beside a natural harbour"
+    ],
+    [
+     -4400,
+     "Villagers at Kalavasos-Kokkinoyia cut chambers into the soft bedrock instead of building houses, and leave triton shells in two of them"
+    ],
+    [
+     -4200,
+     "The dead move out of the houses: twelve graves are dug on the slope below Sotira, with boulders laid on the chest and almost nothing else"
+    ],
+    [
+     -4000,
+     "Obsidian all but disappears; a Ceramic Neolithic village holds one or two pieces at most"
+    ]
+   ]
+  }
+ ],
+ "rulers": [],
+ "notes_for_owner": [
+  "COORDINATES, verified against OSM or Wikipedia geodata for the archaeological site itself: Cape Andreas-Kastros 34.587/35.694 (OSM 'Kastros Neolithic Settlement'), Paralimni-Nissia 34.063/35.002 (OSM historic=archaeological_site), Petra tou Limniti 32.738/35.182 (OSM place=islet, name:el Petra tou Limniti, with historic=ruins on the same point).",
+  "COORDINATES, derived and approximate. Kissonerga-Mylouthkia 32.390/34.821: the site is not mapped; I placed it on the verified coastline (traced from OSM, at lon 32.3886 at this latitude) about 600 m west of the OSM-verified Kissonerga-Mosphilia point, which matches the published description of a severely eroded site cut by the sea cliff. Accurate to roughly 300 m.",
+  "COORDINATES, derived from the verified parent village. Ais Giorkis 32.566/34.930 (Kritou Marottou, Wikipedia 32.5625/34.9267); Kholetria-Ortos 32.585/34.769 (old Kholetria, OSM 32.5882/34.7726, on the Ortos plateau above the Xeros Potamos); Kantou-Kouphovounos 32.903/34.694 (Kantou, OSM 32.9066/34.6898, on a 243 m hill west of the Kouris); Akanthou-Arkosykos 33.757/35.380 (Tatlisu, Wikipedia 33.7558/35.3742, site on the shore just north); Vretsia-Roudias 32.681/34.890 (Vretsia, Wikipedia 32.6569/34.8908, sited towards the Roudia bridge locality at OSM 32.6846/34.8899). Each may be out by up to a kilometre.",
+  "COORDINATE I am least sure of: Ayia Varvara-Asprokremnos 33.353/34.979. Sources place it 'between the modern villages of Ayia Varvara and Mathiati', and I put it on the line between the two verified villages. One popular report says '3 km south-east of Ayia Varvara', which points away from Mathiati, so the two descriptions conflict. Treat as plus or minus 2 km, or ask a Cypriot colleague for the plot reference before publishing.",
+  "COORDINATE that needs checking: Kalavasos-Kokkinoyia 33.313/34.747, taken from an OSM locality named 'Kokkinogion' in the right valley, which is a toponym match rather than a mapped site. Todd's Vasilikos Valley survey places Kokkinoyia (Dikaios's Site A) and Pamboules (Site B) as adjacent sites downstream of Kalavasos village. If you want certainty, the plot references are in Todd, Journal of Field Archaeology 9 (1982).",
+  "The existing atlas coordinate for Ayios Epiktitos-Vrysi (33.4, 35.35) is about 2 km off. OSM records the site at 33.4224/35.3324. Worth correcting while you are in the file.",
+  "'The world's oldest water wells' is how the Mylouthkia and Shillourokambos wells are usually reported in the press. Specialists write 'among the earliest known in the world', because the two Cypriot sites overlap in date and neither can be shown to be first. I have used the cautious wording throughout.",
+  "There is a real conflict in the literature about when cattle returned to Cyprus. Wikipedia's Shillourokambos article says they were reintroduced in the Ceramic Neolithic; ancientcyprus.com and the specialist zooarchaeology (Vigne, Croft) say they do not reappear until the Early Bronze Age. I have followed the latter. If you want to hedge, 'not seen again for thousands of years' is safe.",
+  "Two claims now compete for the earliest metal on Cyprus: the copper hook from Kissonerga-Mylouthkia (c. 3500 BCE) and the copper chisel from Erimi-Pamboula, which your existing Erimi entry describes as 'long regarded as the oldest'. I have flagged the competition in the Mylouthkia find text rather than picking a winner.",
+  "Artificial skull deformation at Khirokitia rests on Lawrence Angel's 1953 study and is repeated in the secondary literature, including ancientcyprus.com's figure of it being twice as common in women. It has been questioned as a taphonomic effect of burial. I have written it as disputed.",
+  "The Ortos Head's discovery story (found in May 1988, conserved by Andreas Geogiades, now in the Cyprus Museum) comes from a single popular account on cyprusexploration.com. The site and the figurine are properly published by Bill Fox and Alan Simmons, but I could not independently confirm the museum accession, so verify the 'where it is now' before printing it.",
+  "DROPPED, deliberately. Philia-Drakos site A: the settlement is described in the recent literature as unpublished, and the chamber tomb once dated to the Ceramic Neolithic is now thought to be Chalcolithic or Bronze Age. Too thin and too shaky for an entry, though the Philia village coordinate is verified (OSM Serhatkoy/Fyllia 33.0922/35.1883) if you ever want it. Dhali-Agridhi: two of Lehavy's headline finds have since been reidentified (the 'fossil fish teeth' as broken freshwater crab claws, the 'pierced boar tusk' as a water-worn dog cockle), which leaves little to say. Klepini-Troulli: excavated by the Swedish expedition in the 1930s, real but almost undocumented, and I could not verify a coordinate. Frenaros-Pergouses and Politiko-Kelaidhoni: I could find nothing substantial on either under those names before the web search budget ran out, so I have not invented anything.",
+  "Cape Andreas-Kastros dates: Wikipedia quotes uncalibrated radiocarbon of 7,775 to 6,410 BP, which calibrates to roughly the seventh and sixth millennia BCE. I have used a conservative 6500 to 5500 BCE, consistent with Knapp's Late Aceramic Neolithic bracket of 6800 to 5200 BCE.",
+  "Vretsia-Roudias phasing is provisional and the excavation is still in progress. I have given it a single long range with a note that occupation was intermittent, rather than inventing two precise phases.",
+  "The Kantou-Kouphovounos period assignment: some older sources call the site Aceramic. Both the Athens excavation publication and Knapp's 2020 site table put it firmly in the Ceramic Neolithic, and I have followed them.",
+  "One theme in your brief I could not make properly concrete: the picrolite source. Picrolite is a serpentinite from the Troodos river beds, and it is treated as a local material throughout the literature, but I found no accessible source that names the specific river valleys the Neolithic pieces came from. The Chalcolithic picrolite trade is much better studied than the Neolithic one."
+ ]
+}

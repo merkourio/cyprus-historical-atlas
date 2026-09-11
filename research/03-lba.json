@@ -1,0 +1,565 @@
+{
+ "new_settlements": [
+  {
+   "id": "maroni_vournes",
+   "name": "Maroni-Vournes",
+   "modern": "Maroni, Larnaca district",
+   "lon": 33.381,
+   "lat": 34.746,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -1650,
+     -1150
+    ]
+   ],
+   "desc": "A Late Bronze Age town in the lower Maroni valley about 500 metres from the sea, with a coastal twin at Maroni-Tsaroukkas and an open anchorage offshore; taken together the localities cover something like 35 hectares. The British Museum opened tombs here in 1897, Gerald Cadogan excavated the settlement for the University of Cincinnati between 1982 and 1989, and Sturt Manning worked on the coastal site and its seabed in the 1990s. Its centre was an ashlar building given over to pressing and storing olive oil on a scale far beyond any household's needs, abandoned around 1200 BCE and then reoccupied as a sanctuary in the Iron Age.",
+   "finds": [
+    {
+     "n": "The Ashlar Building",
+     "p": "c. 1300-1200 BCE",
+     "t": "A tripartite building roughly 30.5 by 21 metres, built partly of large finely cut and closely fitted blocks, with pressing installations and storerooms for olive oil. It is one of a small group of monumental buildings, with Kalavasos and Alassa, that mark the appearance of something like regional administration on Cyprus.",
+     "w": "In situ, Maroni-Vournes"
+    },
+    {
+     "n": "The West Building",
+     "p": "c. 1300-1200 BCE",
+     "t": "A four-aisled hall separated from the Ashlar Building by a street 4.5 metres wide, of a plan with no close parallel on the island. Whether it was a store, a workshop or a hall of assembly is unsettled; Jan Driessen has argued for reading the whole complex as a seat of power.",
+     "w": "In situ, Maroni-Vournes"
+    },
+    {
+     "n": "Four Cypro-Minoan inscriptions",
+     "p": "c. 1300-1200 BCE",
+     "t": "Four short texts in the island's undeciphered Bronze Age script, published together in 2016 by Cadogan, Driessen and Silvia Ferrara. They put Maroni among the handful of Cypriot places whose officials wrote things down.",
+     "w": "Department of Antiquities, Cyprus (exact museum unconfirmed)"
+    },
+    {
+     "n": "Stone anchors on the seabed off Tsaroukkas",
+     "p": "Late Bronze Age",
+     "t": "Dozens of pierced stone anchors and large carved sandstone blocks lie in shallow water off the coastal site, first recorded in the 1990s and re-surveyed for a 2022 study of the coastscape. They mark a working roadstead rather than a built harbour: ships anchored off and lightered their cargo ashore.",
+     "w": "In situ, seabed off Maroni-Tsaroukkas"
+    },
+    {
+     "n": "Clay model of a ship",
+     "p": "14th-13th century BCE",
+     "t": "A pottery model of a vessel from one of the 26 tombs the British Museum emptied at the coastal site in 1897, a rare Cypriot picture of the ships that carried the island's copper.",
+     "w": "British Museum, London"
+    },
+    {
+     "n": "Bull-shaped rhyton",
+     "p": "Base Ring II, 14th century BCE",
+     "t": "A hollow pouring vessel in the form of a bull, of a class used to pour liquid offerings, from the Tsaroukkas cemetery. The tombs also gave up Mycenaean vases and gold and faience earrings.",
+     "w": "British Museum, London"
+    },
+    {
+     "n": "The Iron Age sanctuary in the ruins",
+     "p": "7th century BCE onwards",
+     "t": "The ashlar building was not left to decay after 1200 BCE. By at least the seventh century BCE people were making offerings among its standing walls, one of the clearest Cypriot cases of a Bronze Age ruin becoming holy ground.",
+     "w": "In situ, Maroni-Vournes"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/maroni",
+    "https://onlinelibrary.wiley.com/doi/full/10.1111/ojoa.12244",
+    "http://smea.isma.cnr.it/wp-content/uploads/2016/02/Cadogan-Driessen-Ferrara_Four-Cypro-Minoan-inscriptions-from-Maroni-Vournes.pdf",
+    "https://www.academia.edu/13106984/A_Power_Building_at_Maroni_Vournes",
+    "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/late-cypriot-tombs-at-maroni-tsaroukkas-cyprus1/26EB25EF21D12ABAD48C9BEE808C8BEB"
+   ]
+  },
+  {
+   "id": "alassa",
+   "name": "Alassa-Paliotaverna and Pano Mandilaris",
+   "modern": "Alassa, Kouris valley, Limassol district",
+   "lon": 32.922,
+   "lat": 34.758,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -1500,
+     -1050
+    ]
+   ],
+   "desc": "Two localities on a triangular plateau in the Troodos foothills, unknown to archaeology until a salvage survey in 1983 ahead of the Kouris dam. Sophocles Hadjisavvas dug them from 1984 to 2000 and published the final report in 2017. Paliotaverna, on the upper plateau, held a group of three monumental ashlar buildings, the largest a great pi-shaped complex; Pano Mandilaris, 250 metres to the south-east, was a crowded residential quarter with metalworking going on among the houses. Petrographic work on the clay of the Alashiya letters points to this stretch of the south coast rather than to Enkomi, which makes Alassa one of the candidates for where the king of Alashiya actually sat.",
+   "finds": [
+    {
+     "n": "Building II",
+     "p": "13th century BCE",
+     "t": "A pi-shaped complex of about 1,410 square metres built largely of finely cut ashlar blocks, one of the largest Late Bronze Age buildings known on the island. Ashlar masonry on Cyprus is almost always a sign of high status, and this is its fullest display outside Enkomi.",
+     "w": "In situ, Alassa-Paliotaverna"
+    },
+    {
+     "n": "Pithoi with relief friezes and seal impressions",
+     "p": "13th-12th century BCE",
+     "t": "Some 200 fragments of giant storage jars decorated with raised bands and with friezes rolled on by cylinder seals, the great majority of all such vessels known from Cyprus. The impressions are usually read as marking whose stores the contents were, or which occasions they were kept for.",
+     "w": "Cyprus Museum, Nicosia; Limassol District Museum"
+    },
+    {
+     "n": "Wine press",
+     "p": "13th century BCE",
+     "t": "A treading floor and vat inside one of the ashlar buildings, so far the only Late Bronze Age wine press found on Cyprus. Its neighbours at Kalavasos and Maroni pressed olive oil; Alassa also made wine.",
+     "w": "In situ, Alassa-Paliotaverna"
+    },
+    {
+     "n": "Copper-working installations at Pano Mandilaris",
+     "p": "13th-12th century BCE",
+     "t": "Furnace fragments, slag and crucibles set among ordinary houses and small domestic shrines. Metalworking here was neighbourhood work carried on beside cooking and cult, not something shut away in a palace quarter.",
+     "w": "In situ, Alassa-Pano Mandilaris"
+    },
+    {
+     "n": "Mycenaean stirrup jars",
+     "p": "13th century BCE",
+     "t": "Two imported Greek oil jars from Pano Mandilaris, the standard container for perfumed oil moving around the eastern Mediterranean, found in a residential quarter rather than in an elite building.",
+     "w": "Limassol District Museum"
+    },
+    {
+     "n": "The Kouris reservoir",
+     "p": "1988",
+     "t": "The dam that prompted the rescue excavation now fills the valley below. The old village was moved uphill and the ancient buildings survive above the waterline, which is why a visitor can still walk the ashlar walls.",
+     "w": "In situ, Alassa"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/alassa",
+    "https://whitelevy.fas.harvard.edu/publications/alassa-excavations-late-bronze-age-sites-pano-mantilaris-and-paliotaverna",
+    "https://www.ancientcyprus.com/articles/cylinder-seal-impressions-in-bronze-age-cyprus",
+    "https://en.wikipedia.org/wiki/Alashiya"
+   ]
+  },
+  {
+   "id": "apliki",
+   "name": "Apliki-Karamallos",
+   "modern": "Apliki mine, Solea district, Nicosia district",
+   "lon": 32.843,
+   "lat": 35.078,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -1300,
+     -1150
+    ]
+   ],
+   "desc": "A miners' village on the north-western flank of the Troodos, in the Solea copper district beside Skouriotissa and Mavrovouni. It came to light in 1938 when the Cyprus Mines Corporation began to open the Apliki orebody, and Joan du Plat Taylor was asked to dig it in haste in 1938 and 1939. Lead isotope analysis has since matched almost every oxhide ingot yet tested, on Cyprus and abroad, to ores of this district and above all to Apliki, which makes this small and short-lived settlement the source of the metal the Bronze Age world was buying. Most of it has been eaten by modern open-cast mining; Taylor's notebooks were finally published in full in 2012.",
+   "finds": [
+    {
+     "n": "The L-shaped building of Area A",
+     "p": "c. 1200-1180 BCE",
+     "t": "A multi-room house on a rock terrace with storage vessels set into its floors, the only dwelling of Late Bronze Age Cypriot copper miners ever excavated. The jars are usually read as rations and supplies issued to a workforce rather than as a family's own stores.",
+     "w": "Destroyed by modern mining; recorded in du Plat Taylor's plans"
+    },
+    {
+     "n": "Slag and furnace debris",
+     "p": "13th century BCE",
+     "t": "The settlement sat on terraces of its own waste. Smelting was done at the mine head, where the fuel and the ore were, and the metal then travelled to the coast as ingots rather than as rock.",
+     "w": "In situ, Apliki"
+    },
+    {
+     "n": "Ivory cylinder, steatite cylinder seal and gold earring",
+     "p": "13th century BCE",
+     "t": "Small valuables from the houses. Even a company village at the pit head had objects worth keeping, and a seal implies somebody there had to authorise something.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Uluburun cargo",
+     "p": "c. 1320 BCE",
+     "t": "The ship wrecked off Uluburun in Turkey carried 354 oxhide ingots, about ten tonnes of copper, with roughly a tonne of tin and nine Cypriot storage jars packed with pottery, oil or pomegranates. The lead isotopes of the copper point back to the Solea mines. Excavated by the Institute of Nautical Archaeology from 1984 to 1994.",
+     "w": "Bodrum Museum of Underwater Archaeology, Turkey"
+    },
+    {
+     "n": "Oxhide ingots abroad",
+     "p": "14th-12th century BCE",
+     "t": "Copper cast in slabs the shape of a stretched hide, with a handhold at each corner and weighing around 30 kg, has been found from Sardinia to Anatolia and inland into Bulgaria. Every analysed ingot of fourteenth-century date or later is isotopically Cypriot, which is as close as archaeology comes to a trademark.",
+     "w": "Cyprus Museum, Nicosia; Bodrum Museum; National Archaeological Museum, Cagliari"
+    },
+    {
+     "n": "The modern open pit",
+     "p": "1938 onwards",
+     "t": "This district produced more than four-fifths of the copper concentrate Cyprus exported in modern times. The pit that revealed the Bronze Age village is also what destroyed it, and the working landscape of terraces and red spoil is what a visitor sees.",
+     "w": "In situ, Apliki mine"
+    }
+   ],
+   "sources": [
+    "https://www.researchgate.net/publication/323883452_Apliki_Karamallos_on_Cyprus_the_13th_century_BCE_miners'_settlement_in_context",
+    "https://www.aegeussociety.org/en/new_book_reviews/review-of-joan-du-plat-taylors-excavations-at-the-late-bronze-age-mining-settlement-at-apliki-karamallos-cyprus-part-i/",
+    "https://oxalid.arch.ox.ac.uk/casestudy/casestudy.html",
+    "https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/"
+   ]
+  },
+  {
+   "id": "pigadhes",
+   "name": "Myrtou-Pigadhes",
+   "modern": "Near Camlibel (Myrtou), Kyrenia district",
+   "lon": 33.088,
+   "lat": 35.29,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -1650,
+     -1050
+    ]
+   ],
+   "desc": "A sanctuary in the hills south of Myrtou, used from about 1650 BCE to the end of the Bronze Age and excavated in 1949 and 1950 by Joan du Plat Taylor and Veronica Seton-Williams for the Department of Antiquities. Its courtyard holds a stepped altar of dressed stone crowned with carved horns, the Cretan sign of sanctity known as horns of consecration, rebuilt on the spot by the excavators. The wells that give the place its name, pigadhes, supplied the rites. Bones of sheep, goat and deer, hearths and a mass of drinking vessels point to sacrifice and feasting in the open rather than to a temple with a resident priesthood.",
+   "finds": [
+    {
+     "n": "The horned altar",
+     "p": "13th-12th century BCE",
+     "t": "A stepped block-built altar in the west court, re-erected by the excavators with a pair of stone horns on top. It is the largest and best preserved of its kind on Cyprus and the plainest borrowing of Minoan religious symbolism on the island; what stands today is a reconstruction, and its exact original height is not certain.",
+     "w": "In situ, Myrtou-Pigadhes"
+    },
+    {
+     "n": "The wells and the west court",
+     "p": "Late Cypriot I-III",
+     "t": "Rock-cut wells and a paved court with hearths for burnt offerings, built and rebuilt over some six centuries. The sanctuary began as a modest platform and was monumentalised in stages.",
+     "w": "In situ, Myrtou-Pigadhes"
+    },
+    {
+     "n": "Terracotta bulls and figurines",
+     "p": "Late Bronze Age",
+     "t": "Small clay bulls and human figures left as offerings, part of a Cypriot cult of the bull that runs from the Vounous models of the third millennium to the Enkomi Horned God.",
+     "w": "Cyprus Museum, Nicosia; Ashmolean Museum, Oxford"
+    },
+    {
+     "n": "Sacrificial and feasting debris",
+     "p": "Late Bronze Age",
+     "t": "Bones of sheep, goat and deer with shells and quantities of eating and drinking vessels, the residue of communal meals. Cypriot Bronze Age religion is legible mostly through what was eaten at it.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Imported Mycenaean and Minoan pottery",
+     "p": "14th-13th century BCE",
+     "t": "Aegean stirrup jars and fine ware among the offerings, showing that even an inland country sanctuary in the north received goods from the sea trade.",
+     "w": "Cyprus Museum, Nicosia; Ashmolean Museum, Oxford"
+    },
+    {
+     "n": "Bronze knives and chisels",
+     "p": "Late Bronze Age",
+     "t": "Metal tools from the sanctuary deposits, likely used in butchering the sacrifices, alongside the copper that paid for everything else on the island.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://topostext.org/place/353331SMyr",
+    "https://www.cambridge.org/core/journals/antiquaries-journal/article/abs/myrtoupigadhes-a-late-bronze-age-sanctuary-in-cyprus-by-joan-du-plat-taylor-13-10-pp-viii-118-7-pls-printed-for-the-department-of-antiquities-ashmolean-museum-oxford-1957-50s/55D5D467AADAC16BAA9A0B03AB20A020",
+    "https://brewminate.com/when-ancestors-became-gods-transformation-of-ritual-and-religion-in-late-bronze-age-cyprus/",
+    "https://cyprusdiscovery.com/myrtou-pigadhes-sanctuary/"
+   ]
+  },
+  {
+   "id": "episkopi_bamboula",
+   "name": "Episkopi-Bamboula",
+   "modern": "Episkopi, Limassol district",
+   "lon": 32.91,
+   "lat": 34.673,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -1600,
+     -1050
+    ]
+   ],
+   "desc": "The Late Bronze Age town of the lower Kouris valley, on a low hill by Episkopi a short way inland from the sea, excavated by the University of Pennsylvania Museum from 1934 under Bertram Hill, George McFadden and John Franklin Daniel. Six hectares of planned housing with streets and wells, an outer town and a fortified inner town on the hill, and the dead buried among the living in single-chamber tombs. Its seals and writing tools give the best stratified sequence for Cypriot administration and for the island's earliest writing; it was never sacked, but drifted into abandonment by the later twelfth century BCE, and the population later gathered on the cliff at Kourion above.",
+   "finds": [
+    {
+     "n": "Bamboula hill and its circuit wall",
+     "p": "13th century BCE",
+     "t": "A fortification wall thrown round the inner town in the thirteenth century BCE, with the open outer town spreading beyond it. The hill is the visible remnant of a place that once functioned as the harbour arm of an inland polity, probably centred at Alassa.",
+     "w": "In situ, Episkopi"
+    },
+    {
+     "n": "Tripartite houses",
+     "p": "Late Cypriot II",
+     "t": "Rectangular dwellings of five or six rooms on stone footings with mudbrick above, each a distinct household unit on a laid-out street grid rather than an organic huddle.",
+     "w": "In situ, Episkopi"
+    },
+    {
+     "n": "Cylinder seals and bronze writing styli",
+     "p": "15th-13th century BCE",
+     "t": "Seals used both as administrative devices and as personal ornaments, found with the metal styli used to cut Cypro-Minoan signs into clay. Because they come from a stratified settlement rather than from looted tombs, they underpin the dating of Cypriot seals and of the script.",
+     "w": "Penn Museum, Philadelphia; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Gold bull-head earrings",
+     "p": "14th-13th century BCE",
+     "t": "Hoop earrings finished with the head of a bull, a characteristic Cypriot type, from the intramural tombs. The bull runs through Cypriot Bronze Age imagery from ploughing models to the Horned God.",
+     "w": "Penn Museum, Philadelphia; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Hippopotamus tusks, an ostrich egg and a glass pomegranate",
+     "p": "14th-13th century BCE",
+     "t": "Exotica from the tombs: raw ivory from the Nile, an ostrich egg, and a small pomegranate of glass, along with faience beads, alabaster and Egyptian scarabs. A short list of one tomb group maps most of the eastern Mediterranean.",
+     "w": "Penn Museum, Philadelphia; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Mycenaean and Red Lustrous Wheelmade pottery",
+     "p": "15th-13th century BCE",
+     "t": "Greek drinking and oil vessels alongside the hard, thin-walled red spindle bottles traded all over the Levant, whose place of manufacture, Cyprus or Anatolia, is still disputed.",
+     "w": "Penn Museum, Philadelphia; Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/episkopi-bamboula",
+    "https://www.penn.museum/sites/bulletin/2123/",
+    "https://ajaonline.org/article/1062/",
+    "https://vici.org/vici/32339/"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "enkomi",
+   "finds": [
+    {
+     "n": "The cyclopean city wall",
+     "p": "13th century BCE",
+     "t": "A defensive circuit built of stone orthostat slabs, some up to 3.5 metres long, with gates on the north, west and south. Behind it the city was replanned on a grid, with a main street running the length of the town from north to south.",
+     "w": "In situ, Enkomi"
+    },
+    {
+     "n": "The Ashlar Building",
+     "p": "12th century BCE",
+     "t": "A block about 32.5 by 28.5 metres with some 38 rooms around a tripartite core, its faces in dressed ashlar and probably carrying an upper storey. It is the largest secular building known from Bronze Age Cyprus, and no one has settled whether it was a residence, an administrative centre or both.",
+     "w": "In situ, Enkomi"
+    },
+    {
+     "n": "Sanctuary of the Ingot God",
+     "p": "12th century BCE",
+     "t": "A courtyard shrine with rubble walls, lime-coated benches, mudbrick niches and pillars of massive masonry, its floor scattered with close to a hundred skulls of bulls and other cattle. The bronze Ingot God stood here, divine protection standing literally on the island's export.",
+     "w": "In situ, Enkomi"
+    },
+    {
+     "n": "Clay cylinder with the longest Cypro-Minoan text",
+     "p": "14th century BCE",
+     "t": "A clay cylinder found in 1967 carrying about 217 signs, the longest legible inscription in the script. Only some 250 inscribed objects survive in all, and with no bilingual text and so small a sample every proposed decipherment remains improbable.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Copper oxhide ingots",
+     "p": "12th century BCE",
+     "t": "Three ingots cast in the shape of a stretched hide, each around 30 kg, found in the town beside the furnaces and workshops that handled the metal. Ingots of the same form and the same Cypriot copper turn up from Sardinia to Bulgaria.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The silted harbour channel",
+     "p": "12th-11th century BCE",
+     "t": "Enkomi stood on a navigable inlet fed by the Pedieos. The river's silt closed it, the sea withdrew, and a city built on shipping found itself stranded, which is part of why Salamis replaced it on the new coast.",
+     "w": "In situ, Enkomi"
+    }
+   ]
+  },
+  {
+   "id": "hst",
+   "finds": [
+    {
+     "n": "Tomb RR",
+     "p": "14th-13th century BCE",
+     "t": "A chamber tomb holding the remains of at least 137 people, with more than a hundred pots, many imported from Mycenaean Greece, Minoan Crete and Hittite Anatolia, and jewellery of gold, silver, bronze, faience and carnelian along with seals, scarabs and ivory.",
+     "w": "Larnaca District Museum"
+    },
+    {
+     "n": "Gold diadems and mouth-pieces",
+     "p": "15th-13th century BCE",
+     "t": "Thin sheets of gold laid over the brows and mouths of the dead, from seven chamber tombs and one shaft tomb. A 2026 study argues they were made on the island but blend Minoan, Mycenaean, Egyptian and Near Eastern design, which is what a port city's goldsmiths would produce.",
+     "w": "Larnaca District Museum"
+    },
+    {
+     "n": "The offering pit with chariot kraters",
+     "p": "13th century BCE",
+     "t": "A pit packed with figurines and more than sixty vessels, among them several Mycenaean kraters painted with chariots and a large jar bearing an oversized woman in Minoan dress. Offerings were made above the tombs, not only in them.",
+     "w": "Larnaca District Museum"
+    },
+    {
+     "n": "The town at Dromolaxia-Vyzakia",
+     "p": "14th-12th century BCE",
+     "t": "The Bronze Age city itself lies under fields about a kilometre from the shrine, and it is there, not at the mosque, that the Swedish trenches are. Peter Fischer's team has worked the urban centre since 2010 and the cemetery since 2014.",
+     "w": "In situ, Dromolaxia-Vyzakia"
+    },
+    {
+     "n": "The bay that became a salt lake",
+     "p": "12th century BCE onwards",
+     "t": "Ships once came in to a sheltered inlet here. The bar closed, the water turned to brine, and Larnaca Salt Lake is what remains. The town died roughly as its harbour did, around 1150 BCE.",
+     "w": "In situ, Larnaca Salt Lake"
+    }
+   ]
+  },
+  {
+   "id": "maa",
+   "finds": [
+    {
+     "n": "Storerooms against the wall",
+     "p": "12th century BCE",
+     "t": "Rows of small rooms holding large storage jars set behind the fortification, provisions on a scale that suggests a community expecting to sit out trouble rather than a trading post.",
+     "w": "In situ, Maa"
+    },
+    {
+     "n": "Handmade Burnished Ware",
+     "p": "12th century BCE",
+     "t": "Coarse hand-shaped cooking pots of a kind at home in Italy and the western Aegean, found here and at Pyla-Kokkinokremos. It is the strongest hint that some newcomers came from further west than Mycenae, though pots can travel without their makers.",
+     "w": "Paphos District Museum"
+    },
+    {
+     "n": "Aegean-type loomweights",
+     "p": "12th century BCE",
+     "t": "Unbaked clay reels and spools for weaving, a type unknown on Cyprus before this and ordinary in the Aegean. Textile tools are domestic, which is why they are used to argue that whole households arrived and not just traders.",
+     "w": "Paphos District Museum"
+    },
+    {
+     "n": "Built, abandoned, reoccupied, abandoned",
+     "p": "c. 1230-1150 BCE",
+     "t": "The settlement was raised, given up, briefly reoccupied and left for good within about three generations. Vassos Karageorghis and Martha Demas published the sequence in 1988, and it is that short, broken occupation that makes the site so hard to read.",
+     "w": "In situ, Maa"
+    },
+    {
+     "n": "The headland",
+     "p": "c. 1230 BCE",
+     "t": "A neck of rock at Coral Bay with sea on three sides and no harbour, walled on the landward and the seaward side alike. Whoever built it wanted safety rather than trade, and feared attack from both directions.",
+     "w": "In situ, Maa"
+    }
+   ]
+  },
+  {
+   "id": "pyla",
+   "finds": [
+    {
+     "n": "The perimeter of rooms",
+     "p": "c. 1200 BCE",
+     "t": "A continuous line of rooms built along the rim of the plateau so that their back walls form a defensive face. Whether this counts as a fortification or simply as terraced housing on a naturally strong site is one of the live arguments about the place.",
+     "w": "In situ, Pyla-Kokkinokremos"
+    },
+    {
+     "n": "Imports from six directions",
+     "p": "13th-12th century BCE",
+     "t": "Pottery from Mycenaean Greece, Minoan Crete, Nuragic Sardinia, Hittite Anatolia, the Levant and Egypt in one settlement occupied for barely two generations, a mixture unmatched anywhere else on the island at this date.",
+     "w": "Larnaca District Museum"
+    },
+    {
+     "n": "The square shaft in Sector 5",
+     "p": "found 2023",
+     "t": "A well-cut shaft roughly three metres deep with cuttings in its walls for steps or beams. Sandy fill described as very like beach sand turned up in three sectors, which suggests the shore and its landing place were closer than the modern coastline implies.",
+     "w": "In situ, Pyla-Kokkinokremos"
+    },
+    {
+     "n": "Copper alloy axe and metalworking debris",
+     "p": "c. 1200 BCE",
+     "t": "A well-preserved axe found in 2023, with wire fragments and a broken bracelet, from a plateau with no water and no harbour of its own. Vasiliki Kassianidou's team has studied the metal; smiths worked here even so.",
+     "w": "In situ; Larnaca District Museum"
+    },
+    {
+     "n": "The planned abandonment",
+     "p": "c. 1170 BCE",
+     "t": "Ghent University and the Cyprus Institute have excavated here since 2014 under Joachim Bretschneider. The hoards of gold and silver hidden beneath the floors were never lifted, which is why the excavators think the people who buried them never came back.",
+     "w": "In situ, Pyla-Kokkinokremos"
+    }
+   ]
+  },
+  {
+   "id": "kalavasos_ad",
+   "finds": [
+    {
+     "n": "The pithos hall of Building X",
+     "p": "13th century BCE",
+     "t": "Rows of giant storage jars sunk into the floor of the north wing with a combined capacity of more than 50,000 litres of olive oil. That is collection from a whole valley, not one estate's harvest, and it is the clearest evidence for Cypriot regional administration before the Iron Age.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "The street grid",
+     "p": "13th century BCE",
+     "t": "Streets running north to south and east to west, the central one traceable for over 150 metres, with wells at intervals. A town laid out on a plan rather than one that grew.",
+     "w": "In situ, Kalavasos"
+    },
+    {
+     "n": "Cypro-Minoan inscriptions and bronze writing styli",
+     "p": "13th century BCE",
+     "t": "Inscribed objects together with the metal styli used to cut the signs, from inside Building X: the working tools of an administration whose records nobody can now read.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The clay of the Alashiya letters",
+     "p": "14th-13th century BCE",
+     "t": "Petrographic analysis published in 2003 matched the clay of letters sent by the king of Alashiya to Egypt and Ugarit to the geology around Kalavasos and Alassa rather than to Enkomi. It is the strongest physical argument yet about where Alashiya's king actually sat, and it has not settled the question.",
+     "w": "Letters in Berlin, London and Cairo; analysis published 2003"
+    },
+    {
+     "n": "The burning of Building X",
+     "p": "c. 1200 BCE",
+     "t": "The building burned and the town was abandoned. The fire baked its thick plaster floors, which is why they survive well enough to walk on, and the excavators found the storerooms still holding their jars.",
+     "w": "In situ, Kalavasos"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "lba",
+   "events": [
+    [
+     -1600,
+     "Copper is smelted at Politiko-Phorades in the Troodos foothills, the earliest smelting workshop yet excavated on the island"
+    ],
+    [
+     -1550,
+     "Cypriot White Slip and Base Ring pottery, made in quarters like Toumba tou Skourou, is traded from Egypt to the Aegean"
+    ],
+    [
+     -1340,
+     "The king of Alashiya apologises to the pharaoh for a small shipment of copper: the hand of Nergal is in his land and there is no copper worker left"
+    ],
+    [
+     -1300,
+     "Ashlar buildings at Kalavasos, Alassa and Maroni store olive oil by the tens of thousands of litres and press the first Cypriot wine"
+    ],
+    [
+     -1250,
+     "Miners at Apliki in the Solea district cut the ore behind almost every oxhide ingot yet analysed, at home and abroad"
+    ],
+    [
+     -1190,
+     "Pyla-Kokkinokremos and Maa-Palaeokastro are abandoned with their gold still hidden under the floors"
+    ],
+    [
+     -1150,
+     "Locally made Mycenaean IIIC pottery, Aegean cooking pots and Aegean loomweights appear at Enkomi, Kition, Sinda and Maa"
+    ],
+    [
+     -1100,
+     "The harbours close: Hala Sultan Tekke's bay silts into a salt lake and the channel at Enkomi fills"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "alashiya",
+   "rulers": [
+    {
+     "n": "Kushmeshusha",
+     "d": "13th century BCE",
+     "t": "The only king of Alashiya whose name survives, from letters found at Ugarit; the kings who wrote to Egypt in the Amarna archive are all anonymous, and this attribution should be checked against a specialist edition before publication."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "COORDINATES. Verified against OpenStreetMap archaeological_site features or a cited gazetteer: Maroni-Vournes (33.381/34.746), Alassa-Paliotaverna (32.922/34.758, with Pano Mandilaris separately mapped at 32.925/34.758, 260 m away, matching the published 250 m), Myrtou-Pigadhes (33.088/35.290, cross-checked against ToposText 33.0868/35.2903), Toumba tou Skourou (33.001/35.224, cross-checked against Wikidata), Episkopi-Bamboula (32.910/34.673, from Vici.org, stated precision 0-5 m), Nitovikla (34.283/35.494, from the coordinates in the Wikipedia article, which are the same as Wikidata; note that OpenStreetMap places a 'Nitovikla Castle' point about 1 km away at 34.291/35.488 and I have not been able to establish which is the fort).",
+  "COORDINATE FLAG: Apliki-Karamallos. The Late Bronze Age settlement was largely destroyed by the modern open pit, so I have used the coordinate of the Apliki mine itself (32.843/35.078, OSM quarry feature in the Solea district). Note that the English Wikipedia article 'Apliki' attaches the Bronze Age mining story to Apliki Oreinis, a mountain village at 33.117/34.931 in the Machairas foothills, which is nowhere near the Solea copper district. I believe Wikipedia has conflated two villages of the same name. Do not use the Wikipedia coordinate.",
+  "COORDINATE FLAG: Ayios Sozomenos. The point given (33.439/35.065) is the village; the forts of Barsak, Nikolidhes and Dhali-Kafkallia lie on the plateau above and up to 2 km away. If you want the fort itself, a proper coordinate needs the excavation reports of the Ayios Sozomenos Excavations and Survey Project.",
+  "MARONI-TSAROUKKAS is folded into the Maroni-Vournes entry rather than given its own point, because I could not verify a coordinate for the coastal site or the anchorage. If you find one it deserves a separate marker: it is a genuinely distinct locality about 1 km from Vournes with its own cemetery and its own underwater remains.",
+  "OMITTED FOR LACK OF A VERIFIABLE COORDINATE, all worth adding if you can pin them down: Politiko-Phorades (the earliest excavated copper smelting workshop on Cyprus, 3.5 tonnes of slag, thirty near-complete tuyeres, Kouphos valley near Politiko, Sydney Cyprus Survey Project and A. Bernard Knapp with Vasiliki Kassianidou); Sinda (the fortified twelfth-century town with three phases and two destructions, excavated by Arne Furumark in 1947-48, finds in the Gustavianum, Uppsala); Kalopsida (Gjerstad's type site for Middle Cypriot pottery); Dhenia-Kafkalla and Mali (an enormous and heavily looted Bronze Age cemetery, surveyed by Frankel and Webb in 2002-04).",
+  "OMITTED TO AVOID A DUPLICATE MARKER: Athienou-Bamboulari tis Koukounninas. This is a real and important Late Bronze Age sanctuary and copper-working site (excavated by Trude Dothan and Amnon Ben-Tor in 1971-72, with pits full of votive pottery), but OpenStreetMap maps it at 33.548/35.073, which is within about 600 m of your existing 'golgoi' entry at 33.550/35.060. Consider adding it as a Bronze Age find on 'golgoi' instead, which would also give that entry a pre-Archaic layer.",
+  "OMITTED AS BELONGING TO ANOTHER SLICE: Pyrgos-Mavroraki (OSM 33.179/34.744), a spectacular Middle Bronze Age olive oil, perfume and copper workshop destroyed by an earthquake around 1850 BCE. It sits in the eba/early lba overlap and another agent may have it.",
+  "THE AMARNA TONNAGES ARE DISPUTED and I have deliberately not put a tonnage in the text. EA 35 reads 'Now I have sent to you five hundred (talents) of copper', but the weight unit is a restoration by Knudtzon, not something written on the tablet. A Syrian talent is about 28.2 kg, so 500 talents would be roughly 14 tonnes, which would be by far the largest amount recorded and makes nonsense of the king's apology for sending so little. Georgia Papadopoulou (AURA 2018) argues the unit was the shekel, giving about 4.7 kg. The other Alashiya letters give figures with the unit spelled out: 200 talents plus 10 of fine copper (EA 33), 100 talents (EA 34), at least 120 with 70 still owing (EA 36), and 9, 5 and 3 talents from the governor of Alashiya to his Egyptian counterpart (EA 40). If you want one round number for the whole correspondence, the figure quoted in the secondary literature is 897 ingots, roughly 24 to 27 tonnes, over no more than thirty years; I have not traced it to its primary source and would not print it without doing so.",
+  "MUSEUM LOCATIONS I COULD NOT CONFIRM, marked in the text as best guesses: the four Cypro-Minoan inscriptions from Maroni-Vournes (I have written 'Department of Antiquities, Cyprus (exact museum unconfirmed)' rather than guess between the Cyprus Museum and the Larnaca District Museum); the Alassa relief pithoi and stirrup jars (Cyprus Museum and Limassol District Museum are the likely homes but I have not verified a specific object); the split of the Episkopi-Bamboula material between the Penn Museum and the Cyprus Museum; the split of the Myrtou-Pigadhes finds between the Cyprus Museum and the Ashmolean, which funded and published the dig. All of these are plausible but none is sourced to a catalogue entry.",
+  "THE MYRTOU-PIGADHES ALTAR HEIGHT is inconsistent across popular sources: one gives about 2.5 m, another over 3.5 m. Since what stands is a reconstruction by the excavators, I have described it without a figure.",
+  "THE 'GREEK COLONISATION' DEBATE. I have kept the entries agnostic, which reflects where the field is. The old story, Mycenaean refugees founding Greek kingdoms after 1200 BCE, is not so much refuted as reframed: the material at Maa, Pyla, Enkomi and Kition is a genuine mixture of Cypriot, Aegean, Levantine, Anatolian, Sardinian and Egyptian, produced locally, and specialists now prefer 'movement' or 'arrival' to 'colonisation', 'occupation' or 'hellenisation'. The hard linguistic fact on the other side is real and should be said somewhere in the atlas: the Greek eventually written on Cyprus is Arcado-Cypriot, a dialect whose closest relative is spoken in the Peloponnese, which is difficult to explain without people moving. The date at which Greek arrives, however, is not fixed by the pottery.",
+  "CYPRO-MINOAN. Roughly 250 inscribed objects survive, some 4,000 signs in all. Olivier's 2007 corpus is the standard edition. The traditional division into archaic CM, CM1 (the bulk of the material), CM2 (four tablet fragments from Enkomi) and CM3 (mostly from Ugarit) is Emilia Masson's; Jean-Pierre Olivier used three classes. Silvia Ferrara has argued the subgroups are contemporary and correlate with what was written on rather than with date, and a 2022 unsupervised deep-learning study in PLOS One supported reclassification. There is no consensus, and with no bilingual text every decipherment proposed so far is regarded as improbable. I have said 'undeciphered' plainly and avoided asserting a number of sub-scripts in the entry text.",
+  "THE RULER ENTRY FOR KUSHMESHUSHA is offered with low confidence. He is the one named king of Alashiya, from correspondence found at Ugarit, but I could not check a primary edition and the spelling of the name varies. If it cannot be verified, drop the rulers block entirely: the Amarna kings of Alashiya are anonymous, and an empty ruler list for this power is honest.",
+  "ERA_EVENTS: the -1340 event I propose overlaps your existing -1350 Amarna event. If you keep both, consider trimming the existing one, or merge the plague quotation into it. I have also proposed a -1600 event for Politiko-Phorades even though I have not given the site its own marker, because the fact is worth having on the timeline.",
+  "LABEL PLACEMENT: episkopi_bamboula at 32.910/34.673 sits within 2 km of your existing erimi (32.920/34.680), kolossi (32.930/34.670) and kourion (32.890/34.665). That corner of the map is now crowded and no 'lab' value will fix it; you may want to nudge one of them or suppress labels at low zoom.",
+  "RECONCILED: ayios_sozomenos was also proposed in 02-chalco-eba.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: nitovikla was also proposed in 02-chalco-eba.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: toumba_skourou was also proposed in 02-chalco-eba.json, which now carries the merged record. This file contributed its finds, ranges and sources to it."
+ ]
+}

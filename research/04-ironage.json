@@ -1,0 +1,1166 @@
+{
+ "new_settlements": [
+  {
+   "id": "salamis_tombs",
+   "name": "Salamis, the Royal Necropolis",
+   "modern": "Tuzla, near Famagusta",
+   "lon": 33.882,
+   "lat": 35.175,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -800,
+     -300
+    ]
+   ],
+   "desc": "A cemetery of some seven square kilometres west of the city, where nine great built chamber tombs of the late eighth to early sixth centuries BCE were approached by long ramps. Horses in harness were killed at the ramp mouth and left where they fell, sometimes still yoked to a chariot or a hearse, and the burials were furnished with ivory furniture, bronze cauldrons, jars of oil and honey and imported Levantine and Greek pottery. Vassos Karageorghis and Porphyrios Dikaios began systematic excavation in 1957; every chamber had already been robbed, so almost everything known comes from the ramps and the forecourts. The resemblance to the funeral of Patroklos in the Iliad has been argued over ever since, some reading it as living Homeric practice and others as eighth-century kings deliberately staging an ancestral past.",
+   "finds": [
+    {
+     "n": "Tomb 79 and its chariot burials",
+     "p": "Late 8th century BCE",
+     "t": "The richest of the tombs, used twice within a few years. Two horses lay in the ramp with the impressions of a chariot and a hearse in the soil beside them, along with bronze harness, iron bits and a yoke.",
+     "w": "In situ; contents in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Ivory throne and bed from Tomb 79",
+     "p": "Late 8th century BCE",
+     "t": "Furniture of wood faced with carved ivory plaques, some inlaid with blue glass and gold leaf, in a Phoenician and Egyptianising manner. A throne of the same kind is what Homer's Penelope sits on, and the parallel has kept the tomb in the literature for seventy years.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Bronze horse trappings with blinkers and frontlets",
+     "p": "Late 8th century BCE",
+     "t": "Embossed bronze blinkers and forehead plates showing a lion attacking a bull and a sphinx before a sacred tree, made for the sacrificed teams. The nearest parallels come from Assyrian sites, and whether they were imported or made on the island is still argued.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Tomb 3 and its silver-studded sword",
+     "p": "7th century BCE",
+     "t": "One of only two tombs in the necropolis covered by an earth tumulus. Its iron weapons include a sword with silver rivets in the hilt, a large spearhead and arrowheads, an armoury rather than a set of ornaments.",
+     "w": "In situ; weapons in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Amphorae of oil and honey",
+     "p": "8th–6th century BCE",
+     "t": "Rows of large storage jars stacked in the forecourts, some with the residue of olive oil and honey still detectable. They are the physical trace of the funeral feast and of offerings poured for the dead.",
+     "w": "Cyprus Museum, Nicosia; some in situ"
+    },
+    {
+     "n": "The Cellarka cemetery",
+     "p": "7th–4th century BCE",
+     "t": "A crowded field of small rock-cut tombs cut into the soft limestone a little south of the royal tombs, reached by steep stepped passages, used by ordinary Salaminians for four centuries. Many held cremations in jars, and the contrast with the ramped tombs is the clearest picture of social rank the island offers.",
+     "w": "In situ, Salamis necropolis"
+    },
+    {
+     "n": "Tumulus 77, the cenotaph of Nikokreon",
+     "p": "Late 4th century BCE",
+     "t": "A mound over a mudbrick platform on which clay heads and torsos of near life size stood among burnt offerings, but with no burial beneath. It is usually read as an empty memorial to Nikokreon, the last king of Salamis, whose family killed themselves in the palace around 311 BCE, though the identification rests on argument rather than an inscription.",
+     "w": "In situ; clay figures in the Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/salamis",
+    "https://en.wikipedia.org/wiki/Salamis,_Cyprus",
+    "https://www.academia.edu/2778009/_Mortuary_Variability_at_Salamis_Cyprus_Relationships_between_and_within_the_Royal_Necropolis_and_the_Cellarka_Cemetery_",
+    "https://www.livius.org/articles/place/salamis-cyprus/"
+   ]
+  },
+  {
+   "id": "skales",
+   "name": "Palaepaphos-Skales",
+   "modern": "Kouklia, Paphos district",
+   "lon": 32.584,
+   "lat": 34.697,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -1125,
+     -750
+    ]
+   ],
+   "desc": "The main cemetery of Palaepaphos at the moment the Bronze Age ended and the Iron Age began, about a kilometre south-east of the town. Bulldozing for farmland exposed the tombs, and more than fifty chamber graves were dug in the winter and spring of 1979 under Vassos Karageorghis, with further rescue work down to 2011. The dead were laid in chambers reached by long sloping passages, with bronze bowls, gold and faience jewellery, iron weapons and the roasting spits that mark a meat-eating warrior elite. Because one of those spits carries a Greek name in the local syllabary, Skales is the single site most often cited for the arrival of Greek speakers on Cyprus.",
+   "finds": [
+    {
+     "n": "Tomb 49",
+     "p": "c. 1050–950 BCE",
+     "t": "A chamber tomb holding three bronze roasting spits, one of them inscribed in the syllabary with the genitive of a Greek personal name, Opheltas. The tomb is the find context for the earliest Greek text from the island, and the reading of the last sign is still discussed.",
+     "w": "In situ (backfilled); contents in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Bimetallic knives",
+     "p": "11th–10th century BCE",
+     "t": "Knives with iron blades riveted into bronze or ivory handles, among the earliest worked iron on Cyprus. They show local smiths mastering the new metal while the old one was still the prestige material.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Proto-White Painted pottery",
+     "p": "c. 1100–1050 BCE",
+     "t": "The first pottery of the Iron Age, decorated with Aegean-derived motifs but made in Cypriot shapes, in quantity here for the first time. Skales gave the type its stratigraphic anchor.",
+     "w": "Cyprus Museum, Nicosia; Kouklia Local Museum"
+    },
+    {
+     "n": "Gold and faience jewellery",
+     "p": "11th–10th century BCE",
+     "t": "Gold spiral earrings, embossed sheet-gold mouthpieces and diadems, and faience and glass beads of Egyptian and Levantine type. They show that Paphos was still trading east while the Aegean palaces were in ruins.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Cremation burials",
+     "p": "11th–9th century BCE",
+     "t": "A minority of the dead were burned and their bones gathered into jars, a practice new to Cyprus at this date. Recent osteological work on the cremated bone is being used to test whether the rite marks incomers or a new fashion among locals.",
+     "w": "Studied material with the Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Tomb 277",
+     "p": "11th century BCE",
+     "t": "One of the later-excavated graves, unusually well furnished with bronze vessels and weapons and published in 2021. Its contents strengthened the case that a small hereditary elite at Paphos survived the Bronze Age collapse intact.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://kyprioscharacter.eie.gr/en/scientific-texts/details/archaeology/history-of-research-at-palaepaphos",
+    "https://whitelevy.fas.harvard.edu/publications/palaepaphos-skales-tombs-late-cypriote-iiib-and-cypro-geometric-periods",
+    "https://publicera.kb.se/opuscula/article/view/62113",
+    "https://www.sciencedirect.com/science/article/abs/pii/S2352409X2500094X",
+    "https://www.researchgate.net/publication/275595876_The_most_Ancient_Cypriot_text_Written_in_Greek_The_Opheltas'_Spit"
+   ]
+  },
+  {
+   "id": "kaloriziki",
+   "name": "Kourion-Kaloriziki",
+   "modern": "Episkopi, Limassol district",
+   "lon": 32.894,
+   "lat": 34.663,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -1100,
+     -450
+    ]
+   ],
+   "desc": "The cemetery on the saddle below the Kourion bluff, and for a long time the only real evidence for the early history of the kingdom, since the Iron Age town itself has never been found. The University of Pennsylvania Museum expedition dug here in the 1930s, and its tombs run from the eleventh century BCE to Classical times, with the Cypro-Geometric graves the richest. Their bronze vessels and Aegean-style pottery were once read as the graves of Argive founders arriving after the Trojan War; the current reading is more cautious, and speaks of local elites who chose Aegean things.",
+   "finds": [
+    {
+     "n": "The Kourion sceptre",
+     "p": "11th century BCE",
+     "t": "A short gold staff whose head is a globe of cloisonné enamel surmounted by two falcons, about 16 cm long. The enamelling has no Aegean parallel and looks Egyptian in technique, and it is one of the earliest true enamels anywhere; it is usually called royal, though the tomb was disturbed and the claim cannot be proved.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Tomb 40",
+     "p": "First half of the 11th century BCE",
+     "t": "A shaft grave holding a cremation in a bronze vessel, two bronze rod tripod stands, the remains of a shield and the gold sceptre. Once described as the tomb of the Achaean founder of Kourion, it is now more often read as the grave of a Cypriot or Phoenician notable.",
+     "w": "In situ (backfilled); contents in the Cyprus Museum, Nicosia, and the Penn Museum, Philadelphia"
+    },
+    {
+     "n": "Bronze rod tripod stands",
+     "p": "12th–11th century BCE",
+     "t": "Openwork stands of cast bronze rods made to carry a bowl, a Cypriot speciality of the very end of the Bronze Age. Examples travelled to Crete and the Greek mainland, and they are the clearest sign that Cypriot smiths were still exporting skill after the palaces fell.",
+     "w": "Cyprus Museum, Nicosia; Penn Museum, Philadelphia"
+    },
+    {
+     "n": "Cypro-Geometric chamber tombs",
+     "p": "c. 1050–750 BCE",
+     "t": "Rock-cut chambers entered from short passages, reused over generations, with painted pottery, iron weapons and imported Levantine flasks. Their gold and silver point to a community growing steadily richer on the copper and timber of the Kouris valley.",
+     "w": "In situ, Kaloriziki ridge"
+    },
+    {
+     "n": "Aegean and East Greek imports",
+     "p": "10th–6th century BCE",
+     "t": "Painted cups and jugs from Euboea, Attica and the East Greek islands, in higher proportion here than at any other Cypriot cemetery of the period. Kourion looked west while Kition looked east.",
+     "w": "Cyprus Museum, Nicosia; Penn Museum, Philadelphia"
+    }
+   ],
+   "sources": [
+    "https://vici.org/vici/32492/",
+    "https://www.ancientcyprus.com/articles/iron-age-cities-kourion",
+    "https://www.cambridge.org/core/journals/annual-of-the-british-school-at-athens/article/abs/transition-from-bronze-to-iron-at-kourion-a-review-of-the-tombs-from-episkopibamboula-and-kaloriziki1/8A6FBEAEF910250E0691896C8D47F0CF",
+    "https://www.penn.museum/sites/kourion/"
+   ]
+  },
+  {
+   "id": "meniko",
+   "name": "Meniko-Litharkes",
+   "modern": "Meniko, Nicosia district",
+   "lon": 33.154,
+   "lat": 35.105,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -600,
+     -450
+    ]
+   ],
+   "desc": "A small country sanctuary on the northern approaches to the Troodos, near the copper ground of Mitsero, excavated by the Department of Antiquities under Vassos Karageorghis in the early 1970s and published with a second shrine in 1977. It matters because the deity worshipped in it was not Greek: the cult statuary is of the Phoenician Baal Hamman, the bearded god enthroned between rams, in a village well inland from Phoenician Kition. Meniko is the standard evidence that Phoenician religion reached the Cypriot countryside and not only the coastal city, probably along the road to the mines.",
+   "finds": [
+    {
+     "n": "Limestone statue of an enthroned bearded god",
+     "p": "Later 6th century BCE",
+     "t": "A seated male figure with a long squared beard on a throne whose arms end in rams' heads, the standard image of Baal Hamman. No inscription names him, so the identification rests on the iconography, which is why some prefer the neutral 'enthroned god'.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Second cult statue",
+     "p": "Later 6th century BCE",
+     "t": "A companion figure of the same god at smaller scale, found in the same rooms. Two images of one deity in one small shrine is unusual and has been read as an old statue kept in service beside its replacement.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Stone incense altar",
+     "p": "Later 6th century BCE",
+     "t": "A block cut with a shallow burning hollow, of the type used for aromatics in Phoenician cult. Burnt residue on such altars is the plainest surviving trace of what actually happened in these shrines.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The shrine building",
+     "p": "Later 6th century BCE",
+     "t": "A modest rectangular structure of rubble and mudbrick with a court and inner rooms, not a temple in the Greek sense but a walled house for the god and his offerings. It went out of use around the end of the Archaic period and was not rebuilt.",
+     "w": "In situ, Meniko (unroofed and largely reburied)"
+    },
+    {
+     "n": "Terracotta votives",
+     "p": "6th century BCE",
+     "t": "Mould-made and handmade clay figures, including horse-and-rider groups and bulls, left by ordinary visitors. They are the same repertoire found at Greek-dedicated shrines on the island, which is the point: the offerings were Cypriot even when the god was not.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "http://www.helladic.info/MAPC/pkey_report_wparam.php?place=C1813",
+    "https://www.semanticscholar.org/paper/Two-Cypriote-Sanctuaries-of-the-End-of-the-Period-Wilson-Karageorghis/94f11cae570c4f1158d526ea722995942635af50",
+    "https://scholars.wlu.ca/etd/1359/",
+    "https://en.wikipedia.org/wiki/Baal_Hammon"
+   ]
+  },
+  {
+   "id": "kafizin",
+   "name": "Kafizin",
+   "modern": "Conical hill south-east of Nicosia, near Aglantzia",
+   "lon": 33.423,
+   "lat": 35.134,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -240,
+     -210
+    ]
+   ],
+   "desc": "A cave shrine to a Nymph on a conical hill south-east of Nicosia, dug in 1939 and again between 1949 and 1955 and published by Terence Mitford in 1980. It produced some 310 inscribed pots and terracottas, of which 269 were dedicated by one man: Onesagoras son of Philounios, a barber who gave himself the title dekatephoros, tithe-bringer. The dedications are dated between 225 and 218 BCE and many are written out twice, once in the Cypriot syllabary and once in the Greek alphabet, which pushed the survival of the old script down to the end of the third century BCE. It is the best evidence anywhere for how an ordinary Cypriot under the Ptolemies actually spoke to a god.",
+   "finds": [
+    {
+     "n": "The inscribed vessels of Onesagoras",
+     "p": "225–218 BCE",
+     "t": "About 310 pots, of which 269 were dedicated by Onesagoras, inscribed before and after firing with dates, quantities and addresses to the Nymph. They read like a working ledger crossed with prayer, and they carry precise regnal dates, which is why the group anchors so much Cypriot chronology.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Syllabic and alphabetic texts side by side",
+     "p": "225–218 BCE",
+     "t": "Some vessels carry the Cypriot syllabary, some the Greek alphabet, and some both, occasionally mixing the two in one word. Nowhere else can the retreat of the syllabary be watched at this resolution.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The cave and the conical hill",
+     "p": "3rd century BCE",
+     "t": "A rock cavity on a steep isolated cone, called simply 'the conical hill' in the inscriptions themselves, a phrase attested at no other Cypriot site. The hill is a landmark from the Mesaoria and needs no signpost.",
+     "w": "In situ, Kafizin hill"
+    },
+    {
+     "n": "The title dekatephoros",
+     "p": "225–218 BCE",
+     "t": "Onesagoras styles himself tithe-bearer, apparently a man who brought a tenth of a crop or a trade to the goddess. Whether this was a priesthood, a tax office or a private vow he invented for himself is still argued.",
+     "w": "Texts in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Dedications by named companions",
+     "p": "225–218 BCE",
+     "t": "A smaller group of pots names other dedicants, among them relatives and men described as fellow workers, so the shrine was not a one-man affair. The names are a rare census of ordinary Hellenistic Cypriots.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The dedications of Onesagoras",
+     "p": "225-218 BCE",
+     "t": "269 of the roughly 310 inscribed vessels from the shrine were given by a single barber, an intensity of devotion that has led scholars to call him a nympholept, a man seized by the Nymph. No other Greek sanctuary has anything comparable from one hand.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The digraphic inscriptions",
+     "p": "225-218 BCE",
+     "t": "Texts written in both the Cypriot syllabary and the Greek alphabet on the same vessel. They are the latest securely dated syllabic writing on the island and they killed the older view that the script died out with the city-kingdoms.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Nymph of the conical hill",
+     "p": "3rd century BCE",
+     "t": "The goddess is addressed as dwelling in the conical hill itself and given epithets such as mountain-ranging and sister. She has no name, no temple and no statue: the hill is the cult.",
+     "w": "Attested in the inscriptions"
+    },
+    {
+     "n": "The unread vocabulary",
+     "p": "3rd century BCE",
+     "t": "The texts are full of rare or otherwise unknown words whose meanings are still argued over, which is why a small rural shrine has a bibliography out of all proportion to its size.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Vessels of unusual form",
+     "p": "3rd century BCE",
+     "t": "Alongside ordinary jugs the shrine produced ceramic and terracotta objects of shapes not found elsewhere, apparently made for the cult rather than adapted from household ware.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://topostext.org/place/351334SNym",
+    "https://journals.openedition.org/kernos/2101?lang=en",
+    "https://www.cambridge.org/core/journals/classical-quarterly/article/abs/kafizin-and-the-cypriot-syllabary/9DCB299AD7B2ED38D0E2A8F4D65E3C46",
+    "https://bmcr.brynmawr.edu/2021/2021.12.26/",
+    "https://kyprioscharacter.eie.gr/en/scientific-texts/details/inscriptions/alphabetic-inscriptions-of-cyprus-epigraphic-contribution-to-reconstruction-of-history-of-ancient-cyprus"
+   ]
+  },
+  {
+   "id": "arsos_sanctuary",
+   "name": "Arsos, sanctuary of Aphrodite",
+   "modern": "Arsos (Yiğitler), Larnaca district, now in the north",
+   "lon": 33.627,
+   "lat": 35.095,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -650,
+     200
+    ]
+   ],
+   "desc": "A rural sanctuary of Aphrodite in the eastern Mesaoria, known from inscriptions that call the goddess Golgia, the Aphrodite of Golgoi, so the shrine belonged to a cult network rather than standing alone. Its votive deposit was unusual for containing mostly female statues, which makes it the best single source for how Cypriot sculptors handled women, from stiff Archaic figures in heavy jewellery to softened Hellenistic types. The finds were dispersed in the nineteenth and early twentieth centuries and the shrine has never been properly excavated or securely located on the ground.",
+   "finds": [
+    {
+     "n": "Limestone female votaries",
+     "p": "6th–2nd century BCE",
+     "t": "Standing women in long chitons with earrings, necklaces and flower-held-to-the-breast gestures, a series long enough to trace three centuries of changing style. They are the counterweight to the male votaries that dominate almost every other Cypriot sanctuary.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London; other European collections"
+    },
+    {
+     "n": "Dedications to Aphrodite Golgia",
+     "p": "Hellenistic and Roman",
+     "t": "Inscriptions naming the goddess as Golgia, the epithet that ties Arsos to the great sanctuary town of Golgoi some twelve kilometres west. They are the reason the site is identified as Aphrodite's at all.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Terracotta offerings",
+     "p": "6th–4th century BCE",
+     "t": "Mould-made clay figures of women, some holding infants or tambourines, cheap versions of the stone votaries. They show who was actually paying: villagers, not kings.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Archaic heads of the 'Cypro-Ionian' style",
+     "p": "c. 550–480 BCE",
+     "t": "Limestone heads with the almond eyes and pressed smile borrowed from East Greek sculpture, wearing wreaths and diadems. Arsos is one of the sites used to date the moment Cypriot carvers turned from Egyptian to Ionian models.",
+     "w": "Cyprus Museum, Nicosia; dispersed collections"
+    }
+   ],
+   "sources": [
+    "https://topostext.org/place/351336SAph",
+    "https://kyprioscharacter.eie.gr/en/scientific-texts/details/cult-and-religion/aphrodite-goddess-of-cyprus",
+    "https://www.ancientcyprus.com/compendium/statues/archaic-limestone"
+   ]
+  },
+  {
+   "id": "achna_sanctuary",
+   "name": "Achna, rural sanctuary",
+   "modern": "Achna (Düzce), between Larnaca and Famagusta, now in the north",
+   "lon": 33.784,
+   "lat": 35.055,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -750,
+     -300
+    ]
+   ],
+   "desc": "A country shrine in the plain between Kition and Salamis, usually said to be Artemis's, emptied in 1882 by Max Ohnefalsch-Richter working for the British Museum. More than a thousand stone and terracotta figures came out of it, and almost nothing was recorded about where any of them lay, so Achna has become the standard example of how much Cypriot archaeology was lost while it was being collected. The finds were divided between sponsors and are now spread across the British Museum, the Louvre, the Pierides Museum and the Cyprus Museum.",
+   "finds": [
+    {
+     "n": "The votive deposit",
+     "p": "c. 750–310 BCE",
+     "t": "Over a thousand limestone and terracotta figures dug out in a single season of 1882. The sheer number shows a shrine used continuously for four centuries, but with no plan and no stratigraphy nothing can be said about how the cult worked.",
+     "w": "British Museum, London; Louvre, Paris; Pierides Museum, Larnaca; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Mould-made 'Astarte' plaque figurine",
+     "p": "7th–6th century BCE",
+     "t": "A clay female figure about 40 cm high, pressed from a mould with the hands to the breasts in the Levantine Astarte pose. Mass production of this kind put a goddess within reach of anyone who could pay a potter.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Limestone votaries in Egyptianising dress",
+     "p": "6th century BCE",
+     "t": "Male figures in the pleated kilt and double crown borrowed from Egypt, a fashion that swept Cypriot sculpture while the island paid tribute to the Saite pharaohs. Achna supplied a large part of the series now in London and Paris.",
+     "w": "British Museum, London; Louvre, Paris"
+    },
+    {
+     "n": "Terracotta horse-and-rider figures",
+     "p": "6th–5th century BCE",
+     "t": "Small clay riders on stiff-legged horses, a type found at almost every Cypriot country shrine and probably a soldier's or a traveller's offering. Achna produced them in quantity.",
+     "w": "British Museum, London; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The unlocated shrine",
+     "p": "Dug 1882",
+     "t": "The sanctuary itself has never been relocated on the ground; the village was abandoned in 1974 and no modern survey has fixed the temenos. It is the clearest case on the island of a major site known only from its objects.",
+     "w": "Site location unrecorded, Achna village lands"
+    }
+   ],
+   "sources": [
+    "https://www.ancientcyprus.com/sites/achna",
+    "https://www.ancientcyprus.com/articles/cypriot-figurine-from-achna-astarte-figurine",
+    "https://www.ancientcyprus.com/compendium/chronology/cypro-archaic"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "salamis",
+   "finds": [
+    {
+     "n": "Silver coins of Evelthon",
+     "p": "c. 560–525 BCE",
+     "t": "Sigloi with a recumbent ram and a plain reverse, carrying the king's name in the Cypriot syllabary, the first coins struck on the island. Their weight follows a local standard rather than a Persian or Greek one.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London; Bibliothèque nationale de France, Paris"
+    },
+    {
+     "n": "Gold staters of Evagoras I",
+     "p": "411–374 BCE",
+     "t": "The first gold coinage of Cyprus, with the head of Herakles and a recumbent goat, and legends in the syllabary and the Greek alphabet together. The double script is the whole policy of Evagoras in miniature: a Cypriot king advertising himself to Greeks.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Monetary reform of Nikokles",
+     "p": "374–361 BCE",
+     "t": "Gold thirds and small fractions with Aphrodite on one side and Athena on the other, on a new standard. Nikokles was the first Salaminian king to abandon the syllabary on his coins entirely.",
+     "w": "Cyprus Museum, Nicosia; Bibliothèque nationale de France, Paris"
+    },
+    {
+     "n": "Sanctuary of Zeus Salaminios",
+     "p": "Archaic origins, monumental in Hellenistic and Roman times",
+     "t": "The city's chief temple, at the south of the site, whose Hellenistic and Roman phases survive as a platform and scattered capitals. The Archaic cult beneath is attested by dedications rather than by standing walls.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "The Iron Age town beneath the Roman city",
+     "p": "11th–4th century BCE",
+     "t": "The Salamis visitors see is Roman and Early Christian; the kingdom's own city lies under it and has been reached only in small soundings near the harbour. That the leading kingdom of Cyprus is archaeologically its least known capital is a standing frustration of the field.",
+     "w": "In situ, Salamis (largely unexcavated)"
+    }
+   ]
+  },
+  {
+   "id": "kition",
+   "finds": [
+    {
+     "n": "The Milkyaton trophy inscription",
+     "p": "392/391 BCE",
+     "t": "A Phoenician text found at Larnaca in 1990 recording a trophy set up by Milkyaton, king of Kition and Idalion, in his first regnal year, to the god Baal Oz, Lord of Strength, for a victory the god had granted. The enemy is not named; most scholars supply Evagoras of Salamis and his allies, which would make this the only contemporary monument of that war.",
+     "w": "Larnaca District Archaeological Museum"
+    },
+    {
+     "n": "Phoenician funerary stelae from the Tourapi necropolis",
+     "p": "4th century BCE",
+     "t": "Four inscribed grave markers, one a white marble stele with a triangular top, found in 1894 by John Myres for the Cyprus Exploration Fund in the cemetery at Turabi Tekke. They name ordinary Phoenician-speaking Kitians and their families.",
+     "w": "British Museum, London; Cyprus Museum, Nicosia; Ashmolean Museum, Oxford"
+    },
+    {
+     "n": "Kition-Bamboula settlement mound and sanctuary",
+     "p": "13th–4th century BCE",
+     "t": "The low mound beside the war harbour, dug by a French mission from 1976, with a sequence from the Late Bronze Age town to a Phoenician sanctuary and the classical port installations. It is the one part of ancient Kition excavated to modern standards over a long run of seasons.",
+     "w": "In situ, Kition-Bamboula, Larnaca"
+    },
+    {
+     "n": "Dated coinage of Pumayyaton",
+     "p": "362/361–312 BCE",
+     "t": "Silver and gold struck through a reign of more than forty-five years, with the regnal year numbered on the coin, a habit almost unknown elsewhere in the Greek world. The numbers let historians date the annexation of Tamassos to his twenty-first year.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Phoenician royal dedications from the Kathari temples",
+     "p": "9th–4th century BCE",
+     "t": "Stone and marble dedications naming Kitian kings and temple officers, part of a corpus of more than 135 published Phoenician inscriptions from Cyprus, seven of them of the eighth century BCE or earlier. Together they make Kition the best-documented Phoenician city outside Lebanon.",
+     "w": "Cyprus Museum, Nicosia; Larnaca District Museum; British Museum, London"
+    }
+   ]
+  },
+  {
+   "id": "amathus",
+   "finds": [
+    {
+     "n": "The Amathus bowl",
+     "p": "c. 700 BCE",
+     "t": "A silver bowl, gilded and worked in repoussé, taken from a looted Amathus tomb by Luigi Palma di Cesnola before 1877. Concentric bands show sphinxes, Assyrian-dressed worshippers at a sacred tree, and an outer scene of a city under siege by soldiers in Greek, Egyptian and Urartian gear, the fullest picture of a siege to survive from the Phoenician world.",
+     "w": "British Museum, London"
+    },
+    {
+     "n": "The Archaic acropolis sanctuary",
+     "p": "8th century BCE onwards",
+     "t": "Under the Roman temple of Aphrodite lie earlier cult terraces with a great rock-cut cistern and votive deposits, the shrine of the goddess the Amathusians worshipped before Greek names were attached to her. The French mission traced the sequence from the 1970s.",
+     "w": "In situ, Amathus acropolis"
+    },
+    {
+     "n": "Lion coinage of the Amathusian kings",
+     "p": "c. 460–360 BCE",
+     "t": "Sigloi of Rhoikos I with a recumbent lion, followed by issues of Rhoikos II, Pyrrhos, Zotimos, Lysandros and Epipalos, several of them known only from their coins. The mint kept a local weight standard long after its neighbours changed.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "The Archaic city wall",
+     "p": "8th–6th century BCE",
+     "t": "A massive circuit of mudbrick on stone footings around the lower town, one of the earliest fortifications of the Cypriot kingdoms. It is why Onesilos had to besiege the place in 498 BCE instead of walking in.",
+     "w": "In situ, Amathus"
+    },
+    {
+     "n": "The plundered north cemetery",
+     "p": "8th–4th century BCE",
+     "t": "The tombs that produced the Amathus sarcophagus and the silver bowl were dug out by Cesnola and by the British in the nineteenth century, with two chambers alone yielding fragments of fifteen sarcophagi. Almost nothing of that context was recorded.",
+     "w": "In situ (emptied); objects in the Metropolitan Museum, New York, and the British Museum, London"
+    }
+   ]
+  },
+  {
+   "id": "idalion",
+   "finds": [
+    {
+     "n": "Crowned head of Apollo from Potamia-Ellines",
+     "p": "5th–4th century BCE",
+     "t": "A limestone head wearing a laurel crown, found in 1933 in the Ellines locality of Potamia, the next village east of Dali, and long the best-known object from Idalion's hinterland. Later trenching at Ellines confirmed a settlement there within the kingdom's territory.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The destruction layer of the west acropolis",
+     "p": "c. 470–450 BCE",
+     "t": "A burnt horizon across the fortified summit at Ambelleri, marking the day the Phoenician army of Kition took the city. Everything above it is Kitian administration; everything below is an independent kingdom.",
+     "w": "In situ, Dali"
+    },
+    {
+     "n": "Coins of Stasikypros",
+     "p": "Mid-5th century BCE",
+     "t": "Small silver thirds and twelfths of a siglos with a syllabic legend, the last coins struck by an independent Idalion. Stasikypros is the king named on the Idalion Tablet.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Sanctuary of Aphrodite on the east acropolis",
+     "p": "7th–3rd century BCE",
+     "t": "The hill opposite the Athena temple carried shrines of Aphrodite and Apollo, cleared by Cesnola and Lang in the 1860s. Idalion is where the myth of Adonis dying in Aphrodite's arms was localised, and the Cypriot Aphrodite was worshipped here as much as at Paphos.",
+     "w": "In situ, Dali; sculpture in the British Museum, London, and the Metropolitan Museum, New York"
+    },
+    {
+     "n": "The double acropolis and the lower town wall",
+     "p": "8th–4th century BCE",
+     "t": "Two flat-topped hills flanking the Yialias river, joined by a walled lower town, the clearest plan of a Cypriot city-kingdom anywhere. Copper from the Troodos passed through it on the way to the coast.",
+     "w": "In situ, Dali"
+    }
+   ]
+  },
+  {
+   "id": "tamassos",
+   "finds": [
+    {
+     "n": "Tomb 12 and its silver-studded sword",
+     "p": "7th–6th century BCE",
+     "t": "One of the built ashlar tombs, its grave goods including an iron sword with silver rivets in the hilt. Tamassian tombs are smaller than those at Salamis but their masonry is finer.",
+     "w": "In situ, Politiko; sword in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Tamassos bilinguals",
+     "p": "4th century BCE",
+     "t": "Dedications inscribed in both Phoenician and the Cypriot syllabary, set up after the kingdom passed to Kition. They are the documents historians use to work out what actually changed for a Cypriot city when a Phoenician king bought it.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Sanctuary of the Mother of the Gods",
+     "p": "6th–4th century BCE",
+     "t": "A shrine inside the city walls, distinct from the Aphrodite sanctuary and the Apollo shrine at Frangissa, showing three separate cults served by one small town. Its votives are mostly terracotta.",
+     "w": "In situ, Politiko"
+    },
+    {
+     "n": "Dedications to Apollo Alasiotas",
+     "p": "5th–4th century BCE",
+     "t": "Syllabic texts from the Frangissa sanctuary that call the god Alasiotas, 'of Alashiya', the Bronze Age name of the island still attached to a deity a thousand years later. It is the longest survival of that name anywhere.",
+     "w": "Cyprus Museum, Nicosia; Staatliche Museen zu Berlin"
+    },
+    {
+     "n": "Copper smelting workshops beside the goddess",
+     "p": "8th–4th century BCE",
+     "t": "Furnaces and slag from the smelting of copper sulphide ores, and casting debris, immediately next to the Aphrodite sanctuary. The technical detail matters: sulphide ore needs roasting before smelting, and Tamassos was doing it at scale.",
+     "w": "In situ, Politiko"
+    },
+    {
+     "n": "The sale of the kingdom",
+     "p": "342/341 BCE",
+     "t": "Duris of Samos records that Pasikypros, king of Tamassos, sold his city and his royal title to Pumayyaton of Kition for fifty talents and went to grow old at Amathus. Pumayyaton's dated coins confirm he held Tamassos from his twenty-first year.",
+     "w": "Literary source; coins in the Cyprus Museum, Nicosia"
+    }
+   ]
+  },
+  {
+   "id": "marion",
+   "finds": [
+    {
+     "n": "Gold staters of Stasioikos II",
+     "p": "c. 330–312 BCE",
+     "t": "The first gold struck at Marion, by the king Ptolemy arrested in 312 BCE, with legends in both the Cypriot syllabary and Greek letters. They were minted within a few years of the city's destruction.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "The Sasmas coin with Phrixos and the ram",
+     "p": "5th century BCE",
+     "t": "A silver issue of an early Marion king showing Phrixos riding the golden ram, the only appearance of that myth on Cypriot coinage. Why a north-western Cypriot king chose it is unexplained.",
+     "w": "British Museum, London; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Limni copper mines",
+     "p": "Bronze Age to 20th century",
+     "t": "The ore body a few kilometres east of Polis, worked from antiquity and again industrially until 1979, which gave Marion its wealth and its reason to exist. Ancient galleries and slag heaps survive around the modern workings.",
+     "w": "In situ, Limni, Polis Chrysochous"
+    },
+    {
+     "n": "The Classical town grid",
+     "p": "5th–4th century BCE",
+     "t": "Princeton University's excavations from 1983 traced streets and houses of the kingdom's town beneath the later Arsinoe, including workshops and a paved square. It is the best-planned Cypriot Classical townscape yet exposed.",
+     "w": "In situ, Polis Chrysochous"
+    }
+   ]
+  },
+  {
+   "id": "soli",
+   "finds": [
+    {
+     "n": "Soli-Mersinaki sanctuary",
+     "p": "7th century BCE onwards",
+     "t": "A sanctuary of Apollo on the coast west of the city, excavated by the Swedish Cyprus Expedition in 1929, with limestone and terracotta votaries running from the Archaic period into Roman times. Half the sculpture went to Stockholm under the division of finds.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The siege of 498 BCE",
+     "p": "498/497 BCE",
+     "t": "Herodotus says Soli held out five months against the Persians, longer than any other Cypriot city, and fell only when they undermined the wall. Traces of the Archaic circuit survive on the acropolis above the theatre.",
+     "w": "In situ, Soli acropolis"
+    },
+    {
+     "n": "Gold coins of Eunostos",
+     "p": "Late 4th century BCE",
+     "t": "Issues with Apollo and Aphrodite struck by the last king of Soloi, who married Eirene, a daughter of Ptolemy I, and so outlasted every other Cypriot dynasty. He was still on his throne after 312 BCE, when the rest were gone.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Erisu, king of Soloi",
+     "p": "673/672 BCE",
+     "t": "The kingdom's first appearance in history is as 'Erisu king of Sillu' on Esarhaddon's prism, among the ten Cypriot kings who sent building materials to Nineveh. The Greek story that Soli was renamed after Solon of Athens cannot be reconciled with a kingdom already there in the seventh century.",
+     "w": "Prism in the British Museum, London"
+    }
+   ]
+  },
+  {
+   "id": "lapithos",
+   "finds": [
+    {
+     "n": "Coins of Demonikos I",
+     "p": "c. 500 BCE",
+     "t": "Silver with the head of Athena on both faces, one of the earliest coinages of the north coast. Lapethos struck under Greek, then Phoenician, then Greek names again, and the mint is the main record of who was in charge.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "The Phoenician kings of Lapethos",
+     "p": "5th–4th century BCE",
+     "t": "Ba'alzakor, Sidqmilk and Barik Shamash struck coins with Phoenician legends, and the issue of Sidqmilk is the one Cypriot coin that names both the king and his kingdom. A Greek-founded city with Phoenician rulers is a reminder that the island's two cultures were not neatly divided by geography.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "Bronze coins of Praxippos",
+     "p": "c. 320–312 BCE",
+     "t": "Small bronzes inscribed in Greek letters, struck by the last king, whom Ptolemy I arrested in 312 BCE for dealing with Antigonus. The kingdom was abolished with him.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Larnax Lapethou bilinguals",
+     "p": "3rd–2nd century BCE",
+     "t": "Dedications from the site in Phoenician and Greek, equating Melqart with Herakles and Anat with Athena, among the latest Phoenician inscriptions on Cyprus. They show the language surviving here long after Kition had gone over to Greek.",
+     "w": "Cyprus Museum, Nicosia; Bibliothèque nationale de France, Paris"
+    }
+   ]
+  },
+  {
+   "id": "palaepaphos",
+   "finds": [
+    {
+     "n": "Counter-tunnels beneath the siege mound",
+     "p": "498/497 BCE",
+     "t": "The defenders dug galleries out under the Persian ramp and lit fires in them to collapse it, and the tunnels were found and followed by the Liverpool and St Andrews expedition in the 1950s. Siege and counter-siege survive together, which is very rare.",
+     "w": "In situ, Kouklia north-east gate"
+    },
+    {
+     "n": "The Hadjiabdoullah administrative ostrakon",
+     "p": "4th century BCE",
+     "t": "A sherd inscribed in the Cypriot syllabary with what reads as an administrative account, published in 2019 from the University of Cyprus excavations on the palace plateau. It is direct evidence that the Paphian kings kept written records.",
+     "w": "Kouklia Local Museum"
+    },
+    {
+     "n": "Coinage of the Paphian kings",
+     "p": "Late 6th–4th century BCE",
+     "t": "A long series beginning with Siromos's kneeling bull with a human face, running through Stasandros's bull and ankh-holding eagle to Timarchos's gold, and ending with Nikokles, who signed his name in minute letters on Alexander's coinage. The man-faced bull is unique to Paphos.",
+     "w": "Cyprus Museum, Nicosia; British Museum, London"
+    },
+    {
+     "n": "The Archaic and Classical acropolis walls",
+     "p": "6th–4th century BCE",
+     "t": "Towered fortification walls of the fifth and fourth centuries BCE exposed on the Hadjiabdoullah plateau by the University of Cyprus, alongside the storage and workshop ranges of the royal seat. The kings of Paphos have finally acquired a palace.",
+     "w": "In situ, Kouklia"
+    }
+   ]
+  },
+  {
+   "id": "kourion",
+   "finds": [
+    {
+     "n": "Damasu, king of Kuri",
+     "p": "673/672 BCE",
+     "t": "Kourion enters history as Damasu on Esarhaddon's prism, one of the ten Cypriot kings who sent materials for the Assyrian palace at Nineveh. The name is the Greek Damasos in Assyrian spelling.",
+     "w": "Prism in the British Museum, London"
+    },
+    {
+     "n": "The Archaic votive deposit of Apollo Hylates",
+     "p": "8th–6th century BCE",
+     "t": "A great pit of offerings including gold and silver bull figurines, East Greek painted pottery and Egyptian bronze bowls, with the burnt bone of large-scale animal sacrifice. The imports show a country sanctuary plugged into the whole eastern Mediterranean.",
+     "w": "Kourion Museum, Episkopi; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The circular monument",
+     "p": "5th century BCE",
+     "t": "A paved ring with a low kerb and post-holes in the Apollo sanctuary, usually explained as a place for ritual dancing around a planted tree or a sacred grove. No other Cypriot sanctuary has one.",
+     "w": "In situ, Sanctuary of Apollo Hylates"
+    },
+    {
+     "n": "Stesenor's desertion",
+     "p": "497 BCE",
+     "t": "Herodotus names Stesenor of Kourion as the commander who changed sides in the middle of the battle against the Persians, taking his chariots with him and losing the Cypriot revolt. No inscription or coin of him is known, which is itself telling.",
+     "w": "Literary source"
+    }
+   ]
+  },
+  {
+   "id": "golgoi",
+   "finds": [
+    {
+     "n": "Duthoit's heads for the Louvre",
+     "p": "Dug 1862",
+     "t": "Edmond Duthoit, working for the French mission, took between 150 and 200 sculpted heads from the votive deposits eight years before Cesnola arrived. Golgoi was being emptied by two nations at once.",
+     "w": "Louvre, Paris"
+    },
+    {
+     "n": "Priest holding a dove",
+     "p": "c. 500–475 BCE",
+     "t": "A limestone statue of a bearded man in a wreath cradling a dove, among the best known of Cesnola's Golgoi figures and one of the images that defined 'Cypriot sculpture' for American visitors. The dove is Aphrodite's bird, offered to a god the inscriptions call Apollo.",
+     "w": "Metropolitan Museum of Art, New York"
+    },
+    {
+     "n": "Syllabic dedications from Ayios Photios",
+     "p": "6th–3rd century BCE",
+     "t": "Statue bases and reliefs inscribed in the Cypriot syllabary naming the dedicants and, usually, Apollo. They are what identifies the god of the sanctuary, since Golgoi's most famous divine name, Aphrodite Golgia, belongs to shrines elsewhere.",
+     "w": "Metropolitan Museum of Art, New York; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Malloura horse-and-rider votives",
+     "p": "7th century BCE–4th century CE",
+     "t": "Terracotta riders and limestone votaries from the rural sanctuary two kilometres away, excavated stratigraphically by the Athienou Archaeological Project since 1990. Malloura is the control that shows what was lost at Golgoi itself.",
+     "w": "Kallinikeio Municipal Museum, Athienou; Larnaca District Museum"
+    }
+   ]
+  },
+  {
+   "id": "ayiairini",
+   "finds": [
+    {
+     "n": "The temenos and its seven periods",
+     "p": "c. 1200–480 BCE",
+     "t": "Erik Sjöqvist dug the whole enclosure in 1929 and separated seven phases of use, of which periods four to six, about 700 to 500 BCE, were the busiest. The walled court with its altar was never roofed: this was an open-air shrine to the end.",
+     "w": "In situ, Ayia Irini (Akdeniz)"
+    },
+    {
+     "n": "Bull-masked figures",
+     "p": "7th–6th century BCE",
+     "t": "Clay men wearing bull masks, long labelled minotaurs, standing among the warriors and charioteers. They are usually read as priests or dancers in costume, which would make them the only surviving picture of Cypriot ritual performance.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Chariot groups",
+     "p": "7th–6th century BCE",
+     "t": "Model two-horse and four-horse chariots with crews of driver and warrior, standing in the outer ranks of the semicircle. Taken with the shields and swords, they suggest a god who was asked for victory as well as fertility.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Stockholm reconstruction",
+     "p": "Installed from 1931",
+     "t": "The Medelhavsmuseet displays its half of the figures in the concentric semicircle in which they were found, one of the few museum installations anywhere that reproduces an excavated arrangement. A full restudy of the sanctuary was published in 2025.",
+     "w": "Medelhavsmuseet, Stockholm"
+    }
+   ]
+  },
+  {
+   "id": "chytroi",
+   "finds": [
+    {
+     "n": "The sanctuary at Voni",
+     "p": "7th–4th century BCE",
+     "t": "A country shrine a few kilometres from Kythrea, excavated by the Swedish Cyprus Expedition, which produced large groups of limestone and terracotta votives. Voni is one of the inland sanctuaries where limestone sculpture stayed in fashion after the coast turned to marble.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Philagoras, king of Chytroi",
+     "p": "673/672 BCE",
+     "t": "Named as Pilagura on Esarhaddon's prism, the earliest mention of the kingdom and one of the ten Cypriot kings recorded there. Nothing else is known of him.",
+     "w": "Prism in the British Museum, London"
+    },
+    {
+     "n": "The spring of Kythrea",
+     "p": "All periods",
+     "t": "The Kefalovryso, the largest spring on the island, which is the whole reason a kingdom sat here in a dry plain. It ran until heavy pumping dried it in the twentieth century.",
+     "w": "In situ, Kythrea (Değirmenlik)"
+    },
+    {
+     "n": "The unexcavated city",
+     "p": "13th century BCE–912 CE",
+     "t": "Chytroi is known from texts, from its aqueduct and from stray finds; the city itself has never been systematically dug, and lies under the modern village and its gardens. It is the least investigated of the ten kingdoms.",
+     "w": "In situ, Kythrea"
+    }
+   ]
+  },
+  {
+   "id": "vouni",
+   "finds": [
+    {
+     "n": "Temple of Athena on the summit",
+     "p": "First half of the 5th century BCE",
+     "t": "A sanctuary above the palace, identified as Athena's from inscribed bronze bowls and sculptural fragments, with a square single-roomed shrine and a block of adjoining rooms. A Greek goddess on the hill above a palace built on an oriental plan is the puzzle of the site.",
+     "w": "In situ, Vouni"
+    },
+    {
+     "n": "The Vouni head",
+     "p": "5th century BCE",
+     "t": "A limestone head crowned with a diadem carved in relief, the best-known sculpture from the site. It is Cypriot work under strong Ionian influence.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Life-size statue of Persephone",
+     "p": "5th century BCE",
+     "t": "A standing goddess in Ionian Greek style, unusually large for a Cypriot hilltop shrine. Whether she is Persephone or a local goddess given a Greek name is not settled.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Greek remodelling of the palace",
+     "p": "Mid-5th century BCE",
+     "t": "The original plan, rooms around a great court with a cistern in the eastern manner, was rebuilt so that a visitor entered through a columned porch into a hall, in the Greek fashion. The rebuild is usually read as a change of dynasty, and dated to the aftermath of the Greek fleet's raid on Cyprus.",
+     "w": "In situ, Vouni"
+    },
+    {
+     "n": "Statues of Athena and Herakles",
+     "p": "5th century BCE",
+     "t": "Limestone figures of both deities from the hilltop temple, Herakles in the lion skin with a club. The pairing is the same one the Phoenician kings used, where Herakles stood for Melqart.",
+     "w": "Cyprus Museum, Nicosia; Medelhavsmuseet, Stockholm"
+    }
+   ]
+  },
+  {
+   "id": "karpasia",
+   "finds": [
+    {
+     "n": "The foundation tradition of Pygmalion",
+     "p": "Tradition; earliest remains 7th century BCE",
+     "t": "Ancient writers said Karpasia was founded by the Phoenician king Pygmalion, that is Pumayyaton, a name borne by kings of Kition. The archaeology reaches back no further than the seventh century BCE, so the story is probably a later attempt to explain Phoenician-looking buildings.",
+     "w": "Literary sources; site in situ"
+    },
+    {
+     "n": "Phoenician-style ashlar masonry",
+     "p": "7th–4th century BCE",
+     "t": "Blocks dressed and laid in the manner of the Levantine coast, noted in the town's buildings and unusual this far north on Cyprus. It is the main physical support for the Phoenician connection in the sources.",
+     "w": "In situ, Ayios Philon"
+    },
+    {
+     "n": "Demetrios Poliorketes's landing",
+     "p": "306 BCE",
+     "t": "Demetrios I of Macedon put his army ashore at Karpasia, took the town and marched on Salamis to fight Ptolemy's brother Menelaos. The harbour was chosen because it could take a fleet, which is what the moles under the water were for.",
+     "w": "Literary source; harbour submerged at Ayios Philon"
+    }
+   ]
+  },
+  {
+   "id": "nicosia",
+   "finds": [
+    {
+     "n": "Onasagoras, king of Ledrai",
+     "p": "673/672 BCE",
+     "t": "The only ruler of Ledra known by name, listed on Esarhaddon's prism as Unasagusu among the ten kings of Iadnana who sent tribute to Nineveh. After that the kingdom vanishes from the record, absorbed by stronger neighbours.",
+     "w": "Prism in the British Museum, London"
+    },
+    {
+     "n": "The lost site of Ledra",
+     "p": "c. 1050–300 BCE",
+     "t": "Nobody knows where the Iron Age town stood. It is assumed to lie under the walled city or on the banks of the Pedieos, and only chance finds during building work ever touch it.",
+     "w": "Presumed in situ beneath Nicosia"
+    },
+    {
+     "n": "Cypro-Archaic and Classical tombs under the modern city",
+     "p": "7th–4th century BCE",
+     "t": "Rock-cut chamber tombs with painted pottery turn up regularly in rescue excavations across Nicosia and its suburbs. They are the strongest argument that a substantial settlement of the kingdoms' age lies beneath the capital.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ]
+  },
+  {
+   "id": "kyrenia",
+   "finds": [
+    {
+     "n": "The kingdom's brief appearance",
+     "p": "4th century BCE",
+     "t": "Kyrenia is not among the ten kings of Esarhaddon's prism and surfaces only in the late fourth century, when Diodorus has Ptolemy I remove its ruler along with Praxippos of Lapithos in 312 BCE. It may never have been more than a dependency of its larger neighbour.",
+     "w": "Literary source"
+    },
+    {
+     "n": "The ancient harbour",
+     "p": "Iron Age onwards",
+     "t": "The rock-cut and built moles under the modern quays enclose the same small basin the Iron Age town used, one of the few natural harbours on the north coast. The line of the ancient works can be seen from the castle wall in calm water.",
+     "w": "In situ, Kyrenia harbour"
+    },
+    {
+     "n": "Cypro-Archaic and Classical tombs in the town",
+     "p": "7th–4th century BCE",
+     "t": "Chamber tombs with painted pottery have been found in and around Kyrenia during building work, the main evidence that the site was occupied throughout the age of the kingdoms. There has been no systematic excavation of the ancient settlement.",
+     "w": "Kyrenia and Cyprus Museum collections"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "iron",
+   "events": [
+    [
+     -1050,
+     "A cremation at Kourion-Kaloriziki is buried with a gold sceptre headed by two falcons in cloisonné enamel, the earliest hint of a Cypriot ruling house"
+    ],
+    [
+     -980,
+     "The Skales cemetery at Palaepaphos fills with bronze roasting spits, bimetallic knives and Aegean-style pottery"
+    ],
+    [
+     -900,
+     "Cypriot bronze rod tripods and stands turn up in Crete and the Aegean, carried west by Cypriot smiths"
+    ],
+    [
+     -820,
+     "Cypriot copper and worked bronze go east again as Tyre and Sidon rebuild their trade"
+    ],
+    [
+     -770,
+     "Chytroi, Ledra, Tamassos and Idalion emerge inland, each sitting on a route from the copper to the sea"
+    ]
+   ]
+  },
+  {
+   "id": "archaic",
+   "events": [
+    [
+     -700,
+     "A Phoenician silver bowl engraved with a city under siege is buried in a rich tomb at Amathus"
+    ],
+    [
+     -670,
+     "Country shrines at Achna, Arsos, Golgoi and Ayia Irini fill with limestone and terracotta worshippers, paid for by villagers rather than kings"
+    ],
+    [
+     -650,
+     "Cypriot painters invent the Free Field style: a single bird, fish or bull drawn on an open ground"
+    ],
+    [
+     -560,
+     "A rural sanctuary at Meniko, inland from Kition, is built for the Phoenician god Baal Hamman"
+    ],
+    [
+     -497,
+     "Paphos falls to a Persian siege ramp and Kourion changes sides in mid-battle; the Amathusians hang Onesilos's head above their gate, and when bees nest in it an oracle tells them to worship him"
+    ]
+   ]
+  },
+  {
+   "id": "classical",
+   "events": [
+    [
+     -470,
+     "Idalion contracts with a physician on a bronze tablet while Persians and Kitians besiege it, the earliest written agreement from Cyprus"
+    ],
+    [
+     -460,
+     "Idalion falls to the Phoenician kings of Kition, who govern it from a palace archive of inked potsherds"
+    ],
+    [
+     -392,
+     "Milkyaton takes Kition and dedicates a trophy to Baal Oz for a victory won in his first year"
+    ],
+    [
+     -381,
+     "Evagoras loses a sea battle off Kition and is shut up inside Salamis"
+    ],
+    [
+     -374,
+     "Evagoras I is murdered; his son Nikokles reforms the coinage and drops the old syllabary from it"
+    ],
+    [
+     -342,
+     "Pasikypros of Tamassos sells his kingdom and his crown to Pumayyaton of Kition for fifty talents and retires to Amathus"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "kingdoms",
+   "rulers": [
+    {
+     "n": "Kinyras",
+     "d": "Legendary",
+     "t": "The Cypriot king of the Iliad, who gave Agamemnon a breastplate; a figure of myth attached to Paphos, not a historical ruler."
+    },
+    {
+     "n": "The ten kings of Esarhaddon's prism",
+     "d": "673/672 BCE",
+     "t": "Ekishtura of Idalion, Pilagura of Chytroi, Kisu of Salamis, Ituandar of Paphos, Erisu of Soloi, Damasu of Kourion, Admesu of Tamassos, Damusi of Qartihadasti, Unasagusu of Ledra and Bususu of Marion: the first roll-call of Cypriot kings, most of them Greek names in Assyrian spelling."
+    },
+    {
+     "n": "Evelthon of Salamis",
+     "d": "c. 560–525 BCE",
+     "t": "Struck the first Cypriot coins, silver with a recumbent ram and his name in the syllabary, and dedicated a censer at Delphi."
+    },
+    {
+     "n": "Gorgos of Salamis",
+     "d": "c. 500–498 and 497–? BCE",
+     "t": "Shut out of his own city by his brother Onesilos, he fled to the Persians and was restored when the revolt collapsed."
+    },
+    {
+     "n": "Onesilos of Salamis",
+     "d": "498–497 BCE",
+     "t": "Led the island into the Ionian Revolt, besieged loyalist Amathus, and was killed in battle; the Amathusians hung his head over their gate."
+    },
+    {
+     "n": "Stesenor of Kourion",
+     "d": "c. 497 BCE",
+     "t": "Deserted to the Persians during the decisive battle, taking his chariots with him, and handed them the war."
+    },
+    {
+     "n": "Baalmilk I of Kition",
+     "d": "After 480 BCE",
+     "t": "First of the Phoenician kings of Kition known from coins, with Herakles for Melqart on the obverse."
+    },
+    {
+     "n": "Stasikypros of Idalion",
+     "d": "Mid-5th century BCE",
+     "t": "The last independent king of Idalion, named on the bronze tablet that hires a physician during the siege; his city fell to Kition around 450 BCE."
+    },
+    {
+     "n": "Rhoikos I of Amathus",
+     "d": "c. 460–430 BCE",
+     "t": "Struck the recumbent lion coinage of Amathus on a stubbornly local weight standard."
+    },
+    {
+     "n": "Evagoras I of Salamis",
+     "d": "411–374/373 BCE",
+     "t": "Seized his throne at twenty, extended his rule over most of the island, fought Persia for a decade and kept his crown as a king to a king; Isocrates wrote an encomium for him."
+    },
+    {
+     "n": "Milkyaton of Kition",
+     "d": "392/391–362/361 BCE",
+     "t": "Set up a trophy to Baal Oz for a victory in his first year, probably over Evagoras, and struck the first gold at Kition."
+    },
+    {
+     "n": "Nikokles of Salamis",
+     "d": "374/373–361 BCE",
+     "t": "Son of Evagoras; reformed the coinage on a new standard and abandoned the Cypriot syllabary on his money."
+    },
+    {
+     "n": "Pumayyaton of Kition",
+     "d": "362/361–312 BCE",
+     "t": "Ruled Kition, Idalion and, from 342/341 BCE, Tamassos, numbering his regnal years on his coins for more than forty-five years; Ptolemy I had him executed."
+    },
+    {
+     "n": "Evagoras II of Salamis",
+     "d": "c. 361–351 BCE",
+     "t": "Driven out by his own people, he took service with the Persian king and tried to win the throne back with Persian help."
+    },
+    {
+     "n": "Pasikypros of Tamassos",
+     "d": "Mid-4th century BCE",
+     "t": "Sold his city and his royal title to Pumayyaton of Kition for fifty talents and grew old at Amathus on the proceeds."
+    },
+    {
+     "n": "Pnytagoras of Salamis",
+     "d": "351–332 BCE",
+     "t": "Held Salamis through a Persian siege, then sent ships to Alexander at Tyre and was rewarded with Tamassos."
+    },
+    {
+     "n": "Nikokreon of Salamis",
+     "d": "332–311/310 BCE",
+     "t": "Alexander's man and then Ptolemy's, the last king of Salamis; his family killed themselves in the palace, and an empty mound in the necropolis is thought to be his memorial."
+    },
+    {
+     "n": "Nikokles of Paphos",
+     "d": "c. 330–309/308 BCE",
+     "t": "Moved his capital to the new harbour town of Nea Paphos and was forced by Ptolemy to take his own life."
+    },
+    {
+     "n": "Stasioikos II of Marion",
+     "d": "?–312 BCE",
+     "t": "The first Marion king to strike gold; Ptolemy arrested him for siding with Antigonus, razed his city and moved its people to Paphos."
+    },
+    {
+     "n": "Praxippos of Lapithos",
+     "d": "?–312 BCE",
+     "t": "Last king of Lapethos, deposed and arrested by Ptolemy I in the same sweep, along with the ruler of Kyrenia."
+    },
+    {
+     "n": "Androkles of Amathus",
+     "d": "Late 4th century BCE",
+     "t": "The last Amathusian king in the record; he dedicated a gold wreath to Apollo on Delos in 313 BCE."
+    },
+    {
+     "n": "Eunostos of Soloi",
+     "d": "Late 4th century BCE, before 306 BCE",
+     "t": "Married Eirene, a daughter of Ptolemy I, and so outlived every other Cypriot dynasty; his gold shows Apollo and Aphrodite."
+    },
+    {
+     "n": "Menelaos",
+     "d": "310/309–306 BCE",
+     "t": "Brother of Ptolemy I, governor at Salamis and the first man to strike coin on Cyprus as an outsider rather than a king; the kingdoms were over."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "Coordinates: salamis_tombs from the OpenStreetMap archaeological_site 'Royal Tombs of Salamis' (33.8816, 35.1751); skales from the Mycenaean Atlas place key C1803 for Kouklia-Skales (32.5842, 34.6968), consistent with the published 'about 1200 m south-east of Kouklia'; kaloriziki from Vici.org's 'Kourion Kaloriziki No. 40' (32.8937, 34.6626, stated accuracy 25 to 100 m); meniko from the Mycenaean Atlas place key C1813 for Meniko-Litharkes (33.1543, 35.1045, stated accuracy 50 m); kafizin from ToposText (33.4228, 35.1341).",
+  "Three of the new sites sit within 2 km of an existing pin: kaloriziki is about 500 m from the kourion pin, skales about 1.2 km from palaepaphos, salamis_tombs about 1.9 km from salamis. Salamis's Royal Tombs are a separately fenced and ticketed site and clearly deserve their own pin; Kaloriziki and Skales are not visitable as such, and if the pins collide on the globe you may prefer to fold their finds into the kourion and palaepaphos entries instead. The finds are written so that either choice works.",
+  "The Opheltas spit already appears as a find under palaepaphos. I have given skales the tomb (Tomb 49) as its find context rather than repeating the object, but you may want to move the spit itself to skales and leave a cross-reference at palaepaphos.",
+  "arsos_sanctuary coordinate (33.627, 35.095) comes from ToposText, which flags its own confidence at 20 per cent; it agrees with the modern village of Arsos/Yigitler at 33.628, 35.090, so it is right to within a kilometre but is a village-level fix, not the temenos. The sanctuary has never been properly excavated.",
+  "achna_sanctuary coordinate is the abandoned village of Achna (now Duzce) at 33.784, 35.055. The 1882 excavation left no record of where in the village lands the shrine stood, so the exact findspot is genuinely unknown; I have said so in the entry itself. The dedication to Artemis is traditional and rests on nineteenth-century identification rather than an inscription I could verify.",
+  "meniko: I could not read Karageorghis and Wilson's 1977 publication directly. The Phoenician identity of the cult (Baal Hamman) is well attested in the secondary literature, but the number of statues, the incense altar and the plan of the shrine rest on my reading of that literature rather than on the excavation report, and the date (later 6th century BCE, abandoned around 500) is given as 'middle of the sixth century' by one source and 'end of the Cypro-Archaic period' by another. Worth a check before publication.",
+  "kafizin is Hellenistic in date (225 to 218 BCE), not Iron Age, so its ranges put it in the hellenistic era rather than mine. I have included it because you asked and because it is where the Cypriot syllabary is seen dying out, but flag it in case your Hellenistic researcher also proposes it.",
+  "Dropped as out of period: Ayios Sozomenos (its fortified sites at Nikolidhes, Barsak and Ambelia are Middle Bronze Age, and the church of Ayios Mamas is Lusignan; it belongs to the Bronze Age and medieval researchers, and would be a real loss if nobody takes it), Pyla-Kokkinokremos and Nea Paphos as you said, and Ayia Napa.",
+  "Dropped as not separable from an existing entry, with finds supplied there instead: Idalion-Ambelleri (it is the west acropolis of idalion, already carrying the Athena temple and the palace archive), Tamassos royal tombs (inside the fenced Tamassos site; Tomb 12 added to tamassos), Kition-Bamboula (added to kition), Amathus acropolis sanctuary (added to amathus), Larnaka-Turabi Tekke (the Tourapi necropolis stelae added to kition), Potamia-Ellines (the 1933 Apollo head added to idalion), Voni (added to chytroi, which is the neighbouring kingdom), Soli-Mersinaki (added to soli).",
+  "Dropped as too thin: Kellia, whose archaeological interest is the ninth-century church of Ayios Antonios rather than anything of the kingdoms' age, and Xylotymbou, for which I found nothing of substance.",
+  "The Amathus bowl (British Museum) and the Amathus sarcophagus (Metropolitan Museum) are two different objects; the existing atlas has the sarcophagus, and I have added the bowl. The 'royal sceptre' you mentioned with the Amathus bowl is in fact the Kourion sceptre from Kaloriziki Tomb 40, and is filed there.",
+  "Esarhaddon's prism names ten kings, not eleven. Amathus and Kition are both missing from the list; the tenth kingdom, Qartihadasti ('new town' in Phoenician), has never been securely identified, and Kition, Amathus and a site near Limassol have all been proposed. The prism is in the British Museum.",
+  "The Kition bilingual inscriptions you asked about: the famous bilingual that unlocked the syllabary is from Idalion, not Kition, and the existing idalion entry already has it. Kition's great Phoenician documents are the temple tariffs, the Tourapi stelae and the Milkyaton trophy of 392/391 BCE. I found no Kition inscription of an 'Eshmunazar'; Eshmunazar II was a king of Sidon whose sarcophagus is in the Louvre and whose text does not concern Cyprus, so I have left that thread out rather than force it.",
+  "The Milkyaton trophy's museum location I have given as the Larnaca District Archaeological Museum on the strength of it being a 1990 local find; I could not confirm the present display location. The enemy defeated in 392/391 BCE is not named in the text: the identification with Evagoras of Salamis and the Paphians is a scholarly inference, and I have said so.",
+  "Evagoras I's death: the sources have him murdered in 374/373 BCE in a palace intrigue, with the details varying between Diodorus and Theopompus. I have written simply 'murdered'.",
+  "Cesnola: I could not open the Metropolitan Museum's own publication on the Cesnola collection (the site returned an error), so I have avoided quoting object counts for his haul. The Duthoit figure of 150 to 200 heads for the Louvre is from ancientcyprus.com. The Feuardent libel trial of 1883 to 1884, which turned on whether the Kourion Treasure was found as Cesnola claimed, is worth a line somewhere in the atlas but I have not invented a 'find' for it.",
+  "kyrenia and karpasia are genuinely thin for this period: neither appears on Esarhaddon's prism, neither has an excavated Iron Age settlement, and I have given them three well-hedged finds each rather than pad. If you want more from the north coast in this era, Lapithos and Ayia Irini are where the evidence is.",
+  "Salamis's Iron Age and Classical city is almost entirely unexcavated beneath the Roman town, so the kingdom that dominates the written history is represented by its cemetery. I have said this openly in the salamis extra finds rather than leave the gap unexplained."
+ ]
+}

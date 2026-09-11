@@ -1,0 +1,2040 @@
+{
+ "new_settlements": [
+  {
+   "id": "kamares",
+   "name": "Bekir Pasha Aqueduct (Kamares)",
+   "modern": "Western edge of Larnaca, Larnaca district",
+   "lon": 33.599,
+   "lat": 34.912,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1747,
+     1939
+    ]
+   ],
+   "desc": "The largest public work of Ottoman Cyprus, built from 1747 by Ebubekir Pasha, briefly governor of the island, to bring water about ten kilometres from the Tremithos valley at Arpera to the growing port of Larnaca, which until then depended on brackish wells. Water moved entirely by gravity through a buried channel punctuated by some 250 shafts, surfacing in three arcaded spans of which seventy-five arches survive. It supplied the town until 1939 and was repaired in 1854 and again in 1876 at the expense of the pious foundation Ebubekir had endowed. It is the standing argument against the view that the Ottoman centuries built nothing on Cyprus.",
+   "finds": [
+    {
+     "n": "The great span at Kamares",
+     "p": "1747-1750",
+     "t": "The best-preserved arcade, a run of pointed limestone arches carrying the channel across the flood plain of a seasonal river; the name Kamares simply means 'the arches'. It is floodlit at night and is the emblem of modern Larnaca.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "The buried conduit and its air shafts",
+     "p": "1747-1750",
+     "t": "Between the visible spans the water ran in a covered masonry channel tapped by roughly 250 shafts, a qanat technique of Persian ancestry used across the Ottoman world. The shafts let workmen in to clear silt and kept the head of water falling at a constant, very shallow gradient.",
+     "w": "In situ, between Arpera and Larnaca"
+    },
+    {
+     "n": "The Arpera intake",
+     "p": "1747-1750",
+     "t": "The upstream works in the Tremithos valley, on land held as a farm estate of the governor, where springs and river water were gathered into the channel. Much of the intake is now hard to trace on the ground.",
+     "w": "In situ, near Arpera, Larnaca district"
+    },
+    {
+     "n": "The waqf endowment of Ebubekir Pasha",
+     "p": "From 1750",
+     "t": "The aqueduct was given to a charitable foundation whose rents paid for its upkeep and for public fountains in Larnaca, which is why repairs were still being made in 1854 and 1876 long after its builder had gone. Ottoman public works on Cyprus were funded this way rather than from a provincial budget.",
+     "w": "Documentary; Ottoman archives"
+    },
+    {
+     "n": "Larnaca street fountains",
+     "p": "18th-19th century",
+     "t": "The aqueduct fed public fountains in the town and in the consular quarter of Skala, several of which survive as reused stone basins and wall spouts. Piped water replaced the whole system in 1939.",
+     "w": "In situ, Larnaca old town"
+    },
+    {
+     "n": "Restoration campaign",
+     "p": "From 1987",
+     "t": "A five-year conservation programme on one of the spans began in 1987, and the monument is now a protected ancient monument in a public park. Some of the mortar repairs of the 1980s are themselves now criticised as too hard for the original limestone.",
+     "w": "In situ, Larnaca"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kamares_Aqueduct",
+    "https://en.wikipedia.org/wiki/Ebubekir_Pasha",
+    "https://en.wikipedia.org/wiki/Ottoman_Cyprus"
+   ]
+  },
+  {
+   "id": "peristerona",
+   "name": "Peristerona",
+   "modern": "Peristerona, Nicosia district, on the Serrachis",
+   "lon": 33.079,
+   "lat": 35.13,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     900,
+     2026
+    ]
+   ],
+   "desc": "A mixed village on the Serrachis river whose church and mosque stand a few dozen metres apart, an image that appeared on Cypriot banknotes and stamps as the emblem of the two communities living together. The church of Saints Barnabas and Hilarion is one of only two five-domed churches on the island, built in the ninth or tenth century, and the Ottoman mosque beside it served a Turkish Cypriot population that lived in Peristerona until 1964. The village is on Cyprus's UNESCO tentative list. The pairing is now read very differently by the two communities, and the mosque stands without a congregation.",
+   "finds": [
+    {
+     "n": "Church of Saints Barnabas and Hilarion",
+     "p": "9th-10th century",
+     "t": "A cross-in-square church carrying five domes in a quincunx, the only such plan on Cyprus apart from Agia Paraskevi at Geroskipou. Part of the north wall of a still earlier church survives inside the west wall.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "Wall paintings and the iconostasis",
+     "p": "15th-16th century, icons to the 18th",
+     "t": "The oldest surviving painting in the church is fifteenth and sixteenth century, later than the building itself; the carved and gilded iconostasis and its icons are post-Byzantine work of the Ottoman centuries.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The mosque of Peristerona",
+     "p": "Ottoman period",
+     "t": "A plain rectangular prayer hall with a stubby minaret standing on the same river terrace as the church. Its exact date is not securely published; the building as it stands looks eighteenth or nineteenth century.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The church and mosque on the currency",
+     "p": "1960s-1980s",
+     "t": "The two buildings photographed together were used by the Republic on banknotes, stamps and tourist posters as an official image of coexistence, which makes the picture a historical document about the 1960s as much as about the buildings.",
+     "w": "Central Bank of Cyprus collection; Cyprus Post archives"
+    },
+    {
+     "n": "The medieval bridge over the Serrachis",
+     "p": "Medieval, repaired in the Ottoman period",
+     "t": "A stone bridge on the old Nicosia to Morphou road that made the village a crossing point and a stopping place for caravans; the modern road now bypasses it.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The emptied Turkish Cypriot quarter",
+     "p": "1964",
+     "t": "Peristerona's Turkish Cypriot inhabitants left during the intercommunal fighting of 1963 to 1964 and did not return; their houses were later occupied or fell in. The village is one of the clearest places to see what the unmixing of the island's villages looked like on the ground.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The five domes",
+     "p": "Byzantine, usually 10th or 11th century",
+     "t": "Three domes run down the central aisle with one over each side aisle, so that from outside the roof reads as a cross. The idea is generally traced to Justinian's church of St John at Ephesus and the Holy Apostles in Constantinople, both now gone.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The disputed date",
+     "p": "10th to 11th century",
+     "t": "There is no foundation inscription and no early document, so the church is dated on its architecture alone; estimates run from the tenth century to the early twelfth, and its relationship to Geroskipou, usually placed a century earlier, is unsettled.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "Wall paintings",
+     "p": "Fragmentary, various dates",
+     "t": "Only patches survive on the thick internal walls, far less than at the Troodos churches, which is one reason Peristerona is less visited than its architecture deserves.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The iconostasis and its icons",
+     "p": "16th century and later",
+     "t": "A carved and gilded screen carrying icons of the sixteenth century and after, including a well-known pair of the church's two patron saints.",
+     "w": "In situ, Peristerona"
+    },
+    {
+     "n": "The mosque next door",
+     "p": "19th century",
+     "t": "An Ottoman mosque stands within a few metres of the church across the riverbed. The pairing was photographed endlessly under British rule and printed on stamps as proof that the two communities could live side by side.",
+     "w": "In situ, Peristerona"
+    }
+   ],
+   "sources": [
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/church-of-agios-varnavas-and-ilarionas-saints-barnabas-and-hilarion/",
+    "https://www.wikidata.org/wiki/Q64441557",
+    "https://www.worldheritagesite.org/tentative/id/1874",
+    "https://en.wikipedia.org/wiki/Peristerona",
+    "https://www.churchofcyprus.org.cy/"
+   ]
+  },
+  {
+   "id": "chrysorrogiatissa",
+   "name": "Chrysorrogiatissa Monastery",
+   "modern": "Above Pano Panagia, Paphos district",
+   "lon": 32.619,
+   "lat": 34.91,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1152,
+     2026
+    ]
+   ],
+   "desc": "A monastery on a ridge above the Paphos forest, founded by tradition in 1152 by a hermit named Ignatios who found an icon of the Virgin washed up on the coast at Moulia. Everything now standing was rebuilt from 1770 under Abbot Ioakim, in the burst of monastic building that followed the loosening of Ottoman controls on the Church, and its cliffside courtyard and winery show what a working Cypriot monastery of the late Ottoman period looked like. It ran one of the island's few libraries and printing interests, and it still makes wine from its own vines.",
+   "finds": [
+    {
+     "n": "The katholikon of 1770",
+     "p": "1770",
+     "t": "A single-aisled church raised on the footings of an older one by Abbot Ioakim, with a carved and gilded iconostasis and a barrel vault; the surrounding two-storey ranges with their wooden verandas were built at the same time.",
+     "w": "In situ, Chrysorrogiatissa"
+    },
+    {
+     "n": "Icon of the Panagia Chrysorrogiatissa",
+     "p": "Traditionally 1st century; the visible panel is later",
+     "t": "A silver-clad icon of the Virgin ascribed by tradition to Saint Luke and said to have been thrown into the sea in Asia Minor during the iconoclast persecution. As with the Kykkos icon, the painting itself cannot be seen under its revetment and the tradition is devotional rather than art-historical.",
+     "w": "In situ, monastery church"
+    },
+    {
+     "n": "The monastery winery",
+     "p": "18th century, revived 1984",
+     "t": "Vaulted cellars where the monks pressed and stored wine; commercial winemaking was restarted in the 1980s and the monastery bottles under its own label. Monastic viticulture is the thread that connects Commandaria, the Ottoman-era village wine trade and the modern Cypriot industry.",
+     "w": "In situ, Chrysorrogiatissa"
+    },
+    {
+     "n": "Icons and manuscripts of the monastery museum",
+     "p": "16th-19th century",
+     "t": "Post-Byzantine icons, embroidered vestments, printed books and manuscripts, the working library of a monastery that also acted as a school and a bank for the villages around it.",
+     "w": "Monastery museum, Chrysorrogiatissa"
+    },
+    {
+     "n": "The Byzantine museum collection from the Paphos hills",
+     "p": "12th-19th century",
+     "t": "Icons gathered from the small churches of the district and displayed at the monastery, including panels stripped from chapels that could no longer be guarded. The concentration of icons in monasteries is a response to the thefts of the 1970s and 1980s as much as to piety.",
+     "w": "Monastery museum, Chrysorrogiatissa"
+    },
+    {
+     "n": "The grave of Makarios's home village",
+     "p": "20th century",
+     "t": "Pano Panagia below the monastery is the birthplace of Archbishop Makarios III, and his family house is a museum; the monastery is part of the landscape that produced the first president of the Republic.",
+     "w": "In situ, Pano Panagia"
+    },
+    {
+     "n": "Monastery buildings of 1770",
+     "p": "1770",
+     "t": "A three-sided range around a court with wooden galleries and a small domed church, the standard plan of a post-Byzantine Cypriot monastery, replacing whatever the medieval house had.",
+     "w": "In situ, Pano Panagia"
+    },
+    {
+     "n": "Icon and manuscript collection",
+     "p": "13th–19th century",
+     "t": "Panels, gospel books and vestments in the monastery museum, including work of the Italo-Byzantine manner that spread through Cyprus in the fifteenth and sixteenth centuries.",
+     "w": "Chrysorrogiatissa Monastery museum"
+    },
+    {
+     "n": "Monte Royia winery",
+     "p": "Medieval tradition, reopened 1980s",
+     "t": "The monastery's own vineyards and cellar, working again on a commercial basis; monastic wine-making on Cyprus is continuous from the period when Commandaria and Cypriot muscat were shipped to western courts.",
+     "w": "In situ, Pano Panagia"
+    },
+    {
+     "n": "Abbot Ioakeim's execution",
+     "p": "1821",
+     "t": "The abbot was among the churchmen killed in the Ottoman reprisals of July 1821, the violent end of the arrangement by which the Orthodox hierarchy had governed the Greek population since 1571.",
+     "w": "Documentary"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chrysoroyiatissa_Monastery",
+    "https://www.visitcyprus.com/discover-cyprus/rural/sites-monuments/chrysorrogiatissa-monastery-2/",
+    "https://www.cyprusisland.net/cyprus-monasteries/chrysorrogiatissa-monastery"
+   ]
+  },
+  {
+   "id": "fikardou",
+   "name": "Fikardou",
+   "modern": "Fikardou, Nicosia district, Pitsilia",
+   "lon": 33.171,
+   "lat": 34.959,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1500,
+     2026
+    ]
+   ],
+   "desc": "A mountain village at 900 metres that lost its people rather than its houses, and so preserves the vernacular architecture of Ottoman Cyprus almost complete: stone walls, timber-framed upper storeys, hooked roof tiles and cobbled lanes. It was declared an ancient monument in 1978 and won a Europa Nostra award in 1987, and two of its houses are now museums of rural life. Fikardou shows what the villages that produced the island's wine, silk and grain actually looked like, which no palace or mosque can.",
+   "finds": [
+    {
+     "n": "House of Katsinioros",
+     "p": "16th-18th century",
+     "t": "The finest surviving house in the village, with a stone-carved twin-arched window, a steep pitched roof of hooked tiles and a first-floor living room reached by an outside stair. Owned by the Department of Antiquities and shown as a museum.",
+     "w": "In situ, Fikardou"
+    },
+    {
+     "n": "House of Achilleas Dimitri",
+     "p": "18th century",
+     "t": "The second museum house, with its wine press, storage jars and looms in place, forming with Katsinioros the village's rural museum. The two together show the ground floor as workshop and the upper floor as home.",
+     "w": "In situ, Fikardou"
+    },
+    {
+     "n": "Wine presses and buried storage jars",
+     "p": "Ottoman period",
+     "t": "Stone treading floors and sunken pithoi for must, the equipment of a village whose cash crop was wine sold down to the towns; the Pitsilia villages supplied both the local trade and the zivania stills.",
+     "w": "In situ, Fikardou"
+    },
+    {
+     "n": "Timber-frame and mud-mortar construction",
+     "p": "16th-19th century",
+     "t": "Walls of local stone laid in mud mortar with timber lacing, and floors of beaten earth over reeds and beams, a system that needs constant maintenance; the restoration deliberately used the same materials rather than cement.",
+     "w": "In situ, Fikardou"
+    },
+    {
+     "n": "Church of the Apostles Peter and Paul",
+     "p": "18th century, on an older site",
+     "t": "The village church, small and low with a carved iconostasis, whose parish records track the emptying of the village through the twentieth century.",
+     "w": "In situ, Fikardou"
+    },
+    {
+     "n": "The 1978 monument declaration",
+     "p": "1978",
+     "t": "The whole village, not a single building, was scheduled as an ancient monument, an unusual step on Cyprus and the reason Fikardou was not rebuilt in concrete. Its permanent population is now in single figures.",
+     "w": "Department of Antiquities, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://www.visitcyprus.com/discover-cyprus/rural/villages-rural/fikardou-village-2/",
+    "https://visitnicosia.com.cy/fikardou-village/",
+    "https://erachair-dch.eu/portfolio/fikardou-village-medieval-site-tendative-list-of-unesco-in-progress/"
+   ]
+  },
+  {
+   "id": "lefkara",
+   "name": "Pano Lefkara",
+   "modern": "Pano Lefkara, Larnaca district",
+   "lon": 33.303,
+   "lat": 34.867,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1300,
+     2026
+    ]
+   ],
+   "desc": "A hill town on the southern slopes of the Troodos that made its living from needlework and silver rather than from land. Its drawn-thread embroidery, lefkaritika, mixes local white-work with Venetian cut-work patterns, and from the late nineteenth century Lefkara men carried it by ship to Europe and even to Scandinavia and America while the women made it at home. UNESCO added the craft to its intangible heritage list in 2009. In the sixteenth century Lefkara was reckoned among the largest places on the island and it was a fief in the Ottoman period; its population is now under a thousand.",
+   "finds": [
+    {
+     "n": "Lefkaritika embroidery",
+     "p": "From at least the 14th century; codified 19th century",
+     "t": "Cut and drawn linen worked in hemstitch and satin filling in white, ecru and brown, built from a fixed vocabulary of geometric motifs with names such as the river and the mill wheel. The debt to sixteenth-century Italian punto tagliato is visible and undisputed; the Leonardo da Vinci story is not.",
+     "w": "In situ; Museum of Traditional Embroidery and Silversmithing, Pano Lefkara"
+    },
+    {
+     "n": "The Leonardo altar-cloth tradition",
+     "p": "Legend, attached to 1481",
+     "t": "The town's best-known story has Leonardo da Vinci calling at Cyprus and carrying a Lefkara altar cloth back to Milan cathedral. There is no documentary support for it and Leonardo's Cypriot visit is itself unevidenced, but the tale has been repeated since the nineteenth century and is now part of the craft's marketing.",
+     "w": "Popular tradition"
+    },
+    {
+     "n": "The lace school of 1889",
+     "p": "1889",
+     "t": "A school opened in the village to teach and standardise the work, part of a late Ottoman and early British effort to turn a dowry craft into an export industry. The travelling salesmen, kentitarides, and the home embroiderers, ploumarisses, were the two halves of the trade.",
+     "w": "Documentary; village archives"
+    },
+    {
+     "n": "Lefkara silverwork",
+     "p": "19th-20th century",
+     "t": "Filigree in silver wire, made for church use and for jewellery, worked in the same houses as the embroidery and sold by the same travellers. The craft survives in a handful of workshops on the main street.",
+     "w": "In situ; Museum of Traditional Embroidery and Silversmithing"
+    },
+    {
+     "n": "Church of Timios Stavros",
+     "p": "14th century, rebuilt later",
+     "t": "The town's principal church, holding a silver-gilt reliquary cross said to contain a fragment of the True Cross brought by Saint Helena, and a collection of icons; its treasury reflects the wealth the embroidery trade brought back.",
+     "w": "In situ, Pano Lefkara"
+    },
+    {
+     "n": "The stone town",
+     "p": "Ottoman and British periods",
+     "t": "Narrow shaded lanes of two-storey houses with bare stone facades, few openings and flat rammed-earth roofs, a building type adapted to heat and to a town where work was done indoors. Much of it was restored rather than replaced once tourism arrived in the 1970s.",
+     "w": "In situ, Pano Lefkara"
+    },
+    {
+     "n": "UNESCO intangible heritage listing",
+     "p": "2009",
+     "t": "Lefkara laces were inscribed on the Representative List of the Intangible Cultural Heritage of Humanity in 2009, Cyprus's first such listing, in part because the number of working embroiderers was falling fast.",
+     "w": "UNESCO; Department of Modern Cultural Heritage, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://ich.unesco.org/en/RL/lefkara-laces-or-lefkaritika-00255",
+    "https://en.wikipedia.org/wiki/Lefkara_lace",
+    "https://en.wikipedia.org/wiki/Pano_Lefkara",
+    "https://en.wikipedia.org/wiki/Lefkara"
+   ]
+  },
+  {
+   "id": "troodos_hill",
+   "name": "Troodos hill station and the summer capital",
+   "modern": "Troodos, Limassol district, 1,700 m",
+   "lon": 32.88,
+   "lat": 34.922,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1879,
+     2026
+    ]
+   ],
+   "desc": "Within a year of taking over the island the British began building a summer residence for the High Commissioner high on the Troodos, and the government followed it up the mountain every summer for the rest of the colonial period. It was a hill station in the Indian manner, with a military camp, a police post, tennis courts and a hotel, and it made the mountain forest a place of government as well as of monasteries. The residence is still the Cypriot president's summer house, and the surrounding forest became the island's first national forest park.",
+   "finds": [
+    {
+     "n": "The Government Cottage",
+     "p": "Begun 1879-1880",
+     "t": "A stone and timber house begun under Lieutenant George Wisely of the Royal Engineers at the prompting of the second High Commissioner, Sir Robert Biddulph, who wanted to escape Nicosia's summer. Modernised under President Clerides between 1999 and 2001 and still the presidential summer residence.",
+     "w": "In situ, Troodos (not generally open)"
+    },
+    {
+     "n": "The Rimbaud tradition",
+     "p": "1880-1881",
+     "t": "Arthur Rimbaud worked in Cyprus in 1879 to 1881 and by local tradition served as foreman on the governor's cottage; his own letters place him at a quarry and on building work on the island, but scholars regard the specific link to this house as unproven. A plaque on the mountain commemorates it anyway.",
+     "w": "In situ, Troodos; Rimbaud's letters"
+    },
+    {
+     "n": "Troodos military camp",
+     "p": "1880s-1950s",
+     "t": "A summer camp for the garrison beside the residence, later used as a training and rest station and during the 1955 to 1959 emergency as a base for operations in the mountains. Parts are still in military use.",
+     "w": "In situ, Troodos"
+    },
+    {
+     "n": "The Troodos road and the mule track",
+     "p": "1880s-1930s",
+     "t": "Getting the summer government up the mountain meant a carriage road from Nicosia through Kakopetria, one of the first big British public works, replacing mule tracks. Road building was the most visible achievement of the early administration and also its biggest expense.",
+     "w": "In situ, Troodos to Kakopetria"
+    },
+    {
+     "n": "Troodos National Forest Park",
+     "p": "Declared 1992",
+     "t": "The forest around the summit, protected in the colonial period as state forest against goats and charcoal burners, is now a national forest park with a visitor centre, and the source of much of the island's water.",
+     "w": "In situ, Troodos"
+    },
+    {
+     "n": "The Berengaria and the mountain hotels",
+     "p": "1930s",
+     "t": "Prodromos and Platres below the summit filled with summer hotels for Cypriots, Egyptians and Levantines escaping the heat; the ruined Berengaria at Prodromos is the most photographed relic of that trade.",
+     "w": "In situ, Prodromos and Pano Platres"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Presidential_Cottage_(Troodos)",
+    "https://frontlineulster.co.uk/troodos-hill-camp/",
+    "https://en.wikipedia.org/wiki/Troodos_(community)"
+   ]
+  },
+  {
+   "id": "evrychou",
+   "name": "Cyprus Government Railway, Evrychou terminus",
+   "modern": "Evrychou, Nicosia district, Solea valley",
+   "lon": 32.901,
+   "lat": 35.04,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1905,
+     1951
+    ],
+    [
+     2014,
+     2026
+    ]
+   ],
+   "desc": "The mountain end of the island's only public railway, a 762 mm narrow-gauge line that ran 122 km from Famagusta harbour through Nicosia to Morphou and finally, from 1915, to Evrychou at the foot of the Troodos. It was built to carry carobs, grain and copper to the port and never made a profit; buses and lorries killed it and the last train ran on 31 December 1951. Evrychou's station survived as a warehouse and reopened as the Cyprus Railway Museum in November 2014, which is the best place to see what the line was.",
+   "finds": [
+    {
+     "n": "Evrychou station building",
+     "p": "1915",
+     "t": "A single-storey stone station with its platform, office and goods shed, the terminus of Section 3 from Morphou; restored and opened as the Cyprus Railway Museum in November 2014.",
+     "w": "In situ, Evrychou"
+    },
+    {
+     "n": "Locomotive No. 1",
+     "p": "1904-1905",
+     "t": "One of the line's twelve locomotives, from Hunslet of Leeds, preserved as a monument at Famagusta station. The stock also included Nasmyth Wilson and Kitson engines, all tiny by British standards because of the narrow gauge.",
+     "w": "Famagusta station, Famagusta"
+    },
+    {
+     "n": "The three sections",
+     "p": "1905, 1907, 1915",
+     "t": "Famagusta to Nicosia, 58 km, opened 21 October 1905; Nicosia to Morphou, 39 km, in 1907; Morphou to Evrychou, 24 km, in 1915. Thirty-nine stations, stops and halts served a population that mostly walked.",
+     "w": "Documentary; Cyprus Railway Museum"
+    },
+    {
+     "n": "The Cyprus Mines Corporation branch",
+     "p": "1920s-1974",
+     "t": "A separate mineral line ran from the Skouriotissa and Mavrovouni mines to the company pier at Xeros and kept working until 1974, outliving the government railway by more than twenty years.",
+     "w": "Trackbed in situ, Skouriotissa to Karavostasi"
+    },
+    {
+     "n": "The Kaimakli and Ayios Dometios linear parks",
+     "p": "Trackbed, 1905-1951",
+     "t": "Two stretches of the Nicosia trackbed have been turned into linear parks with restored rail and a station platform, the easiest place in the capital to stand on the old line.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "Closure notice of 1951",
+     "p": "31 December 1951",
+     "t": "The railway closed as a deliberate act of policy after decades of losses and competition from the improved road network; the rails were lifted and sold, which is why so little survives beyond stations and embankments.",
+     "w": "Cyprus Railway Museum, Evrychou"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cyprus_Government_Railway",
+    "https://en.wikipedia.org/wiki/Rail_transport_in_Cyprus",
+    "https://en.wikipedia.org/wiki/Evrychou"
+   ]
+  },
+  {
+   "id": "skouriotissa",
+   "name": "Skouriotissa",
+   "modern": "Skouriotissa, Nicosia district, and Mavrovouni across the ceasefire line",
+   "lon": 32.885,
+   "lat": 35.091,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -1400,
+     400
+    ],
+    [
+     1912,
+     2026
+    ]
+   ],
+   "desc": "The island's copper came back to life here in the twentieth century, on ground already worked in antiquity and buried under ancient slag; the village name means 'Our Lady of the Slag'. The Cyprus Mines Corporation, founded in 1916 by the American Mudd family after Charles Gunther's prospecting from 1914, reopened Skouriotissa and then the far richer Mavrovouni orebody in 1929, built a company town and a pier at Xeros and made copper and pyrite the colony's largest export and largest private employer. Long strikes in 1948 organised by the Pancyprian Federation of Labour marked the birth of modern Cypriot trade unionism. In 1974 the ceasefire line cut the mines from their processing plant and the company left the island; Skouriotissa is again producing copper today.",
+   "finds": [
+    {
+     "n": "Ancient slag heaps",
+     "p": "Roman and earlier",
+     "t": "Hundreds of thousands of tonnes of black smelting slag lie around the mine, the residue of Hellenistic and Roman workings; the modern company found ancient galleries, wooden tools and Roman coins as it cut into the hill. The slag itself was later reprocessed.",
+     "w": "In situ, Skouriotissa"
+    },
+    {
+     "n": "Mavrovouni open pit",
+     "p": "1929-1974",
+     "t": "A massive sulphide orebody north-west of Skouriotissa, the richest the company worked; after 1974 it lay on the far side of the ceasefire line from the mill and has not been worked since.",
+     "w": "In situ, north of the ceasefire line"
+    },
+    {
+     "n": "The company town and pier at Xeros",
+     "p": "1920s-1974",
+     "t": "American-planned housing, a hospital, a school and a club at Xeros and Karavostasi, with an ore pier and a narrow-gauge line down from the mines; the town's segregation of staff and labour housing was as characteristic as its welfare provision.",
+     "w": "In situ, Karavostasi and Gemikonagi"
+    },
+    {
+     "n": "Phoenix and Phoukasa pits",
+     "p": "1996-present",
+     "t": "The pits now worked at Skouriotissa, where low-grade ore is heap-leached and copper is won by electrowinning as cathode sheets rather than smelted, which is why the mine can claim to be among the longest-worked copper sites in the world.",
+     "w": "In situ, Skouriotissa"
+    },
+    {
+     "n": "The 1948 strike",
+     "p": "1948",
+     "t": "A long stoppage in the mines, led by the left-wing Pancyprian Federation of Labour; the government declined to intervene on the ground that wages were not substandard. The mining villages became the core of the Cypriot left.",
+     "w": "Documentary; state archives"
+    },
+    {
+     "n": "Panagia Skouriotissa",
+     "p": "Medieval, rebuilt",
+     "t": "The small church that gave the place its name, once the seat of a monastery among the slag heaps; it was left inside the buffer zone after 1974 and is reached only with UN permission.",
+     "w": "In situ, Skouriotissa"
+    },
+    {
+     "n": "UNFICYP Sector One headquarters",
+     "p": "Since 2011",
+     "t": "The near-abandoned village, with eight residents at the 2001 census, now houses the headquarters of the Argentine-led sector of the United Nations force, a mining settlement turned peacekeeping base.",
+     "w": "In situ, Skouriotissa"
+    },
+    {
+     "n": "The slag heaps",
+     "p": "Bronze Age to Roman",
+     "t": "Great banks of black smelting waste, still carrying traces of residual copper, spread across the district and protected as monuments. They are the largest visible remains of the industry that made ancient Cyprus rich.",
+     "w": "In situ, Skouriotissa and Katydata"
+    },
+    {
+     "n": "The ancient workings",
+     "p": "Bronze Age to Roman",
+     "t": "Galleries and shafts driven into the ore body when surface deposits ran out, the earliest underground mining on the island. Roman activity here is well attested but the workings themselves have never been systematically excavated or dated.",
+     "w": "In situ, Skouriotissa"
+    },
+    {
+     "n": "Smelting away from the mine",
+     "p": "Roman",
+     "t": "Roman slag has been found as much as 3 km from the workings that produced the ore, meaning the rock was carried to the fuel rather than fuel to the rock. That is a reversal of Bronze Age practice and a sign of how far the woodland had been cut back.",
+     "w": "In situ, various sites in the Troodos foothills"
+    },
+    {
+     "n": "The imperial mines and Herod's lease",
+     "p": "1st century BCE to 3rd century CE",
+     "t": "Under Rome the mines were held directly by the emperor and worked by contract; Josephus records Augustus handing Herod half the revenue and the lease of the rest. Only Amathus, Tamassos and Soli are named as still producing under Rome, a much smaller industry than in the Bronze Age.",
+     "w": "Attested in Josephus, Antiquities 16"
+    },
+    {
+     "n": "The 1914 rediscovery",
+     "p": "1914",
+     "t": "The Cyprus Mines Corporation was founded on the strength of the Roman tailings, which told Gunther where to dig. Modern Cypriot mining and much of the island's twentieth-century economy grew from an archaeological observation.",
+     "w": "In situ; company records"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cyprus_Mines_Corporation",
+    "https://en.wikipedia.org/wiki/Skouriotissa",
+    "https://www.gov.cy/moa-mines/en/documents/mines/information/asbestos/",
+    "https://en.wikipedia.org/wiki/Mining_industry_of_Cyprus",
+    "https://en.wikipedia.org/wiki/Roman_Cyprus"
+   ]
+  },
+  {
+   "id": "amiantos",
+   "name": "Amiantos asbestos mine",
+   "modern": "Pano Amiantos, Limassol district, Troodos",
+   "lon": 32.936,
+   "lat": 34.917,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1904,
+     1988
+    ]
+   ],
+   "desc": "The largest asbestos mine in Europe, cut into the serpentine of the Troodos above 1,100 metres. Working began in 1904 when an Italian bought the licence from the British administration, and over the life of the mine roughly 130 million tonnes of rock were moved to win about a million tonnes of chrysotile fibre from ore grading barely one per cent. It closed in 1988, leaving a grey scar visible from the far side of the island and a legacy of asbestos disease among its workers. Rehabilitation began in 1995 and is expected to run to 2030; it is the largest environmental restoration project on Cyprus.",
+   "finds": [
+    {
+     "n": "The open workings",
+     "p": "1904-1988",
+     "t": "Terraced benches and waste dumps covering about 4.7 square kilometres, the shape of an industry that had to move a hundred tonnes of rock for each tonne of fibre. The mine is fenced but visible from the Troodos road.",
+     "w": "In situ, Pano Amiantos"
+    },
+    {
+     "n": "Mill and mine buildings",
+     "p": "1930s-1980s",
+     "t": "Crushing and fibre-separation sheds, conveyors and the company offices, some restored as part of the rehabilitation and interpreted for visitors, others left as ruins.",
+     "w": "In situ, Pano Amiantos"
+    },
+    {
+     "n": "The mine village",
+     "p": "20th century",
+     "t": "Pano Amiantos grew as a company settlement of workers' housing, shops and a school at an altitude where nobody would otherwise have lived, and shrank when the mine closed.",
+     "w": "In situ, Pano Amiantos"
+    },
+    {
+     "n": "Asbestos disease among the workers",
+     "p": "20th century onwards",
+     "t": "Cypriot cohorts of former Amiantos workers have been studied for asbestosis and mesothelioma; the long latency means cases were still appearing decades after the mine shut. Dust control at the mine was poor for most of its life.",
+     "w": "Medical literature; Ministry of Health, Cyprus"
+    },
+    {
+     "n": "The rehabilitation project",
+     "p": "1995-2030",
+     "t": "Slopes were reshaped and stabilised, soil manufactured from waste and compost, and native Troodos species hydroseeded and planted; the work has been part-funded through the European Economic Area grants and is a reference case for mine restoration on serpentine soils.",
+     "w": "In situ, Pano Amiantos"
+    },
+    {
+     "n": "Troodos Botanical Garden",
+     "p": "Opened 2010",
+     "t": "A botanical garden laid out on reclaimed mine ground, planted with the endemic flora of the Troodos massif, with an environmental information centre; the endemics of the ophiolite are the reason the restoration could not simply plant pines.",
+     "w": "In situ, Pano Amiantos"
+    }
+   ],
+   "sources": [
+    "https://www.amiandos.eu/en/",
+    "https://en.wikipedia.org/wiki/Amiantos",
+    "https://eeagrants.org/en/fmo/news/asbestos-biodiversity",
+    "https://www.gov.cy/moa-mines/en/documents/mines/information/asbestos/"
+   ]
+  },
+  {
+   "id": "liopetri",
+   "name": "The barn at Liopetri (Achyronas)",
+   "modern": "Liopetri, Famagusta district (government-controlled area)",
+   "lon": 33.893,
+   "lat": 35.009,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1958,
+     2026
+    ]
+   ],
+   "desc": "A straw barn on the edge of a Kokkinochoria village where four EOKA fighters were surrounded by British troops on 2 September 1958 and killed after a battle of about five hours, having refused to surrender. The fight became the best-known set-piece of the emergency after the death of Afxentiou, and Grivas ended the truce he had declared in August in response. The barn was preserved as a national memorial and a bronze group of the four men was unveiled on 7 September 1997.",
+   "finds": [
+    {
+     "n": "The barn itself",
+     "p": "Early 20th century; battle 2 September 1958",
+     "t": "A low mud-brick and stone straw store, kept as it was with its bullet damage, now roofed and enclosed as a memorial museum. Its ordinariness is the point: the emergency was fought in farmyards.",
+     "w": "In situ, Liopetri"
+    },
+    {
+     "n": "The four fighters",
+     "p": "2 September 1958",
+     "t": "Andreas Karyos, Christos Samaras, Ilias Papakyriakou and Fotis Pittas, all local men, died in the barn; a British soldier was also killed. Their names are on the monument and on the village school.",
+     "w": "In situ, Liopetri"
+    },
+    {
+     "n": "Bronze monument",
+     "p": "Unveiled 7 September 1997",
+     "t": "A group of four figures beside the barn, one of the most visited EOKA memorials in the island's south-east; the anniversary is marked every September.",
+     "w": "In situ, Liopetri"
+    },
+    {
+     "n": "British operational records",
+     "p": "1958",
+     "t": "Army and police reports of the cordon and the five-hour fire fight, including the decision to burn the barn out, are in the British archives and are the main non-Cypriot account of the action.",
+     "w": "The National Archives, Kew"
+    },
+    {
+     "n": "The August 1958 truce",
+     "p": "August-September 1958",
+     "t": "Grivas had suspended operations in August while the Macmillan plan was discussed; the Liopetri deaths ended the pause, a reminder of how closely the fighting tracked the negotiations in London.",
+     "w": "Documentary"
+    },
+    {
+     "n": "Liopetri's tobacco and potato fields",
+     "p": "20th century",
+     "t": "The village around the barn is a Kokkinochoria farming settlement, its red soil under potatoes; the four men were farmers, and the barn held that year's straw.",
+     "w": "In situ, Liopetri"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Liopetri",
+    "https://en.wikipedia.org/wiki/Liopetri",
+    "https://publicart.ouc.ac.cy/2013/10/17/liopetriou-barn/"
+   ]
+  },
+  {
+   "id": "machairas",
+   "name": "Machairas Monastery",
+   "modern": "Near Lazanias, Nicosia district, 900 m",
+   "lon": 33.191,
+   "lat": 34.941,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1145,
+     2026
+    ]
+   ],
+   "desc": "A stavropegic monastery at about 870 m on the north flank of the Machairas range, founded by the hermits Neophytos and Ignatios who, tradition says, found an icon of the Virgin in a cave in 1145 and had to cut their way to it with a knife, machaira, which gave the house its name. Ignatios went to Constantinople in 1172 and came back with the endowment of Manuel I Komnenos, the whole mountain and independence from the local bishop. The monk Neilos enlarged it in the early thirteenth century and wrote its typikon. It burned in 1892 and everything standing is later, but it is the best surviving example of a great Byzantine foundation that kept its independence through three centuries of Latin rule.",
+   "finds": [
+    {
+     "n": "The hideout of Grigoris Afxentiou",
+     "p": "3 March 1957",
+     "t": "A dugout in the hillside below the monastery, marked by a memorial and a bronze eagle, where Afxentiou held out for about ten hours after his four companions surrendered. The Royal Engineers poured petrol down the slope and set it alight.",
+     "w": "In situ, near Machairas Monastery"
+    },
+    {
+     "n": "The monastery church and icon",
+     "p": "12th century, present buildings largely post-1892",
+     "t": "The katholikon holds the icon of the Panagia Machairiotissa, said to have been found in a cave reached by cutting through scrub with a knife, machairi, which gave the house its name.",
+     "w": "In situ, Machairas Monastery"
+    },
+    {
+     "n": "The rebuilding of 1892 and after",
+     "p": "1892-1900s",
+     "t": "Fire destroyed much of the monastery in 1892; the archimandrite Chariton raised 6,483 roubles in the Russian Empire towards rebuilding, one of many links between Cypriot monasteries and Russian patronage in the late Ottoman and early British years.",
+     "w": "In situ, Machairas Monastery"
+    },
+    {
+     "n": "Afxentiou museum",
+     "p": "20th century",
+     "t": "A small museum at the monastery holding his belongings, photographs and documents of the campaign, kept by the monks; Afxentiou himself is buried at the Imprisoned Graves in Nicosia, where the British put him.",
+     "w": "Machairas Monastery"
+    },
+    {
+     "n": "The monastery forest as EOKA ground",
+     "p": "1955-1959",
+     "t": "The Machairas and Kykkos forests gave cover for mountain groups, arms caches and printing; the British response was cordon and search operations that swept whole valleys, and the monasteries were repeatedly raided.",
+     "w": "In situ, Machairas forest"
+    },
+    {
+     "n": "Grave of Archbishop Chrysostomos II",
+     "p": "2022",
+     "t": "The archbishop, who had been abbot of Machairas, was buried here in 2022, an unusual choice that ties the modern Church back to the mountain houses.",
+     "w": "In situ, Machairas Monastery"
+    },
+    {
+     "n": "Icon of the Panagia Machairiotissa",
+     "p": "Byzantine; by tradition 1st century",
+     "t": "The cave icon that gave the monastery its name, silver-cased and credited to Saint Luke like the Kykkos panel; the tradition of an Asia Minor origin fits the iconoclast-era flight of icons to Cyprus.",
+     "w": "Machairas Monastery church"
+    },
+    {
+     "n": "Typikon of Neilos",
+     "p": "c. 1210",
+     "t": "The monastery's rule, written by its first abbot, one of the few Cypriot monastic charters to survive and a detailed source on landholding, serf labour and diet in the first Lusignan generation.",
+     "w": "Documentary; Machairas Monastery"
+    },
+    {
+     "n": "Chrysobull of Manuel I Komnenos",
+     "p": "1172",
+     "t": "The imperial grant of the mountain and of stavropegic status, meaning the house answered to Constantinople and not to the bishop; after 1260 that independence was what let it survive under a Latin hierarchy.",
+     "w": "Documentary; recorded in the monastery's archive"
+    },
+    {
+     "n": "Afxentiou hideout",
+     "p": "1957",
+     "t": "The EOKA commander Grigoris Afxentiou was burned out of a dugout below the monastery on 3 March 1957; the hideout and a museum are now part of any visit.",
+     "w": "In situ, below Machairas"
+    },
+    {
+     "n": "Monastic estates of the Pitsilia",
+     "p": "13th–16th century",
+     "t": "Machairas held villages, vineyards and mills across the eastern Troodos, and its tenants paid in wine and silk; Orthodox houses like this kept a Greek landholding class alive under Frankish lordship.",
+     "w": "Documentary; monastery archive"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Machairas_Monastery",
+    "https://en.wikipedia.org/wiki/Grigoris_Afxentiou",
+    "https://en.wikipedia.org/wiki/Cyprus_Emergency",
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/machairas-monastery/"
+   ]
+  },
+  {
+   "id": "akrotiri",
+   "name": "Akrotiri and the Sovereign Base Areas",
+   "modern": "Akrotiri peninsula, and Dhekelia in the east",
+   "lon": 32.988,
+   "lat": 34.59,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1955,
+     2026
+    ]
+   ],
+   "desc": "When Cyprus became independent in 1960 Britain kept 254 square kilometres, about three per cent of the island, as the Sovereign Base Areas of Akrotiri and Dhekelia, which remain British territory and not a base on Cypriot soil. RAF Akrotiri, built on the salt-lake peninsula from 1955, has been the operational point of British and allied air power in the eastern Mediterranean ever since, from Suez in 1956 through Lebanon, Iraq, Libya and Syria. Some 11,000 Cypriots work in the areas, which contain villages, farmland and a wetland of international importance as well as runways and listening aerials.",
+   "finds": [
+    {
+     "n": "RAF Akrotiri",
+     "p": "Built 1955-1956",
+     "t": "The longest runway on Cyprus, laid out on reclaimed ground beside the salt lake and used within a year for the Suez operation; it is Britain's main air bridge to the Middle East and a NATO reinforcement base.",
+     "w": "In situ, Akrotiri (military area)"
+    },
+    {
+     "n": "Ayios Nikolaos Station",
+     "p": "1960s-present",
+     "t": "A signals intelligence station in the Dhekelia area, part of the UKUSA network, whose aerial farms are the reason Cyprus mattered to the Cold War far beyond its size.",
+     "w": "In situ, Dhekelia (military area)"
+    },
+    {
+     "n": "Episkopi Cantonment",
+     "p": "1950s-present",
+     "t": "The administrative and garrison centre of the western area, seat of the Sovereign Base Areas Administration with its own police, courts and law.",
+     "w": "In situ, Episkopi"
+    },
+    {
+     "n": "Akrotiri salt lake and wetland",
+     "p": "Natural; protected in the modern period",
+     "t": "The largest inland water body on Cyprus, a Ramsar wetland inside a military area where thousands of flamingos winter; the coexistence of bombers and birds has made the base an unlikely conservation manager.",
+     "w": "In situ, Akrotiri"
+    },
+    {
+     "n": "Monastery of Saint Nicholas of the Cats",
+     "p": "Founded by tradition 327 CE; present buildings later",
+     "t": "A monastery on the peninsula whose cats were said to have been imported to kill snakes; it lies inside the base area and is still occupied by nuns.",
+     "w": "In situ, Akrotiri"
+    },
+    {
+     "n": "The 1960 Treaty of Establishment",
+     "p": "1960",
+     "t": "The treaty that created the Republic also carved out the two areas as British sovereign territory, with rights of movement and training across the Republic. Cypriot politics has argued about them ever since without changing them; Britain offered to cede about half the land under the 2004 settlement plan.",
+     "w": "Documentary; United Nations treaty series"
+    },
+    {
+     "n": "Refugee housing inside the bases",
+     "p": "After 1974",
+     "t": "Greek Cypriots displaced in 1974 were housed at Trachoni and Kolossi inside the Akrotiri area, and the Achna forest settlement grew inside Dhekelia, so the bases hold their own refugee history.",
+     "w": "In situ, Akrotiri and Dhekelia"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia",
+    "https://en.wikipedia.org/wiki/RAF_Akrotiri"
+   ]
+  },
+  {
+   "id": "nicosia_airport",
+   "name": "Nicosia International Airport",
+   "modern": "West of Nicosia, inside the UN Protected Area",
+   "lon": 33.277,
+   "lat": 35.15,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     1939,
+     2026
+    ]
+   ],
+   "desc": "The island's airport from 1939, first as RAF Nicosia and then as the civil gateway of the colony and the Republic, with a new terminal by the Wiesbaden firm Dorsch und Gehrmann opened on 27 March 1968. It was fought over in July and August 1974, declared a United Nations Protected Area, and has stood derelict ever since, with Cyprus Airways aircraft rotting on the apron. It is now the headquarters of the United Nations force, and the Committee on Missing Persons has its laboratory in the same protected area. Larnaca airport, opened in February 1975, replaced it.",
+   "finds": [
+    {
+     "n": "The 1968 terminal",
+     "p": "Opened 27 March 1968",
+     "t": "A modernist terminal costing about £1.1 million, half a million of it British money, built for a tourist boom that lasted six years; its check-in hall, signage and furniture are still in place under thick dust.",
+     "w": "In situ, UN Protected Area (no public access)"
+    },
+    {
+     "n": "Abandoned aircraft",
+     "p": "1974",
+     "t": "A Cyprus Airways Trident and other airframes were left on the apron when the fighting stopped and have never been moved, the most photographed single image of the island's division.",
+     "w": "In situ, UN Protected Area"
+    },
+    {
+     "n": "The battle for the airport",
+     "p": "20 July to 16 August 1974",
+     "t": "Turkish aircraft bombed the field on 20 July and Turkish and Greek Cypriot forces fought for it; the United Nations declared it a protected area and required both sides to stay 500 metres back, which is why the buildings survived at all.",
+     "w": "In situ; UNFICYP records"
+    },
+    {
+     "n": "UNFICYP headquarters",
+     "p": "Since 1974",
+     "t": "The United Nations force runs the island's peacekeeping operation from the old airport site, using the former airport buildings and married quarters as offices and accommodation.",
+     "w": "In situ, UN Protected Area"
+    },
+    {
+     "n": "The CMP Anthropological Laboratory",
+     "p": "Since 2006",
+     "t": "The bicommunal Committee on Missing Persons examines and identifies exhumed remains in a laboratory inside the protected area, where Greek Cypriot and Turkish Cypriot scientists work side by side. It is the one place on the island where the two communities have jointly and continuously handled the evidence of 1963 to 1974.",
+     "w": "In situ, UN Protected Area, Nicosia"
+    },
+    {
+     "n": "RAF Nicosia",
+     "p": "1939-1966",
+     "t": "The field was laid out in 1939 by Shell and the contractors Pierides and Michaelides, became a Royal Air Force station through the Second World War and the emergency, and shared the runway with civil traffic until the RAF concentrated at Akrotiri.",
+     "w": "In situ; RAF records"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nicosia_International_Airport",
+    "https://unficyp.unmissions.org/",
+    "https://en.wikipedia.org/wiki/United_Nations_Buffer_Zone_in_Cyprus"
+   ]
+  },
+  {
+   "id": "varosha",
+   "name": "Varosha (Maras)",
+   "modern": "Southern quarter of Famagusta, fenced since 1974",
+   "lon": 33.954,
+   "lat": 35.111,
+   "lab": "b",
+   "type": "city",
+   "ranges": [
+    [
+     1571,
+     2026
+    ]
+   ],
+   "desc": "The Greek suburb outside the walls of Famagusta, where Orthodox Cypriots lived because for much of the Ottoman period they were kept out of the walled city, and which by the early 1970s had become the most modern resort in the eastern Mediterranean, a wall of hotels along a long sand beach that drew Elizabeth Taylor and Brigitte Bardot. Its people fled in August 1974 and the Turkish army fenced the quarter off empty. Security Council resolution 550 of 1984 called for its transfer to United Nations administration and its resettlement by anyone other than its inhabitants inadmissible; part of the beachfront was opened to visitors in October 2020, which the Republic and the Security Council rejected. Forty-five years of sea air have left the buildings beyond saving.",
+   "finds": [
+    {
+     "n": "The hotel strip on John F. Kennedy Avenue",
+     "p": "1960s-1974",
+     "t": "A line of high-rise hotels, the Asterias, Grecian, Argo, King George and others, built in a decade on a sandbar of a beach; their concrete frames still stand with curtains in the windows and lift shafts open to the sky.",
+     "w": "In situ, Varosha"
+    },
+    {
+     "n": "The fence of 1974",
+     "p": "August 1974 onwards",
+     "t": "The Turkish army closed the quarter with wire, oil drums and painted warnings and kept it sealed for forty-six years, an act without real parallel: a whole modern town held empty as a bargaining counter.",
+     "w": "In situ, Varosha"
+    },
+    {
+     "n": "Deryneia viewpoint",
+     "p": "1974-2020",
+     "t": "For decades the only way to see Varosha was through binoculars from the Greek Cypriot village of Deryneia on the far side of the buffer zone, where cafes set up telescopes; the viewpoint is itself now a piece of the island's memory industry.",
+     "w": "In situ, Deryneia"
+    },
+    {
+     "n": "Security Council resolution 550",
+     "p": "1984",
+     "t": "The Council declared attempts to settle any part of Varosha by people other than its inhabitants inadmissible and called for the area to be handed to the United Nations, a position it restated in resolution 789 of 1992 and after the 2020 opening.",
+     "w": "United Nations documents"
+    },
+    {
+     "n": "The Bilal Aga Mosque",
+     "p": "Reopened July 2021",
+     "t": "A mosque inside the fenced area that held its first prayers in forty-seven years in July 2021, part of the partial reopening; the reopening was condemned by the Security Council as inconsistent with its resolutions.",
+     "w": "In situ, Varosha"
+    },
+    {
+     "n": "The 2020 partial opening",
+     "p": "October 2020 onwards",
+     "t": "A beach strip and some streets were opened to visitors, with pavements, cycle hire and viewing platforms among the ruins; several hundred thousand people had walked in by early 2022. Property claims by the original owners are being pursued through the Immovable Property Commission and the European Court of Human Rights.",
+     "w": "In situ, Varosha"
+    },
+    {
+     "n": "The Ottoman varos",
+     "p": "1571-1878",
+     "t": "The quarter's name is simply the Ottoman word for the suburb outside a fortress. Greek Cypriots were largely excluded from living inside Famagusta's walls until the nineteenth century, which is why the Orthodox town grew here and why Varosha, not the walled city, became the modern commercial centre.",
+     "w": "In situ, Varosha"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Varosha,_Famagusta",
+    "https://en.wikipedia.org/wiki/Turkish_invasion_of_Cyprus",
+    "https://en.wikipedia.org/wiki/United_Nations_Buffer_Zone_in_Cyprus"
+   ]
+  },
+  {
+   "id": "kokkina",
+   "name": "Kokkina (Erenkoy)",
+   "modern": "Coastal exclave on Morphou Bay, Nicosia district",
+   "lon": 32.612,
+   "lat": 35.179,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     1878,
+     2026
+    ]
+   ],
+   "desc": "A small Turkish Cypriot coastal village in the Tillyria that became the most fought-over point of the 1963 to 1964 crisis, because it was the one beach through which men and weapons could reach the Turkish Cypriot fighters from Turkey. In August 1964 the National Guard under Grivas attacked it with several thousand men; Turkey answered with two days of air strikes using napalm on Kokkina and the surrounding Greek villages, killing more than fifty people including civilians, and a United Nations ceasefire held from 9 August. The enclave was never taken. Its people were moved to Yialousa in 1976 and it is now a closed military area with an annual commemoration.",
+   "finds": [
+    {
+     "n": "The 1964 battle ground",
+     "p": "6-9 August 1964",
+     "t": "The ridges and the shore where the National Guard's attack was stopped, still marked by trenches and positions; the Turkish Cypriot account calls it the Erenkoy Resistance and it is the founding battle of the modern Turkish Cypriot security narrative.",
+     "w": "In situ, Kokkina (military area)"
+    },
+    {
+     "n": "Turkish air strikes",
+     "p": "8-9 August 1964",
+     "t": "Turkish Air Force aircraft bombed, strafed and napalmed the area for two days, hitting Greek Cypriot villages, Polis and a hospital; it was the first use of Turkish air power over Cyprus and it forced the ceasefire. The pilot Cengiz Topel was shot down and died in Greek Cypriot hands, and is commemorated in the north.",
+     "w": "In situ; contemporary press"
+    },
+    {
+     "n": "The thirteen graves",
+     "p": "1964",
+     "t": "A tended cemetery inside the exclave holding the Turkish Cypriot dead of the battle, the focus of the yearly ceremony every August.",
+     "w": "In situ, Kokkina"
+    },
+    {
+     "n": "The sea supply route",
+     "p": "1963-1974",
+     "t": "Small boats from Turkey landed men, arms and food on this shore for the fighters of the TMT, which is exactly why the Republic tried to take it; the pattern of enclaves supplied from outside shaped the whole decade.",
+     "w": "In situ, Morphou Bay"
+    },
+    {
+     "n": "The Tillyria Greek Cypriot villages",
+     "p": "1964-1974",
+     "t": "Mansoura, Alevga, Pachyammos and their neighbours were caught between the enclave and the attack and were bombed in 1964; several were abandoned in 1974. The whole coast is now thinly populated on both sides of the line.",
+     "w": "In situ, Tillyria"
+    },
+    {
+     "n": "Resettlement at Yeni Erenkoy",
+     "p": "1976",
+     "t": "The inhabitants were moved after 1974 to Yialousa in the Karpas, renamed Yeni Erenkoy, so the name of the village now sits 130 km away from the ground it fought for.",
+     "w": "In situ, Yeni Erenkoy, Karpas"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kokkina",
+    "https://en.wikipedia.org/wiki/Battle_of_Tillyria",
+    "https://en.wikipedia.org/wiki/United_Nations_Buffer_Zone_in_Cyprus"
+   ]
+  },
+  {
+   "id": "mari",
+   "name": "Mari naval base and Vasilikos",
+   "modern": "Mari and Zygi, Larnaca district",
+   "lon": 33.288,
+   "lat": 34.728,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     2000,
+     2026
+    ]
+   ],
+   "desc": "On 11 July 2011 ninety-eight containers of gunpowder and ammunition, seized in 2009 from the Cypriot-flagged ship Monchegorsk carrying Iranian material towards Syria and then left stacked in the open at the Evangelos Florakis naval base, caught fire and exploded. Thirteen people were killed, including the navy commander, the base commander and six firefighters, and about sixty-two were injured. The blast wrecked the neighbouring Vasilikos power station, which supplied roughly half the island's electricity, and left damage estimated at around two billion euros. An independent inquiry found that President Christofias bore primary responsibility; the defence minister, the foreign minister and the National Guard commander resigned.",
+   "finds": [
+    {
+     "n": "The crater at the naval base",
+     "p": "11 July 2011",
+     "t": "The store site where the containers stood, about 400 metres from the power station and near the village of Mari, whose houses were also damaged. The containers had been left in the open for more than two years despite repeated warnings.",
+     "w": "In situ, Mari (military area)"
+    },
+    {
+     "n": "Vasilikos power station",
+     "p": "Damaged 11 July 2011, rebuilt",
+     "t": "The island's largest thermal station, reduced to a shell by the blast; rolling power cuts followed through the summer of 2011 and electricity had to be bought in and generators leased. It has since been repaired and expanded.",
+     "w": "In situ, Vasilikos"
+    },
+    {
+     "n": "The Monchegorsk cargo",
+     "p": "Seized 2009",
+     "t": "Artillery propellant, shell components and primers taken off a Russian-owned, Cypriot-flagged ship intercepted in the Red Sea under United Nations sanctions on Iran; a sanctions success became a domestic disaster because nobody would take responsibility for destroying the material.",
+     "w": "Documentary; United Nations sanctions reports"
+    },
+    {
+     "n": "The Polyviou inquiry",
+     "p": "2011",
+     "t": "A one-man independent investigation concluded that the president bore primary responsibility for the failure to move or destroy the cargo. The report is one of the sharpest documents of official accountability in the Republic's history.",
+     "w": "Published report, Republic of Cyprus"
+    },
+    {
+     "n": "Memorial to the thirteen",
+     "p": "From 2012",
+     "t": "A monument and annual commemoration for the dead, most of them firefighters and sailors who went towards the fire; the fire service's losses reshaped Cypriot civil-defence doctrine.",
+     "w": "In situ, Mari and Zygi"
+    },
+    {
+     "n": "The Vasilikos industrial coast",
+     "p": "Late 20th century onwards",
+     "t": "The stretch from Zygi to Vasilikos carries the power station, a cement works and the terminal planned for imported natural gas, the Republic's answer to having lost its northern infrastructure in 1974.",
+     "w": "In situ, Vasilikos"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Evangelos_Florakis_Naval_Base_explosion",
+    "https://en.wikipedia.org/wiki/Vasilikos_Power_Station"
+   ]
+  },
+  {
+   "id": "ayianapa",
+   "name": "Ayia Napa",
+   "modern": "Ayia Napa, Famagusta district (government-controlled area)",
+   "lon": 34.0,
+   "lat": 34.989,
+   "lab": "b",
+   "type": "city",
+   "ranges": [
+    [
+     1500,
+     2026
+    ]
+   ],
+   "desc": "A Venetian-period monastery beside a spring, a fishing and farming hamlet of a few hundred people until the 1970s, and then the place where the Republic rebuilt the tourist industry it lost with Varosha and Kyrenia in 1974. It now has more than 175 hotels and apartment blocks and a bed capacity of about 27,000, took over 700,000 visitors in 2017 and became a fixture of the British club circuit at the turn of the century. Nothing shows the economic shape of the post-1974 Republic more plainly: hotels on the south-east coast paid for by refugees and by state loan guarantees.",
+   "finds": [
+    {
+     "n": "Ayia Napa Monastery",
+     "p": "Church c. 1500; ranges 14th-18th century",
+     "t": "A walled monastery around a sunken cave church beside a spring, built by the Venetians about 1500 with older Byzantine wall sections; it functioned into the Ottoman period, then as a parish church, and is now a museum and a chapel used by several denominations.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "The monastery's octagonal fountain and sycamore",
+     "p": "16th century; tree said to be 600 years old",
+     "t": "A domed marble fountain house in the courtyard fed by the spring that made the site, shaded by a huge sycamore fig; the spring is why a monastery stood on a waterless coast.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "Nissi Beach",
+     "p": "1970s onwards",
+     "t": "The sandbar and islet that made the resort's name; it topped a TripAdvisor list of European beaches in 2011, and its beach bars were the centre of the garage and dance scene that drew British visitors between about 1999 and 2003.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "Thalassa Municipal Museum",
+     "p": "Opened 2005",
+     "t": "A museum of the sea holding a full-scale reconstruction of the Kyrenia ship, the Kyrenia II, alongside marine and archaeological collections, built to give the resort something to do in winter.",
+     "w": "Thalassa Museum, Ayia Napa"
+    },
+    {
+     "n": "The fishing harbour",
+     "p": "20th century",
+     "t": "The small harbour and its remaining boats, the whole of the village economy before tourism; local memory of the change from fishing to hotels within one generation is well recorded in oral history projects.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "The sea caves and the Cape Greco park",
+     "p": "Natural",
+     "t": "Wave-cut caves and arches in the limestone east of the town, within a national forest park that was left undeveloped as the hotels spread, a rare planning restraint on this coast.",
+     "w": "In situ, Cape Greco"
+    },
+    {
+     "n": "Cave church",
+     "p": "Medieval, over an earlier cave",
+     "t": "The original church cut into the rock below present ground level, reached down a flight of steps, with the spring beside it; the whole monastery is arranged around this hole in the ground.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "Venetian octagonal fountain",
+     "p": "c. 1500",
+     "t": "A domed marble fountain house in the courtyard carrying carved heads and a boar's head spout, the best piece of secular Venetian carving on the island.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "Cloister and cells",
+     "p": "c. 1500",
+     "t": "Two-storey ranges of vaulted cells and a refectory around a walled court entered by a gate under a bell tower, Italian in proportion and Cypriot in stone.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "The sycamore fig",
+     "p": "Planted c. 1500 by tradition",
+     "t": "A vast Ficus sycomorus outside the south wall, said to be as old as the monastery and one of the oldest trees on Cyprus.",
+     "w": "In situ, Ayia Napa"
+    },
+    {
+     "n": "Latin and Orthodox side by side",
+     "p": "16th–17th century",
+     "t": "A Latin chapel adjoining the Orthodox cave church, the physical form of the compromise the two communities had reached by the end of Venetian rule; the house was deserted in the seventeenth century and the church later served the Greek village.",
+     "w": "In situ, Ayia Napa"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ayia_Napa",
+    "https://en.wikipedia.org/wiki/Nissi_Beach",
+    "https://en.wikipedia.org/wiki/Tourism_in_Cyprus",
+    "https://ayianapamonastery.org.cy/the-church/"
+   ]
+  },
+  {
+   "id": "kokkinochoria",
+   "name": "The Kokkinochoria and the water problem",
+   "modern": "Xylofagou, Liopetri, Frenaros, Avgorou and their neighbours",
+   "lon": 33.85,
+   "lat": 34.977,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1878,
+     2026
+    ]
+   ],
+   "desc": "The red villages of the south-east, named for the terra rossa soil that makes their potatoes, are the clearest case of the island's central modern problem: there is not enough water. From the 1950s cheap diesel pumps and boreholes let the Kokkinochoria grow two or three potato crops a year for the British market, until over-pumping drew seawater into the aquifer and salted the wells. Cyprus answered with dams, then with desalination, and in the drought of 2008 with tankers of drinking water from Greece. The 1974 line also runs along the top of the district, cutting these villages off from Famagusta, their market town.",
+   "finds": [
+    {
+     "n": "Terra rossa and the potato",
+     "p": "20th century",
+     "t": "Deep red iron-rich soils over limestone, worked in tiny plots and irrigated from boreholes, giving two and sometimes three crops a year; the new potato became one of the Republic's largest agricultural exports, most of it to Britain.",
+     "w": "In situ, Kokkinochoria"
+    },
+    {
+     "n": "Boreholes and seawater intrusion",
+     "p": "1950s onwards",
+     "t": "Thousands of private wells drew the water table below sea level and salt water moved inland, ruining wells that had been sweet within living memory. The Kokkinochoria aquifer is the standard Cypriot example of a groundwater body pumped past recovery.",
+     "w": "In situ; Water Development Department records"
+    },
+    {
+     "n": "The dams",
+     "p": "1960s-1980s",
+     "t": "The Republic built more than a hundred dams and reservoirs, among them Achna in the east and the great Kouris dam in the south, and laid the Southern Conveyor to move water along the coast; storage still depends entirely on how much it rains.",
+     "w": "In situ, Achna and elsewhere"
+    },
+    {
+     "n": "Desalination",
+     "p": "From the late 1990s",
+     "t": "Reverse-osmosis plants at Dhekelia, near Larnaca and later in the west now supply most of the drinking water of the government-controlled area, turning a rainfall problem into an electricity problem.",
+     "w": "In situ, Dhekelia and Larnaca district"
+    },
+    {
+     "n": "The 2008 water tankers",
+     "p": "2008",
+     "t": "After successive dry winters the Republic chartered tankers to bring drinking water from Greece, an episode that did more than any report to make water politics visible to the public.",
+     "w": "Documentary; contemporary press"
+    },
+    {
+     "n": "The severed market town",
+     "p": "1974 onwards",
+     "t": "Famagusta was the natural port and market of these villages; after 1974 the buffer zone ran between them and it, and the district's produce went instead to Limassol and Larnaca. Fields on the far side of the line have been out of use for fifty years.",
+     "w": "In situ, along the buffer zone"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Xylofagou",
+    "https://en.wikipedia.org/wiki/Agriculture_in_Cyprus",
+    "https://en.wikipedia.org/wiki/Liopetri"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "nicosia",
+   "finds": [
+    {
+     "n": "Omeriye Mosque and baths",
+     "p": "Church 14th century; converted 1571; baths 1570s",
+     "t": "The Augustinian church of Saint Mary, wrecked in the siege, was converted by Lala Mustafa Pasha in 1571 in the belief that the Caliph Omar had rested on the spot; Lusignan tomb slabs are reused in its floor. The hamam of the same complex was restored in 2002 to 2004 under the Nicosia Master Plan, still works as a bath house, and won the top Europa Nostra conservation prize in 2006.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "House of Hadjigeorgakis Kornesios",
+     "p": "1793",
+     "t": "The sandstone mansion of the dragoman, the Greek interpreter and tax intermediary who was the richest and most hated man on the island, built round a courtyard with its own three-room hamam. Kornesios was executed at Constantinople in 1809. Saved from demolition in the 1950s, opened as a museum in 1960 and given a Europa Nostra award in 1988, it is the best surviving picture of how power actually worked in late Ottoman Cyprus.",
+     "w": "Ethnological Museum, Nicosia"
+    },
+    {
+     "n": "The Bedesten and the Bandabuliya",
+     "p": "1573 and 1932",
+     "t": "The Ottoman authorities gave a ruined Byzantine and Gothic church beside Selimiye to the Haramayn foundation in 1573 for use as a covered cloth market; it fell out of use when the municipal covered market, the Bandabuliya, opened in 1932 next door. The two buildings, forty metres and 360 years apart, are the Ottoman and the colonial versions of the same function.",
+     "w": "In situ, north Nicosia"
+    },
+    {
+     "n": "Faneromeni church and the Marble Mausoleum",
+     "p": "Church 1872; mausoleum from 1873",
+     "t": "The largest church of the walled city, rebuilt in 1872 on the site of an older convent, with a marble mausoleum to its east holding the relics of Archbishop Kyprianos, the three bishops and the clergy executed by the Ottoman authorities on 9 July 1821. Faneromeni School opposite is one of the oldest on the island.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "Pancyprian Gymnasium",
+     "p": "Founded 1812; named 1893",
+     "t": "Founded by Archbishop Kyprianos as the Hellenic School, on a site that had held a school since 1753, and reorganised as the Pancyprian Gymnasium in 1893; the present neoclassical building followed a fire in 1920. Its pupils include Makarios III, Glafcos Clerides, Tassos Papadopoulos, Georgios Grivas and the Nobel economist Christopher Pissarides, and its classrooms were a nursery of both enosis and the 1931 and 1955 movements.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "Government House, now the Presidential Palace",
+     "p": "1878, 1932-1937",
+     "t": "The first Government House was a prefabricated building shipped from England in 1878, intended for Ceylon and carried up from the coast by camel. A crowd of about 5,000 burned it on 21 October 1931 and the cost was charged back to the population; Maurice Webb designed the sandstone replacement, built between 1932 and 1937 for £70,000. It became the Presidential Palace in 1960, was burned again in the coup of July 1974 and was rebuilt in 1977 with Greek money.",
+     "w": "In situ, Strovolos, Nicosia"
+    },
+    {
+     "n": "The Imprisoned Graves",
+     "p": "1956-1962",
+     "t": "Thirteen graves in the yard of the Central Prison holding the men the British hanged during the emergency, among them Michalakis Karaolis and Andreas Demetriou on 10 May 1956 and the eighteen-year-old Evagoras Pallikaridis on 14 March 1957, together with fighters killed in action including Markos Drakos, Grigoris Afxentiou, Stylianos Lenas and Kyriakos Matsis. The gallows and cells are shown as a national monument.",
+     "w": "In situ, Central Prison, Nicosia"
+    },
+    {
+     "n": "The Green Line through the city",
+     "p": "1963, and after 1974",
+     "t": "Major-General Peter Young drew the ceasefire line across Nicosia with a green chinagraph pencil on a map on 30 December 1963; the buffer zone it became runs 180 km across the island and covers 346 square kilometres, from twenty metres wide in the old city to seven kilometres in the plain. Nicosia has been the last divided capital in Europe since 1974. The Ledra Palace hotel, opened in 1949 and shell-scarred in 1974, has served as the United Nations barracks, and the crossing beside it was the first to open, in April 2003, followed by the pedestrian crossing on Ledra Street in the old city in 2008.",
+     "w": "In situ, Nicosia"
+    }
+   ]
+  },
+  {
+   "id": "kition",
+   "finds": [
+    {
+     "n": "Larnaca Castle",
+     "p": "Rebuilt 1625",
+     "t": "A plaque over the entrance dates the Ottoman rebuilding of the fort to 1625, though a Turkish garrison had held the site since 1570 and there was a Lusignan work here before that. It carried the guns that saluted arriving consuls, then served the British as a prison with a gallows into the 1940s, and is now the Larnaca Medieval Museum.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "Church of Ayios Lazaros",
+     "p": "Late 9th century; belfry 1857",
+     "t": "Built over the tomb found in 890 inscribed 'Lazarus, four days dead, friend of Christ'. Taken as a mosque after 1571 and sold back to the Orthodox in 1589, it was then shared with Latin worshippers for about two centuries, an arrangement recorded in Latin graffiti in the walls. Its bell tower went up after the Ottoman reform of 1857 permitted belfries. A fire in 1970 destroyed much of the iconostasis, and in November 1972 human remains were found in a marble sarcophagus under the altar and identified as part of the saint's relics.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "Skala, Tuzla and the consuls",
+     "p": "17th-19th century",
+     "t": "The Ottoman authorities required European consuls to live at Larnaca, and the town became the island's window on the world: French, Venetian, British, Russian and Swedish consulates, dragomans, merchants and the antiquities dealers who shipped much of Cypriot archaeology abroad. Cotton, carobs, salt, silk and wine went out through the roadstead by lighter because there was no harbour.",
+     "w": "In situ, Skala quarter, Larnaca"
+    },
+    {
+     "n": "The salt lake and the salt trade",
+     "p": "Antiquity to 1986",
+     "t": "Salt raked from the lake beside the town was one of Cyprus's steadiest exports under Venetian, Ottoman and British rule; commercial harvesting stopped in the 1980s, and the lake is now protected for its wintering flamingos.",
+     "w": "In situ, Larnaca Salt Lake"
+    },
+    {
+     "n": "Larnaca International Airport",
+     "p": "Opened February 1975",
+     "t": "Thrown up in a few months on the edge of the salt lake after Nicosia airport was lost, initially with a converted cargo shed for a terminal; it became the Republic's main gateway and got a new terminal in 2009.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "Larnaca after 1974",
+     "p": "1974 onwards",
+     "t": "The town absorbed thousands of displaced people, took over the trade of Famagusta with a new commercial port, and grew a marina and a seafront palm promenade; the Turkish Cypriot quarter around the fort emptied in 1975. Modern Larnaca is a 1974 city as much as an ancient one.",
+     "w": "In situ, Larnaca"
+    }
+   ]
+  },
+  {
+   "id": "famagusta",
+   "finds": [
+    {
+     "n": "The emptied walled city",
+     "p": "1571-19th century",
+     "t": "After the siege the Ottoman authorities settled the walled city with Muslims and largely excluded Orthodox Cypriots from living inside it, which is why the Greek town grew as Varosha outside the gates. Travellers through the eighteenth century describe a garrison town of a few hundred people among two dozen ruined churches.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Cafer Pasha fountain and baths",
+     "p": "1597",
+     "t": "Cafer Pasha brought water into the walled city and built a domed bath house and a street fountain, the main Ottoman civic works in Famagusta; the fountain still stands near the cathedral square and the bath survives in part.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Famagusta harbour and the railway terminus",
+     "p": "1903-1906; railway from 1905",
+     "t": "The British dredged and walled the silted harbour and made it the colony's main port, with the Cyprus Government Railway running from the quay to Nicosia from 21 October 1905. Locomotive No. 1 is preserved at the station.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "The closed port",
+     "p": "1974 onwards",
+     "t": "The Republic declared Famagusta a closed port after 1974, so the busiest harbour on the island trades only with Turkey; the resulting legal argument about direct trade with the north has run through the European courts for decades.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Othello's Tower restored",
+     "p": "2014-2015",
+     "t": "The citadel was consolidated and reopened by the bicommunal Technical Committee on Cultural Heritage with United Nations and European Union funding, the most visible product of the one negotiating track that has kept working through every political freeze.",
+     "w": "In situ, Famagusta"
+    }
+   ]
+  },
+  {
+   "id": "limassol",
+   "finds": [
+    {
+     "n": "The Grand Mosque and the Turkish quarter",
+     "p": "Ottoman period",
+     "t": "Djami Kebir, the Great Mosque, stands with its bath house a few steps from the castle in what was the Turkish Cypriot quarter of the old town; the quarter emptied in 1975 and its lanes are now bars and workshops. Limassol was a town where the two communities lived most closely mixed.",
+     "w": "In situ, Limassol"
+    },
+    {
+     "n": "The carob mills",
+     "p": "Late 19th-20th century",
+     "t": "Stone warehouses on the shore beside the castle where carob pods, the black gold of Cyprus, were stored and shipped; the complex is now a museum, cinema and restaurant quarter. Carobs were among the colony's top three exports for decades.",
+     "w": "In situ, Limassol"
+    },
+    {
+     "n": "The wineries",
+     "p": "19th-20th century",
+     "t": "Limassol became the island's wine town: ETKO dates its founding to 1844 and KEO was set up in 1927, with SODAP and LOEL following, all drawing grapes from the Troodos foothills. The Limassol Wine Festival has run since 1961.",
+     "w": "In situ, Limassol"
+    },
+    {
+     "n": "The new port",
+     "p": "Opened 1973-1974",
+     "t": "A deep-water harbour finished just before the war, which then had to carry almost all the Republic's trade after Famagusta was lost; it remains the island's main port and a Mediterranean transhipment stop.",
+     "w": "In situ, west of Limassol"
+    },
+    {
+     "n": "The refugee town",
+     "p": "After 1974",
+     "t": "Limassol took the largest share of the displaced, and whole quarters of the eastern suburbs began as government refugee estates of identical low houses; the city's population roughly doubled in a decade and it overtook Famagusta as the island's commercial capital.",
+     "w": "In situ, Limassol"
+    },
+    {
+     "n": "Limassol Marina and the towers",
+     "p": "2014 onwards",
+     "t": "A marina and residential development beside the old town opened in 2014, followed by a line of high-rise towers along the seafront built partly on investment-for-citizenship money; the most conspicuous physical result of the post-2013 recovery.",
+     "w": "In situ, Limassol"
+    }
+   ]
+  },
+  {
+   "id": "kyrenia",
+   "finds": [
+    {
+     "n": "Aga Cafer Pasha Mosque",
+     "p": "1580",
+     "t": "The oldest Ottoman building in the town, a small stone mosque with a squat minaret and a fountain, built for the garrison a decade after the conquest, just above the old harbour.",
+     "w": "In situ, Kyrenia"
+    },
+    {
+     "n": "The castle as a colonial prison",
+     "p": "1878-1950s",
+     "t": "The British used the Venetian fortress as a prison and, during the 1955 to 1959 emergency, as a detention centre for EOKA suspects; the cells and the exercise yards are shown to visitors alongside the medieval work.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Pentemili landing beach",
+     "p": "20 July 1974",
+     "t": "Turkish forces came ashore on Five Mile Beach west of Kyrenia at dawn on 20 July 1974 and pushed inland to link with the Turkish Cypriot enclave in Nicosia. A monument and a museum now stand at the landing point, and the anniversary is a public holiday in the north.",
+     "w": "In situ, west of Kyrenia"
+    },
+    {
+     "n": "Bitter Lemons and the house at Bellapais",
+     "p": "1953-1956",
+     "t": "Lawrence Durrell bought a house in Bellapais, taught in Nicosia and worked for the colonial information service, and wrote Bitter Lemons about watching the island slide into the emergency; the book shaped how a generation of British readers understood Cyprus, and the house is still pointed out.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "The harbour and the tourist town",
+     "p": "20th century onwards",
+     "t": "The horseshoe harbour with its carob warehouses converted to restaurants was the postcard image of Cyprus before 1974 and is now the tourist centre of the north, ringed by hotels and casinos serving visitors from Turkey.",
+     "w": "In situ, Kyrenia"
+    }
+   ]
+  },
+  {
+   "id": "hst",
+   "finds": [
+    {
+     "n": "The tomb of Umm Haram",
+     "p": "7th century; present structure Ottoman",
+     "t": "Three large stones, two upright and one laid across them, cover the grave of Umm Haram bint Milhan, a kinswoman of the Prophet's foster-mother who is said to have fallen from her mule and died during the Arab raid of 649. Local tradition holds that the top stone hung unsupported in the air; the shrine was venerated by Ottoman sailors, who saluted it from the sea.",
+     "w": "In situ, Hala Sultan Tekke"
+    },
+    {
+     "n": "The mosque and its inscription",
+     "p": "1816-1817",
+     "t": "The mosque and minaret beside the tomb were built under the governor Seyyid Mehmed Emin, completing a complex whose tomb chamber and enclosure had been raised from about 1760; the inscription over the door records the work. It is among the most important Muslim monuments on the island.",
+     "w": "In situ, Hala Sultan Tekke"
+    },
+    {
+     "n": "The takke's garden and dervish lodge",
+     "p": "18th-19th century",
+     "t": "Cells, a fountain, cypresses and palms around the mosque, laid out as a lodge for the dervishes and pilgrims who kept the shrine; the tekke held property in the district endowed for its upkeep.",
+     "w": "In situ, Hala Sultan Tekke"
+    },
+    {
+     "n": "The salt lake and its flamingos",
+     "p": "Antiquity to the present",
+     "t": "The lake that once salted Larnaca's export trade now fills and dries each year and holds thousands of greater flamingos in winter; it is a Natura 2000 site and the setting that makes the tekke's silhouette famous.",
+     "w": "In situ, Larnaca Salt Lake"
+    },
+    {
+     "n": "The Turkish Cypriot custodianship",
+     "p": "1974 onwards",
+     "t": "The tekke lies in the government-controlled area but is maintained for Muslim worship, and access for Turkish Cypriots to pray here has been one of the small confidence-building measures negotiated since the crossings opened in 2003.",
+     "w": "In situ, Hala Sultan Tekke"
+    }
+   ]
+  },
+  {
+   "id": "kykkos",
+   "finds": [
+    {
+     "n": "Throni and the tomb of Makarios III",
+     "p": "1977",
+     "t": "The first president of the Republic, who began here as a novice in 1926, was buried on 3 August 1977 on the hilltop of Throni above the monastery at his own wish; a shrine to the Virgin stands beside the grave and the site draws pilgrims and tourists in equal numbers.",
+     "w": "In situ, Throni, above Kykkos"
+    },
+    {
+     "n": "The execution of Abbot Josef",
+     "p": "1821",
+     "t": "Kykkos was caught in the reprisals of 1821: its abbot was among those put to death and the monastery's property was seized, a reminder that the richest Orthodox house on the island held its wealth entirely at the sultan's pleasure.",
+     "w": "Documentary; monastery archives"
+    },
+    {
+     "n": "The metochia and the schools",
+     "p": "17th-20th century",
+     "t": "Kykkos ran dependencies, farms and urban properties across Cyprus and beyond, and the income paid for village schools, scholarships and the printing of books; monastic estates were the main Greek Cypriot institution that survived the Ottoman centuries intact.",
+     "w": "Kykkos Monastery and its metochia"
+    },
+    {
+     "n": "The forest as EOKA ground",
+     "p": "1955-1959",
+     "t": "The Kykkos and Machairas forests sheltered EOKA groups and their caches, and the monastery is widely held to have helped them; British forces mounted repeated searches in the area. The monastery museum and the nearby memorials present the campaign from the Greek Cypriot side.",
+     "w": "In situ, Kykkos forest"
+    },
+    {
+     "n": "The rain processions",
+     "p": "Ottoman period to the 20th century",
+     "t": "In drought the icon of the Panagia Kykkotissa was carried out of the mountains in procession to the parched villages, a practice recorded from the Ottoman centuries into living memory, and one of the clearest links between the island's religion and its water.",
+     "w": "Kykkos Monastery"
+    }
+   ]
+  },
+  {
+   "id": "kolossi",
+   "finds": [
+    {
+     "n": "The estate as an Ottoman chiftlik",
+     "p": "1571-1878",
+     "t": "After 1570 the commandery's lands passed into Ottoman hands as a farm estate whose revenues went to state and pious foundations, and the keep became a store and a farmhouse. The sugar industry it had been built for was already dead, undercut by Atlantic and Madeiran sugar.",
+     "w": "In situ, Kolossi"
+    },
+    {
+     "n": "The labour of the sugar works",
+     "p": "14th-16th century",
+     "t": "The cane fields and refinery were worked by a mixed force of Cypriot serfs, Syrian and Arab labourers and slaves, and the mill was driven by water brought by the aqueduct; the documentary record of this workforce is one of the fuller pictures of medieval Mediterranean plantation labour.",
+     "w": "Documentary; in situ, Kolossi"
+    },
+    {
+     "n": "Consolidation as an ancient monument",
+     "p": "1930s onwards",
+     "t": "The Department of Antiquities took the castle in hand in the colonial period, cleared and consolidated the keep and the mill and opened them; the flat roof and its view over the Akrotiri plain date from that work.",
+     "w": "In situ, Kolossi"
+    },
+    {
+     "n": "Commandaria today",
+     "p": "Modern",
+     "t": "The sweet wine named for the knights' commandery is now a protected designation of origin made in fourteen named villages above Limassol from sun-dried xynisteri and mavro grapes; the claim that it is the oldest named wine still in production rests on the medieval documents rather than on continuity of practice.",
+     "w": "In situ, Commandaria villages"
+    },
+    {
+     "n": "Kolossi and the base area",
+     "p": "After 1960 and 1974",
+     "t": "The village sits on the edge of the Akrotiri Sovereign Base Area, and part of its land was used to house Greek Cypriots displaced in 1974, so a Hospitaller estate now shares its fields with British sovereign territory and a refugee estate.",
+     "w": "In situ, Kolossi"
+    }
+   ]
+  },
+  {
+   "id": "neapaphos",
+   "finds": [
+    {
+     "n": "Paphos harbour castle",
+     "p": "1592",
+     "t": "The Venetians blew up the Lusignan harbour forts in 1570; the Ottomans rebuilt one tower with a vaulted hall and prison cells in 1592, and the British used it as a salt store before it was scheduled as an ancient monument in 1935. It is the working emblem of Paphos harbour.",
+     "w": "In situ, Paphos harbour"
+    },
+    {
+     "n": "UNESCO World Heritage inscription",
+     "p": "1980",
+     "t": "Paphos was inscribed on the World Heritage List in 1980 for the whole ensemble from Palaepaphos to the Tombs of the Kings and the Roman houses, one of the first sites listed for Cyprus and the reason the archaeological park was consolidated.",
+     "w": "UNESCO; Paphos Archaeological Park"
+    },
+    {
+     "n": "The 1953 earthquake",
+     "p": "10 September 1953",
+     "t": "A destructive earthquake in the Paphos district killed dozens of people and wrecked villages and churches across the west; much of the district's plain vernacular architecture was rebuilt afterwards in concrete, which is why so little old fabric survives outside the hill villages.",
+     "w": "In situ, Paphos district"
+    },
+    {
+     "n": "Mouttalos",
+     "p": "Ottoman period to 1975",
+     "t": "The Turkish Cypriot quarter of upper Paphos, with its mosque and bath, emptied when its people moved north in 1975 and was allocated to Greek Cypriots displaced from the north; two displacements are stacked in the same streets.",
+     "w": "In situ, Mouttalos, Paphos"
+    },
+    {
+     "n": "Paphos airport and 2017",
+     "p": "1983 and 2017",
+     "t": "An airport opened at Paphos in 1983 turned the quietest district of the Republic into a tourist and retirement coast, and Paphos was European Capital of Culture in 2017, which paid for the excavation and display of much of the old town.",
+     "w": "In situ, Paphos"
+    }
+   ]
+  },
+  {
+   "id": "lapithos",
+   "finds": [
+    {
+     "n": "Acheiropoietos Monastery at Lambousa",
+     "p": "Byzantine and later; closed since 1974",
+     "t": "A monastery on the shore beside ancient Lambousa, with a domed church of Byzantine and Gothic phases, whose name means 'made without hands'. It stands inside a Turkish military area and has been inaccessible and largely unmaintained since 1974.",
+     "w": "In situ, Lambousa (military area)"
+    },
+    {
+     "n": "The potters of Lapithos",
+     "p": "Ottoman and British periods",
+     "t": "Lapithos was the island's best-known pottery town, turning out glazed and slip-decorated earthenware jugs, bowls and storage jars on the wheel; museum collections of Cypriot folk pottery are largely Lapithos work, and the craft died with the displacement of 1974.",
+     "w": "Cyprus Museum and Folk Art Museum, Nicosia"
+    },
+    {
+     "n": "Silk, lemons and water",
+     "p": "Ottoman and British periods",
+     "t": "Springs on the Kyrenia range fed terraced gardens of lemons, mulberries for silk and vegetables, made the town unusually prosperous and gave it a reputation for water in a dry island; the channels and washing places survive in the lanes.",
+     "w": "In situ, Lapithos"
+    },
+    {
+     "n": "Displacement and resettlement",
+     "p": "1974-1976",
+     "t": "Lapithos's Greek Cypriot population, several thousand strong, fled or was expelled in 1974 and now lives scattered in the south; the town, renamed Lapta, was settled by Turkish Cypriots from the south and by families from Turkey and is today a tourist village. Both displacements are documented village by village in the PRIO displacement project.",
+     "w": "In situ, Lapta; PRIO Cyprus Displacement Centre"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "ottoman",
+   "events": [
+    [
+     1571,
+     "The Latin cathedrals of Nicosia and Famagusta become the Selimiye and Lala Mustafa Pasha mosques; the first Friday prayer in Nicosia is held on 15 September 1570"
+    ],
+    [
+     1573,
+     "A ruined church beside Selimiye is granted to the Haramayn foundation as the Bedesten, the covered cloth market"
+    ],
+    [
+     1607,
+     "A Tuscan squadron raids Famagusta, the last western attempt on the island"
+    ],
+    [
+     1625,
+     "The fort at Larnaca is rebuilt; Larnaca becomes the port of trade and the seat of the European consuls"
+    ],
+    [
+     1680,
+     "Boyacioglu Mehmed Agha leads a revolt of local aghas that holds the island for about two years"
+    ],
+    [
+     1703,
+     "Cyprus is granted as an arpalik to the Grand Vizier and run by a muhassil who farms its taxes"
+    ],
+    [
+     1747,
+     "Ebubekir Pasha begins the aqueduct that will carry water about ten kilometres to Larnaca; it serves the town until 1939"
+    ],
+    [
+     1793,
+     "The dragoman Hadjigeorgakis Kornesios builds his Nicosia mansion; the dragomans are the richest men on the island"
+    ],
+    [
+     1804,
+     "Muslim townsmen and peasants riot in Nicosia against the tax power of the archbishop and the dragoman"
+    ],
+    [
+     1809,
+     "Hadjigeorgakis Kornesios is executed at Constantinople and his property seized"
+    ],
+    [
+     1812,
+     "Archbishop Kyprianos founds the Hellenic School of Nicosia, later the Pancyprian Gymnasium"
+    ],
+    [
+     1821,
+     "The three bishops are beheaded and Archbishop Kyprianos hanged in Nicosia on 9 July; executions and confiscations follow for months, and Kykkos loses its abbot and its lands"
+    ],
+    [
+     1839,
+     "The Tanzimat reforms make Cyprus a sanjak under a mutasarrif; the Ottoman land code of 1858 follows"
+    ],
+    [
+     1857,
+     "Ottoman reform permits Christians to build bell towers; the belfry of Ayios Lazaros rises at Larnaca"
+    ],
+    [
+     1878,
+     "The Cyprus Convention is signed on 4 June; the British flag is raised at Nicosia on 12 July by Lord John Hay and Wolseley lands at Larnaca on 22 July"
+    ]
+   ]
+  },
+  {
+   "id": "british",
+   "events": [
+    [
+     1879,
+     "A summer hill station is laid out on the Troodos; the governor's cottage is begun at 1,700 metres"
+    ],
+    [
+     1905,
+     "The Cyprus Government Railway opens from Famagusta to Nicosia on 21 October; it reaches Morphou in 1907 and Evrychou in 1915"
+    ],
+    [
+     1912,
+     "Intercommunal rioting in Limassol and Nicosia, the first serious violence between the two communities under British rule"
+    ],
+    [
+     1916,
+     "The Cyprus Mines Corporation is founded and reopens the ancient copper of Skouriotissa; Mavrovouni follows in 1929"
+    ],
+    [
+     1923,
+     "The Treaty of Lausanne confirms British sovereignty; Turkish Cypriots are given two years to opt for Turkish nationality and thousands emigrate"
+    ],
+    [
+     1927,
+     "The Cyprus Tribute is abolished; since 1878 Cyprus had paid about £92,800 a year of its revenues towards defaulted Ottoman loans"
+    ],
+    [
+     1931,
+     "Seven demonstrators are killed, more than 2,600 arrested and ten leaders exiled after the October riots"
+    ],
+    [
+     1941,
+     "About 30,000 Cypriots serve in the Cyprus Regiment and other units during the Second World War"
+    ],
+    [
+     1946,
+     "Britain offers a Consultative Assembly and a constitution; the Greek Cypriot leadership boycotts it and the offer lapses in 1948"
+    ],
+    [
+     1948,
+     "Long strikes in the copper mines and a growing left-wing labour movement under the Pancyprian Federation of Labour"
+    ],
+    [
+     1950,
+     "A church-organised plebiscite records about 96 per cent for union with Greece; Makarios III is elected archbishop"
+    ],
+    [
+     1955,
+     "A state of emergency is declared; the Turkish Resistance Organisation is founded in answer to EOKA and presses for partition"
+    ],
+    [
+     1956,
+     "Makarios is deported to the Seychelles in March; nine men are hanged at Nicosia Central Prison between May 1956 and March 1957"
+    ],
+    [
+     1957,
+     "Grigoris Afxentiou is burned out of his hideout at Machairas on 3 March"
+    ],
+    [
+     1958,
+     "Four EOKA men die in the barn at Liopetri on 2 September; the Macmillan plan is rejected by both communities"
+    ],
+    [
+     1959,
+     "Grivas declares a ceasefire on 9 March; the emergency has cost about 500 lives, including 156 British servicemen and police"
+    ]
+   ]
+  },
+  {
+   "id": "republic",
+   "events": [
+    [
+     1960,
+     "Britain retains 254 square kilometres as the Sovereign Base Areas of Akrotiri and Dhekelia, about three per cent of the island"
+    ],
+    [
+     1961,
+     "Cyprus joins the Commonwealth and, in 1961, the Non-Aligned Movement"
+    ],
+    [
+     1963,
+     "Major-General Peter Young draws the ceasefire line across Nicosia with a green chinagraph pencil on 30 December"
+    ],
+    [
+     1964,
+     "Fighting at Kokkina in August; Turkish aircraft napalm the Tillyria villages and a UN ceasefire follows on 9 August"
+    ],
+    [
+     1967,
+     "Fighting at Kophinou and Ayios Theodoros brings Greece and Turkey close to war"
+    ],
+    [
+     1974,
+     "About 160,000 Greek Cypriots are displaced south and some 45,000 to 60,000 Turkish Cypriots move north; Turkey holds 36 per cent of the island"
+    ],
+    [
+     1975,
+     "Larnaca airport opens in February; Nicosia's stays sealed inside the UN Protected Area"
+    ],
+    [
+     1977,
+     "Makarios dies in August; the high-level agreement of that year accepts a bizonal federation in principle"
+    ],
+    [
+     1984,
+     "Security Council resolution 550 declares any resettlement of Varosha by others than its inhabitants inadmissible"
+    ],
+    [
+     1997,
+     "The first large desalination plant opens at Dhekelia; the island begins to drink the sea"
+    ],
+    [
+     2003,
+     "The Ledra Palace crossing opens on 23 April and hundreds of thousands cross in the first months"
+    ],
+    [
+     2004,
+     "The Annan plan is rejected by about 76 per cent of Greek Cypriots and accepted by about 65 per cent of Turkish Cypriots on 24 April; Cyprus joins the EU on 1 May with the acquis suspended in the north"
+    ],
+    [
+     2008,
+     "Drought forces the Republic to ship drinking water from Greece by tanker"
+    ],
+    [
+     2011,
+     "An ammunition store explodes at the Mari naval base on 11 July, killing thirteen and wrecking the Vasilikos power station"
+    ],
+    [
+     2013,
+     "A ten-billion-euro bailout in March closes Laiki Bank and imposes losses on deposits over 100,000 euros"
+    ],
+    [
+     2017,
+     "Reunification talks collapse at Crans-Montana in July after the closest approach to a settlement since 2004"
+    ],
+    [
+     2020,
+     "Part of the Varosha beachfront is opened to visitors, drawing Security Council condemnation"
+    ],
+    [
+     2026,
+     "Of 2,002 people listed as missing from 1963 to 1974, about 1,080 have been identified and returned to their families"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "ottoman",
+   "rulers": [
+    {
+     "n": "Lala Mustafa Pasha",
+     "d": "1570–1571",
+     "t": "Commander of the conquest and the island's first governor; he had Bragadin flayed at Famagusta and gave his name to its cathedral-mosque."
+    },
+    {
+     "n": "Muzaffer Pasha",
+     "d": "1571–1573",
+     "t": "First beylerbeyi of the new province of Cyprus, credited with building the Buyuk Han in Nicosia; some scholars give the han to his successor Sinan Pasha."
+    },
+    {
+     "n": "The beylerbeyis",
+     "d": "1571–1670",
+     "t": "Cyprus was a full eyalet under a governor of pasha rank with sanjaks on the mainland; some seventy governors came and went, few staying more than two years."
+    },
+    {
+     "n": "The Kapudan Pasha's mutesellims",
+     "d": "1670–1703",
+     "t": "The island was downgraded to a sanjak assigned to the Ottoman admiral, who sent a deputy; real power passed to local aghas and tax farmers, and revolts followed."
+    },
+    {
+     "n": "The muhassils of the Grand Vizier",
+     "d": "1703–1745 and 1748–1785",
+     "t": "Cyprus was granted to the Grand Vizier as a source of income and run by a muhassil who bought the right to collect its taxes, the arrangement that made both extortion and the Church's power possible."
+    },
+    {
+     "n": "Ebubekir Pasha",
+     "d": "1746–1748",
+     "t": "Governor of the brief restored eyalet, remembered for good order and for beginning the aqueduct to Larnaca in 1747."
+    },
+    {
+     "n": "Cil Osman Aga",
+     "d": "to 1764",
+     "t": "Muhassil who doubled the tax demand; Greeks and Turks together stormed the palace in Nicosia and killed him, one of the few joint risings of the period."
+    },
+    {
+     "n": "Kucuk Mehmed",
+     "d": "c. 1820–1821",
+     "t": "Muhassil who ordered the hanging of Archbishop Kyprianos and the beheading of the three bishops on 9 July 1821 and the executions and confiscations that followed."
+    },
+    {
+     "n": "The mutasarrifs",
+     "d": "1839–1878",
+     "t": "After the Tanzimat reforms Cyprus was governed by a mutasarrif under the Archipelago province and then, from 1861 and again from 1870, as a separate mutasarrifate until the British took over the administration."
+    },
+    {
+     "n": "Archbishop Nikiforos",
+     "d": "1641–1674",
+     "t": "Archbishop under whom the Porte came to treat the prelates as spokesmen of the Orthodox flock, the step conventionally dated to 1660."
+    },
+    {
+     "n": "Archbishop Philotheos",
+     "d": "1734–1759",
+     "t": "Consolidated the archbishop's standing as head of the Greek community, with the right to petition Constantinople over the governor's head."
+    },
+    {
+     "n": "Archbishop Chrysanthos",
+     "d": "1767–1810",
+     "t": "Presided over the years when the archbishop and the four bishops collected the Christians' taxes and were, in practice, the island's civil government."
+    },
+    {
+     "n": "Hadjigeorgakis Kornesios, dragoman",
+     "d": "1779–1809",
+     "t": "Interpreter to the governor and tax intermediary, the richest man on the island; executed at Constantinople in 1809 after complaints from both communities."
+    },
+    {
+     "n": "Archbishop Kyprianos",
+     "d": "1810–1821",
+     "t": "Founder of the Hellenic School of Nicosia in 1812; hanged from a tree outside the palace on 9 July 1821 in the reprisals for the Greek revolt."
+    }
+   ]
+  },
+  {
+   "power": "britain",
+   "rulers": [
+    {
+     "n": "Rear-Admiral Lord John Hay",
+     "d": "1878 (acting, 12–22 July)",
+     "t": "Raised the British flag at Nicosia on 12 July 1878 and held the administration for ten days."
+    },
+    {
+     "n": "Sir Garnet Wolseley",
+     "d": "1878–1879",
+     "t": "First High Commissioner, who landed at Larnaca on 22 July 1878 and set up the administration under canvas."
+    },
+    {
+     "n": "Sir Robert Biddulph",
+     "d": "1879–1886",
+     "t": "Built the first roads, courts and schools and the summer residence on the Troodos; the longest-serving of the early administrators."
+    },
+    {
+     "n": "Sir Henry Bulwer",
+     "d": "1886–1892",
+     "t": "Presided over the first stirrings of organised enosis politics in the Legislative Council."
+    },
+    {
+     "n": "Sir Walter Sendall",
+     "d": "1892–1898",
+     "t": "High Commissioner during years of locust campaigns, agricultural debt and emigration."
+    },
+    {
+     "n": "Sir William Haynes Smith",
+     "d": "1898–1904",
+     "t": "Faced deadlock in the Legislative Council between Greek and Turkish members and the British bloc."
+    },
+    {
+     "n": "Sir Charles King-Harman",
+     "d": "1904–1911",
+     "t": "Opened the Cyprus Government Railway in 1905 and the rebuilt harbour at Famagusta."
+    },
+    {
+     "n": "Sir Hamilton Goold-Adams",
+     "d": "1911–1915",
+     "t": "In office when Britain annexed Cyprus in November 1914 after the Ottoman entry into the war."
+    },
+    {
+     "n": "Sir John Clauson",
+     "d": "1915–1918",
+     "t": "Administered the island through the war, when Britain offered Cyprus to Greece and Athens declined."
+    },
+    {
+     "n": "Sir Malcolm Stevenson",
+     "d": "1918–1926",
+     "t": "Last High Commissioner and first Governor when Cyprus became a Crown Colony in 1925."
+    },
+    {
+     "n": "Sir Ronald Storrs",
+     "d": "1926–1932",
+     "t": "Aesthete and orientalist whose Government House, and his own library, were burned in the riots of October 1931."
+    },
+    {
+     "n": "Sir Reginald Stubbs",
+     "d": "1932–1933",
+     "t": "Held the governorship for a year in the immediate repression after the riots."
+    },
+    {
+     "n": "Sir Richmond Palmer",
+     "d": "1933–1939",
+     "t": "Governor of the authoritarian 'Palmerocracy', with the Legislative Council and municipal elections abolished, the press censored and the flying of Greek flags banned."
+    },
+    {
+     "n": "Sir William Battershill",
+     "d": "1939–1941",
+     "t": "Relaxed some of Palmer's restrictions as war began and raised the Cyprus Regiment."
+    },
+    {
+     "n": "Sir Charles Woolley",
+     "d": "1941–1946",
+     "t": "Governor through the war years, when trade unions and communal politics revived."
+    },
+    {
+     "n": "Lord Winster",
+     "d": "1946–1949",
+     "t": "Offered a Consultative Assembly and a constitution which the Greek Cypriot leadership boycotted; resigned when the offer failed."
+    },
+    {
+     "n": "Sir Andrew Wright",
+     "d": "1949–1954",
+     "t": "In office for the 1950 enosis plebiscite and the election of Makarios III as archbishop."
+    },
+    {
+     "n": "Sir Robert Armitage",
+     "d": "1954–1955",
+     "t": "Governor when the constitution was again refused and EOKA opened its campaign on 1 April 1955."
+    },
+    {
+     "n": "Field Marshal Sir John Harding",
+     "d": "1955–1957",
+     "t": "Soldier-governor of the emergency, who declared a state of emergency, deported Makarios to the Seychelles and authorised the hangings."
+    },
+    {
+     "n": "Sir Hugh Foot",
+     "d": "1957–1960",
+     "t": "Last Governor, who wound the emergency down and handed over power at independence on 16 August 1960."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "Coordinate confidence. Verified from Wikipedia or Wikidata geo-tags: Kamares aqueduct 34.912/33.599 (main span), Peristerona 35.130/33.079, Chrysorrogiatissa 34.910/32.619, Fikardou 34.959/33.171, Evrychou 35.040/32.901, Skouriotissa village 35.091/32.885, Amiantos village 34.917/32.936, Liopetri 35.009/33.893, Machairas 34.941/33.191, RAF Akrotiri 34.590/32.988, Nicosia airport 35.150/33.277, Varosha 35.111/33.954, Kokkina 35.179/32.612, Mari naval base 34.728/33.288, Ayia Napa monastery 34.989/34.000.",
+  "Two coordinates are deliberately approximate and I have said so rather than guess to three real decimals. Pano Lefkara: the only figures I could verify are given to the arcminute (34 deg 52 min N, 33 deg 18 min E), so 34.867/33.303 is the village centre to about 500 m. Troodos: no source gives coordinates for the Presidential Cottage itself, so I have used the Troodos community point 34.922/32.880 and framed the entry as the hill station rather than the single house; the cottage is roughly 1 km from that point.",
+  "Kokkinochoria is a district, not a point. I anchored it between Xylofagou and Liopetri at 34.977/33.850. If you would rather not have a regional dot, the water material could be folded into the era_events for republic and one find under kition.",
+  "I did NOT create separate settlements for Buyuk Han, the Selimiye or Lala Mustafa Pasha mosques, the Omeriye complex, the Arab Ahmet quarter, the covered market, Faneromeni, the Pancyprian Gymnasium, the Cyprus Museum, the Central Prison, Government House or the Ledra Palace, because all of them lie within 2 km of the existing nicosia or famagusta dots and would clutter the map. They are in extra_finds instead. That is why the nicosia list has eight finds rather than the suggested three to six; trim the last two if you want it shorter.",
+  "Larnaca has no settlement of its own here because the existing kition entry sits at 33.63/34.92, which is the same ground, and its range already runs to 2026. I therefore added Larnaca's Ottoman, British and modern material as extra_finds on kition, which was not on your list; drop it if kition is spoken for by another agent. The Bekir Pasha aqueduct is 3.3 km west of that dot and is given its own entry.",
+  "Overlap risk with other agents. Peristerona's church is 9th or 10th century and may belong to a Byzantine brief; I have written the entry around the church-and-mosque pairing and the mixed village so it earns its place in the Ottoman era. Machairas and Chrysorrogiatissa were founded in the 12th century but everything visible is 18th and 19th century. Fikardou and Machairas are only 2.7 km apart, which is real geography, not an error. Kolossi's existing range ends at 1570; if you take the Ottoman and modern finds I have proposed for it, extend the range to 2026.",
+  "The 1660 recognition of the archbishop. Your era text flags this as popular history and it deserves the flag. Cypriot scholarship generally has the Porte accept the archbishop and bishops as spokesmen (kocabasi) of the Orthodox in 1660, but the Ottoman Cyprus literature also describes the role as crystallising after 1670, once the island passed to the Kapudan Pasha and local aghas, and as only formalised in 1754 when the prelates became the tax intermediaries. I have kept 1660 out of my new events and put the process in the rulers notes for Nikiforos and Philotheos instead. Treat any single-year date as a convention.",
+  "The tribute. The Convention fixed it at £92,799 11s 3d a year, and it was never paid to the Ottomans: it went into the Bank of England to service defaulted Ottoman Crimean War loans guaranteed by Britain and France. Britain abrogated the Convention on 5 November 1914 but kept charging Cypriot revenues; the charge was lifted in 1927, when Britain raised the grant-in-aid to cover it on condition that Cyprus pay £10,000 a year towards imperial defence. Diana Markides's book on the Cyprus Tribute is the authority if you want to go further.",
+  "1821. I have used 9 July 1821 for the hanging of Archbishop Kyprianos and the beheading of the bishops Chrysanthos of Paphos, Meletios of Kition and Lavrentios of Kyrenia, with further executions over the following weeks. The English Wikipedia article on Ottoman Cyprus gives 15 October 1821 and a figure of an archbishop, five bishops and thirty-six clergy; other popular sources say 486 executed in the square. The date and the totals are both unreliable in the popular literature. Cyprus has only four bishops plus the archbishop, which is one reason to distrust the 'five bishops' version.",
+  "1974 figures are contested and I have used ranges. Displacement: 140,000 to 170,000 Greek Cypriots from the north (the Republic's own figure is about 162,000 to 165,000) and 45,000 to 60,000 Turkish Cypriots from the south, most of that movement in 1975 under the Vienna agreement rather than during the fighting itself. Deaths: roughly 4,500 to 6,000 on the Greek Cypriot and Greek side including about 270 to 1,500 civilians, and about 570 Turkish military dead plus Turkish Cypriot fighters and civilians; the totals are not agreed and no impartial full count exists. Turkey holds 36.2 per cent of the island. Missing: the Committee on Missing Persons works to an agreed list of 1,510 Greek Cypriots and 492 Turkish Cypriots, 2,002 in all, covering both 1963 to 1964 and 1974.",
+  "Missing persons, current. As of mid-2026 the CMP had exhumed 1,719 of the 2,002 and identified and returned about 1,081, of whom roughly 764 Greek Cypriots and 311 Turkish Cypriots. These figures move every few weeks; the CMP website carries the current ones. I put the round figure in the 2026 era event on purpose.",
+  "Items I checked and dropped as too thin or unverifiable. The monastery of Ayios Panteleimon at Myrtou: I could not verify a date or a coordinate for it, only that it lies near Myrtou (35.308/33.074) and has been in a military area since 1974. Panagia Chrysospiliotissa at Kato Deftera: a rock-cut cave church, but its interest is Byzantine and I could not verify the coordinate. 'Filiko Ergastiri': I could find no reliable account of this and have left it out entirely rather than invent one; if you mean a specific EOKA workshop in Nicosia, please point me at a source. Stavrovouni (34.886/33.436, verified) is a genuine candidate for an Ottoman and British entry since its buildings are almost all 19th century, but its foundation legend belongs to a Byzantine brief, so I left it for whoever has that era.",
+  "Single-source or otherwise shaky details in the text above, all flagged here rather than smoothed over: the Cafer Pasha fountain and baths at Famagusta dated 1597; the Aga Cafer Pasha mosque at Kyrenia dated 1580; the date of the Peristerona mosque, which I could not find published; ETKO's claimed founding in 1844 and KEO's in 1927; the opening of the new Limassol port in 1973 to 1974; the Dhekelia desalination plant in 1997; the end of commercial salt harvesting at Larnaca in the 1980s; the 1930s consolidation of Kolossi; the 1592 Ottoman rebuilding of Paphos castle under Ahmed Pasha; the casualty count for the 1953 Paphos earthquake; the figure of about 30,000 Cypriots in the Second World War forces; the number of Turkish Cypriots who emigrated after Lausanne in 1923; the 1912 Limassol riots; the 1804 Nicosia riot; the execution of the abbot of Kykkos in 1821; and Kykkos's role as an EOKA shelter, which is universally asserted in Greek Cypriot sources and not documented in British ones.",
+  "The Cyprus Mines Corporation article claims exports of 'nearly a million tons of copper a year' by 1955. That cannot be right for copper metal; it will be ore or concentrate and pyrite. I have avoided any tonnage figure in the Skouriotissa entry for that reason.",
+  "The britain rulers list is complete and supersedes the five you have. It includes acting High Commissioner Lord John Hay for the ten days in July 1878 because he, not Wolseley, raised the flag at Nicosia. Malcolm Stevenson appears once, spanning High Commissioner and Governor, since he held both. Short acting appointments between governors are omitted. That gives twenty entries.",
+  "For the ottoman power I have given the governing structure rather than a list of names, because Ottoman Cyprus had roughly seventy governors in the first century alone, most of them in post for a year or two and poorly attested in accessible sources, and because the men who actually governed the Greek majority were the archbishop, the bishops and the dragoman. So the list mixes five structural entries (beylerbeyis, mutesellims, muhassils, mutasarrifs) with the four governors who left a mark (Lala Mustafa, Muzaffer, Ebubekir, Cil Osman, Kucuk Mehmed) and four Orthodox figures (Nikiforos, Philotheos, Chrysanthos, Kyprianos) plus the dragoman Kornesios. If you would rather keep 'rulers' strictly to Ottoman officials, delete the last five entries; the structural ones alone still tell the story.",
+  "Enosis and taksim. The 1950 plebiscite figure of about 96 per cent is the Church's own count, taken in churches on 15 and 22 January 1950 with an open signature list and, by several accounts, the threat of excommunication for refusing; it is evidence of the Church's mobilising power as much as of opinion. Taksim as an organised Turkish Cypriot demand dates from the mid-1950s, in answer to EOKA, and TMT was founded with Turkish support in 1957 to 1958.",
+  "UNESCO listings that belong to existing entries and which I have not duplicated: Paphos, inscribed 1980 (added as a find under neapaphos); Choirokoitia, inscribed 1998 (belongs under khirokitia); the Painted Churches of the Troodos, inscribed 1985 and extended 2001 (belongs under troodos_churches). Lefkara lace was inscribed on the intangible heritage list in 2009 and is in the new lefkara entry. I did not cite a UNESCO URL for it because I could not verify the element's exact permalink and the brief forbids invented URLs.",
+  "Sources. Every URL in this file returns a live page (checked with a browser user agent). Four hosts block automated requests but are real pages I reached during the research: worldheritagesite.org/tentative/id/1874 (Peristerona, UNESCO tentative list) and the CMP website. Where a Wikipedia article did not exist under the obvious title (Faneromeni, Kokkinochoria, water supply in Cyprus, the CMP statistics page) I substituted a page I could open, which is why one or two settlements have only two sources. The Water Development Department site (gov.cy/moa-wdd) refuses automated access, so the desalination detail in the Kokkinochoria entry is written without plant-by-plant dates and capacities. The UNESCO intangible-heritage permalink for Lefkara lace was verified by fetching it."
+ ]
+}

@@ -1,0 +1,1009 @@
+{
+ "new_settlements": [
+  {
+   "id": "bellapais",
+   "name": "Bellapais Abbey (Abbaye de la Paix)",
+   "modern": "Bellapais / Beylerbeyi, above Kyrenia",
+   "lon": 33.354,
+   "lat": 35.307,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1198,
+     2026
+    ]
+   ],
+   "desc": "The best-preserved Gothic monastery in the eastern Mediterranean, founded between 1198 and 1205 by King Aimery for Augustinian canons who had fled Jerusalem after 1187 and handed to the Premonstratensian White Canons in 1206. The church went up under Hugh III (1267 to 1284) and the cloister and refectory under Hugh IV (1324 to 1359), who kept apartments here. The Genoese stripped it of everything portable in 1373, discipline had collapsed by 1489, and the Ottomans expelled the canons in 1571 and gave the buildings to the Orthodox Church. Its ruin above the coastal plain became the set piece of Lawrence Durrell's 'Bitter Lemons'.",
+   "finds": [
+    {
+     "n": "The refectory",
+     "p": "1324–1359",
+     "t": "A vaulted Gothic hall about 30 m by 10 m, built out over the escarpment on an undercroft, with a reader's pulpit reached by a stair in the thickness of the wall and six windows looking north to the sea. The finest single medieval room on the island.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Cloister of Hugh IV",
+     "p": "14th century",
+     "t": "Eighteen arches around a garth, the tracery and carved corbels now half-collapsed, with a cypress growing where the canons walked.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Roman sarcophagi used as lavabos",
+     "p": "Roman, reused 14th century",
+     "t": "Two Roman marble sarcophagi set one above the other at the refectory door, the upper one carved, the lower plain, plumbed as washbasins for the canons before meals. One of the clearest cases of deliberate spoliation on Cyprus.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Chapter house and its carvings",
+     "p": "14th century",
+     "t": "Corbels and capitals carved with a man fighting two beasts, a woman reading, a monkey and a cat, and a figure holding a shield, cut by masons trained in the workshops of northern France.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Abbey church",
+     "p": "1267–1284",
+     "t": "A low, broad, aisled church still roofed and still in occasional use, keeping its carved pulpit, an episcopal throne and a painted narthex vault; the only part of the complex never to fall in.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Fortified gate and tower",
+     "p": "14th century",
+     "t": "The abbey was walled and gated like a small castle, a reminder that a rich house on the north coast expected raiders.",
+     "w": "In situ, Bellapais"
+    },
+    {
+     "n": "Cellars and the abbey's wine",
+     "p": "14th–16th century",
+     "t": "Barrel-vaulted undercrofts beneath the refectory, where the abbey's own vintage was kept; by the 15th century visiting churchmen complained the canons kept wives and left their estates to run themselves.",
+     "w": "In situ, Bellapais"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bellapais_Abbey",
+    "https://www.visitncy.com/kesfet/bellapais-manastiri/",
+    "https://whc.unesco.org/en/tentativelists/5715/"
+   ]
+  },
+  {
+   "id": "pyrga",
+   "name": "Royal Chapel of Ayia Aikaterini, Pyrga",
+   "modern": "Pyrga, Larnaca district",
+   "lon": 33.431,
+   "lat": 34.926,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1350,
+     2026
+    ]
+   ],
+   "desc": "A single-cell vaulted chapel barely 10 m long, the only surviving royal chapel of Frankish Cyprus, known locally as the Chapelle Royale. Tradition, following a lost inscription, credits it to King Janus in 1421 and shows him with his second wife Charlotte de Bourbon; a 2019 study of the style, iconography and lettering argues instead for the mid-fourteenth century and for Peter I and Eleanor of Aragon as the patrons. Either way it is a Latin building painted by a Greek-trained hand, with French, Cypriot, Armenian and Bourbon arms on the vault, and it shows how thoroughly the two traditions had mixed by the end of Lusignan rule.",
+   "finds": [
+    {
+     "n": "Crucifixion with royal donors",
+     "p": "Mid-14th or early 15th century",
+     "t": "A wall painting in which a Latin king and queen kneel at the foot of the Cross among the biblical mourners, dressed in court robes and treated as living witnesses to the Crucifixion. Whether they are Janus and Charlotte de Bourbon or Peter I and Eleanor of Aragon is now disputed.",
+     "w": "In situ, Pyrga"
+    },
+    {
+     "n": "Painted coats of arms",
+     "p": "14th–15th century",
+     "t": "Shields of Jerusalem, Cyprus, Armenia and Bourbon painted on the vault, the three crowns the Lusignans claimed plus the queen's own house. The heraldry is the main evidence for both the date and the patron.",
+     "w": "In situ, Pyrga"
+    },
+    {
+     "n": "Painted programme of sickness and intercession",
+     "p": "14th–15th century",
+     "t": "Scenes of the Passion, the Last Supper and the Raising of Lazarus, read by one recent study as an ex-voto against an outbreak of plague rather than a memorial chapel.",
+     "w": "In situ, Pyrga"
+    },
+    {
+     "n": "Apseless vaulted shell",
+     "p": "14th–15th century",
+     "t": "A pointed barrel vault on plain ashlar with no apse and three doors, French in plan and Cypriot in masonry; the roof is the original, which is why the paintings survived.",
+     "w": "In situ, Pyrga"
+    },
+    {
+     "n": "Lost dedicatory inscription",
+     "p": "Recorded before 1900",
+     "t": "The 1421 date and the attribution to Janus rest on an inscription read by nineteenth-century travellers and no longer legible, which is why the dating is now reopened.",
+     "w": "Not extant; recorded in early travellers' accounts"
+    }
+   ],
+   "sources": [
+    "https://rsj.winchester.ac.uk/articles/10.21039/rsj.159",
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/royal-chapel-of-agia-aikaterini-st-catherine-pyrga-village/",
+    "https://en.wikipedia.org/wiki/Pyrga,_Larnaca"
+   ]
+  },
+  {
+   "id": "potamia",
+   "name": "Potamia and Ayios Sozomenos",
+   "modern": "Potamia and Ayios Sozomenos, Nicosia district",
+   "lon": 33.443,
+   "lat": 35.053,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1300,
+     1571
+    ]
+   ],
+   "desc": "Twin villages on the Yialias river that formed part of the Lusignan royal domain, and the best place to see how the crown actually made its money. Leontios Machairas records that Peter II built a country house at Potamia on the right bank of the river; King Janus camped his army here in 1426 before marching against the Mamluks, who burned the village the same year. Since 2000 a French mission with the University of Cyprus has surveyed and excavated the manor and the estate's wells, water-wheels, channels and mills. Two kilometres north at Ayios Sozomenos stands the shell of a Latin church that was never finished.",
+   "finds": [
+    {
+     "n": "The medieval manor of Potamia",
+     "p": "14th–16th century",
+     "t": "Vaulted halls, a hall block and outbuildings of the royal country residence, documented and structurally appraised in the 2010s; the visible fabric is later than Peter II's house and may be a Venetian-period rebuilding on the same spot.",
+     "w": "In situ, Potamia"
+    },
+    {
+     "n": "Estate waterworks",
+     "p": "14th–16th century",
+     "t": "Wells, wheel-pits, stone channels and mill footings excavated across the royal plantation, the clearest surviving evidence anywhere on Cyprus of how a Lusignan estate irrigated and processed its crops.",
+     "w": "In situ, Potamia and Ayios Sozomenos"
+    },
+    {
+     "n": "Church of Ayios Mamas, Ayios Sozomenos",
+     "p": "14th–16th century",
+     "t": "A three-aisled Latin church of good ashlar abandoned in mid-build; unfinished mouldings, springers that carry no vault and blocks left uncut show exactly where the masons stopped, probably at the Ottoman conquest.",
+     "w": "In situ, Ayios Sozomenos"
+    },
+    {
+     "n": "Cave church of Ayios Sozomenos",
+     "p": "14th century, over 10th-century work",
+     "t": "A rock-cut hermitage 300 m from the village with paintings of the life of Saint Sozomenos; an earlier tenth-century layer was lifted and taken to the Byzantine Museum in Nicosia.",
+     "w": "In situ, Ayios Sozomenos; earlier paintings in the Byzantine Museum, Nicosia"
+    },
+    {
+     "n": "Sugar and cotton of the Mesaoria estate",
+     "p": "14th–16th century",
+     "t": "Pottery from the survey includes the conical moulds and syrup jars of cane-sugar refining, tying this inland estate to the export trade run out of Famagusta.",
+     "w": "Study collections, Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Burning of the village, 1426",
+     "p": "1426",
+     "t": "Mamluk troops fired Potamia in the campaign that ended with King Janus a prisoner at Khirokitia; the chronicles treat the loss of the royal estate as a blow to the treasury as much as to the crown's dignity.",
+     "w": "Documentary; Leontios Machairas' chronicle"
+    }
+   ],
+   "sources": [
+    "https://potamia.org/en/portfolio-item/history/",
+    "https://en.wikipedia.org/wiki/Agios_Sozomenos",
+    "https://en.wikipedia.org/wiki/List_of_castles_in_Cyprus"
+   ]
+  },
+  {
+   "id": "kouklia_sugar",
+   "name": "Kouklia-Stavros sugar works and the manor of Covocle",
+   "modern": "Kouklia, Paphos district",
+   "lon": 32.567,
+   "lat": 34.704,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1280,
+     1600
+    ]
+   ],
+   "desc": "The most completely excavated medieval sugar factory in the Mediterranean, and the industrial heart of the royal estate that grew cane on the Paphos coastal plain. Marie-Louise von Wartburg dug the Stavros site in 1980 to 1982 and 1987 to 1991 and found the whole production line intact: water-driven mill, boiling house, refining floor and reservoir, running from the late thirteenth century to the end of the sixteenth. Up the slope stands the manor of Covocle, the fortified Lusignan estate house that administered it, now the site museum for Palaepaphos. The Stavros project led on to the excavation of the Hospitaller works at Kolossi and the Cornaro works at Episkopi, the three together giving Cyprus the best-known sugar archaeology anywhere.",
+   "finds": [
+    {
+     "n": "The mill and refining hall",
+     "p": "Late 13th–16th century",
+     "t": "A water-powered crushing mill, furnaces, boiling vats and settling basins in one building, with the millstones, the wheel-pit and the flue system all traceable; one of the very few cane mills in the Mediterranean or the Near East where every functional element survives.",
+     "w": "In situ, Kouklia-Stavros"
+    },
+    {
+     "n": "Sugar moulds and syrup jars",
+     "p": "14th–16th century",
+     "t": "Thousands of coarse conical moulds, in which the boiled juice crystallised into loaves, and the globular jars set beneath them to catch the draining molasses. The commonest medieval pottery on the south coast and the best index of where cane was worked.",
+     "w": "Kouklia Museum and Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Manor of Covocle",
+     "p": "13th century, rebuilt 15th–16th century",
+     "t": "A fortified courtyard house of the royal domain, later the Venetian estate centre, with a vaulted hall and a Gothic doorway; it now houses the Palaepaphos museum.",
+     "w": "In situ, Kouklia"
+    },
+    {
+     "n": "Aqueduct and reservoir",
+     "p": "14th–16th century",
+     "t": "The channel and tank that delivered the head of water without which nothing could be crushed or boiled; sugar was as much a water industry as an agricultural one.",
+     "w": "In situ, Kouklia"
+    },
+    {
+     "n": "Episkopi-Serayia refinery",
+     "p": "15th–16th century",
+     "t": "The Cornaro family's sugar works west of Limassol, excavated after Kouklia; the estate came to Venice with Caterina Cornaro's family and shows the same technology in private hands.",
+     "w": "In situ, Episkopi, Limassol district"
+    },
+    {
+     "n": "Cane fields of the Paphos plain",
+     "p": "13th–16th century",
+     "t": "Field systems and irrigation lines around Kouklia that fed the works; the labour was largely that of parici, the serfs bound to the estate, whose conditions Venetian officials themselves described as wretched.",
+     "w": "In situ, Kouklia"
+    }
+   ],
+   "sources": [
+    "https://www.hist.uzh.ch/de/fachbereiche/altegeschichte/lehrstuehle/kolb/forschung/angegeliederte_projekte/paphos/projects/sugar.html",
+    "https://www.cambridge.org/core/journals/antiquaries-journal/article/archaeology-of-cane-sugar-production-a-survey-of-twenty-years-of-research-in-cyprus/53836810C447B2E96060B060D1A16475",
+    "https://en.wikipedia.org/wiki/List_of_castles_in_Cyprus"
+   ]
+  },
+  {
+   "id": "agiasmati",
+   "name": "Timios Stavros tou Ayiasmati",
+   "modern": "3 km north of Platanistasa, Nicosia district",
+   "lon": 33.047,
+   "lat": 34.979,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1450,
+     2026
+    ]
+   ],
+   "desc": "A barn-roofed mountain church whose paintings were finished in 1494, given by the priest Petros Peratis and his wife Pepani and signed by Philippos Goul, a Greek-speaking painter of Syrian origin and the only named artist of late medieval Cyprus with a substantial surviving body of work. It holds the most complete fifteenth-century painted programme on the island, and its style is the thing to look at: Palaiologan formulae, local plainness and Italian Renaissance detail in the same scene, the visual signature of a Greek population under three centuries of Latin rule. Inscribed by UNESCO in 1985 as one of the painted churches of the Troodos.",
+   "finds": [
+    {
+     "n": "The Cycle of the Holy Cross",
+     "p": "1494",
+     "t": "Some thirty scenes running around the church telling the finding of the True Cross by Saint Helena and its recovery by Heraclius, the fullest such cycle in Cyprus and the reason for the dedication.",
+     "w": "In situ, Platanistasa"
+    },
+    {
+     "n": "Last Judgement on the west gable",
+     "p": "1494",
+     "t": "A crowded composition climbing into the apex of the gable, with Christ at the top, the weighing of souls, the river of fire and a rank of the damned in Frankish dress.",
+     "w": "In situ, Platanistasa"
+    },
+    {
+     "n": "Donor portrait and dedicatory inscription",
+     "p": "1494",
+     "t": "Petros Peratis and Pepani presented offering a model of the church, with the date and the painter's name; the inscription is the anchor for dating Goul's whole career.",
+     "w": "In situ, Platanistasa"
+    },
+    {
+     "n": "The double roof and encircling portico",
+     "p": "15th century",
+     "t": "A steep-pitched tiled roof carried out past the walls on all four sides to form a portico, a solution unique in Cyprus and the reason the paintings inside survived five centuries of Troodos winters.",
+     "w": "In situ, Platanistasa"
+    },
+    {
+     "n": "Philippos Goul's other churches",
+     "p": "1494–1495",
+     "t": "The same hand painted Ayios Mamas at Louvaras in 1495, which lets art historians follow one workshop across the mountains and separate its Italianate touches from its Byzantine core.",
+     "w": "In situ, Louvaras, Limassol district"
+    }
+   ],
+   "sources": [
+    "https://www.visitcyprus.com/discover-cyprus/rural/sites-monuments/stavros-tou-agiasmati-church-2/",
+    "https://whc.unesco.org/en/list/351/",
+    "https://www.wikidata.org/wiki/Q31025121"
+   ]
+  },
+  {
+   "id": "sinti",
+   "name": "Panagia tou Sinti Monastery",
+   "modern": "Pentalia, Paphos district, on the Xeros river",
+   "lon": 32.639,
+   "lat": 34.837,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1500,
+     2026
+    ]
+   ],
+   "desc": "An abandoned monastery on the bank of the Xeros, and the most accomplished Orthodox building of the Venetian century. The church belongs to the first half of the sixteenth century and is a single nave carrying an octagonal drum and dome on four windows, a plan that owes as much to Italian building practice as to Byzantine tradition. It was deserted by the early twentieth century; Kykkos Monastery took on its repair in 1994 and finished in 1997, and the work won a Europa Nostra award for conserving the ruin rather than rebuilding it.",
+   "finds": [
+    {
+     "n": "Octagonal dome and drum",
+     "p": "First half of the 16th century",
+     "t": "A tall eight-sided drum pierced by four windows over a single barrel-vaulted nave, the most ambitious piece of Orthodox masonry raised under Venetian rule.",
+     "w": "In situ, Pentalia"
+    },
+    {
+     "n": "Monastic ranges",
+     "p": "16th century onwards",
+     "t": "Cells, a refectory and storerooms round three sides of a court, left as consolidated ruin so the sequence of building stays legible.",
+     "w": "In situ, Pentalia"
+    },
+    {
+     "n": "Europa Nostra restoration",
+     "p": "1994–1997",
+     "t": "A conservation rather than a reconstruction, awarded by Europa Nostra in 1997 for keeping the building's original character; a rare case where the restoration itself is part of the monument's history.",
+     "w": "In situ, Pentalia"
+    },
+    {
+     "n": "Setting on the Xeros",
+     "p": "16th century",
+     "t": "The monastery sits beside the river crossing on the route from the Paphos hills down to the coast, close to the Roudias bridge on the copper road; monasteries and trade routes went together.",
+     "w": "In situ, Pentalia"
+    },
+    {
+     "n": "Icon of the Panagia tou Sinti",
+     "p": "Post-Byzantine",
+     "t": "The monastery's dedication icon, removed when the house was abandoned; the feast is still kept on 15 August.",
+     "w": "Church of Cyprus collections (exact location to be confirmed)"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Panagia_tou_Sinti_Monastery",
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/panagia-tou-sinti-monastery/",
+    "https://guidetopaphos.com/see-and-do/religious-sites/panagia-tou-sinti-monastery/"
+   ]
+  },
+  {
+   "id": "venetian_bridges",
+   "name": "The camel road bridges of the Troodos",
+   "modern": "Kelefos, Elia and Roudias, Paphos and Limassol districts",
+   "lon": 32.747,
+   "lat": 34.89,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1489,
+     2026
+    ]
+   ],
+   "desc": "Three pointed stone bridges deep in the pine forest, the surviving works of the kamilostrata or camel road that carried copper, timber and produce from the Troodos mines down to the harbour at Paphos. The route was pushed through the mountains because the coast road was open to corsairs. Kelefos is the largest, a single high hump over the Diarizos; Elia is nearly flat because it spans a deeper gorge; Roudias crosses the Xeros further west. They are traditionally called Venetian, and the traffic they served fits the Venetian century, but no dated inscription survives on any of them and a Lusignan or Ottoman date cannot be ruled out.",
+   "finds": [
+    {
+     "n": "Kelefos bridge",
+     "p": "Traditionally 16th century",
+     "t": "A single pointed arch of dressed stone about 10 m across the Diarizos, humped steeply so that laden camels could keep their footing in winter. The best preserved of the three and still walkable.",
+     "w": "In situ, Diarizos valley, Paphos district"
+    },
+    {
+     "n": "Elia bridge",
+     "p": "Traditionally 16th century",
+     "t": "A pointed arch on a much deeper gorge, its deck almost level because the span itself gives the height; the cheapest solution the builders had for a difficult crossing.",
+     "w": "In situ, near Foini, Limassol district"
+    },
+    {
+     "n": "Roudias bridge",
+     "p": "Traditionally 16th century",
+     "t": "The westernmost of the three, over the Xeros near the deserted village of Vretsia, on the stretch of road that ran past Panagia tou Sinti to the coast.",
+     "w": "In situ, near Vretsia, Paphos district"
+    },
+    {
+     "n": "The kamilostrata",
+     "p": "15th–16th century",
+     "t": "Stretches of paved and revetted track between the bridges, part of the mule and camel road from the copper workings near Pera Pedi to Paphos harbour. Copper was still Cyprus's oldest export in the century Venice held it.",
+     "w": "In situ, Paphos forest"
+    },
+    {
+     "n": "Absence of a dating inscription",
+     "p": "n/a",
+     "t": "None of the three carries a date or a coat of arms, so the 'Venetian' label is inference from the road they serve rather than evidence from the stone; the same form of arch was built on Cyprus from the fourteenth century to the nineteenth.",
+     "w": "In situ"
+    }
+   ],
+   "sources": [
+    "https://mycyprustravel.com/sightseeing/venetian-bridges/",
+    "https://heartlandoflegends.com/bridges-camel-road/"
+   ]
+  },
+  {
+   "id": "venetian_towers",
+   "name": "Coastal watchtowers of the south-east",
+   "modern": "Alaminos, Kiti and Pyla, Larnaca district",
+   "lon": 33.437,
+   "lat": 34.807,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1350,
+     2026
+    ]
+   ],
+   "desc": "Squat square towers of two or three storeys standing inland of the beaches between Larnaca and the Kokkinochoria, part of the chain of lookouts by which the crown and then Venice watched the coast for corsairs and Ottoman fleets. Alaminos is usually put in the fourteenth century, the Tower of Regina at Kiti and the tower at Pyla in the sixteenth. All three are lightly documented and none has been excavated, so their dates rest largely on their form; they are worth knowing about mainly because they show that the fortification programme of the sixteenth century was not only about the two great walled cities.",
+   "finds": [
+    {
+     "n": "Alaminos tower",
+     "p": "Traditionally 14th century",
+     "t": "A square rubble and ashlar tower of two storeys with a vaulted ground floor, set about 3 km inland of the bay, restored in recent decades.",
+     "w": "In situ, Alaminos"
+    },
+    {
+     "n": "Tower of Regina, Kiti",
+     "p": "Traditionally 16th century",
+     "t": "Known in Greek as the tower of the Rigaina, the legendary queen to whom Cypriot folklore assigns almost every unexplained ruin; a plain square keep in the fields near Perivolia.",
+     "w": "In situ, near Perivolia, Larnaca district"
+    },
+    {
+     "n": "Pyla tower",
+     "p": "Traditionally 16th century",
+     "t": "A watchtower above the bay of Pyla, on the sightline between Larnaca and the Famagusta approaches.",
+     "w": "In situ, Pyla"
+    },
+    {
+     "n": "The corsair watch",
+     "p": "15th–16th century",
+     "t": "Venetian reports describe a system of coastal lookouts, beacons and mounted messengers to bring warning inland; Turkish raiders carried off villagers from the Karpas in 1489, Venice's first year, and burned Limassol in 1539.",
+     "w": "Documentary; Venetian officials' reports"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/List_of_castles_in_Cyprus",
+    "https://en.wikipedia.org/wiki/Venetian_Cyprus"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "famagusta",
+   "finds": [
+    {
+     "n": "Church of Saints Peter and Paul",
+     "p": "c. 1360",
+     "t": "One of the largest Gothic churches in the city, said to have been paid for out of a third of the profit of a single trading voyage to Syria by the Famagusta merchant Simone Nostrano. Massive flying buttresses were added after the sixteenth-century earthquakes. A mosque from 1571 as Sinan Pasha, a British grain and potato store, then a library and exhibition hall.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Nestorian church of Saint George the Exiler",
+     "p": "c. 1360",
+     "t": "Built by the Lakhas brothers, Syriac Christian merchants rich enough to found their own cathedral, with three apses, frescoes of the fourteenth and fifteenth centuries and Syriac inscriptions. Reduced to a camel stable after 1571 and opened once a year for the saint's feast; a cultural centre of the Eastern Mediterranean University since 1989.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Armenian church of Ganchvor",
+     "p": "1346",
+     "t": "A small fortress-like church raised by Armenian refugees from Cilicia in Armenian style but Cypriot masonry, part of a monastic and teaching centre. Unused after 1571, leased back to the Armenian community in 1936 and reconsecrated in 1945; restored with the Carmelite church by the UNDP and handed over on 26 May 2018.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Carmelite church and the tomb of Peter Thomas",
+     "p": "14th century",
+     "t": "The church of the Carmelite friars, opposite the Armenian church, where Peter Thomas was buried. A Carmelite from Perigord, papal legate and Latin Patriarch of Constantinople, he pressed the Greeks hard towards Latin obedience, sailed on Peter I's Alexandria crusade in 1365 and died of his wounds at Famagusta in January 1366; he was canonised in 1628.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Twin churches of the military orders",
+     "p": "Early 14th century",
+     "t": "Two small churches built shoulder to shoulder, traditionally the Templars' and the Hospitallers'; the Templar house and its Cypriot lands passed to the Hospitallers after the order was suppressed in 1312. Later used as a store, a theatre and an art gallery. The attribution is traditional rather than documented.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "The Ravelin, the Arsenal bastion and the siege of 1570 to 1571",
+     "p": "1570–1571",
+     "t": "The outworks where the ten and a half month siege was decided: the Ottomans filled the ditch to the top of the walls, mined the Ravelin and stormed the Arsenal bastion, losing tens of thousands of men, while the huge Martinengo bastion was never even attacked. The Turkish name of the Ravelin, Akkule or White Gate, records the white flag raised there on 1 August 1571.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "The skin of Marcantonio Bragadin",
+     "p": "1571; recovered 1580",
+     "t": "Famagusta's captain was mutilated at the surrender ceremony on 5 August 1571 and flayed alive in the square on 17 August; his skin was stuffed with straw and paraded. A young Venetian seaman, Girolamo Polidori, stole it from the arsenal at Constantinople in 1580 and brought it home, and it lies in an urn under Bragadin's monument in Venice.",
+     "w": "Basilica of Santi Giovanni e Paolo, Venice"
+    }
+   ]
+  },
+  {
+   "id": "nicosia",
+   "finds": [
+    {
+     "n": "The Bedesten",
+     "p": "Byzantine core, rebuilt 14th–15th century",
+     "t": "The church beside the cathedral, identified by T. C. Papacostas as the site of the first Saint Sophia and proposed by Camille Enlart as a Latin church of Saint Nicholas served by English followers of Thomas Becket, a reading not universally accepted. Under Venice it was the seat of the Orthodox metropolitan as Panagia Hodegetria; the Ottomans turned it into the covered market that gave it its present name. Restored between 2004 and 2009.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "Savorgnan's demolitions of 1567",
+     "p": "1567",
+     "t": "To build the new walls Venice pulled down the Lusignan fortifications and, inside and outside the new line, houses, palaces, churches and monasteries of both rites, including the royal palace, partly for a clear field of fire and partly for cut stone. The Pedieos was diverted out of the city into the new moat in the same year. Nicosia lost most of its medieval fabric to the defence that then failed.",
+     "w": "Documentary; the walls in situ"
+    },
+    {
+     "n": "Eleven bastions named for eleven families",
+     "p": "1567–1570",
+     "t": "Pentagonal bastions with rounded orillons, on the model of Palmanova, each named for an Italian noble house of the city that paid towards it: Caraffa, Podocattaro, Constanza, D'Avila, Tripoli, Roccas, Mula, Quirini, Barbaro, Loredan and Flatro. The upper half of the curtain was left unfaced so it would absorb shot, and the gates were tucked beside the bastions.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "The storming of the Podocattaro bastion",
+     "p": "9 September 1570",
+     "t": "The walls were still unfinished, without piazze basse, cavaliers or outworks, and the curtains were low. After seven weeks the Ottomans broke in on the fourth assault; contemporaries put the dead at some twenty thousand, and the luogotenente Nicolo Dandolo was killed. Kyrenia surrendered days later without a fight.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "Omeriye Mosque, the Augustinian church of Saint Mary",
+     "p": "14th century",
+     "t": "One of the few Latin churches to survive the 1567 clearances, converted to a mosque after 1571 on the belief that the caliph Umar had prayed on the spot; medieval Frankish tombstones are reused in its floor.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "The Venetian Column",
+     "p": "Set up 1550s",
+     "t": "A grey granite column brought from the ruins of Salamis and raised in the square outside the governor's palace under the Lion of Saint Mark. Thrown down after 1570 and re-erected by the British in 1915, now carrying a globe instead of the lion.",
+     "w": "Sarayonu Square, Nicosia"
+    }
+   ]
+  },
+  {
+   "id": "kyrenia",
+   "finds": [
+    {
+     "n": "Venetian bastions of 1540",
+     "p": "c. 1540",
+     "t": "Venice buried John of Ibelin's square and horseshoe towers inside squat rounded bastions with walls thick enough to take cannon and gun ports at three levels, one of the first fully artillery-age reworkings of a crusader castle in the Levant. It surrendered to the Ottomans in 1570 without being fired on.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Church of Saint George",
+     "p": "11th–12th century",
+     "t": "A small domed Byzantine church, once outside the walls, swallowed whole by the Venetian north-west bastion and now standing inside the fortress with reused Roman columns holding up its dome.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Lusignan works of John of Ibelin",
+     "p": "1208–1211",
+     "t": "A new entrance, square and horseshoe towers, archers' embrasures and the dungeons, built by the regent who made Kyrenia the crown's strongest harbour; the castle stood a siege in 1232 during the war between Frederick II's men and the Ibelins, and again in the 1460s.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Tomb of Sadik Pasha",
+     "p": "1570",
+     "t": "The grave of the Ottoman commander who took the castle in 1570, in the courtyard; a rare case of the conqueror buried inside the prize.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Kyrenia II",
+     "p": "Built 1985",
+     "t": "A full-scale sailing reconstruction of the Kyrenia ship built by the Hellenic Institute for the Preservation of Nautical Tradition, which sailed to Greece, Cyprus, New York and Japan and settled long-running arguments about how such a hull handled.",
+     "w": "Thalassa Museum, Ayia Napa (verify current display)"
+    }
+   ]
+  },
+  {
+   "id": "limassol",
+   "finds": [
+    {
+     "n": "Richard and Berengaria, 12 May 1191",
+     "p": "1191",
+     "t": "Richard I married Berengaria of Navarre at Limassol on 12 May 1191 and had her crowned Queen of England in the same ceremony, by tradition in a chapel where the castle now stands. She saw little or nothing of England in his lifetime, and the wedding took place only because a storm had driven her ship, and Richard's sister Joan, onto a Cypriot shore held by Isaac Komnenos.",
+     "w": "Tradition places it beneath Limassol Castle"
+    },
+    {
+     "n": "Sale of the island, 1191 to 1192",
+     "p": "1191–1192",
+     "t": "Richard sold Cyprus to the Templars for 100,000 bezants; after a revolt against them at Nicosia in 1192 they gave it back, and Richard passed the purchase on to Guy de Lusignan, the ousted King of Jerusalem. The last crusader kingdom began as a property transaction.",
+     "w": "Documentary"
+    },
+    {
+     "n": "Cyprus Medieval Museum",
+     "p": "In the castle since 1987",
+     "t": "Frankish and Venetian tombstones, arms, coins, glazed pottery and architectural fragments gathered from across the island, in the vaults of the castle that was a prison until 1950.",
+     "w": "Limassol Castle"
+    },
+    {
+     "n": "Commandaria and the Battle of the Wines",
+     "p": "13th century onwards",
+     "t": "The sweet wine of the Hospitallers' Grand Commandery above Limassol, named for the commandery itself. Henri d'Andeli's poem La Bataille des Vins, written about 1224, has the King of France judge the wines of Christendom and give the crown to the wine of Cyprus. A poem is not a tasting note, but Cypriot wine was genuinely a luxury export to western courts.",
+     "w": "Documentary; the wine still made in fourteen villages above Limassol"
+    },
+    {
+     "n": "The raid of 1539 and the demolition of the castle",
+     "p": "1539–1568",
+     "t": "An Ottoman fleet burned Limassol in 1539. Venice, judging that a fort it could not hold would only serve the enemy, demolished the castle in 1567 to 1568; the Ottomans rebuilt it as a squat gun platform around 1590.",
+     "w": "In situ, Limassol"
+    }
+   ]
+  },
+  {
+   "id": "hilarion",
+   "finds": [
+    {
+     "n": "Royal apartments and great hall",
+     "p": "14th century",
+     "t": "The upper ward that Hugh IV and Peter I used as a summer palace, with a hall, kitchens and cisterns cut into the crag at about 700 m; the court came up here to escape the heat of Nicosia and to hunt.",
+     "w": "In situ"
+    },
+    {
+     "n": "Prince John's tower",
+     "p": "1370s",
+     "t": "The tower from which, the chronicler Leontios Machairas relates, John of Antioch had his Bulgarian bodyguard thrown one by one over the cliff after being persuaded they meant to betray him; a story that captures how the castle was used in the dynasty's civil wars.",
+     "w": "In situ"
+    },
+    {
+     "n": "The War of the Lombards",
+     "p": "1229–1232",
+     "t": "St Hilarion was the prize in the fighting between Emperor Frederick II's partisans and the Ibelin regents, and the child king Henry I was held here; the middle ward's barbican and gate belong to this phase.",
+     "w": "In situ"
+    },
+    {
+     "n": "Venetian slighting",
+     "p": "After 1489",
+     "t": "Venice trusted only the walled towns, and had the mountain castles stripped of anything useful so that they could not shelter a rebel or a raider. The three castles of the range have been ruins ever since.",
+     "w": "In situ"
+    }
+   ]
+  },
+  {
+   "id": "buffavento",
+   "finds": [
+    {
+     "n": "The prison of John Visconti",
+     "p": "1362",
+     "t": "Machairas records that Sir John Visconti, the knight who told Peter I of Queen Eleanor's infidelity while the king was abroad, was walled up at Buffavento and starved to death. The castle's chief Lusignan use was as a place to make people disappear.",
+     "w": "In situ"
+    },
+    {
+     "n": "Signal-fire chain",
+     "p": "Byzantine to Lusignan",
+     "t": "At about 950 m Buffavento can see both St Hilarion to the west and Kantara to the east, which is the point of it; the three castles worked as one warning system along the range.",
+     "w": "In situ"
+    },
+    {
+     "n": "The Templar prisoner of 1308",
+     "p": "1308",
+     "t": "A Templar was held here during the arrest of the order in Cyprus, two years before the trials at Nicosia.",
+     "w": "In situ"
+    },
+    {
+     "n": "Chateau du Lion",
+     "p": "Frankish period",
+     "t": "The Franks also called it the Castle of the Lion, and Cypriot folklore attached to it a queen with leprosy cured by the mountain's water; the name and the tale are both medieval, the cure is not.",
+     "w": "In situ"
+    }
+   ]
+  },
+  {
+   "id": "kantara",
+   "finds": [
+    {
+     "n": "The thirteen monks of Kantara",
+     "p": "1231",
+     "t": "Thirteen Orthodox monks from the monastery below the castle refused to accept Latin usage in the Eucharist, were held for three years and were burned at Nicosia in 1231, their bodies tied to horses and dragged first. They are the sharpest single episode of the Latin church's attempt to bring the Greeks to obedience, and they are commemorated as saints.",
+     "w": "Commemorated at Kantara; the monastery site in situ"
+    },
+    {
+     "n": "Vaulted guardrooms and cisterns",
+     "p": "Byzantine to Lusignan",
+     "t": "Barrel-vaulted chambers and six rock-cut cisterns strung along the ridge at about 600 m, enough to keep a small garrison through a siege.",
+     "w": "In situ"
+    },
+    {
+     "n": "The Genoese war",
+     "p": "1373–1374",
+     "t": "Kantara held out when Genoa overran the island and took Famagusta; the eastern castle covered the Karpas and the road to the Genoese-held port.",
+     "w": "In situ"
+    },
+    {
+     "n": "Venetian demolition",
+     "p": "1519–1560",
+     "t": "Venice declared the castle obsolete in 1519 and had it dismantled by 1560; what stands is what was not worth the labour of pulling down.",
+     "w": "In situ"
+    }
+   ]
+  },
+  {
+   "id": "kolossi",
+   "finds": [
+    {
+     "n": "The excavated refinery",
+     "p": "14th–16th century",
+     "t": "Excavation of the Hospitallers' sugar works, prompted by the Kouklia-Stavros project, exposed the mill room, furnaces and boiling floor and quantities of conical sugar moulds and syrup jars. Kolossi, Kouklia and Episkopi together make Cyprus the best-documented sugar landscape of the medieval Mediterranean.",
+     "w": "In situ, Kolossi; finds in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Arms of Louis de Magnac and Jacques de Milly",
+     "p": "1454",
+     "t": "Carved coats of arms on the keep, including those of the commander who built it and of the Grand Master of Rhodes, dating the tower to the year and naming the order that owned the plain.",
+     "w": "In situ, Kolossi"
+    },
+    {
+     "n": "Fresco of the Crucifixion",
+     "p": "15th century",
+     "t": "A wall painting on the first floor of the keep, all that is left of the decoration of a knight's residence rather than a church.",
+     "w": "In situ, Kolossi"
+    },
+    {
+     "n": "The Mamluk sack",
+     "p": "1425–1426",
+     "t": "Mamluk raiders burned the commandery in the campaign that ended with King Janus captured at Khirokitia; the keep of 1454 is a replacement for what they destroyed.",
+     "w": "In situ, Kolossi"
+    },
+    {
+     "n": "The Grand Commandery estate",
+     "p": "1291–1570",
+     "t": "After Acre fell the Hospitallers ran their order's western headquarters from here until they took Rhodes, and the commandery held some forty villages of the Kouris plain; the name Commandaria comes from this estate.",
+     "w": "Documentary; the vineyards in situ"
+    }
+   ]
+  },
+  {
+   "id": "kykkos",
+   "finds": [
+    {
+     "n": "Stavropegic independence",
+     "p": "12th century onwards",
+     "t": "Kykkos answered to Constantinople, not to the local bishop, and that status carried it through the abolition of the Greek archbishopric in 1260 and the Latin centuries with its lands and its abbot intact.",
+     "w": "Documentary; monastery archive"
+    },
+    {
+     "n": "The fires and rebuildings",
+     "p": "1365, 1541, 1751, 1813",
+     "t": "The monastery burned repeatedly, which is why nothing medieval stands above ground and the present church dates from 1745; the icon was carried out each time, and each rebuilding was paid for by appeals across the Orthodox world.",
+     "w": "In situ, Kykkos"
+    },
+    {
+     "n": "Library and archive",
+     "p": "12th–19th century",
+     "t": "Manuscripts, printed books, chrysobulls and firmans documenting the monastery's estates and its dealings with emperors, sultans and Latin archbishops; among the richest ecclesiastical archives in Cyprus.",
+     "w": "Kykkos Monastery"
+    },
+    {
+     "n": "Restoration of Panagia tou Sinti",
+     "p": "1994–1997",
+     "t": "Kykkos took on the conservation of the ruined Venetian-period monastery on the Xeros, work that won a Europa Nostra award in 1997; the wealthiest house in Cyprus still acts as patron to the poorest.",
+     "w": "Panagia tou Sinti, Pentalia"
+    }
+   ]
+  },
+  {
+   "id": "troodos_churches",
+   "finds": [
+    {
+     "n": "Panagia Podithou, Galata",
+     "p": "1502",
+     "t": "Painted for Dimitre de Coron, a Greek in Venetian service, in the fully Italo-Byzantine manner: Renaissance architecture in the backgrounds, Latin as well as Greek inscriptions, and a Crucifixion with a kneeling donor. The clearest single statement of what two centuries of Latin rule did to Cypriot painting.",
+     "w": "In situ, Galata"
+    },
+    {
+     "n": "Archangelos Michael, Pedoulas",
+     "p": "1474",
+     "t": "Painted for the priest Basil Chamados by an artist who signs himself Minas of Myrianthousa; a small barn-roofed church whose donor panel shows the priest, his wife and their children in fifteenth-century dress.",
+     "w": "In situ, Pedoulas"
+    },
+    {
+     "n": "Timios Stavros, Pelendri",
+     "p": "14th century",
+     "t": "A church of the manor of Pelendri, held by John of Lusignan, son of Hugh IV, with a Tree of Jesse in the vault and painting of high Palaiologan quality; proof that the court itself commissioned Greek painters.",
+     "w": "In situ, Pelendri"
+    },
+    {
+     "n": "Panagia tou Moutoulla",
+     "p": "1280",
+     "t": "The earliest dated timber-roofed church of the Troodos type, painted for Ioannis Moutoullas and his wife Irene, whose portraits and inscription fix the year; the painting is provincial, forceful and untouched by Gothic taste.",
+     "w": "In situ, Moutoullas"
+    },
+    {
+     "n": "Latin chapel of Ayios Ioannis Lampadistis",
+     "p": "c. 1500",
+     "t": "A chapel added to the Kalopanagiotis monastery holding the fullest Akathist cycle in Cyprus, painted in a frankly Italianate style with Renaissance settings; Greek subject, Italian handling, Latin patron.",
+     "w": "In situ, Kalopanagiotis"
+    },
+    {
+     "n": "Ayios Mamas, Louvaras",
+     "p": "1495",
+     "t": "Signed by Philippos Goul the year after he finished Stavros tou Ayiasmati, and the second half of the only securely identified painter's career in late medieval Cyprus.",
+     "w": "In situ, Louvaras"
+    }
+   ]
+  },
+  {
+   "id": "neapaphos",
+   "finds": [
+    {
+     "n": "Paphos Castle",
+     "p": "13th century, rebuilt 1592",
+     "t": "A rectangular keep about 40 m by 20 m at the harbour mouth, built by the Lusignans after the earthquake of 1222 wrecked Saranta Kolones, fortified further by the Genoese in 1373 and taken over by Venice in 1489. Venice blew up the western tower in 1570 rather than leave it to the Ottomans, who rebuilt it in 1592; it later held a hundred men and twelve guns, then became a British salt store.",
+     "w": "In situ, Paphos harbour"
+    },
+    {
+     "n": "Arrest of Iakovos Diassorinos",
+     "p": "1563",
+     "t": "A Greek Cypriot of learning and ambition who plotted to raise the island against Venice with foreign help; the conspiracy was betrayed in January 1563, he was taken at Paphos in February and executed at Nicosia. The clearest evidence that Venetian rule was resented.",
+     "w": "Documentary"
+    },
+    {
+     "n": "Lorenzo Tiepolo, captain of Paphos",
+     "p": "1570–1571",
+     "t": "Tiepolo brought his Paphos militia across the island to Famagusta and served through the siege; he was among the officers put to death when the city fell in August 1571.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The harbour and the salt trade",
+     "p": "13th–19th century",
+     "t": "The Lusignan and Venetian port shipped sugar from Kouklia, copper brought down the camel road and salt from the pans; the castle stood over the mole and doubled as customs house and salt store into the British period.",
+     "w": "In situ, Paphos harbour"
+    }
+   ]
+  },
+  {
+   "id": "lapithos",
+   "finds": [
+    {
+     "n": "Acheiropoiitos Monastery",
+     "p": "11th–16th century",
+     "t": "The monastery of the icon 'not made by hands' at Lambousa, a domed Byzantine church given a Gothic porch, refectory and vaulted ranges in the Lusignan and Venetian centuries; it stands inside a military zone and is effectively inaccessible.",
+     "w": "In situ, Lambousa (military area)"
+    },
+    {
+     "n": "Lapithos glazed pottery",
+     "p": "13th–16th century",
+     "t": "Lapithos was one of the main centres making Cypriot sgraffito ware, lead-glazed bowls and jugs incised through a white slip with birds, fish, knights and dancing figures. It is the everyday art of the Lusignan kingdom and turns up on every medieval site on the island.",
+     "w": "Cyprus Museum, Nicosia; Medieval Museum, Limassol Castle"
+    },
+    {
+     "n": "Springs, silk and water mills",
+     "p": "Medieval to 20th century",
+     "t": "The Lapithos springs drove a string of mills and watered terraced gardens; the casale was known for silk, lemons and its pottery, and its water made it one of the richest villages of the north coast.",
+     "w": "In situ, Lapithos"
+    },
+    {
+     "n": "Lambousa in the Latin centuries",
+     "p": "13th–16th century",
+     "t": "The ancient city site became a monastic and quarry landscape, its cut blocks reused in the abbeys and castles of the coast; rock-cut fish tanks by the shore were still in use.",
+     "w": "In situ, Lambousa"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "lusignan",
+   "events": [
+    [
+     1197,
+     "Aimery is crowned first King of Cyprus and a Latin archbishopric is founded at Nicosia with sees at Paphos, Limassol and Famagusta"
+    ],
+    [
+     1222,
+     "The fourteen Orthodox bishoprics are cut to four and moved out of the cathedral towns; the Greek clergy are made subject to Latin bishops"
+    ],
+    [
+     1229,
+     "Frederick II's partisans and the Ibelin regents fight the War of the Lombards around St Hilarion and Kyrenia"
+    ],
+    [
+     1310,
+     "The Templars of Cyprus are tried at Nicosia after the order's suppression, and Kolossi passes to the Hospitallers"
+    ],
+    [
+     1348,
+     "Plague reaches the island and returns repeatedly, emptying villages and pushing up the price of labour"
+    ],
+    [
+     1361,
+     "Peter I takes Korykos and Antalya, carrying the war to the Anatolian coast"
+    ],
+    [
+     1427,
+     "A peasant rising under a leader called King Alexis is crushed after the Mamluk defeat"
+    ],
+    [
+     1464,
+     "James II drives the Genoese out of Famagusta after ninety years"
+    ],
+    [
+     1472,
+     "James II marries Caterina Cornaro, whom Venice has declared a daughter of the Republic"
+    ],
+    [
+     1473,
+     "James II dies and a Catalan plot murders Caterina's uncle and her chamberlain at Famagusta; Venetian officers take over the government"
+    ]
+   ]
+  },
+  {
+   "id": "venetian",
+   "events": [
+    [
+     1489,
+     "In Venice's first year Turkish raiders carry off villagers from the Karpas"
+    ],
+    [
+     1492,
+     "The citadel of Famagusta is remodelled for artillery under Captain Nicolo Foscarini; the Sea Gate follows in 1496"
+    ],
+    [
+     1517,
+     "With the Ottoman conquest of Egypt, the island's annual tribute is redirected from Cairo to Istanbul"
+    ],
+    [
+     1567,
+     "The Pedieos is turned into the new moat and the royal palace and scores of churches are pulled down for Savorgnan's walls"
+    ],
+    [
+     1570,
+     "Nicosia is stormed on 9 September and the luogotenente Nicolo Dandolo is killed; Kyrenia surrenders days later without a fight"
+    ],
+    [
+     1571,
+     "Bragadin is flayed on 17 August; his skin is stolen back from the Ottoman arsenal in 1580 and buried in Venice"
+    ],
+    [
+     1571,
+     "Ten weeks after Famagusta falls, the Holy League destroys the Ottoman fleet at Lepanto, too late for Cyprus"
+    ],
+    [
+     1573,
+     "Venice makes peace and formally cedes the island"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "venice",
+   "rulers": [
+    {
+     "n": "The Luogotenente and his Consiglieri",
+     "d": "1489–1571",
+     "t": "Cyprus was governed from Nicosia by a lieutenant sent out from Venice, normally for two years, advised by two counsellors, with a Capitano commanding Famagusta, rectors in the lesser towns and a Provveditore Generale sent out in emergencies."
+    },
+    {
+     "n": "Francesco Barbarigo",
+     "d": "from 1489",
+     "t": "First lieutenant of Cyprus, appointed in the year Caterina Cornaro abdicated."
+    },
+    {
+     "n": "Marcantonio Trevisan",
+     "d": "from 1531",
+     "t": "Lieutenant of Cyprus, later Doge of Venice from 1553 to 1554."
+    },
+    {
+     "n": "Agostino Barbarigo",
+     "d": "from 1566",
+     "t": "Lieutenant of Cyprus, later second in command of the Christian fleet and mortally wounded at Lepanto in 1571."
+    },
+    {
+     "n": "Nicolo Dandolo",
+     "d": "from 1567",
+     "t": "Lieutenant during the invasion; blamed by contemporaries for a timid defence and killed when Nicosia was stormed on 9 September 1570."
+    },
+    {
+     "n": "Sebastiano Venier",
+     "d": "from 1569",
+     "t": "Lieutenant of Cyprus, then Capitano Generale da Mar who commanded the Venetian fleet at Lepanto, and Doge from 1577 to 1578."
+    },
+    {
+     "n": "Daniele Barbarigo",
+     "d": "appointed 1570",
+     "t": "Last lieutenant appointed; never reached the island."
+    },
+    {
+     "n": "Marcantonio Bragadin",
+     "d": "1569–1571",
+     "t": "Capitano of Famagusta, who held the fortress for ten and a half months and was flayed alive on 17 August 1571 after the surrender terms were broken."
+    },
+    {
+     "n": "Astorre Baglione",
+     "d": "1569–1571",
+     "t": "Umbrian condottiere and governor of the island's troops, who ran the fighting defence of Famagusta and was killed at the surrender."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "COORDINATES I could not verify to monument level: Panagia tou Sinti (32.639, 34.837) rests on the English Wikipedia geotag alone; Nominatim and Photon both failed to return it and the article is a flagged stub. It should be within about 1.5 km of the given point on the west bank of the Xeros below Pentalia, but please check before publishing. The Royal Chapel at Pyrga (33.431, 34.926) is the village coordinate from Wikipedia's degree-minute-second value; the chapel is inside the village but I could not get a monument-level fix (it is absent from OpenStreetMap under any of its names).",
+  "COORDINATES verified this session from Wikipedia's List of castles in Cyprus, which gives explicit coord templates: Paphos Castle 34.75367/32.406911, Kouklia Tower (the manor of Covocle) 34.70586/32.5731, Episkopi Castle 34.664204/32.905016, Kolossi 34.665273/32.933957, Limassol Castle 34.6722/33.0415, Alaminos Tower 34.8067858/33.4368011, Tower of Regina at Kiti 34.8360755/33.5889224, Pyla Tower 35.009/33.69, Othello 35.127688/33.943239. Note that several of these rows carry 'citation needed' tags for their era column, so the century attributions for Alaminos, Kiti and Pyla are weak.",
+  "MAP CROWDING: kouklia_sugar (32.567, 34.704) is only about 1.2 km from the existing palaepaphos entry (32.58, 34.71), and the manor of Covocle is effectively on the Palaepaphos site. If that is too close on the globe, fold the whole entry into palaepaphos as extra_finds instead. Likewise the Episkopi-Serayia refinery I list as a find sits about 1.4 km from the existing kourion entry, which is why I did not give it its own settlement.",
+  "DECISION on Famagusta: I did NOT create a second settlement for the church quarter or the siege works, because any such entry would sit on top of the existing famagusta point. All of it is in extra_finds instead, seven finds rather than six, since the brief named more monuments than would fit in six.",
+  "DUPLICATION to clean up: Bellapais Abbey is currently a find inside the kyrenia entry. If you take my bellapais settlement, delete that find from kyrenia. Saranta Kolones is already a find under neapaphos, so my Paphos Castle find deliberately does not repeat the 1222 earthquake detail.",
+  "SCOPE OVERLAP with a Byzantine-period agent: stavrovouni (traditional foundation 327 CE), machairas (1145) and chrysorrogiatissa (1152) are Byzantine foundations that I have written from the Latin-rule angle because the brief assigned them to me. If the Byzantine agent has also submitted them, keep one version and merge the finds. I deliberately left Asinou, Panagia tou Araka, Ayios Nikolaos tis Stegis and Ayios Ioannis Lampadistis to that agent and took only Stavros tou Ayiasmati (1494) as a new settlement, putting the other fifteenth and sixteenth century painted churches into troodos_churches as extra_finds.",
+  "THE VENETIAN BRIDGES are called Venetian by convention, not by evidence. None of the three carries a dated inscription and the pointed single-arch form was built on Cyprus from the fourteenth century to the nineteenth; some writers call them Ottoman. I have said so in the entry itself rather than smoothing it over. Bridge coordinates come from Photon/OpenStreetMap: Kelefos 32.7472/34.8899, Elia 32.7743/34.8959, Roudias 32.6846/34.8899. Which bridge crosses which river is stated inconsistently in the tourist literature; I have kept it vague on purpose except for Roudias on the Xeros.",
+  "LEONARDO DA VINCI: I could not find any usable source for the story that Leonardo visited Cyprus in 1481 or advised on its fortifications, and my web search budget ran out before I could pin it down. There is no evidence he ever came to the island, and the tale appears to be modern tourist folklore rather than a documented tradition. I have therefore left it out of the data entirely. If you want it, it belongs in a 'legends' apparatus with an explicit 'no contemporary evidence' label, not as a find.",
+  "THE MERCHANT'S DAUGHTER'S DOWRY: the famous remark, that the jewels on a Famagusta merchant's daughter's head-dress were reckoned worth more than all the ornaments of the Queen of France, comes from the pilgrim Ludolf von Suchen writing about 1350. I could not retrieve the primary text this session (the Internet Archive copy of the English translation returned 404), so I have not put the quotation into a find. English Wikipedia says only that 'by the mid-14th century, Famagusta was said to have the richest citizens in the world'. Check Ludolf, Description of the Holy Land, before quoting the head-dress.",
+  "OTHER FLAGGED DETAILS: the 1365 fire at Kykkos and the 1426 and 1570s destructions at Stavrovouni are standard in popular and monastic accounts but are not in the English Wikipedia articles I checked; treat the dates as tradition. The Canbulat story at the Arsenal bastion of Famagusta (an Ottoman officer charging a revolving spiked wheel) is well known locally but I found no scholarly source, so I described the fighting at that bastion without naming him. The attribution of the Famagusta twin churches to the Templars and Hospitallers is traditional. The claim that Berengaria of Navarre never set foot in England is often overstated; I have written 'saw little or nothing of England in his lifetime'. The 8,000 ducat annual tribute is why I phrased the 1517 event without a figure.",
+  "SITES CONSIDERED AND DROPPED as too thin for their own entry: Gastria Castle (a Templar coastal castle at 35.324/33.979), Sivouri/Siguri Castle in the Mesaoria, La Cava Castle near Nicosia (35.135/33.410), Choirokoitia Castle, and Larnaca Castle. Any of them would make a decent single find if you want them. I also dropped the Larnaca Kamares aqueduct, which is Ottoman (1747) and belongs to the next agent's era.",
+  "POTAMIA RANGES: I have given potamia [[1300, 1571]] to keep it inside the Lusignan and Venetian bands, but both villages were inhabited far longer, Ayios Sozomenos only being abandoned after the fighting of February 1964. Widen the range if the timeline can carry it.",
+  "SOURCE URLS: all 28 URLs in this file returned HTTP 200 when checked on 9 September 2026. Two good references had to be dropped because they block automated requests, so cite them by title if you want them: Amel Kirdok et al., 'Documentation and Structural Appraisal of the Medieval Manor of Potamia, Cyprus: an Interdisciplinary Approach' (2021), for the Potamia manor; and Marie-Louise von Wartburg, 'The Medieval Cane Sugar Industry in Cyprus: Results of Recent Excavation', for Kouklia-Stavros. The Kouklia excavation project itself is described on the University of Zurich page I have cited.",
+  "RECONCILED: machairas was also proposed in 08-ottoman-british-republic.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: chrysorrogiatissa was also proposed in 08-ottoman-british-republic.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: ayianapa was also proposed in 08-ottoman-british-republic.json, which now carries the merged record. This file contributed its finds, ranges and sources to it.",
+  "RECONCILED: stavrovouni was also proposed in 06-byzantine.json, which now carries the merged record. This file contributed its finds, ranges and sources to it."
+ ]
+}

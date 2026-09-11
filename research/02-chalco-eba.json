@@ -1,0 +1,1328 @@
+{
+ "new_settlements": [
+  {
+   "id": "palloures",
+   "name": "Chlorakas-Palloures",
+   "modern": "Chlorakas, Paphos district",
+   "lon": 32.404,
+   "lat": 34.804,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -3800,
+     -2500
+    ]
+   ],
+   "desc": "A Chalcolithic village of about four hectares on the coastal shelf north of Paphos, half destroyed by a 1970s land consolidation scheme that drove roads straight through it and then scheduled for building. The Department of Antiquities asked Leiden University to rescue what was left, and Bleda During's team has dug there with the University of Cyprus since 2015. The results were startling enough that the state bought the land outright and invited the excavators to stay.",
+   "finds": [
+    {
+     "n": "The copper axe",
+     "p": "Late Chalcolithic, c. 2800–2500 BCE",
+     "t": "A small, heavy blade 7.5 cm long weighing 119 grams, 99.5 per cent copper with a trace of tin. It is the only copper axe from a securely dated Chalcolithic context on Cyprus, has no Cypriot parallels, and matches flat axes from Horoztepe, Demircihuyuk and Thermi, so it was probably imported ready-made or cast from imported metal.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The buried jar and its contents",
+     "p": "Late Chalcolithic",
+     "t": "The axe was inside a large storage jar sunk into a lime-plaster surface, together with a broad basalt stone axe 12.7 cm long, four delicate fish hooks cut from pig tusk and a partly unrolled copper spiral. The excavators cannot decide between a hoard stashed for safekeeping and a deliberate ritual deposit, and lean towards the second.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Building 5",
+     "p": "Late Chalcolithic",
+     "t": "A roundhouse about eight metres across, its wall standing four courses high on a platform cut level into the bedrock, and one of the largest Chalcolithic buildings known. A flimsier successor, Building 6, was built partly from its robbed stones.",
+     "w": "In situ, Chlorakas-Palloures"
+    },
+    {
+     "n": "The burnt building",
+     "p": "Chalcolithic",
+     "t": "A house that burned down while stacked full of pots, stone tools and other combustible material. Its layer-by-layer study, published in 2022, is one of the few detailed accounts of how these fires actually happened.",
+     "w": "In situ, Chlorakas-Palloures"
+    },
+    {
+     "n": "The great pestle",
+     "p": "Chalcolithic",
+     "t": "A stone pestle 47 cm long, found with five other ground stone tools on a floor surface. Grinding at this scale suggests processing for more than one household.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Copper spiral",
+     "p": "Chalcolithic",
+     "t": "A strip of copper about 4 cm long and half a centimetre wide, coiled and partly unrolled, with a close parallel in the shaft graves at Souskiou.",
+     "w": "Department of Antiquities, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://palloures.eu/",
+    "https://www.universiteitleiden.nl/en/research/research-projects/archaeology/excavating-chlorakas-palloures",
+    "https://scholarlypublications.universiteitleiden.nl/access/item:2951182/download",
+    "https://www.gov.cy/en/culture/excavations-at-chlorakas-palloures-2024/",
+    "https://www.rmo.nl/en/exhibitions/exhibitions-archive/chlorakas-palloures/"
+   ]
+  },
+  {
+   "id": "skalia",
+   "name": "Kissonerga-Skalia",
+   "modern": "Kissonerga, Paphos district",
+   "lon": 32.399,
+   "lat": 34.818,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -2500,
+     -1650
+    ]
+   ],
+   "desc": "A Bronze Age settlement barely a hundred metres from the Chalcolithic village at Mosphilia, dug since 2007 by Lindy Crewe for the Cyprus American Archaeological Research Institute. Occupied for some eight centuries, it covers exactly the stretch that western Cyprus is otherwise almost blank for: from the Philia horizon through to the end of the Middle Bronze Age. Its best-known feature is a domed mud-plaster structure argued to be a malting kiln.",
+   "finds": [
+    {
+     "n": "The malting kiln",
+     "p": "c. 1750–1650 BCE",
+     "t": "A domed mud-plaster chamber whose shape suits drying malt or curing malt cakes rather than firing pots or baking bread. A replica built by the site's field school was used to brew beer successfully, which supports the reading without proving it.",
+     "w": "In situ, Kissonerga-Skalia"
+    },
+    {
+     "n": "The monumental complex",
+     "p": "c. 1750–1550 BCE",
+     "t": "About 1,600 square metres of planned building that required serious earthmoving and terracing, then went out of use after perhaps one or two generations.",
+     "w": "In situ, Kissonerga-Skalia"
+    },
+    {
+     "n": "Miniature cups and bowls",
+     "p": "Middle to Late Bronze Age",
+     "t": "Sets of tiny vessels deposited where one building phase gave way to the next, read as the remains of communal drinking at moments of rebuilding.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Plain White pithoi from eastern Cyprus",
+     "p": "c. 1700–1550 BCE",
+     "t": "Big storage jars whose fabric belongs to the far side of the island, the clearest evidence yet that the west was inside an inter-island exchange network before the Late Bronze Age.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Deeply Incised and Red Polished wares",
+     "p": "c. 2500–1650 BCE",
+     "t": "Locally made pottery covering the whole span of the village, including the deeply incised style that is a western regional signature.",
+     "w": "Paphos District Museum; Department of Antiquities, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://research.manchester.ac.uk/en/publications/finding-beer-in-the-archaeological-record-a-case-study-from-kisso/",
+    "https://www.ancientcyprus.com/sites/kissonerga",
+    "https://cyprus-mail.com/2026/07/25/excavations-at-kissonerga-uncover-one-of-cyprus-oldest-bronze-age-settlements",
+    "https://archaeology.org/news/2025/11/25/workshop-space-excavated-at-bronze-age-cyprus-settlement/"
+   ]
+  },
+  {
+   "id": "troullia",
+   "name": "Politiko-Troullia",
+   "modern": "Politiko, Nicosia district",
+   "lon": 33.245,
+   "lat": 35.026,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -2100,
+     -1800
+    ]
+   ],
+   "desc": "An Early and Middle Bronze Age village on a terrace between two streams in the Troodos foothills, at the exact seam between the grain land of the Mesaoria and the copper-bearing pillow lavas. Steven Falconer and Patricia Fall have dug it since 2004, and twenty-five radiocarbon dates put its six occupation phases between about 2050 and 1850 BCE. It is the clearest picture available of ordinary households that mined and smelted their own copper.",
+   "finds": [
+    {
+     "n": "The stone plank figure",
+     "p": "c. 2000–1850 BCE",
+     "t": "The largest stone plank figure excavated on Cyprus, recovered not from a tomb but from an open public space in the middle of the village, which is why it matters: it puts these figures into communal life rather than the grave.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Household smelting workshops",
+     "p": "c. 2050–1850 BCE",
+     "t": "Copper ore, slag and casting debris in ordinary courtyards, with the blades, chisels and axe-heads that came out of them. Metallurgy here was domestic work, not a separate industry.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The intramural well",
+     "p": "Phases 5 to 3",
+     "t": "A well inside the settlement, giving the villagers drinking water without leaving the built-up area.",
+     "w": "In situ, Politiko-Troullia"
+    },
+    {
+     "n": "Feasting deposits of fallow deer",
+     "p": "Early to Middle Bronze Age",
+     "t": "Concentrations of Mesopotamian fallow deer bone in courtyards alongside sheep, goat, pig and cattle, read as communal feasting on hunted rather than herded meat.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "Red Polished plank figures",
+     "p": "c. 2000–1850 BCE",
+     "t": "Flat clay figures with incised faces and ornament, found across the site in patterns that let the excavators map where they were actually used.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Courtyards, alleys and mudbrick houses",
+     "p": "c. 2050–1850 BCE",
+     "t": "Six stratified phases of rectangular courtyard houses linked by lanes, rebuilt on the same lines for two hundred years.",
+     "w": "In situ, Politiko-Troullia"
+    },
+    {
+     "n": "Orchard crops and woodland fuel",
+     "p": "Early to Middle Bronze Age",
+     "t": "Charred olive and grape remains beside charcoal from surviving woodland, which was the fuel that made the smelting possible.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    }
+   ],
+   "sources": [
+    "https://www.cambridge.org/core/journals/radiocarbon/article/prehistoric-bronze-age-radiocarbon-chronology-at-politikotroullia-cyprus/2246934EEA710ECA5F6740655970B416",
+    "https://pages.charlotte.edu/steven-falconer/wp-content/uploads/sites/700/2016/05/Falconer-Monahan-Fall-BASOR-2014.371.0003.pdf",
+    "https://pages.charlotte.edu/steven-falconer/wp-content/uploads/sites/700/2016/05/Falconer-Fall-2013-JFA.pdf",
+    "https://www.archaeology.wiki/blog/2014/07/07/politiko-troullia-an-archaeological-window-on-the-farming-and-mining-communities/"
+   ]
+  },
+  {
+   "id": "ambelikou",
+   "name": "Ambelikou-Aletri",
+   "modern": "Ambelikou, Nicosia district (Turkish-occupied north)",
+   "lon": 32.802,
+   "lat": 35.119,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -2000,
+     -1850
+    ]
+   ],
+   "desc": "A small industrial hamlet west of Ambelikou village, in the northern Troodos foothills beside Skouriotissa, one of the richest orebodies on the island. In 1942 modern miners broke into an ancient shaft and found pottery of about 2000 BCE in it, which brought Porphyrios Dikaios to the spot. Ambelikou remains the earliest place on Cyprus where copper mining itself, rather than the copper, can be proved, and it also produced a potter's workshop abandoned mid-job.",
+   "finds": [
+    {
+     "n": "The ancient mine gallery",
+     "p": "c. 2000 BCE",
+     "t": "A shaft found during twentieth-century mining, containing Middle Bronze Age pots left by the men who dug it. This is the oldest direct evidence for copper mining on Cyprus, as against copper objects, which are older.",
+     "w": "In situ (inaccessible); pottery in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Crucible and casting mould",
+     "p": "c. 2000–1850 BCE",
+     "t": "A crucible, a mould and slag from the settlement itself, so the ore was being smelted and cast within sight of the mine rather than carried away raw.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The potter's workshop",
+     "p": "shortly after 2000 BCE",
+     "t": "A workshop abandoned suddenly with its installations in place and roughly four dozen jugs still stacked from the last kiln load, a rare snapshot of a craft interrupted.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Copper ore and slag heaps",
+     "p": "Middle Bronze Age",
+     "t": "Broken ore awaiting the furnace and the waste left after it, the industrial rubbish that lets metallurgists reconstruct the process.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "Stone mining tools",
+     "p": "Middle Bronze Age",
+     "t": "Heavy hammers and picks of the kind used to break ore out of a gallery by hand and firesetting.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Red Polished and White Painted pottery",
+     "p": "c. 2000–1850 BCE",
+     "t": "The domestic pottery of the miners, which is what dates the whole operation to the very start of the Middle Bronze Age.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://whitelevy.fas.harvard.edu/ambelikou-aletri-middle-bronze-age-mining-settlement-cyprus",
+    "https://ajaonline.org/book-review/2507/",
+    "https://bmcr.brynmawr.edu/2014/2014.08.07/",
+    "https://www.aegeussociety.org/en/new_book/ambelikou-aletri-metallurgy-and-pottery-production-in-middle-bronze-age-cyprus/"
+   ]
+  },
+  {
+   "id": "deneia",
+   "name": "Deneia (Kafkalla)",
+   "modern": "Deneia, Nicosia district",
+   "lon": 33.141,
+   "lat": 35.163,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -2400,
+     -1100
+    ]
+   ],
+   "desc": "The largest Bronze Age burial ground known on Cyprus, spread over about six hectares of hard limestone crust on the south side of the Ovgos valley. It is also the most comprehensively robbed. When David Frankel and Jennifer Webb surveyed it in 2003 and 2004 they mapped 1,286 pillaged tombs, and argued that even a cemetery this badly damaged still carries readable information about population and wealth, and should not be written off to the bulldozer.",
+   "finds": [
+    {
+     "n": "1,286 looted tombs",
+     "p": "recorded 2003–2004",
+     "t": "The survey's central figure, and the reason so many unprovenanced Cypriot Bronze Age pots in world collections are labelled simply 'Deneia'. Tomb architecture and the sherds left behind still gave a curve of rising population and rising funerary spending through the Bronze Age.",
+     "w": "In situ, Kafkalla plateau"
+    },
+    {
+     "n": "Rock-cut chamber tombs with dromoi",
+     "p": "c. 2300–1650 BCE",
+     "t": "Chambers entered down a sloping passage cut into the kafkalla, each holding several burials, the standard form of the island-wide extramural cemetery tradition.",
+     "w": "In situ, Kafkalla plateau"
+    },
+    {
+     "n": "Red Polished and Black Polished vessels",
+     "p": "Early and Middle Bronze Age",
+     "t": "Burnished jugs, bowls and bottles, many of them decorated with incised lattice and zigzag, published as tomb groups by Frankel and Webb in 2007.",
+     "w": "Cyprus Museum, Nicosia; and in private and public collections worldwide through the antiquities trade"
+    },
+    {
+     "n": "Zoomorphic askoi",
+     "p": "Early and Middle Bronze Age",
+     "t": "Pouring vessels modelled as animals or given animal spouts and horns, a favourite of the Red Polished potters and of collectors.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Bronze daggers",
+     "p": "Middle Bronze Age",
+     "t": "Tanged blades from the tombs, the standard male grave gift and a reminder that the valley sat on the route from the mines to the north coast.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Late Cypriot II tomb",
+     "p": "c. 1400–1200 BCE",
+     "t": "A tomb recorded by Sophocles Hadjisavvas in 1985 showing that burial here continued long after the Middle Bronze Age peak.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://www.cambridge.org/core/journals/antiquity/article/abs/exploiting-a-damaged-and-diminishing-resource-survey-sampling-and-society-at-a-bronze-age-cemetery-complex-in-cyprus/05E66935C8C8F44FB532C4B8FFF51678",
+    "https://www.ancientcyprus.com/sites/dhenia",
+    "https://sima.astromeditions.com/book/?book_id=M135"
+   ]
+  },
+  {
+   "id": "vasilia",
+   "name": "Vasilia-Kafkallia",
+   "modern": "Vasilia, Kyrenia district (Turkish-occupied north)",
+   "lon": 33.123,
+   "lat": 35.344,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -2450,
+     -2000
+    ]
+   ],
+   "desc": "A north-coast cemetery of tombs cut into soft gypsum, dug by James Stewart in 1955. Its material is unlike anything at other Philia-phase sites and includes weapons that were made outside Cyprus, which is why the site sits at the centre of the argument about whether the Philia horizon means Anatolian migrants or only Anatolian fashions. Stewart thought the Philia style survived at Vasilia long after it had ended elsewhere, a view still contested.",
+   "finds": [
+    {
+     "n": "The Tomb 1 dromos deposit",
+     "p": "Philia phase, c. 2400 BCE",
+     "t": "Nine metal objects hidden beneath the plaster lining of a tomb passage, one of the largest metal groups of its date on the island and evidently placed there deliberately rather than dropped.",
+     "w": "Cyprus Museum, Nicosia; Nicholson Museum, University of Sydney"
+    },
+    {
+     "n": "The imported spearhead and sword",
+     "p": "Philia phase",
+     "t": "A rat-tang spearhead and a sword whose forms have no Cypriot ancestry, and whose lead isotope ratios point to copper from the central Taurus mountains. The likeliest reading is that both arrived as finished weapons.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The ring ingot",
+     "p": "Philia phase",
+     "t": "A hoop of metal of a type used as portable value in Anatolia and the Cyclades, and further evidence that the north coast was plugged into a mainland metals trade.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Philia Red Polished ware",
+     "p": "c. 2400–2200 BCE",
+     "t": "The distinctive jugs and bowls of the Philia horizon, with their long cutaway spouts, mostly made on the island but shaped to Anatolian taste.",
+     "w": "Cyprus Museum, Nicosia; Nicholson Museum, University of Sydney"
+    },
+    {
+     "n": "Chamber tombs cut in gypsum",
+     "p": "c. 2400–2000 BCE",
+     "t": "Tombs whose contents span much of the prehistoric Bronze Age, which makes them hard to date and is the root of the long dispute over how late the Philia style lasted here.",
+     "w": "In situ (inaccessible since 1974)"
+    }
+   ],
+   "sources": [
+    "https://www.ancientportsantiques.com/wp-content/uploads/Documents/PLACES/Crete-Cyprus/CyprusCopper-Webb2014.pdf",
+    "https://www.researchgate.net/publication/227883431_Webb_J_Frankel_D_Stos_Z_A_and_Gale_N_Early_Bronze_Age_metals_trade_in_the_eastern_Mediterranean_New_compositional_and_lead_isotope_evidence_from_Cyprus",
+    "https://www.researchgate.net/publication/316645005_The_Anatolian_Context_of_Philia_Material_Culture_in_Cyprus",
+    "https://en.wikipedia.org/wiki/Philia_culture"
+   ]
+  },
+  {
+   "id": "psematismenos",
+   "name": "Psematismenos-Trelloukkas",
+   "modern": "Psematismenos, Larnaca district",
+   "lon": 33.345,
+   "lat": 34.766,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -2400,
+     -2100
+    ]
+   ],
+   "desc": "An Early Bronze Age cemetery near the south coast, found in advance of building and excavated in a single rescue campaign in 2008 by Giorgos Georgiou for the Department of Antiquities with Jennifer Webb and David Frankel of Melbourne. It was published in full in 2011, which makes it rare and valuable: an early cemetery dug complete, and therefore the yardstick against which plundered cemeteries such as Deneia have to be measured.",
+   "finds": [
+    {
+     "n": "The complete cemetery plan",
+     "p": "excavated 2008",
+     "t": "Every grave in the excavated area recorded, with its position, form and contents, at a period otherwise known almost entirely from robbed tombs and museum purchases.",
+     "w": "Department of Antiquities, Cyprus (archive)"
+    },
+    {
+     "n": "Collective burials",
+     "p": "Early Cypriot",
+     "t": "Graves holding several people rather than one, including a group large enough to be called a mass burial. Psematismenos is a key data point for the shift from single to collective burial in the early Bronze Age.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "Red Polished South Coast ware",
+     "p": "c. 2400–2100 BCE",
+     "t": "The regional Early Cypriot fabric of this coastline, whose tight dating here helps anchor the sequence for the whole south.",
+     "w": "Larnaca District Archaeological Museum; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The human and animal bone reports",
+     "p": "Early Cypriot",
+     "t": "Kirsi Lorentz's study of the skeletons and Paul Croft's of the animal bone, giving age, sex and health for a whole burying community rather than a few showpiece graves.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    }
+   ],
+   "sources": [
+    "https://bmcr.brynmawr.edu/2013/2013.01.20",
+    "https://www.academia.edu/44453677/Psematismenos_Trelloukkas_An_Early_Bronze_Age_Cemetery_in_Cyprus",
+    "https://www.levantineceramics.org/wares/554-early-cypriot-red-polished-south-coast"
+   ]
+  },
+  {
+   "id": "pyrgos_mavroraki",
+   "name": "Pyrgos-Mavroraki",
+   "modern": "Pyrgos, Limassol district",
+   "lon": 33.184,
+   "lat": 34.741,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -2350,
+     -1850
+    ]
+   ],
+   "desc": "Not a village but an industrial quarter, now hemmed in by the villas of modern Pyrgos, excavated from 1998 by Maria Rosaria Belgiorno for Italy's National Research Council. Copper smelting, olive pressing, weaving, wine and perfumed oil were all carried on in one complex, with the olive oil apparently doubling as furnace fuel. An earthquake flattened it around 1850 BCE and thereby preserved the equipment where it stood.",
+   "finds": [
+    {
+     "n": "The perfume workshop",
+     "p": "c. 2000–1850 BCE",
+     "t": "A press hall with funnels, maceration juglets, small perfume bottles and amphorae found in place, excavated between 2000 and 2003 and described by its excavator as the oldest perfume production site in the world. The superlative is contested; the installation is not.",
+     "w": "In situ, Pyrgos-Mavroraki; finds in the Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The alembic",
+     "p": "c. 2000–1850 BCE",
+     "t": "A vessel identified as distillation apparatus. If the reading holds it is among the earliest distillation equipment anywhere, which is exactly why other specialists want a second explanation for the shape.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The scent recipes",
+     "p": "c. 2000–1850 BCE",
+     "t": "Chemical and pollen analysis identified rosemary, lavender, marjoram and myrtle steeped in olive and almond oil, matching methods later described by Theophrastus, Pliny and Dioscorides. Working replicas of the fragrances have been made from the results.",
+     "w": "Reconstructions shown at Musei Capitolini, Rome (2007), Officina Profumo Santa Maria Novella, Florence (2008) and the Pierides Museum, Larnaca (2009–2010)"
+    },
+    {
+     "n": "The metallurgical workshop",
+     "p": "c. 2350–1850 BCE",
+     "t": "Furnaces, slag and casting waste in the same complex as the presses, with evidence that olive oil was burnt as fuel. Copper and cosmetics were run as one business.",
+     "w": "In situ, Pyrgos-Mavroraki"
+    },
+    {
+     "n": "Olive and wine installations",
+     "p": "Early to Middle Bronze Age",
+     "t": "Presses, vats and storage jars for oil and wine, the agricultural half of the operation that supplied both the perfumers and the smiths.",
+     "w": "In situ, Pyrgos-Mavroraki"
+    },
+    {
+     "n": "Worked marine shell",
+     "p": "Early to Middle Bronze Age",
+     "t": "Large quantities of molluscs that were not eaten, studied as raw material for dye, ornament or lime rather than as food waste.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "The earthquake destruction",
+     "p": "c. 1850 BCE",
+     "t": "Collapsed walls and roofs that buried the workshops with their tools still in position, which is the only reason so fragile an industry can be reconstructed at all.",
+     "w": "In situ, Pyrgos-Mavroraki"
+    }
+   ],
+   "sources": [
+    "https://www.pyrgos-mavroraki.eu/perfumes",
+    "https://www.pyrgos-mavroraki.eu/publications",
+    "https://www.scotsman.com/news/world/archaeological-dig-sniffs-out-worlds-oldest-perfumery-2452916",
+    "https://www.academia.edu/1479376/Archaeomalacological_Data_from_the_Bronze_Age_Industrial_Complex_of_Pyrgos_Mavroraki_Cyprus_A_Non_dietary_Mollusc_Exploitation_Case"
+   ]
+  },
+  {
+   "id": "laroumena",
+   "name": "Kalavasos-Laroumena",
+   "modern": "Kalavasos, Larnaca district",
+   "lon": 33.293,
+   "lat": 34.774,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     -2000,
+     -1650
+    ]
+   ],
+   "desc": "A fifteen-hectare promontory just north-west of Kalavasos, next to the thirty-five-hectare terrace of Arkhangelos, both thick with Middle Bronze Age surface finds. The Kalavasos-Laroumena and Arkhangelos Archaeological Research Project began surveying in 2022 and digging in 2023 to fill the one gap in a valley otherwise excavated end to end, the centuries between the Chalcolithic villages and the Late Bronze Age town at Ayios Dhimitrios downstream.",
+   "finds": [
+    {
+     "n": "Middle Bronze Age terracing",
+     "p": "c. 2000–1650 BCE",
+     "t": "The excavators found a building wall running under a modern terrace wall, which suggests the hillside was first cut into terraces to carry houses rather than crops.",
+     "w": "In situ, Kalavasos-Laroumena"
+    },
+    {
+     "n": "The ash-filled room",
+     "p": "later Middle Cypriot",
+     "t": "Three walls forming a small room packed with thick ash and charcoal, the first securely dated Middle Bronze Age architecture from the site.",
+     "w": "In situ, Kalavasos-Laroumena"
+    },
+    {
+     "n": "Storage pithos fragments",
+     "p": "later Middle Cypriot",
+     "t": "Pieces of large storage jars, which the project reads as evidence of families competing in surplus and display, a habit that leads towards the state society of the Late Bronze Age.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "A five-thousand-year sherd scatter",
+     "p": "Late Chalcolithic to Iron Age",
+     "t": "Pottery of the late Chalcolithic, Early, Middle and Late Bronze Age and the Iron Age in the same soil, showing people returned to this promontory again and again.",
+     "w": "Department of Antiquities, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://www.asor.org/news/2024/01/seger-grant-report-horowitz",
+    "https://www.archaeology.wiki/blog/2024/02/16/excavation-at-kalavasos-laroumena-and-arkhangelos/",
+    "https://www.gov.cy/en/education-sports-and-youth/excavation-by-the-kalavasos-laroumena-and-arkhangelos-archaeological-research-project-k-laarp-in-kalavasos/"
+   ]
+  },
+  {
+   "id": "phaneromeni",
+   "name": "Episkopi-Phaneromeni",
+   "modern": "Episkopi, Limassol district",
+   "lon": 32.911,
+   "lat": 34.67,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -2400,
+     -1500
+    ]
+   ],
+   "desc": "A settlement and cemetery on the ridge less than a kilometre east of Episkopi, above the mouth of the Kouris. J.R. Carpenter and then Stuart Swiny dug it for Kent State University between 1975 and 1978, with a survey of the surrounding country. Because the village runs from the Early Bronze Age through to the very start of the Late Bronze Age and then stops, it is the standard case study for how a southern farming community met, and did not survive, the changes of about 1600 BCE.",
+   "finds": [
+    {
+     "n": "The Area A settlement",
+     "p": "c. 1750–1550 BCE",
+     "t": "Agglomerated rooms and courtyards of the Middle Cypriot III and Late Cypriot IA village, among the very few settlements of that transitional moment ever properly excavated in southern Cyprus.",
+     "w": "In situ, Episkopi-Phaneromeni"
+    },
+    {
+     "n": "The earlier Area G settlement",
+     "p": "c. 2400–1800 BCE",
+     "t": "Earlier buildings on the same ridge, so that the two areas together give an Early and Middle Bronze Age sequence in one place.",
+     "w": "In situ, Episkopi-Phaneromeni"
+    },
+    {
+     "n": "The chamber tomb cemetery",
+     "p": "Early to Middle Bronze Age",
+     "t": "Rock-cut tombs with Red Polished and White Painted grave goods belonging to the same community as the houses, which is unusual: settlement and cemetery are rarely both available.",
+     "w": "Kourion Museum, Episkopi; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The abandonment",
+     "p": "c. 1550 BCE",
+     "t": "The village was given up in Late Cypriot IA, and the reasons, whether coastal insecurity, drought or the pull of new towns, are still argued.",
+     "w": "In situ, Episkopi-Phaneromeni"
+    },
+    {
+     "n": "Querns, rubbers and textile tools",
+     "p": "Middle Bronze Age",
+     "t": "The grinding equipment and spindle whorls of an ordinary household economy, published as a full assemblage rather than as selected pieces.",
+     "w": "Kourion Museum, Episkopi"
+    },
+    {
+     "n": "The regional survey",
+     "p": "1975–1978",
+     "t": "Swiny's walk over south-west Cyprus around the excavation, which produced the first real map of Bronze Age settlement in the region and is still cited.",
+     "w": "Published, Department of Antiquities, Cyprus"
+    }
+   ],
+   "sources": [
+    "https://www.aegeussociety.org/wp-content/uploads/2021/12/Swiny-1981-Patterns.pdf",
+    "https://discovery.ucl.ac.uk/1317750/",
+    "https://www.visitcyprus.com/discover-cyprus/culture/museums-galleries/local-archaeological-kourion-museum-episkopi/"
+   ]
+  },
+  {
+   "id": "ayios_sozomenos",
+   "name": "Ayios Sozomenos",
+   "modern": "Agios Sozomenos, Nicosia district",
+   "lon": 33.438,
+   "lat": 35.066,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     -1750,
+     -1350
+    ]
+   ],
+   "desc": "A cluster of fortified sites on the plateau above the meeting of the Alykos and Yialias rivers in the middle of the Mesaoria, built and given up inside about a century and a half around 1750 to 1600 BCE. Barsak, on the cliff edge, had a double circuit wall with a ditch outside it; Nikolidhes, two kilometres to the south-west, was ringed by a wall some 900 metres long with a rectangular tower. Einar Gjerstad dug at Glyka Vrysi in 1924, Hector Catling surveyed the group in the 1950s, and Despina Pilides has excavated here in recent years. Whether these works were raised against raiders from the sea or against each other is the central unresolved question of the period.",
+   "finds": [
+    {
+     "n": "The Barsak fort",
+     "p": "c. 1750–1600 BCE",
+     "t": "A double circuit wall with a deep ditch cut outside it, contemporary with the first phase of the settlement at Dzirpoulos and then given up.",
+     "w": "In situ, Agios Sozomenos"
+    },
+    {
+     "n": "The Nikolidhes circuit",
+     "p": "c. 1600–1400 BCE",
+     "t": "An enclosure wall some 920 metres long and over three metres thick in places, built of squared blocks with a rubble core, with substantial walls running inwards to divide the interior.",
+     "w": "In situ, Agios Sozomenos"
+    },
+    {
+     "n": "The ashlar tower",
+     "p": "Late Cypriot I to II",
+     "t": "A tower fifteen metres by seven and a half, of large dressed blocks laid flat, standing clear of the main wall and added later. Somebody decided the fort was not strong enough.",
+     "w": "In situ, Agios Sozomenos"
+    },
+    {
+     "n": "Cypro-Minoan signs on pottery",
+     "p": "Late Cypriot I to II",
+     "t": "Signs painted and incised on sherds and on storage jars, among the earliest writing on the island and a surprise from a supposedly rural fort.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Copper pendant and workshop debris from Dzirpoulos",
+     "p": "Late Bronze Age",
+     "t": "Metalworking areas and a copper pendant from the valley settlement, announced in 2022, which tie the forts to the business of moving copper out of the foothills.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The rock-cut ditch",
+     "p": "Middle Cypriot III",
+     "t": "A deep ditch quarried out of the plateau edge in front of the Barsak wall, the plainest statement of intent among all the Cypriot forts: this was built against people.",
+     "w": "In situ, Agios Sozomenos"
+    },
+    {
+     "n": "Barsak double circuit wall",
+     "p": "c. 1750-1600 BCE",
+     "t": "Two concentric walls, each about two metres thick, along the top of cliffs 40 to 50 metres high, with a deep ditch cut outside them. It is the most heavily defended of the group and commands the whole confluence.",
+     "w": "In situ, Ayios Sozomenos"
+    },
+    {
+     "n": "Nikolidhes enclosure and tower",
+     "p": "c. 1750-1600 BCE",
+     "t": "A wall roughly 900 metres in circuit with a rectangular tower about 15 by 7.5 metres, enclosing far more ground than the population is likely to have needed, which suggests refuge for people and animals from a wider district.",
+     "w": "In situ, Ayios Sozomenos"
+    },
+    {
+     "n": "Dhali-Kafkallia enclosures",
+     "p": "c. 1750-1600 BCE",
+     "t": "Two conjoined walled areas on the plateau containing ordinary domestic buildings, showing that some of these places were lived in rather than manned only in emergencies.",
+     "w": "In situ, Dhali"
+    },
+    {
+     "n": "Glyka Vrysi outpost",
+     "p": "c. 1750-1600 BCE",
+     "t": "A fortified post at the foot of the plateau beside fresh water, dug by the Swedish Cyprus Expedition under Einar Gjerstad in 1924, the first of the group to be investigated.",
+     "w": "In situ; finds in Medelhavsmuseet, Stockholm"
+    },
+    {
+     "n": "Canaanite jars and Aegean vases",
+     "p": "c. 1700-1600 BCE",
+     "t": "Levantine transport jars and Late Helladic pottery from the settlement areas at Tzirpoulos and Ampelia. Inland forts in the middle of the plain were nonetheless plugged into the sea trade.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Faience and ivory",
+     "p": "c. 1700-1600 BCE",
+     "t": "Small imported prestige objects from the settlements, the kind of thing that in this period starts to separate some households from others and gives the forts their point.",
+     "w": "Cyprus Museum, Nicosia"
+    }
+   ],
+   "sources": [
+    "https://www.cyi.ac.cy/index.php/component/k2/the-agios-sozomenos-survey-and-excavations-project-results-and-preliminary-inferences-on-central-cyprus-in-the-late-bronze-age.html",
+    "https://www.archaeology.wiki/blog/2017/12/20/excavations-agios-sozomenos-nikolides-ampelia-2017/",
+    "https://greekreporter.com/2022/01/14/agios-sozomenos-cyprus/",
+    "https://www.academia.edu/37121697/The_2016_Agios_Sozomenos_Survey_Regional_Settlement_Patterns_in_a_Fortified_Landscape_in_Bronze_Age_Cyprus",
+    "https://www.ancientcyprus.com/sites/agios-sozomenos",
+    "https://ancientcyprus.com/sites/agios-sozomenos",
+    "https://en.wikipedia.org/wiki/Prehistoric_Cyprus"
+   ]
+  },
+  {
+   "id": "nitovikla",
+   "name": "Nitovikla",
+   "modern": "Kuruova (Korovia), Karpas peninsula (Turkish-occupied north)",
+   "lon": 34.291,
+   "lat": 35.488,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     -1725,
+     -1400
+    ]
+   ],
+   "desc": "A square fortress of cyclopean masonry on a hill above the south coast of the Karpass, with towers at three corners and flanking the gate and a cistern in its courtyard. The Swedish Cyprus Expedition dug it in 1929 and published it in 1935; tombs nearby date to about 1725 to 1600 BCE. It belongs to a group of forts thrown up as Cyprus turned from a society of villages into one with copper worth defending. The usual reading is that they guarded the routes from the mines to the coast, but whether they watched the sea, the roads or each other is still argued.",
+   "finds": [
+    {
+     "n": "The cyclopean circuit and gate",
+     "p": "c. 1725–1600 BCE",
+     "t": "Walls of huge unworked blocks on a square plan, with corner towers and a gate passage flanked by two more, a design without Cypriot precedent and with Levantine and Anatolian relatives.",
+     "w": "In situ, Nitovikla (inaccessible since 1974)"
+    },
+    {
+     "n": "The courtyard cistern",
+     "p": "Middle to Late Cypriot",
+     "t": "A cut cistern in the internal courtyard, which is what allowed the garrison to sit out a siege on a waterless hilltop.",
+     "w": "In situ, Nitovikla"
+    },
+    {
+     "n": "Burning and rebuilding",
+     "p": "c. 1700–1450 BCE",
+     "t": "Destruction layers between building phases. Whether they mean warfare, earthquake or accident is not settled, but the fort was twice thought worth rebuilding.",
+     "w": "In situ, Nitovikla"
+    },
+    {
+     "n": "The Middle Cypriot III tombs",
+     "p": "c. 1725–1600 BCE",
+     "t": "Tombs found by the Swedish team near the fort, which supplied the pottery that dates its foundation.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Swedish Cyprus Expedition archive",
+     "p": "1929",
+     "t": "Photographs, plans and finds from Erik Sjoqvist's season, part of the great division of material between Nicosia and Stockholm that still governs where Cypriot antiquities sit.",
+     "w": "Medelhavsmuseet, Stockholm"
+    },
+    {
+     "n": "The view",
+     "p": "Middle to Late Bronze Age",
+     "t": "The fort's whole logic is visible from it: the plateau routes inland on one side, the sea approach on the other. Whatever it was watching for could come from either.",
+     "w": "In situ, Nitovikla"
+    },
+    {
+     "n": "The cyclopean walls",
+     "p": "c. 1725-1450 BCE",
+     "t": "A square enclosure built of huge unworked blocks, the earliest monumental defensive architecture on Cyprus. Nothing on the island before this needed walls of this kind.",
+     "w": "In situ, Nitovikla"
+    },
+    {
+     "n": "Gate and flanking towers",
+     "p": "c. 1725-1450 BCE",
+     "t": "Towers at three corners and a pair guarding the entrance, a scheme with Levantine and Anatolian parallels rather than Cypriot ones, which is part of why the forts are read as a response to something from outside.",
+     "w": "In situ, Nitovikla"
+    },
+    {
+     "n": "The Nitovikla tombs",
+     "p": "c. 1725-1600 BCE",
+     "t": "Chamber tombs on the slopes below, excavated in 1929, with Middle Cypriot pottery that supplies the fort's date. The Swedish expedition's Cypriot material forms the core of the Medelhavsmuseet's collection in Stockholm.",
+     "w": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The Karpass sea lane",
+     "p": "Middle to Late Cypriot",
+     "t": "The fort looks out over the shortest crossing between Cyprus and the Cilician and Syrian coasts. It has not been excavated again since 1929 and lies today in the north, so almost everything known about it rests on one season's work.",
+     "w": "In situ, Nitovikla"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nitovikla",
+    "https://www.ancientcyprus.com/articles/swedish-expedition-and-its-legacy",
+    "https://www.academia.edu/40224401/M_Bartelheim_B_K%C4%B1z%C4%B1lduman_U_M%C3%BCller_Bronze_Age_Fortifications_on_Cyprus",
+    "https://en.wikipedia.org/wiki/Swedish_Cyprus_Expedition",
+    "https://en.wikipedia.org/wiki/Prehistoric_Cyprus"
+   ]
+  },
+  {
+   "id": "toumba_skourou",
+   "name": "Toumba tou Skourou",
+   "modern": "Near Morphou, Nicosia district (Turkish-occupied north)",
+   "lon": 33.001,
+   "lat": 35.224,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     -1750,
+     -1150
+    ]
+   ],
+   "desc": "A mound of collapsed mudbrick on the west side of the Ovgos river, on what was then the shore of Morphou bay. Emily Vermeule dug it for Harvard and the Museum of Fine Arts, Boston, with Florence Wolsky, in 1971 to 1973; the events of 1974 ended the work and the team left the island for good. Under the mound lay a potters' quarter with kilns and clay-working floors, and rich rock-cut tombs whose Cretan, Egyptian and Levantine imports have made the site one of the fixed points for tying the Cypriot Bronze Age sequence to the Aegean one.",
+   "finds": [
+    {
+     "n": "The Tomb 1 and Tomb 2 assemblages",
+     "p": "c. 1600–1450 BCE",
+     "t": "Aegean pots, Egyptian bronze razors, imported seals, ostrich eggs and objects of faience, ivory, silver, gold, carnelian, amethyst and rock crystal from a handful of chamber tombs. Nothing earlier on Cyprus is so international.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Middle Minoan Kamares ware",
+     "p": "c. 1750–1650 BCE",
+     "t": "Fine eggshell-thin Cretan pottery, among the earliest Minoan imports on the island. Which mound and context individual pieces came from is not always clear from the record.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The hybrid cups",
+     "p": "Late Cypriot I",
+     "t": "Locally made cups whose handles copy Minoan shapes, a potter's own answer to the imports arriving in the harbour. They are the reason the site is discussed in every account of Cretan influence on Cyprus.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The potters' quarter",
+     "p": "c. 1600–1400 BCE",
+     "t": "Working areas, clay preparation basins and firing installations on the mounds, which gave Vermeule's final report its subtitle and make this the best-known Bronze Age pottery workshop on the island.",
+     "w": "In situ (inaccessible since 1974)"
+    },
+    {
+     "n": "White Painted and Proto White Slip pottery",
+     "p": "c. 1750–1550 BCE",
+     "t": "The local sequence across the Middle to Late Bronze Age join, which is what allows the imports to be dated against Cypriot and Aegean chronologies.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The mudbrick mounds",
+     "p": "Middle to Late Bronze Age",
+     "t": "The site's name means the mound of the slag heap, and the mounds themselves are made of collapsed and rebuilt mudbrick, metres deep. Vermeule spent two years working down through them.",
+     "w": "In situ (inaccessible since 1974)"
+    },
+    {
+     "n": "The mound itself",
+     "p": "Middle to Late Bronze Age",
+     "t": "A tell of decayed mudbrick that Vermeule's first report called the mound of darkness, on the edge of what is now the town of Guzelyurt. The shore it once stood on has moved: the Ovgos delta silted the bay out, and the site is well inland today.",
+     "w": "In situ, Toumba tou Skourou"
+    },
+    {
+     "n": "The chamber tombs",
+     "p": "16th century BCE",
+     "t": "Multi-chamber rock-cut tombs holding hundreds of vessels, dug into the settlement's own ground. Their contents were published in 1990 with roughly 2,000 photographs and drawings, which is why the site remains usable evidence despite the excavation being cut short.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Minoan imports",
+     "p": "16th-15th century BCE",
+     "t": "Cretan pottery in the tombs, closely datable within the Late Minoan sequence, which lets Cypriot phases be pinned against Aegean ones. Vermeule's stratified groups are still cited in arguments about absolute Bronze Age chronology.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Egyptian and Levantine goods",
+     "p": "16th-15th century BCE",
+     "t": "Scarabs and imported juglets from Egypt and the Syro-Palestinian coast. Vermeule described the site as the meeting of three foreign strands, Levantine, Egyptian and Minoan, laid over an entirely Cypriot industry.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The interrupted excavation",
+     "p": "1974",
+     "t": "Work stopped mid-season and was never resumed; the trenches were left as they were and the site now lies inside a modern town in the north. Vermeule published a preliminary account in 1974 and the full report only in 1990.",
+     "w": "Excavation archive, Harvard University"
+    }
+   ],
+   "sources": [
+    "https://www.hup.harvard.edu/books/9780674896352",
+    "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781444338386.wbeah25079",
+    "https://en.wikipedia.org/wiki/Emily_Dickinson_Townsend_Vermeule",
+    "https://cycomedproject.eie.gr/history/cyprus-maritime-connectivity-before-and-during-the-transition-to-the-late-bronze-age-the-case-of-the-north-and-northwest/?lang=en",
+    "https://books.google.com/books/about/Toumba_tou_Skourou.html?id=0ikbAQAAMAAJ",
+    "https://hollisarchives.lib.harvard.edu/catalog/hua06003",
+    "https://search.worldcat.org/title/Toumba-tou-Skourou-:-a-Bronze-Age-potters'-quarter-on-Morphou-Bay-in-Cyprus/oclc/878633087"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "lemba",
+   "finds": [
+    {
+     "n": "Building 1 and the Lady's find-spot",
+     "p": "c. 3000 BCE",
+     "t": "The Lemba Lady came out of the fill of an ordinary roundhouse, not a shrine. Nothing about the building marks it as special, so calling the figure a fertility goddess is an interpretation resting mainly on her size.",
+     "w": "In situ, Lemba-Lakkous (figure in the Cyprus Museum, Nicosia)"
+    },
+    {
+     "n": "Infant jar burials",
+     "p": "Chalcolithic",
+     "t": "Babies buried inside pots set beneath and beside house floors, a rite shared with Kissonerga and typical of the Erimi culture. The dead here stayed inside the village, which is what makes the shaft graves at Souskiou so startling.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "The ground stone reference collection",
+     "p": "Chalcolithic",
+     "t": "Sixty-two axes and adzes plus querns, rubbers and pounders from the Lemba region, studied by Carole Elliott into the standard typology for Chalcolithic ground stone on Cyprus. Every later find, including the Palloures axes, is measured against it.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "Stone and clay figurine fragments",
+     "p": "Chalcolithic",
+     "t": "Broken limestone and terracotta figures besides the famous one, which is a useful corrective: these things were made in numbers and mostly ended up smashed.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The end of the village",
+     "p": "c. 2500 BCE",
+     "t": "Lemba was abandoned in the Late Chalcolithic, as Kissonerga and Souskiou were, with no destruction to explain it. The whole south-western settlement pattern simply dissolves.",
+     "w": "In situ, Lemba-Lakkous"
+    }
+   ]
+  },
+  {
+   "id": "kissonerga",
+   "finds": [
+    {
+     "n": "The Red Building",
+     "p": "c. 3000 BCE",
+     "t": "A round building of exceptional size in the settlement's high sector, with a red-painted floor, the largest prehistoric building known on Cyprus. Whether it was a chief's house, a meeting hall or a shrine is undecided.",
+     "w": "In situ, Kissonerga-Mosphilia"
+    },
+    {
+     "n": "The birth model",
+     "p": "c. 3000 BCE",
+     "t": "The clay house model in the ceremonial deposit has a doorway, walls and an interior, and inside it lay a figurine of a woman giving birth. Diane Bolger read the whole assemblage as the equipment of a birth ritual, buried when its work was done.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Two possible crucibles and copper ore",
+     "p": "Late Chalcolithic, c. 2900–2400 BCE",
+     "t": "Fragments identified as crucibles, with a few lumps of ore, in the latest houses. A 2018 reappraisal in Antiquity argued there is still no convincing evidence that anyone on Chalcolithic Cyprus actually smelted, so these remain the strongest and weakest case at once.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Copper awl and chisels",
+     "p": "Late Chalcolithic",
+     "t": "The first objects from the island that are unmistakably tools rather than ornaments, and with the Lemba chisel the beginning of a working metal industry.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The reconstructed roundhouse",
+     "p": "built 2010s",
+     "t": "A full-size roundhouse rebuilt on the site with Chalcolithic techniques, so that a visitor can stand inside one instead of reading a plan.",
+     "w": "In situ, Kissonerga-Mosphilia"
+    },
+    {
+     "n": "The Pithos House stone tools in the jars",
+     "p": "c. 2700–2400 BCE",
+     "t": "Nests of small bowls and stone tools packed inside the storage vessels when the building burned, part of the same habit of caching things in jars later found at Chlorakas-Palloures.",
+     "w": "Paphos District Museum"
+    }
+   ]
+  },
+  {
+   "id": "souskiou",
+   "finds": [
+    {
+     "n": "The Laona settlement",
+     "p": "c. 3200–2800 BCE",
+     "t": "Edgar Peltenburg's Edinburgh team dug here from 2001 to 2011 and found a village terraced into a steep hillside whose earlier phases were given over to working picrolite. Souskiou was not just a burial ground; it was where the pendants were made.",
+     "w": "In situ, Souskiou-Laona"
+    },
+    {
+     "n": "Multi-stage burial",
+     "p": "Middle Chalcolithic",
+     "t": "Shafts holding both articulated bodies and neatly rearranged loose bones, so the dead were returned to, moved and reordered over time rather than buried once.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "What the looters took",
+     "p": "1940s onwards",
+     "t": "Vathyrkakas was plundered for decades and unprovenanced cruciform figurines sold as 'Souskiou' flooded the market. Peltenburg's 2006 volume deliberately excluded every object without an excavated context, which is why the published corpus is so much smaller than the collectors' one.",
+     "w": "Dispersed in private and museum collections worldwide"
+    },
+    {
+     "n": "Dentalium shell ornaments",
+     "p": "Middle Chalcolithic",
+     "t": "Strings of tiny tusk-shaped shells worn as necklaces and sewn onto clothing, among the commonest grave goods and a reminder that these people dressed for burial.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The deep shaft graves",
+     "p": "c. 3200–2800 BCE",
+     "t": "Narrow shafts cut metres down into rock, holding several people each. They are the first extramural cemeteries on Cyprus and the first burials that clearly separate the rich from everyone else.",
+     "w": "In situ, Souskiou-Vathyrkakas and Souskiou-Laona"
+    },
+    {
+     "n": "Figurine Makers of Prehistoric Cyprus",
+     "p": "published 2019",
+     "t": "The final report by Peltenburg, Diane Bolger and Lindy Crewe, which brought the settlement and the cemeteries together and settled Souskiou's reputation as a specialist producer rather than an oddity.",
+     "w": "Published, Oxbow Books"
+    }
+   ]
+  },
+  {
+   "id": "erimi",
+   "finds": [
+    {
+     "n": "The mould for axe-shaped ingots",
+     "p": "later Middle Cypriot",
+     "t": "A complete terracotta mould for casting axe-shaped copper ingots, found in the destruction levels of the workshop complex in 2022. The textile people were handling metal too.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The workshop shrine",
+     "p": "Middle Cypriot",
+     "t": "Unit SA IX, five metres by under four, interpreted as a small shrine inside the production complex, apparently attached to the work rather than to the households.",
+     "w": "In situ, Erimi-Laonin tou Porakou"
+    },
+    {
+     "n": "The face-down burial",
+     "p": "Middle Cypriot",
+     "t": "A woman of fifteen to twenty buried prone beside a stone basin inside the residential area, an anomalous rite in a period of tidy chamber tombs, found in 2019 and still unexplained.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "The milling table",
+     "p": "Middle Cypriot",
+     "t": "A fixed installation holding three grinding slabs side by side, for processing on a scale beyond one family's needs.",
+     "w": "In situ, Erimi-Laonin tou Porakou"
+    },
+    {
+     "n": "The duck askos",
+     "p": "early Middle Cypriot",
+     "t": "A complete Red Polished vessel modelled as a duck, deliberately filled and then sealed under a later plaster floor, so it was put out of use on purpose.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The courtyard plan",
+     "p": "c. 1950–1650 BCE",
+     "t": "A central open working court closed on three sides by ranges of rooms, with cut-rock basins for dyeing at their edges. Erimi is the only Middle Bronze Age site on Cyprus where a whole industrial layout can be walked.",
+     "w": "In situ, Erimi-Laonin tou Porakou"
+    }
+   ]
+  },
+  {
+   "id": "marki",
+   "finds": [
+    {
+     "n": "The plank figures",
+     "p": "c. 2000–1750 BCE",
+     "t": "Ten flat Red Polished human figures, all highly burnished, all saying much the same thing in the same way. Frankel and Webb read them as statements of belonging to the group rather than portraits of individuals or gods.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Spindle whorls",
+     "p": "Early to Middle Bronze Age",
+     "t": "Large numbers of clay whorls in coarse fabrics with wildly variable incised patterns, apparently decorated by whoever was going to spin with them.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The rebuilding sequence",
+     "p": "c. 2400–1700 BCE",
+     "t": "Houses rebuilt on almost the same footprints through phase after phase for six or seven centuries. Marki is the reason we can talk about continuity of individual households in Bronze Age Cyprus at all.",
+     "w": "In situ, Marki-Alonia"
+    },
+    {
+     "n": "Household copper working",
+     "p": "Early to Middle Bronze Age",
+     "t": "Ore and slag brought up from sources a few kilometres south and worked inside the village, although the site was placed for its farmland rather than its metal.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The published excavation",
+     "p": "1990–2000",
+     "t": "Frankel and Webb's report, one of the few complete accounts of an Early and Middle Bronze Age village on Cyprus, and the model every later project has worked from.",
+     "w": "Published, Studies in Mediterranean Archaeology"
+    }
+   ]
+  },
+  {
+   "id": "vounous",
+   "finds": [
+    {
+     "n": "The Alambra finial",
+     "p": "c. 1900–1800 BCE",
+     "t": "A mudbrick feature at Alambra-Mouttes closely resembling the finials on the three-columned throne in the Vounous Bowl, found in a room beside human remains. Andrew Sneddon argued in 2019 that this pushes the bowl towards a burial or ancestor rite and away from village genre scene.",
+     "w": "In situ, Alambra-Mouttes"
+    },
+    {
+     "n": "Bulls' heads and snakes in relief",
+     "p": "c. 2300–1900 BCE",
+     "t": "Red Polished vessels with modelled cattle heads on the shoulders and snakes crawling up the sides. Cattle and snakes are the two recurring animals of Early Bronze Age Cypriot imagery and nobody has explained either.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Composite and multiple vessels",
+     "p": "Early Bronze Age",
+     "t": "Pots joined into groups, sets of miniature bowls on a single stand, and vessels with spouts that cannot pour, made for the grave rather than the table.",
+     "w": "Cyprus Museum, Nicosia; World Museum, Liverpool"
+    },
+    {
+     "n": "Toggle pins and copper daggers",
+     "p": "Early to Middle Bronze Age",
+     "t": "The metalwork of the tombs: dress pins for pinning a cloak and tanged daggers, the ordinary wealth against which the gold and the Cretan blades stand out.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The site since 1974",
+     "p": "1974 onwards",
+     "t": "Vounous lies in the occupied north and has not been excavated since. Everything known about the richest source of Early Bronze Age Cypriot art comes from four seasons in the 1930s.",
+     "w": "In situ (inaccessible)"
+    }
+   ]
+  },
+  {
+   "id": "kaminoudhia",
+   "finds": [
+    {
+     "n": "The Area A buildings",
+     "p": "c. 2400–2000 BCE",
+     "t": "Rooms added onto rooms in an agglutinative sprawl, the first Early Bronze Age settlement ever excavated on Cyprus. Before Swiny dug here the whole period was known from tombs alone.",
+     "w": "In situ, Sotira-Kaminoudhia"
+    },
+    {
+     "n": "The chronology dispute",
+     "p": "argued from 1994",
+     "t": "Sturt Manning argued in 1994 that the site's radiocarbon dates were older than its pottery allowed, which forced a general rethink of when the Cypriot Bronze Age begins. The gap between the two kinds of evidence has narrowed but not closed.",
+     "w": "Published, Oxford Journal of Archaeology"
+    },
+    {
+     "n": "Picrolite pendants",
+     "p": "Early Bronze Age",
+     "t": "Blue-green stone ornaments carried on from the Chalcolithic tradition, but now simple pendants rather than the elaborate cruciform figures of a few centuries earlier.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "The tomb groups",
+     "p": "c. 2400–2000 BCE",
+     "t": "Chamber tombs beside the settlement, so that for once the same community's houses and graves can be compared directly.",
+     "w": "Department of Antiquities, Cyprus; Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The final report",
+     "p": "published 2003",
+     "t": "Swiny, George Rapp and Ellen Herscher's volume for CAARI and the American Schools of Oriental Research, with specialist studies of the pottery, chipped and ground stone, metals and terracottas.",
+     "w": "Published, ASOR Archaeological Reports 8"
+    }
+   ]
+  },
+  {
+   "id": "alambra",
+   "finds": [
+    {
+     "n": "The throne finial",
+     "p": "c. 1900–1800 BCE",
+     "t": "A mudbrick element from a room containing a human burial, matching the ornaments on the columned seat modelled in the Vounous Bowl. Published by Andrew Sneddon in 2019, it is the only physical analogue for anything in that famous object.",
+     "w": "In situ, Alambra-Mouttes"
+    },
+    {
+     "n": "Crucible and two-piece mould",
+     "p": "c. 1900–1800 BCE",
+     "t": "A crucible and a double-sided terracotta mould, with ore samples and small quantities of slag, showing that copper was melted and cast inside the village even though nobody smelted here.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Radiocarbon dates",
+     "p": "c. 1900–1800 BCE",
+     "t": "A tight hundred-year window for the occupation, which makes Alambra one of the few Middle Bronze Age villages whose dating does not have to lean on pottery style alone.",
+     "w": "Published, Cornell University excavations"
+    },
+    {
+     "n": "The geophysical survey",
+     "p": "2017",
+     "t": "Magnetic and resistivity survey mapped walls across the unexcavated part of the site and, just as usefully, showed where the local geology defeats the technique.",
+     "w": "Published, Archaeological and Anthropological Sciences"
+    },
+    {
+     "n": "Burial inside the house",
+     "p": "Middle Bronze Age",
+     "t": "Human remains in a room of a domestic building, at a period when the dead were normally taken out to a cemetery. It is the context that gives the finial its meaning.",
+     "w": "In situ, Alambra-Mouttes"
+    }
+   ]
+  },
+  {
+   "id": "lapithos",
+   "finds": [
+    {
+     "n": "The Vrysi tou Barba cemetery",
+     "p": "c. 2300–1650 BCE",
+     "t": "One of the largest Early and Middle Bronze Age cemeteries on the island, whose settlement has never been found. Buxton dug 47 tombs for Oxford in 1913 and Menelaos Markides, the first curator of the Cyprus Museum, another eighteen in 1917.",
+     "w": "In situ, Lapithos; finds in the Cyprus Museum, Nicosia and the Ashmolean Museum, Oxford"
+    },
+    {
+     "n": "The first plank figurines",
+     "p": "found 1913",
+     "t": "The flat clay figures came to light here, cut from slabs up to 35 cm high and incised with faces, headdresses, necklaces, earrings and patterned clothes. Lapithos remains the main centre of the tradition.",
+     "w": "Cyprus Museum, Nicosia; Ashmolean Museum, Oxford; Metropolitan Museum of Art, New York"
+    },
+    {
+     "n": "Gold jewellery and masses of copper",
+     "p": "Early to Middle Bronze Age",
+     "t": "The plank figures were laid in tombs alongside gold ornaments and large quantities of copper, at the moment when Cyprus was becoming the eastern Mediterranean's main source of the metal.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "Webb's re-publication",
+     "p": "2018 onwards",
+     "t": "Jennifer Webb has reconstructed the 1913 and 1917 tomb groups from scattered records and museum stores, with metals analysis by Marcos Martinon-Torres. A hundred-year-old excavation has effectively been dug again on paper.",
+     "w": "Published, Studies in Mediterranean Archaeology 148"
+    }
+   ]
+  },
+  {
+   "id": "mylouthkia",
+   "finds": [
+    {
+     "n": "Well 116",
+     "p": "c. 8500–8200 BCE",
+     "t": "A narrow shaft cut several metres through bedrock and later filled with rubbish: bones of sheep, goat, cattle, pig and deer, chipped stone, and obsidian carried from Anatolia. It shows a settled or nearly settled community farming, herding and fishing at a date when Cyprus was supposed to be empty.",
+     "w": "In situ, backfilled; contents with the Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Human remains in Well 133",
+     "p": "Early Aceramic Neolithic",
+     "t": "Disarticulated bones of several people at the base of a second well, mixed with animal bone. Whether this counts as burial, clearance or something else is still argued over.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    },
+    {
+     "n": "Anatolian obsidian",
+     "p": "Early Aceramic Neolithic",
+     "t": "Blades and flakes of volcanic glass with no Cypriot source, nearly all of them from Well 116. Small in quantity but decisive: the settlers kept in touch with the mainland they came from.",
+     "w": "Department of Antiquities, Cyprus"
+    },
+    {
+     "n": "Copper hook",
+     "p": "Middle Chalcolithic, c. 3500 BCE",
+     "t": "A small hooked strip of copper, sometimes cited as the earliest metal object excavated on Cyprus. The claim competes with the hook and chisel from Erimi-Pamboula and depends on how loosely both contexts are dated.",
+     "w": "Cyprus Museum, Nicosia"
+    },
+    {
+     "n": "The parallel ditches",
+     "p": "Early to Middle Chalcolithic",
+     "t": "Two long ditches running side by side across the site, cut in the Chalcolithic. They have been read as an enclosure or even a defence, which would be unique for the period, and as drainage or quarrying, which would not.",
+     "w": "In situ, Kissonerga-Mylouthkia"
+    },
+    {
+     "n": "The full domestic package",
+     "p": "9th to 7th millennium BCE",
+     "t": "Sheep, goat, cattle, pig, dog, wheat, barley and lentils, all of them non-native, all of them present from the start. Cyprus has no wild ancestors for any of them, so every one arrived on a boat.",
+     "w": "Department of Antiquities, Cyprus (study collection)"
+    }
+   ],
+   "sources": [
+    "https://archaeologydataservice.ac.uk/archives/view/mylouthkia_ba_2009/overview.cfm",
+    "https://www.ancientcyprus.com/sites/kissonerga",
+    "https://ajaonline.org/book-review/459/"
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "chalco",
+   "events": [
+    [
+     -3600,
+     "Villagers at Kissonerga-Mylouthkia cut two long parallel ditches across their site, the earliest enclosure works known on the island"
+    ],
+    [
+     -3200,
+     "The dead at Souskiou are moved out of the village into deep rock-cut shafts, the first extramural cemeteries on Cyprus"
+    ],
+    [
+     -3100,
+     "Picrolite from the Kouris and Dhiarizos beds becomes the island's first widely traded material, worked into pendants at Souskiou-Laona"
+    ],
+    [
+     -2800,
+     "A copper axe of foreign form is packed into a storage jar at Chlorakas-Palloures with a stone axe, four pig-tusk fish hooks and a copper spiral"
+    ],
+    [
+     -2600,
+     "Ore and two possible crucibles appear in the last houses at Kissonerga; whether anyone on Chalcolithic Cyprus actually smelted is still disputed"
+    ],
+    [
+     -2500,
+     "Lemba, Kissonerga and Souskiou are all given up within a few generations, with no destruction to explain it"
+    ]
+   ]
+  },
+  {
+   "id": "eba",
+   "events": [
+    [
+     -2450,
+     "Tombs at Vasilia on the north coast receive a spearhead and a sword of central Taurus copper, imported ready-made"
+    ],
+    [
+     -2350,
+     "The plough, the mould-made mudbrick, the rectangular house and new ways of cooking and spinning arrive together, which is why many argue for migrants rather than fashions"
+    ],
+    [
+     -2100,
+     "The cemetery on the Kafkalla plateau at Deneia begins to fill; over 1,200 of its tombs will eventually be robbed"
+    ],
+    [
+     -2050,
+     "Politiko-Troullia is founded beside the pillow lavas, its households smelting their own copper and carving the largest stone plank figure known"
+    ],
+    [
+     -2000,
+     "At Pyrgos-Mavroraki one complex smelts copper, presses olive oil, weaves cloth and blends perfumed oil, burning the oil as furnace fuel"
+    ],
+    [
+     -1950,
+     "Miners at Ambelikou-Aletri sink shafts beside the Skouriotissa orebody, the earliest copper mining yet proved on Cyprus"
+    ]
+   ]
+  },
+  {
+   "id": "lba",
+   "events": [
+    [
+     -1875,
+     "An earthquake flattens the workshops at Pyrgos-Mavroraki and preserves the perfumers' equipment where it stood"
+    ],
+    [
+     -1800,
+     "White Painted juglets in the pendent line and cross line styles reach over thirty sites in the Levant and Tell el-Dab'a in Egypt, the first Cypriot pottery exported in quantity"
+    ],
+    [
+     -1750,
+     "Fort building begins in earnest: a ditched double wall at Barsak above the Yialias, cyclopean walls at Nitovikla, and watchposts at either end of the Agirda pass"
+    ],
+    [
+     -1700,
+     "The hilltop workshop at Erimi-Laonin tou Porakou dyes cloth around a central court and casts axe-shaped copper ingots in terracotta moulds"
+    ]
+   ]
+  }
+ ],
+ "rulers": [],
+ "notes_for_owner": [
+  "COORDINATES, please read. Only three of the fourteen new sites have a coordinate taken from a gazetteer entry for the archaeological site itself: Nitovikla (OpenStreetMap 'Nitovikla Castle', ruins node; note Wikipedia gives 35.4942/34.2831, about a kilometre north-west, so the two sources disagree), Toumba tou Skourou (OpenStreetMap archaeological_site node) and Deneia. For the rest, the named site localities (Mylouthkia, Palloures, Skalia, Troullia, Aletri, Kafkallia, Trelloukkas, Mavroraki, Laroumena, Phaneromeni, Barsak/Nikolidhes) are not in any gazetteer I could reach. Their coordinates are derived from the Wikipedia coordinate for the parent village, shifted where a published source states the offset. The two I am most confident of are Episkopi-Phaneromeni (a source states the site is 0.8 km east of Episkopi, and I applied that) and Kalavasos-Laroumena (0.25 km north-west of Kalavasos, applied). The others should be treated as accurate to roughly a kilometre. Nominatim and Photon both refused or returned nothing for the site names; if you want site-level precision the Cyprus Department of Antiquities site register or the excavation reports will have grid references.",
+  "The three Kissonerga entries (existing Mosphilia, plus new Mylouthkia and Skalia) sit within about 700 m of each other and will overlap on the globe. Consider whether you want all three as separate pins or Mylouthkia and Skalia folded into the Mosphilia entry.",
+  "Chalcolithic metallurgy: I have deliberately hedged every 'first copper' claim. The 2018 Antiquity reappraisal (Klimscha and colleagues, cited in the existing chalco sources) argues there is no convincing evidence for transformative copper technology, meaning smelting, anywhere in the Chalcolithic. The Kissonerga crucibles are 'possible', the Mylouthkia copper hook competes with the Erimi hook and chisel for the title of earliest metal object, and the Palloures axe was probably imported rather than made on the island. Your existing chalco event at -3500 ('First copper objects, hammered rather than cast') is consistent with this and I have not contradicted it.",
+  "Pyrgos-Mavroraki: 'the oldest perfume production site in the world' is the excavator Maria Rosaria Belgiorno's own phrasing and is repeated uncritically in press coverage. The installation and the plant residues are solid; the superlative and the identification of the alembic as distillation apparatus are hers and are not universally accepted. I have said so in the find texts.",
+  "Kissonerga-Skalia's 'brewery' is an inference from the shape of a domed mud-plaster structure plus a successful experimental replica, not from residue analysis that I could confirm. Worth keeping the hedge.",
+  "The Philia migration question is genuinely open. Frankel and Webb argue from embodied practices (pottery making, cooking, textiles, childcare) for real Anatolian migrants; others read the same material as Cypriots copying Anatolian prototypes. The genetic support I found is modern Y-chromosome work on Greek Cypriots (J2a-M67 and J2a-Z489 distributions), which is suggestive but is not ancient DNA. I have not claimed ancient DNA evidence anywhere, because I found none for the Philia phase.",
+  "Toumba tou Skourou: the site has been inaccessible since 1974 and the finds' current locations are uncertain. Material excavated 1971 to 1973 went to the Cyprus Museum under the usual arrangement, and Harvard and the MFA Boston held study material, but I could not verify object-by-object whereabouts. I have written 'Cyprus Museum, Nicosia' where that is the likeliest home and flagged it here.",
+  "DROPPED as too thin to verify: Kalopsida. It is genuinely important as an eastern Middle Cypriot type-site (Myres's 32 tombs in Sites A to E, Gjerstad in 1923, Paul Astrom's 1959 trenches published as SIMA 2 in 1966) but I could not confirm from accessible sources what the excavated buildings actually were, and I was not willing to invent a 'Site A building'. It needs half an hour with Astrom 1966. Also dropped: Dhikomo-Onisia, for which I could find no substantive description or verifiable coordinate at all; and Sanidha-Moutti tou Ayiou Serkou, which is a Late Cypriot White Slip pottery workshop of roughly 1450 to 1200 BCE and so belongs to whoever is covering the Late Bronze Age, not to this brief.",
+  "Nikolidhes is not a separate entry: it is one of the three forts on the Ayios Sozomenos plateau and is covered inside that entry, along with Barsak, Kafkallia, Glyka Vrysis and the valley settlement at Dzirpoulos.",
+  "I added extra_finds for `lapithos` although you did not ask for it, because Lapithos-Vrysi tou Barba is where plank figurines were first found and your existing entry (ranges start -2400) covers the Bronze Age cemetery without mentioning it. Drop the block if you would rather keep that entry focused on the city-kingdom.",
+  "The Lemba extra_finds are the weakest set in this file. My web search budget ran out before I could verify Lemba-specific details, so the infant jar burial find is written from the general Erimi-culture pattern rather than from a Lemba-specific citation, and the ground stone find rests on Carole Elliott's Lemba-region corpus as cited in the Leiden Palloures paper (62 axes and adzes). Both are true as written but check them before publishing.",
+  "The `lba` era_events block is a bonus you did not ask for. It covers only the Middle Bronze Age part of that era (before 1650 BCE), which is where my brief ended. Discard it if whoever covers the Late Bronze Age proposes overlapping events.",
+  "The Vounous Bowl's tomb number: I have seen Tomb 22 cited but could not confirm it from a source I trust, so I have not put a tomb number in any find text. Worth checking Dikaios's 1940 report if you want it.",
+  "No rulers apply to this period. Cyprus has no named ruler before the kings of Alashiya appear in Near Eastern texts, and the earliest of those (the Mari references to Alashiya copper around 1800 BCE) name no individual.",
+  "RECONCILED: this file also proposed mylouthkia. The prehistory file supplies the settlement record; this file now contributes its finds as extra_finds."
+ ]
+}

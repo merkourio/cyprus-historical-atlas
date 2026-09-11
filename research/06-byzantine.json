@@ -1,0 +1,1560 @@
+{
+ "new_settlements": [
+  {
+   "id": "angeloktisti",
+   "name": "Panagia Angeloktisti",
+   "modern": "Kiti, Larnaca district",
+   "lon": 33.571,
+   "lat": 34.848,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     450,
+     2026
+    ]
+   ],
+   "desc": "A domed church of the eleventh or twelfth century built over a fifth-century basilica whose apse was deliberately kept, because of what it held: a mosaic of the Virgin between two archangels, one of the finest pieces of early Byzantine wall mosaic anywhere. The name means 'built by angels'. A small dig under the floor in 1959 found graves cut into the older foundations and traces of two earlier building phases, a columned basilica and then a pier basilica. Whether the old apse was reused to save labour or out of reverence for the mosaic is still argued.",
+   "finds": [
+    {
+     "n": "The apse mosaic of the Virgin",
+     "p": "Late 6th century CE",
+     "t": "The Virgin stands on a footstool with the Christ Child on her left arm, flanked by Michael and Gabriel whose wings are worked in peacock feathers, all against a gold ground. The angels hold a sceptre and offer a globe surmounted by a cross. Scholars compare the modelling of the faces to San Vitale at Ravenna and the type to the apse of Saint Catherine's in Sinai.",
+     "w": "In situ, Kiti"
+    },
+    {
+     "n": "The inscription HAGIA MARIA",
+     "p": "Late 6th century CE",
+     "t": "The mosaic labels the Virgin 'Holy Mary' rather than Theotokos, Mother of God. The usage spread after the Council of Ephesus of 431 confirmed her title, and it is one small clue to how Cypriot churchmen read that council.",
+     "w": "In situ, Kiti"
+    },
+    {
+     "n": "The Fountain of Life border",
+     "p": "Late 6th century CE",
+     "t": "A jewelled frame in which pairs of ducks, beribboned parrots and stags drink from fountains. The parrot was a Persian sign of earthly power and the stag a reference to Psalm 42; the same imagery turns up on Bishop Agnellus's ambo at Ravenna and in churches in Macedonia and Dalmatia.",
+     "w": "In situ, Kiti"
+    },
+    {
+     "n": "Apse of the early basilica",
+     "p": "5th century CE, rebuilt in the 6th or 7th",
+     "t": "The timber-roofed basilica burned or collapsed in the seventh or eighth century, in the years of the Arab raids, but its apse was left standing and built into the small domed church that replaced it. The same trick was used at Panagia tis Kyras at Livadia.",
+     "w": "In situ, Kiti"
+    },
+    {
+     "n": "Graves under the floor",
+     "p": "5th to 7th century CE",
+     "t": "Burials cut into the basilica's foundations, found in the 1959 excavation, showing the early church had also been a burial ground before the domed church went up.",
+     "w": "In situ, Kiti"
+    },
+    {
+     "n": "The Latin chapel on the south side",
+     "p": "Usually dated to the 14th or 15th century",
+     "t": "A small vaulted chapel, often called the chapel of Saints Cosmas and Damian, added against the south wall in the Frankish period; it carries armorial carving and is the clearest sign that Kiti kept a Latin as well as an Orthodox congregation.",
+     "w": "In situ, Kiti"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Panagia_tis_Angeloktistis",
+    "https://www.churchofcyprus.org.cy/",
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/"
+   ]
+  },
+  {
+   "id": "kanakaria",
+   "name": "Panagia Kanakaria",
+   "modern": "Lythrangomi (Boltaşlı), Karpas peninsula",
+   "lon": 34.167,
+   "lat": 35.477,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     450,
+     2026
+    ]
+   ],
+   "desc": "A church of many periods beside the Famagusta road, whose central apse belonged to a fifth-century basilica and whose vaults and dome were raised over the old plan, probably in the eleventh century. Its sixth-century apse mosaic was one of only a handful of Byzantine wall mosaics anywhere to survive Iconoclasm. The priests left in 1976; by November 1979 word reached the Department of Antiquities that the church had been stripped and was being used to stable animals, and that the mosaic had been cut out of the wall with axes. Recovering four of the fragments through the American courts produced the leading modern judgment on buying looted antiquities.",
+   "finds": [
+    {
+     "n": "The apse mosaic of the Virgin enthroned",
+     "p": "6th century CE",
+     "t": "The Virgin sat on a throne with the Christ Child on her lap, two archangels attending, and the twelve apostles in medallions ringed with acanthus around the arch. The handling is looser and more impressionistic than the mosaic at Kiti; the date is still argued, but most put it in the sixth century alongside the work at Ravenna.",
+     "w": "Byzantine Museum, Nicosia (recovered fragments); much of it still missing"
+    },
+    {
+     "n": "The four Goldberg fragments",
+     "p": "6th century CE, looted after 1976",
+     "t": "Four pieces about two feet square showing Christ, the bust of an attending archangel, the apostle Matthew and the apostle James. The Indiana dealer Peg Goldberg bought them for 1,080,000 dollars in cash in the free port area of Geneva airport on 7 July 1988, from the Munich-based dealer Aydin Dikmen through a chain of intermediaries who had contracted to buy them for 350,000.",
+     "w": "Byzantine Museum, Nicosia"
+    },
+    {
+     "n": "Autocephalous Church of Cyprus v. Goldberg",
+     "p": "1989 and 1990",
+     "t": "Judge Noland of the Southern District of Indiana awarded the mosaics to the Church of Cyprus in 1989, and the Seventh Circuit affirmed on 24 October 1990, holding that a buyer who asked so few questions in such suspicious circumstances could not take good title. The opinion's advice to dealers, to run a full background check on the seller and his claim, is now the standard citation for due diligence in the antiquities trade.",
+     "w": "Reported at 717 F.Supp. 1374 and 917 F.2d 278"
+    },
+    {
+     "n": "The apostle Andrew medallion",
+     "p": "6th century CE, returned 2018",
+     "t": "One more roundel from the frieze of apostles was traced and handed back in 2018 through private intermediaries. Several other pieces of the mosaic have never been found.",
+     "w": "Byzantine Museum, Nicosia"
+    },
+    {
+     "n": "The eleventh-century vaults and dome",
+     "p": "11th century, narthex 12th century",
+     "t": "The wooden-roofed basilica was rebuilt as a three-aisled church with apsidal east ends, vaults and a dome, keeping the old apse. The narthex on the west followed in the twelfth century and the little bell tower in the late nineteenth.",
+     "w": "In situ, Lythrangomi"
+    },
+    {
+     "n": "Annunciation on the transverse arch",
+     "p": "c. 1500",
+     "t": "The best-preserved of the church's many layers of painting, with clear Italian influence. The Stylianous, who catalogued the island's painted churches, wrote off the rest as of interest only to specialists because of their condition.",
+     "w": "In situ, Lythrangomi"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lythrangomi",
+    "https://openjurist.org/917/f2d/278/autocephalous-greek-orthodox-church-of-cyprus-v-goldberg-and-feldman-fine-arts-inc",
+    "https://en.wikipedia.org/wiki/Church_of_Cyprus",
+    "https://makariosfoundation.org.cy/"
+   ]
+  },
+  {
+   "id": "ayios_varnavas",
+   "name": "Monastery of Ayios Varnavas",
+   "modern": "Near Enkomi (Tuzla), 2 km west of Salamis",
+   "lon": 33.88,
+   "lat": 35.175,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     477,
+     2026
+    ]
+   ],
+   "desc": "The shrine that made the Church of Cyprus independent. In about 477 Archbishop Anthemios announced that a vision had led him to the tomb of Barnabas, the apostle who was a Cypriot and who had preached on the island with Paul, with a copy of Matthew's gospel lying on his chest. The find let the archbishop appeal over the head of the patriarch of Antioch directly to the emperor. Zeno paid for a basilica on the spot and confirmed the Cypriot bishops' right to consecrate their own. The church standing today was built around 900 over the east end of the old one.",
+   "finds": [
+    {
+     "n": "Tomb of Barnabas",
+     "p": "Discovered c. 477 to 478",
+     "t": "A rock-cut tomb reached by a stair under a small domed mausoleum a few hundred metres east of the monastery. The sixth-century Laudatio Barnabae describes the new tomb as faced with silver and marble.",
+     "w": "In situ, east of the monastery"
+    },
+    {
+     "n": "Zeno's pilgrim basilica",
+     "p": "Late 5th century CE",
+     "t": "A timber-roofed church with stoas, gardens, aqueducts and hostels, paid for by the emperor and by local notables and built to catch pilgrims breaking their journey to Jerusalem. A monastic community lived beside it from the start.",
+     "w": "Foundations in situ, built into the later church"
+    },
+    {
+     "n": "The three privileges",
+     "p": "Granted c. 478 to 488",
+     "t": "In return for the discovery Zeno confirmed the church's autocephaly and gave its archbishop an imperial sceptre in place of a crosier, a Tyrian purple mantle under his vestments, and the right to sign in ink reddened with cinnabar. All three are still in use.",
+     "w": "Practice of the Church of Cyprus"
+    },
+    {
+     "n": "Inscription of Archbishop Philoxenos",
+     "p": "Reign of Justinian I, 527 to 565",
+     "t": "A short text recording two buildings that Anthemios's successor added to the complex, one of the few dated inscriptions from the site.",
+     "w": "In situ"
+    },
+    {
+     "n": "The church of about 900",
+     "p": "c. 900, remodelled 1756",
+     "t": "A vaulted cross-in-square church with three aisles and two flat domes on tall drums, raised after the basilica was wrecked in the late seventh-century raids. It may have housed the archbishops for a while after Constantia was given up. Archbishop Philotheos gave the buildings their present shape in 1756.",
+     "w": "In situ"
+    },
+    {
+     "n": "Barsky's drawing",
+     "p": "1735",
+     "t": "The Russian pilgrim Vasil Grigorovich-Barsky sketched the cloisters, courtyards and outbuildings, the earliest reliable picture of the monastery.",
+     "w": "In Barsky's published travels"
+    },
+    {
+     "n": "Icon and archaeological museums",
+     "p": "Since 1974",
+     "t": "The church is now a museum of icons and the old cells hold antiquities from the Neolithic onwards. The last three monks, who lived by selling honey and painting icons, left in 1974.",
+     "w": "Ayios Varnavas monastery, near Salamis"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Monastery_of_Saint_Barnabas",
+    "https://en.wikipedia.org/wiki/Anthemius_of_Cyprus",
+    "https://en.wikipedia.org/wiki/Church_of_Cyprus"
+   ]
+  },
+  {
+   "id": "asinou",
+   "name": "Panagia Phorbiotissa (Asinou)",
+   "modern": "Nikitari, Nicosia district",
+   "lon": 32.973,
+   "lat": 35.046,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1099,
+     2026
+    ]
+   ],
+   "desc": "A single-aisled barrel-vaulted church five kilometres south of Nikitari, all that survives of the monastery of Phorbia founded in 1099 and abandoned in the eighteenth century. A dedicatory inscription dates the paintings to 1105/06 and names the donor, a court official, in the reign of Alexios I Komnenos. This is the earliest and the finest Komnenian fresco cycle on the island, and the church UNESCO put first when it listed the ten painted churches of the Troodos in 1985.",
+   "finds": [
+    {
+     "n": "The dedicatory inscription of 1105/06",
+     "p": "1105 or 1106",
+     "t": "A panel on the south wall records that the church of the Holy Mother of God was painted at the urgent request and expense of a court official in the reign of the emperor Alexios Komnenos. The official's name is read as Nikephoros in most of the English literature and as Nikolaos in some Greek accounts, and the surname Ischyrios is not universally accepted.",
+     "w": "In situ, Asinou"
+    },
+    {
+     "n": "Communion of the Apostles",
+     "p": "1105/06",
+     "t": "In the eastern apse Christ hands John a gold vessel of wine while Judas turns his head away to go and betray him, a piece of narrative timing rare in Byzantine apses.",
+     "w": "In situ, Asinou"
+    },
+    {
+     "n": "The Forty Martyrs of Sebasteia",
+     "p": "1105/06",
+     "t": "Forty soldiers freezing to death on a lake, painted at the western end of the north wall, one of the most complete Komnenian versions of the subject anywhere.",
+     "w": "In situ, Asinou"
+    },
+    {
+     "n": "Last Judgement in the narthex",
+     "p": "Late 12th century, with 14th-century repainting",
+     "t": "The vaulted narthex, added at the end of the twelfth century with apses north and south, is painted with the punishments of the damned, labelled with the wailing and gnashing of teeth. Beside it Saint Anastasia the Poison-Curer holds her phial of medicine.",
+     "w": "In situ, Asinou"
+    },
+    {
+     "n": "The donor's portrait",
+     "p": "1105/06",
+     "t": "The founder kneels in the Byzantine court dress of his day, offering a model of the church, one of the earliest such portraits on Cyprus and a rare picture of provincial officialdom.",
+     "w": "In situ, Asinou"
+    },
+    {
+     "n": "The pitched roof",
+     "p": "Rebuilt 1959",
+     "t": "Like the other Troodos churches, Asinou shelters under a steep timber roof that hides the vault and throws off snow. The present one dates from 1959 but the arrangement is original.",
+     "w": "In situ, Asinou"
+    }
+   ],
+   "sources": [
+    "https://el.wikipedia.org/wiki/%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%91%CF%83%CE%AF%CE%BD%CE%BF%CF%85",
+    "https://whc.unesco.org/en/list/351/",
+    "https://en.wikipedia.org/wiki/Painted_Churches_in_the_Troodos_Region"
+   ]
+  },
+  {
+   "id": "ayios_nikolaos_stegis",
+   "name": "Ayios Nikolaos tis Steyis",
+   "modern": "Kakopetria, Solea valley",
+   "lon": 32.89,
+   "lat": 34.977,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     1050,
+     2026
+    ]
+   ],
+   "desc": "The only Middle Byzantine monastery church still standing in Cyprus, a domed cross-in-square building of the eleventh century a few kilometres south of Kakopetria. Its name, Saint Nicholas of the Roof, comes from the second steep-pitched timber roof thrown over dome and narthex alike against the Troodos snow, which hides an entirely conventional Byzantine church underneath. Six hundred years of wall painting survive inside. No surviving text mentions the place before the thirteenth century.",
+   "finds": [
+    {
+     "n": "The eleventh-century painting layer",
+     "p": "11th century",
+     "t": "Scenes from the life of Christ including the Raising of Lazarus and the Dormition of the Virgin, with the deep-set staring eyes that fresco painters of the day took from the manuscript illuminators of the Macedonian revival. Megaw called it a reflection, if a remote one, of Constantinople.",
+     "w": "In situ, Kakopetria"
+    },
+    {
+     "n": "The double roof and the narthex",
+     "p": "Early 12th century",
+     "t": "The narthex, vaulted with a calotte and two transverse arches, was added at the start of the twelfth century and the great pitched roof thrown over the whole. Megaw argued the steep roof was the local building tradition of these valleys reasserting itself over the imported dome.",
+     "w": "In situ, Kakopetria"
+    },
+    {
+     "n": "Church Fathers with Saint Epiphanios",
+     "p": "12th century",
+     "t": "The apse wall carries the usual row of Fathers, including Epiphanios of Salamis, who turns up constantly in Cypriot apses because the island claimed him. The Komnenian style here points to painters trained abroad, some perhaps in Constantinople.",
+     "w": "In situ, Kakopetria"
+    },
+    {
+     "n": "Christ Pantokrator in the dome",
+     "p": "Mid-14th century",
+     "t": "Christ in the crown of the dome with prophets on the drum and the four evangelists in the pendentives, the most visible of the church's later campaigns.",
+     "w": "In situ, Kakopetria"
+    },
+    {
+     "n": "Saint Theodore and Saint George",
+     "p": "Mid-14th century",
+     "t": "Two life-size warrior saints on the north-west pier, part of a group of standing figures in the nave and narthex of the same date.",
+     "w": "In situ, Kakopetria"
+    },
+    {
+     "n": "Crucifixion and Resurrection",
+     "p": "Late 13th to early 14th century",
+     "t": "A pair of large narrative panels added while the island was under Frankish rule, when the church had come down from monastery to village church and pilgrimage stop.",
+     "w": "In situ, Kakopetria"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Church_of_St._Nicholas_of_the_Roof",
+    "https://whc.unesco.org/en/list/351/"
+   ]
+  },
+  {
+   "id": "araka",
+   "name": "Panagia tou Araka",
+   "modern": "Lagoudera, Troodos",
+   "lon": 33.007,
+   "lat": 34.966,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1150,
+     2026
+    ]
+   ],
+   "desc": "A small church on the north-east slopes of Madari, named after the vetch that grows around it, holding the most complete late Komnenian painted programme in Cyprus. An inscription on the north lintel says the paintings were finished in December 1192 by a monk called Theodore Apseudis, trained in Constantinople, the same painter who had decorated the hermitage of Neophytos above Paphos nine years earlier. The patron names himself Leon, son of Authentes, a Byzantine aristocrat who had taken refuge nearby. It is the last great work of Byzantine Cyprus, finished a year after the island changed hands.",
+   "finds": [
+    {
+     "n": "The inscription of December 1192",
+     "p": "December 1192",
+     "t": "On the inner face of the north lintel, naming the month, the year and the painter, one of the very few signed and dated Byzantine fresco cycles anywhere.",
+     "w": "In situ, Lagoudera"
+    },
+    {
+     "n": "The Virgin of the Passion",
+     "p": "1192",
+     "t": "On the south-eastern wall, the earliest known version of the subject: the Virgin stands full length before her throne holding the Child while two angels, painted as large as he is, carry the spear and the cross of his coming death. The scale given to the angels turns the image into an offering of the child to his fate.",
+     "w": "In situ, Lagoudera"
+    },
+    {
+     "n": "Leon's verse prayer",
+     "p": "1192",
+     "t": "A long inscription beside the Virgin in which the donor calls himself her poor and worthless servant, names his father Authentes, and asks with countless tears for a happy end to his life and his wife's. It is the fullest surviving voice of a Cypriot patron of the period.",
+     "w": "In situ, Lagoudera"
+    },
+    {
+     "n": "Saint Simeon with the Christ Child",
+     "p": "1192",
+     "t": "Facing the Virgin of the Passion, the aged Simeon holds the child with John the Baptist beside him carrying a scroll that reads 'Behold the Lamb of God'. Together the two walls stage the Presentation in the Temple across the width of the church.",
+     "w": "In situ, Lagoudera"
+    },
+    {
+     "n": "The deacon Leontios's repairs",
+     "p": "14th century",
+     "t": "Water damage forced a restoration in the fourteenth century, signed by a deacon called Leontios; the Winfields could tell his brushwork and palette from Apseudis's.",
+     "w": "In situ, Lagoudera"
+    },
+    {
+     "n": "The Winfield conservation archive",
+     "p": "1968 to 1973",
+     "t": "Dumbarton Oaks paid for David and June Winfield to clean and record the entire cycle over five seasons. Their reports identify ultramarine, vermilion, gold leaf and silver, some of the pigments sourced locally in the valley, and their 2003 book remains the standard study.",
+     "w": "Dumbarton Oaks, Washington; the paintings in situ"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Panagia_tou_Araka",
+    "https://whc.unesco.org/en/list/351/"
+   ]
+  },
+  {
+   "id": "lampadistis",
+   "name": "Ayios Ioannis Lampadistis monastery",
+   "modern": "Kalopanayiotis, Marathasa valley",
+   "lon": 32.83,
+   "lat": 34.992,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1050,
+     2026
+    ]
+   ],
+   "desc": "A monastery on the bank of the Setrachos, three churches and a narthex huddled under one great tiled roof. The oldest part is the katholikon of Ayios Herakleidios, an eleventh-century four-columned cross-in-square church dedicated to the first bishop of Tamassos, whom tradition has Paul and Barnabas ordaining on this river in 45 CE. Beside it stands the chapel of the local saint John Lampadistis, and beyond that a chapel painted around 1500 in a frankly Italian manner. The monastery is no longer active but stays open, and it is one of the ten UNESCO painted churches.",
+   "finds": [
+    {
+     "n": "Katholikon of Ayios Herakleidios",
+     "p": "11th century; paintings 13th to 14th century",
+     "t": "The oldest building on the site, with a thirteenth-century Pantokrator in the dome flanked by prophets and evangelists, and beside it the Sacrifice of Abraham, the Crucifixion, the Ascension and a Deesis.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "Roman soldiers as Frankish knights",
+     "p": "14th century",
+     "t": "In the Way to the Cross the soldiers leading Christ are painted as Western knights in the armour of the day, one of the sharpest images of Frankish rule made by an Orthodox painter. Nearby in the apse are Barlaam, the ancient Greek sages and the Virgin Blachernitissa.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "Chapel of Ayios Ioannis Lampadistis",
+     "p": "12th century, rebuilt early 18th",
+     "t": "The chapel on the north side, added for the local saint's cult and largely rebuilt in the early eighteenth century, which is why only two thin layers of older painting survive.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "The Latin Chapel and its Akathist cycle",
+     "p": "c. 1500",
+     "t": "A chapel painted around 1500 with the hymns of the Akathist. In the scene of the Magi leaving the East an angel points out the star, and two bold figures in Phrygian caps walk in opposite directions to balance the composition. It is a masterpiece of post-Byzantine painting worked with Italian modelling and perspective.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "Narthex paintings",
+     "p": "15th century",
+     "t": "The Second Coming, Christ and the Samaritan woman and the miraculous draught of fishes, painted across the shared narthex that ties the three churches together.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "Reliquary of the saint's skull",
+     "p": "Silver-gilt, given by Archbishop Nikephoros",
+     "t": "A silver-gilt casket holding the head of John Lampadistis, kept between the two chapels; it was the gift of Archbishop Nikephoros and is still the focus of the local feast.",
+     "w": "In situ, Kalopanayiotis"
+    },
+    {
+     "n": "The iconostases and their old icons",
+     "p": "13th to 19th century",
+     "t": "The katholikon's screen is of the fourteenth or fifteenth century and was altered in the sixteenth; the Lampadistis chapel's is seventeenth or eighteenth century with nineteenth-century sanctuary doors. Icons as old as the thirteenth century are set into both.",
+     "w": "In situ, Kalopanayiotis; further icons in the monastery collection"
+    }
+   ],
+   "sources": [
+    "https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%BD%CE%AE_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%99%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85_%CF%84%CE%BF%CF%85_%CE%9B%CE%B1%CE%BC%CF%80%CE%B1%CE%B4%CE%B9%CF%83%CF%84%CE%BF%CF%8D",
+    "https://whc.unesco.org/en/list/351/"
+   ]
+  },
+  {
+   "id": "antiphonitis",
+   "name": "Christ Antiphonitis",
+   "modern": "Above Kalograia, Kyrenia range",
+   "lon": 33.619,
+   "lat": 35.327,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1100,
+     2026
+    ]
+   ],
+   "desc": "A twelfth-century church at the head of a wooded valley on the north slope of the Kyrenia range, built over a natural spring. Its wide dome rests on eight pillars, the only complete church of that type left in Cyprus. The name means Christ who answers, and probably comes from a miracle-working icon of which no account survives. Its wall paintings were hacked off after 1975 and sold on the international market; some icons have since been recovered through the courts, but the Tree of Jesse is gone.",
+   "finds": [
+    {
+     "n": "The dome on eight pillars",
+     "p": "12th century",
+     "t": "A single space covered by a spacious dome carried on eight pillars, a plan otherwise known only from a ruin inside St Hilarion Castle and from the church of St John Chrysostom at Koutsovendis before it was rebuilt. The dome is slightly out of true, perhaps damage from the earthquake of 1222.",
+     "w": "In situ, near Kalograia"
+    },
+    {
+     "n": "Late Komnenian paintings",
+     "p": "End of the 12th century",
+     "t": "The oldest layer, taken as a local reading of the late Komnenian manner of Lagoudera, included the Virgin and prelates in the apse, deacons, martyrs and stylites, and a Baptism on a nave pillar. The heads of the twelfth-century angels in the apse were damaged and partly cut away by the thieves.",
+     "w": "In situ, near Kalograia"
+    },
+    {
+     "n": "The Last Judgement",
+     "p": "1400s",
+     "t": "An elaborate Judgement covered the north wall in a post-Byzantine local revival style. It is now badly damaged; the Tree of Jesse that faced it on the south wall was removed entirely and has not been recovered.",
+     "w": "Partly in situ; the rest missing"
+    },
+    {
+     "n": "Icons from the iconostasis",
+     "p": "Screen doors dated 1650; icons 17th century",
+     "t": "Rupert Gunnis saw the screen painted blue and gold in the 1930s, with most of its icons of the seventeenth century and an Archangel Michael dated 1659. It was taken after 1975; four panels were traced to a private collector in the Netherlands and repatriated in September 2013, and a fifteenth-century Virgin from the church was found in Athens and returned on 14 September 1998.",
+     "w": "Byzantine Museum, Nicosia"
+    },
+    {
+     "n": "Pilgrims' graffiti",
+     "p": "1803 to 1958",
+     "t": "Names and dates scratched into the lower paintings by ordinary Cypriots who came up the valley, mostly in Greek and a few in the Ottoman Turkish alphabet. They are among the few documents of popular devotion at the site.",
+     "w": "In situ, near Kalograia"
+    },
+    {
+     "n": "Narthex and south arcade",
+     "p": "Probably 15th century",
+     "t": "Added while the church was under Latin control, and painted with a notably large Saint George now faded by sunlight. Stefano Lusignan wrote in 1580 that Antifoniti had been his family's fief, that his maternal grandmother founded the monastery, and that his brother died there as a monk.",
+     "w": "In situ, near Kalograia"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Antiphonitis",
+    "https://www.tcchcyprus.com/projects/"
+   ]
+  },
+  {
+   "id": "absinthiotissa",
+   "name": "Panagia Apsinthiotissa",
+   "modern": "Below Sychari and Vouno (Taşkent), Kyrenia range",
+   "lon": 33.388,
+   "lat": 35.283,
+   "lab": "l",
+   "type": "site",
+   "ranges": [
+    [
+     1050,
+     2026
+    ]
+   ],
+   "desc": "A ruined monastery at the southern foot of the Pentadaktylos, probably an imperial foundation of the eleventh or twelfth century. Its name comes from the wormwood on the hillside, and a local story says a monk hid an icon of the Virgin in a cave behind a wormwood bush during Iconoclasm; centuries later a strange light on the mountain led the villagers to it. Western documents call it the abbey of Abscithi or Apinthi. It was already a ruin when George Jeffery described it in 1918.",
+   "finds": [
+    {
+     "n": "The katholikon",
+     "p": "12th century",
+     "t": "A cross-in-square church of the standard Byzantine type under a high dome, standing roofless for most of the last century.",
+     "w": "In situ, below Sychari"
+    },
+    {
+     "n": "The Gothic narthex",
+     "p": "Probably 15th century",
+     "t": "A narthex on the west with plain rib vaulting, the clearest sign that the house had passed under the Roman church. Boustronios notes that the Queen of Cyprus worshipped here in 1486, and that on 15 August the whole population of Kyrenia went on pilgrimage to Apinthi and to Antiphonitis.",
+     "w": "In situ, below Sychari"
+    },
+    {
+     "n": "The refectory",
+     "p": "Byzantine and later",
+     "t": "The monks' dining hall, recorded in three dimensions by the EpHEMERA project, is among the better-preserved parts of the complex.",
+     "w": "In situ, below Sychari"
+    },
+    {
+     "n": "Abbot Leontios's embassy",
+     "p": "c. 1222",
+     "t": "Leontios, abbot here, was one of the delegates sent to Patriarch Germanos II in the Empire of Nicaea to report what Latin jurisdiction was doing to the Orthodox church. The archbishop of Cyprus, Neophytos, was in Nicaea at the same time, banished for refusing an oath of obedience to the pope.",
+     "w": "Recorded in the correspondence of the Patriarchate of Nicaea"
+    },
+    {
+     "n": "Transfer to the Patriarch of Jerusalem",
+     "p": "After 1571",
+     "t": "Under Ottoman rule the monastery became the property of the Orthodox Patriarch of Jerusalem and a dependency of St John Chrysostom at Koutsovendis, a few kilometres to the east.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The bi-communal survey",
+     "p": "Since 2003",
+     "t": "After the crossings opened, Greek and Turkish Cypriot architects working through their two professional chambers listed and documented the abandoned religious buildings of the island. Apsinthiotissa was among the first they recorded.",
+     "w": "Records of the technical committee on cultural heritage"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Panagia_Apsinthiotissa",
+    "https://www.tcchcyprus.com/projects/"
+   ]
+  },
+  {
+   "id": "ayios_neophytos",
+   "name": "Ayios Neophytos monastery and the Enkleistra",
+   "modern": "Tala, 15 km north of Paphos",
+   "lon": 32.446,
+   "lat": 34.847,
+   "lab": "t",
+   "type": "site",
+   "ranges": [
+    [
+     1159,
+     2026
+    ]
+   ],
+   "desc": "In June 1159 the monk Neophytos, twice thwarted in his attempts to get away to a hermitage abroad and robbed of his travel money by his own gaolers, cut himself a cave in the cliff above the Paphos valley: a cell, a chapel and his own grave. Disciples came anyway, and in 1170 the bishop of Paphos ordained him priest and made him take a pupil. He wrote a great deal, including in 1196 an account of Richard I's conquest that is one of the very few Greek eyewitness sources for the Third Crusade in Cyprus, and he was scathing about the Franks.",
+   "finds": [
+    {
+     "n": "The Enkleistra",
+     "p": "From 1159",
+     "t": "Three chambers cut by hand into the rock face behind a large trapezoidal narthex: the church of the Holy Cross, Neophytos's cell to the south and the refectory to the north. Neophytos enlarged an older hermit's cave to make them.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "Paintings by Theodore Apseudis",
+     "p": "1183",
+     "t": "The nave and sanctuary of the cave church were painted in 1183 by Theodore Apseudis, named in an inscription in the cell; the same painter signed the cycle at Lagoudera nine years later. Deeper parts of the complex were painted after 1197 by other hands with a noticeably different style.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "Neophytos among the archangels",
+     "p": "1183",
+     "t": "Two portraits of the living founder: one at the crown of the vault flanked by Michael and Gabriel, the other showing him attending a divine service inside the mandorla of Christ. Even sympathetic scholars have called the second close to blasphemy, and read both as symptoms of Neophytos's vanity.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "The niche for the True Cross",
+     "p": "Late 12th century",
+     "t": "A cross-shaped recess in the east wall of the cave church, cut to hold a wooden cross containing a fragment of the True Cross that Neophytos had obtained.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "Neophytos's grave",
+     "p": "Cut before 1214",
+     "t": "He hewed his own tomb in the Enkleistra and left detailed instructions for his burial in it. His relics were found again in 1756 and moved into the main church.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "On the calamities against the country of Cyprus",
+     "p": "1196",
+     "t": "A short, furious chronicle of Isaac Komnenos's fall and Richard's conquest, written by an eyewitness who hated both sides. It survives because Konstantinos Sathas printed it in Venice in 1873.",
+     "w": "Manuscript tradition; printed in Sathas, Mesaioniki Bibliothiki II"
+    },
+    {
+     "n": "The katholikon and museum",
+     "p": "Early 16th century",
+     "t": "A large basilica in Venetian taste outside the caves, once painted throughout though little survives. The monastery beside it, made first among Cypriot houses by the Patriarch of Constantinople in 1631, is still inhabited and runs a museum of icons and manuscripts.",
+     "w": "In situ, Tala"
+    },
+    {
+     "n": "Pigment analysis of the paintings",
+     "p": "Studied 2009",
+     "t": "A non-invasive survey found at least five painting phases in the Enkleistra, with lapis lazuli, gold and silver among the pigments and unusually high lead content, which suggests painters trained on wooden panels rather than plaster.",
+     "w": "Published study; paintings in situ"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Agios_Neophytos_Monastery",
+    "https://en.wikipedia.org/wiki/Neophytos_the_Recluse",
+    "https://www.churchofcyprus.org.cy/"
+   ]
+  },
+  {
+   "id": "stavrovouni",
+   "name": "Stavrovouni Monastery",
+   "modern": "Stavrovouni hill, Larnaca district",
+   "lon": 33.436,
+   "lat": 34.886,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     327,
+     2026
+    ]
+   ],
+   "desc": "A monastery on a bare limestone peak about 690 m above the Kornos plain, by tradition founded by Saint Helena around 327 to 329 CE and named for the relic of the True Cross she is said to have left there. It was one of the great pilgrimage stops of the crusader centuries and appears in the accounts of nearly every western traveller to Cyprus, who called it Santa Croce or the Mountain of the Holy Cross. Sacked in the medieval and early Ottoman centuries and gutted by fire in 1888, the present buildings are late, but the site itself and its relic are the oldest continuous Christian tradition on the island. Since 1889 it has kept Athonite rule, and women may not enter.",
+   "finds": [
+    {
+     "n": "Reliquary of the True Cross",
+     "p": "Relic by tradition 4th century; present reliquary modern",
+     "t": "A large silver cross-shaped reliquary holding a small piece of wood, the only major relic to survive the fire of 1888. Whatever the monastery held before that had already gone: the Bohemian traveller Krystof Harant wrote in 1598 that nobody knew what the Turks had done with the True Cross.",
+     "w": "Stavrovouni Monastery"
+    },
+    {
+     "n": "Abbot Daniel's account",
+     "p": "1106",
+     "t": "The Rus' pilgrim Daniel, who stayed on Cyprus in 1106, wrote that the cross on Mount Olympus was not supported in the ground at all but held in empty space by the Holy Ghost, and that it warded off evil spirits and cured illness. His is the earliest firm outside notice of the monastery.",
+     "w": "Daniel's pilgrim narrative"
+    },
+    {
+     "n": "The Cross of the Good Thief",
+     "p": "By tradition 4th century",
+     "t": "One of several relics ascribed to Helena's visit, along with a Holy Nail and a piece of the rope that bound Christ. Willibrand of Oldenburg saw the Good Thief's cross here in 1211 and reported, wrongly, that Stavrovouni was the highest mountain in Cyprus.",
+     "w": "Stavrovouni Monastery"
+    },
+    {
+     "n": "Ludolph von Suchen's note",
+     "p": "1305",
+     "t": "The German pilgrim compared the peak to Mount Tabor and claimed that from the top one could see Lebanon. On a clear enough day this is true.",
+     "w": "Ludolph's Description of the Holy Land"
+    },
+    {
+     "n": "Agia Varvara",
+     "p": "Dependency, still in use",
+     "t": "The best known of the monastery's metochia, at the foot of the hill. Most of the monks lived down there until water and electricity reached the summit a few decades ago.",
+     "w": "In situ, below Stavrovouni"
+    },
+    {
+     "n": "The icon workshop",
+     "p": "20th century onwards",
+     "t": "Stavrovouni has painted icons since it was refounded from Mount Athos in 1889; work by its monks, above all Father Kallinikos, hangs in churches all over Cyprus, and the small church at the summit was repainted with the Helena legend in his hand.",
+     "w": "Stavrovouni Monastery and churches across Cyprus"
+    },
+    {
+     "n": "Relic of the True Cross",
+     "p": "By tradition 4th century",
+     "t": "A fragment of wood in a silver-gilt cross, with which the monastery has been identified since at least the crusader period; the monks also show the cross of the Good Thief, a nail and a length of rope. The relics are objects of devotion rather than of dated evidence.",
+     "w": "Stavrovouni Monastery church"
+    },
+    {
+     "n": "The summit chapel",
+     "p": "Present fabric mainly 19th–20th century",
+     "t": "The church on the very top of the peak, rebuilt after the fire of 1888; the one part of the monastery women are permitted to visit.",
+     "w": "In situ, Stavrovouni"
+    },
+    {
+     "n": "Pilgrims' accounts",
+     "p": "14th–16th century",
+     "t": "Ludolf von Suchen, Nicolas le Huen, Felix Fabri and others describe the climb, the relic and the story that the cross hung in the air unsupported; Cyprus was a scheduled stop on the Jaffa pilgrim route and Santa Croce was its inland attraction.",
+     "w": "Documentary; western pilgrim narratives"
+    },
+    {
+     "n": "Ayia Varvara metochion",
+     "p": "Founded 1948",
+     "t": "The dependency at the foot of the hill where the monks farm and paint icons, and the only part of the community women may visit, on Sundays.",
+     "w": "In situ, below Stavrovouni"
+    },
+    {
+     "n": "Icon workshop",
+     "p": "20th–21st century",
+     "t": "Stavrovouni is the leading icon-painting house in Cyprus, working in a deliberately archaising Byzantine manner; its panels hang in churches across the island.",
+     "w": "Ayia Varvara, below Stavrovouni"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stavrovouni_Monastery",
+    "https://www.churchofcyprus.org.cy/",
+    "https://www.visitcyprus.com/discover-cyprus/culture/sites-and-monuments/stavrovouni-monastery/"
+   ]
+  },
+  {
+   "id": "ayia_paraskevi",
+   "name": "Ayia Paraskevi, Geroskipou",
+   "modern": "Geroskipou, Paphos district",
+   "lon": 32.453,
+   "lat": 34.76,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     800,
+     2026
+    ]
+   ],
+   "desc": "A three-aisled church of the ninth century in the middle of Geroskipou, with three domes over the nave and one over each aisle, the same rare five-domed plan as Peristerona. Its walls are very thick and carry paintings in three layers, the oldest of them purely ornamental, painted while the empire was still forbidding images. The village name comes from Hieros Kepos, the sacred garden on the road to the sanctuary of Aphrodite, and the church may well stand on the older shrine.",
+   "finds": [
+    {
+     "n": "Aniconic decoration of the Iconoclast period",
+     "p": "9th century",
+     "t": "The earliest surviving paint is not figural at all: crosses and pure ornament of the kind the imperial government allowed while images were banned. Cyprus, half outside the empire under the condominium, was little touched by Iconoclasm, which makes these few square metres unusually interesting.",
+     "w": "In situ, Geroskipou"
+    },
+    {
+     "n": "Dormition of the Virgin",
+     "p": "12th century",
+     "t": "The best-preserved piece of the second layer, on the north wall of the nave, painted over the aniconic ornament three centuries later.",
+     "w": "In situ, Geroskipou"
+    },
+    {
+     "n": "The fifteenth-century cycle",
+     "p": "15th century",
+     "t": "Most of the paintings now visible are of the fifteenth century and take their subjects from the New Testament.",
+     "w": "In situ, Geroskipou"
+    },
+    {
+     "n": "Double-sided icon of the Panagia Geroskipiotissa",
+     "p": "14th to 15th century",
+     "t": "The church's most important portable object, painted with the Virgin on one face and the Crucifixion on the other so that it could be carried in procession and read from either side.",
+     "w": "In situ, Geroskipou"
+    },
+    {
+     "n": "The martyrion chapel",
+     "p": "Byzantine",
+     "t": "A small chapel attached to the east end of the south aisle, most likely built over the relics or the burial place of a saint or martyr, which would explain why so grand a church went up in a village.",
+     "w": "In situ, Geroskipou"
+    },
+    {
+     "n": "Bell tower and gallery",
+     "p": "1886 to 1931",
+     "t": "The bell tower on the south-east corner was put up in 1886 and the narthex-like western part built in the nineteenth century as a women's gallery, then extended in 1931.",
+     "w": "In situ, Geroskipou"
+    }
+   ],
+   "sources": [
+    "https://el.wikipedia.org/wiki/%CE%9D%CE%B1%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%B1%CF%82_%CE%A0%CE%B1%CF%81%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE%CF%82_(%CE%93%CE%B5%CF%81%CE%BF%CF%83%CE%BA%CE%AE%CF%80%CE%BF%CF%85)",
+    "https://en.wikipedia.org/wiki/Peristerona",
+    "https://www.churchofcyprus.org.cy/"
+   ]
+  },
+  {
+   "id": "ayia_trias",
+   "name": "Ayia Trias basilica",
+   "modern": "Sipahi (Ayia Trias), 2 km east of Yialousa, Karpas",
+   "lon": 34.225,
+   "lat": 35.545,
+   "lab": "b",
+   "type": "site",
+   "ranges": [
+    [
+     450,
+     650
+    ]
+   ],
+   "desc": "One of the best-preserved early Christian church floors on the island, dug between 1935 and 1938 and dated to the fifth or sixth century. The basilica was destroyed in the middle of the seventh century, in the years of the Arab raids, and never rebuilt, which is why its mosaics survived where those of busier sites were replaced. They were conserved again in 2018 and 2019 under the bi-communal technical committee on cultural heritage.",
+   "finds": [
+    {
+     "n": "The nave and aisle mosaics",
+     "p": "5th to 6th century CE",
+     "t": "Geometric carpets of interlace, guilloche and knot patterns in white, ochre, red and slate, laid the length of a three-aisled church. Figural work is almost absent, which is normal in Cypriot church floors of the period.",
+     "w": "In situ, Sipahi"
+    },
+    {
+     "n": "The panel of sandals",
+     "p": "5th to 6th century CE",
+     "t": "A small panel near the west end shows a pair of sandals set side by side beside a dedicatory text, usually read as a sign to the worshipper to leave his shoes and go in barefoot. It is the detail visitors remember, though the reading rests on the excavators' interpretation rather than on any inscription that says so.",
+     "w": "In situ, Sipahi"
+    },
+    {
+     "n": "Donor inscriptions in the floor",
+     "p": "5th to 6th century CE",
+     "t": "Greek texts worked into the paving asking for the salvation of the people who paid for each stretch, the ordinary way an early Cypriot congregation financed its church one panel at a time.",
+     "w": "In situ, Sipahi"
+    },
+    {
+     "n": "The baptistery",
+     "p": "5th to 6th century CE",
+     "t": "A separate baptistery with a cross-shaped font and its own mosaic floor, built when adults were still being baptised by immersion.",
+     "w": "In situ, Sipahi"
+    },
+    {
+     "n": "The 1935 to 1938 excavation",
+     "p": "1935 to 1938",
+     "t": "The site was uncovered in four seasons under the colonial Department of Antiquities, one of the campaigns that established how many early basilicas the island had held.",
+     "w": "Records of the Department of Antiquities, Nicosia"
+    },
+    {
+     "n": "The 2018 to 2019 conservation",
+     "p": "2018 to 2019",
+     "t": "Greek and Turkish Cypriot conservators relaid and consolidated the pavements together, one of the larger jobs done by the bi-communal committee that works on monuments on both sides of the line.",
+     "w": "In situ, Sipahi"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Agia_Triada,_Cyprus",
+    "https://www.tcchcyprus.com/projects/"
+   ]
+  },
+  {
+   "id": "ayios_mamas",
+   "name": "Ayios Mamas, Morphou",
+   "modern": "Morphou (Güzelyurt)",
+   "lon": 32.991,
+   "lat": 35.2,
+   "lab": "r",
+   "type": "site",
+   "ranges": [
+    [
+     1100,
+     2026
+    ]
+   ],
+   "desc": "The church over the tomb of St Mamas, reckoned by Greek Cypriots the third great pilgrimage of the island after the tomb of Barnabas and the monastery of Apostolos Andreas. Mamas was a third-century child martyr of Caesarea, but the Cypriots made him their own: their story has him a hermit near Morphou who dodged the tax collector, and who, when soldiers marched him to town, jumped on a lion that was mauling a lamb, saved the lamb and rode the lion into the governor's presence, and was let off his taxes for it. He is the patron saint of people who do not want to pay tax.",
+   "finds": [
+    {
+     "n": "The sarcophagus of St Mamas",
+     "p": "Reused Roman marble coffin",
+     "t": "A marble sarcophagus set into the north wall of the church, from which a holy oil was said to seep; pilgrims collected it, and the story that a Venetian attempt to prise the lid off brought the oil on is repeated in every guidebook and attested in none of the archives.",
+     "w": "In situ, Morphou"
+    },
+    {
+     "n": "The present church",
+     "p": "Late 15th to 16th century",
+     "t": "Gothic vaulting over an essentially Byzantine plan, with a Venetian Renaissance west door and a dome on the crossing, built over an earlier Byzantine church and monastery of which little more than the tomb and the dedication survive.",
+     "w": "In situ, Morphou"
+    },
+    {
+     "n": "The lion and the lamb",
+     "p": "Cypriot iconography, 15th century onwards",
+     "t": "Cypriot icons show Mamas riding a lion with a lamb in his arms. Neither animal appears in the saint's Cappadocian legend, where he is thrown to lions and tames them by preaching; the ride and the tax exemption are local additions.",
+     "w": "Icons in the church and across Cyprus"
+    },
+    {
+     "n": "The carved iconostasis",
+     "p": "16th century and later",
+     "t": "A gilded screen with columns of reused marble beside it, part of the furnishing that made the church the richest in the Morphou plain before 1974.",
+     "w": "In situ, Morphou"
+    },
+    {
+     "n": "The icon museum",
+     "p": "Since 1974",
+     "t": "The church now holds the icons gathered from the churches of the district. A Greek Orthodox liturgy is still permitted here once a year, one of a handful of such arrangements in the north.",
+     "w": "Ayios Mamas, Morphou"
+    },
+    {
+     "n": "The see of Soloi",
+     "p": "4th century to the present",
+     "t": "When Soloi on the coast was abandoned its bishopric moved inland and Mamas became patron of the whole region. The see was refounded in 1973 as the Metropolis of Morphou; its holder is titled President of Soloi and sits at Evrychou, because Morphou is out of reach.",
+     "w": "Metropolis of Morphou, seated at Evrychou"
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morphou",
+    "https://en.wikipedia.org/wiki/Saint_Mamas",
+    "https://el.wikipedia.org/wiki/%CE%95%CF%80%CE%B9%CF%83%CE%BA%CE%BF%CF%80%CE%AE_%CE%A3%CF%8C%CE%BB%CF%89%CE%BD"
+   ]
+  }
+ ],
+ "extra_finds": [
+  {
+   "id": "hst",
+   "finds": [
+    {
+     "n": "Tomb of Umm Haram",
+     "p": "7th century; present structure Ottoman",
+     "t": "Three great stones over the grave, the uppermost a single slab several metres long, which local tradition held had been set there by angels and hung unsupported in the air. Umm Haram bint Milhan was a companion of the Prophet and a distant aunt, a nurse at Uhud and Hunayn, who sailed with Muawiya's fleet against Cyprus in the caliphate of Uthman and died on the island after a fall from her mount.",
+     "w": "In situ, Hala Sultan Tekke"
+    },
+    {
+     "n": "The identification and the date",
+     "p": "Death given as 647 to 649",
+     "t": "The hadith collections report the Prophet foretelling a naval expedition and Umm Haram sailing on it, but the identification of this particular grave beside the Larnaca salt lake with hers is medieval and Ottoman rather than early, and the year of her death is given variously. The Turkish name Hala Sultan, meaning maternal aunt, belongs to that later tradition.",
+     "w": "Documentary; shrine in situ"
+    },
+    {
+     "n": "The mosque and tekke",
+     "p": "1760, minaret 1817",
+     "t": "A domed mosque, cells and a courtyard grew around the tomb from 1760, and the minaret was finished in 1817 under Sultan Mahmud II, turning the grave into a dervish tekke with gardens and a cypress grove on the lake shore.",
+     "w": "In situ, Larnaca Salt Lake"
+    },
+    {
+     "n": "Honours paid to the shrine",
+     "p": "Ottoman period",
+     "t": "Ottoman ships passing the bay are said to have lowered their flags and fired salutes, and Ottoman writers ranked the tekke among the holiest places in Islam, a claim modern scholarship does not accept but which explains the scale of the buildings.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The lake that was a harbour",
+     "p": "Late Bronze Age to present",
+     "t": "The sheltered bay that made the Bronze Age town rich silted into a lagoon and then into the salt pan that supplied Larnaca's salt trade for centuries. The shrine and the buried city sit on the same shoreline, three thousand years apart.",
+     "w": "In situ, Larnaca Salt Lake"
+    }
+   ]
+  },
+  {
+   "id": "chytroi",
+   "finds": [
+    {
+     "n": "Ayios Demetrianos, bishop of Chytroi",
+     "p": "c. 830 to 915",
+     "t": "The Life of Demetrianos, a Cypriot text written not long after his death, says that when raiders carried off the people of his diocese the old bishop followed them to the caliph's court and argued them free. The raid is usually identified with the one that wrecked Chytroi in 912. The Life is the only source for the embassy, and it is exactly the kind of story the condominium centuries produced.",
+     "w": "Text edited from a Constantinople manuscript; the saint is kept on 6 November"
+    },
+    {
+     "n": "The bishopric of Chytroi",
+     "p": "4th to 12th century",
+     "t": "One of the fourteen sees of Byzantine Cyprus, held by Eustathios and then by his priest Demetrianos, who succeeded him. The Latins cut the fourteen Orthodox sees to four after 1191 and Chytroi vanished from the list.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The Kefalovryso spring",
+     "p": "Antiquity to the 20th century",
+     "t": "The strongest spring on the island fed a chain of watermills down the Kythrea valley and made the place worth a kingdom, an aqueduct and a raid. It failed in the later twentieth century as boreholes dropped the water table.",
+     "w": "In situ, Kythrea"
+    },
+    {
+     "n": "The unexcavated city",
+     "p": "Bronze Age to 912 CE",
+     "t": "Chytroi lies under the orchards and houses of Kythrea and has never been systematically dug. Almost everything known about it comes from chance finds such as the Severus bronze, from Esarhaddon's prism of 673 BCE, and from ancient authors who mention a gymnasium and shrines of Artemis, Hermes and Herakles.",
+     "w": "In situ, Kythrea"
+    }
+   ]
+  },
+  {
+   "id": "kyrenia",
+   "finds": [
+    {
+     "n": "The Byzantine castle",
+     "p": "7th to 11th century",
+     "t": "The first fort on the rock was thrown up against the Arab raids. Stretches of its curtain and a horseshoe tower survive inside the later Lusignan and Venetian shells, and it was still the strongpoint of the north coast when Richard I's men took it in 1191.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "Byzantine chapel of St George",
+     "p": "12th century",
+     "t": "A small domed church of the Byzantine town, swallowed by the Venetian north-west bastion and now standing in the castle courtyard with its columns reused around it.",
+     "w": "In situ, Kyrenia Castle"
+    },
+    {
+     "n": "The surrender of 1191",
+     "p": "May and June 1191",
+     "t": "While Richard chased Isaac Komnenos east, Guy de Lusignan took Kyrenia, where Isaac's wife and daughter were lodged. The daughter, whom the chroniclers call the Damsel of Cyprus, passed into Richard's household, and Isaac gave up the island soon after at Cape St Andreas.",
+     "w": "Recorded by Neophytos the Recluse and the Latin chroniclers"
+    },
+    {
+     "n": "The Shipwreck Museum",
+     "p": "Opened 1976",
+     "t": "The ship's hull is shown in a climate-controlled hall with the cargo she went down with: hundreds of amphorae, thousands of almonds, and the millstones that ballasted her. It is one of the few places in the world where a whole ancient merchant hull can be walked around.",
+     "w": "Kyrenia Castle"
+    },
+    {
+     "n": "Kyrenia II, the sailing replica",
+     "p": "Built 1985",
+     "t": "A full-scale working copy built from the excavation drawings, which sailed from Piraeus to Cyprus in 1986 and later crossed to Japan and America to prove what the original could do. She now lies in the south of the island, on the far side of the line from the wreck she copies.",
+     "w": "Thalassa Museum, Ayia Napa"
+    },
+    {
+     "n": "Icon museum in the church of the Archangel Michael",
+     "p": "Church 1860; museum since 1990",
+     "t": "The old parish church on the bluff above the harbour now displays icons gathered from the churches of the Kyrenia district after 1974.",
+     "w": "Kyrenia"
+    }
+   ]
+  },
+  {
+   "id": "hilarion",
+   "finds": [
+    {
+     "n": "Didymos and Dieu d'Amour",
+     "p": "Byzantine and Frankish",
+     "t": "The Greeks called the twin-peaked ridge Didymos, the twins. The Franks heard it as Dieu d'Amour, the god of love, and that is the name the castle carries through the chronicles of the war of 1229 to 1232.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The eight-pillared church",
+     "p": "12th century",
+     "t": "A ruined and partly restored church with a wide dome on eight pillars stands in the castle, one of only three buildings of the type known on Cyprus; the others are Antiphonitis and the lost church of St John Chrysostom at Koutsovendis.",
+     "w": "In situ, St Hilarion"
+    },
+    {
+     "n": "The signal chain",
+     "p": "Byzantine",
+     "t": "St Hilarion, Buffavento and Kantara are spaced so that a fire lit on one summit can be seen from the next, a warning system for a coast that expected raiders from the sea.",
+     "w": "In situ across the Kyrenia range"
+    },
+    {
+     "n": "Isaac's treasure and family",
+     "p": "1191",
+     "t": "The mountain castles held the usurper's money and his household while he manoeuvred in the plain. They were handed over after he surrendered, and the plate and coin that came down from them helped pay for Richard's crusade.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The siege of 1229 to 1232",
+     "p": "1229 to 1232",
+     "t": "The Ibelins held the castle for the boy king Henry I against Frederick II's five bailiffs. After the imperial defeat at Agridi in 1232 the garrison here gave in, which ended the war and settled Cyprus on the Lusignans.",
+     "w": "Documentary; the works in situ"
+    },
+    {
+     "n": "Cisterns of the middle ward",
+     "p": "Byzantine and Frankish",
+     "t": "Rock-cut tanks and a vaulted cistern that caught the winter rain. Without them the waterless summit could not have held a garrison for a single summer.",
+     "w": "In situ, St Hilarion"
+    }
+   ]
+  },
+  {
+   "id": "buffavento",
+   "finds": [
+    {
+     "n": "Monastery of St John Chrysostom, Koutsovendis",
+     "p": "Founded c. 1090; chapel painted c. 1100",
+     "t": "At the foot of the mountain below the castle stands the monastery founded about 1090 by the monk George, later bishop of Paphos. Its chapel of the Holy Trinity keeps wall paintings of about 1100 made for Eumathios Philokales, the imperial governor of the island, among the earliest closely dated Byzantine paintings on Cyprus. The main church was rebuilt at the end of the nineteenth century, and the site now lies inside a military zone.",
+     "w": "In situ, Koutsovendis (closed to visitors)"
+    },
+    {
+     "n": "Neophytos the novice",
+     "p": "1152 to 1158",
+     "t": "The future recluse of Paphos fled an arranged marriage to Koutsovendis, was tonsured there in 1152, learned to read and write and served as assistant sacristan. His abbot refused to let him go off and be a hermit on the ground that he was too young.",
+     "w": "Documentary"
+    },
+    {
+     "n": "A watch post, not a fortress",
+     "p": "Late 11th century",
+     "t": "The summit at about 950 m held a signal station rather than a garrison town: Byzantine masonry survives in the lower ward, and the six rock-cut cisterns were what made the place habitable at all.",
+     "w": "In situ, Buffavento"
+    },
+    {
+     "n": "The Queen's Prison",
+     "p": "Frankish legend",
+     "t": "A local story makes the highest chamber the cell of a leper princess called Regina, walled up by her father. The name is on the signs at the top of the path and there is nothing whatever behind it.",
+     "w": "In situ, Buffavento"
+    }
+   ]
+  },
+  {
+   "id": "kantara",
+   "finds": [
+    {
+     "n": "Isaac's last stand",
+     "p": "1191",
+     "t": "Beaten by Richard at Tremetousia, Isaac Komnenos rode for the Karpas and held out from Kantara before surrendering at Cape St Andreas. The Hospitallers jailed him at Margat in chains that the chroniclers insist were silver, because Richard had promised not to put him in irons.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The thirteen monks of Kantara",
+     "p": "1228 to 1231",
+     "t": "Thirteen Orthodox monks from a house near the castle refused the Latin use of unleavened bread in the Eucharist, were tried for heresy, held for three years and burned in 1231. It is the sharpest single episode in the Latin church's dealings with the Cypriot Orthodox, and the Church of Cyprus still keeps them as martyrs.",
+     "w": "Documentary; commemorated by the Church of Cyprus"
+    },
+    {
+     "n": "The Byzantine core",
+     "p": "Late 10th to 11th century",
+     "t": "The oldest masonry belongs to the chain of watch posts built after the reconquest of 965, when Byzantium had to defend a coast it had just recovered. A beacon here could be read from Buffavento.",
+     "w": "In situ, Kantara"
+    },
+    {
+     "n": "The siege of 1229",
+     "p": "1229 and 1373",
+     "t": "The garrison held out against the Ibelins in 1229 and turned back the Genoese in 1373, which is the best evidence for how strong a small mountain castle could be before gunpowder.",
+     "w": "In situ, Kantara"
+    }
+   ]
+  },
+  {
+   "id": "nicosia",
+   "finds": [
+    {
+     "n": "Capital by default",
+     "p": "From the 10th century",
+     "t": "Nicosia was a minor bishopric called Ledra until the coast became dangerous. The governor of the new theme settled inland after 965, and the island's capital has sat ten miles from the sea ever since, which is why Cyprus is the one Mediterranean country whose capital has no harbour.",
+     "w": "Documentary"
+    },
+    {
+     "n": "The Byzantine Museum",
+     "p": "Opened 1982",
+     "t": "The Archbishop Makarios III Foundation's gallery beside the archbishopric holds the largest icon collection in Cyprus, running from the ninth century onwards, together with the recovered fragments of the Kanakaria mosaic and the icons brought back from the Netherlands and Athens.",
+     "w": "Byzantine Museum, Nicosia"
+    },
+    {
+     "n": "The Bedestan",
+     "p": "Byzantine core, rebuilt from the 14th century",
+     "t": "A tangle of six building phases next to Selimiye that began as a small Byzantine church, grew into the Orthodox metropolitan cathedral of Nicosia under Frankish rule, and ended as an Ottoman cloth market. Restored between 2004 and 2009, it is now a concert hall.",
+     "w": "In situ, Nicosia"
+    },
+    {
+     "n": "The medieval walls and the diverted river",
+     "p": "Demolished 1567",
+     "t": "The Lusignan circuit was far larger and looser than the Venetian one. In 1567 Venice pulled it down along with the royal palace and a great many churches and monasteries, and turned the Pedieos river out of the city, in order to fit the town inside eleven bastions it could actually hold.",
+     "w": "Traces beneath modern Nicosia"
+    },
+    {
+     "n": "Panagia Chrysaliniotissa",
+     "p": "Traditionally 1450",
+     "t": "The oldest church still in use inside the walls, said to have been founded by Helena Palaiologina, the Greek queen of Cyprus, and until 1974 the home of a celebrated icon collection now in the Byzantine Museum.",
+     "w": "In situ, Nicosia"
+    }
+   ]
+  },
+  {
+   "id": "famagusta",
+   "finds": [
+    {
+     "n": "Ammochostos, heir of Salamis",
+     "p": "After 649",
+     "t": "Ptolemaic Arsinoe was a fishing village with a good roadstead until Constantia was given up. Its Greek name means hidden in the sand, and it took in the refugees from up the coast and, in time, their bishop.",
+     "w": "Documentary"
+    },
+    {
+     "n": "Salamis's stones",
+     "p": "13th to 16th century",
+     "t": "Famagusta was quarried out of Constantia. Granite columns carted down from Salamis stand in the Venetian palace, and reused ancient blocks turn up throughout the walls and the churches, which is why the ruins of Salamis are so much barer than their size suggests.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Ayios Georgios Exorinos",
+     "p": "c. 1359",
+     "t": "The church of the Syrian and Nestorian merchants, built by the brothers Francis and Nicholas Lakhas, whose walls carry paintings and layers of graffiti in Greek, Syriac and Armenian left by pilgrims and prisoners. The nickname means George the exiler, from a story that dust from the floor would drive an enemy off the island within a year.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "Ayia Zoni",
+     "p": "14th to 15th century",
+     "t": "A tiny single-aisled domed church in the ruined Greek quarter, one of the few buildings inside the walls built to a Byzantine rather than a Gothic plan, with fragments of painting still on the vault.",
+     "w": "In situ, Famagusta"
+    },
+    {
+     "n": "The twin churches of the military orders",
+     "p": "14th century",
+     "t": "Two small churches side by side near the palace, built for the Templars and the Hospitallers and joined by a common wall. Both have been restored and serve now as a theatre and a gallery.",
+     "w": "In situ, Famagusta"
+    }
+   ]
+  },
+  {
+   "id": "limassol",
+   "finds": [
+    {
+     "n": "The see of Nemesos",
+     "p": "451 onwards",
+     "t": "A bishop from the district sat at the Council of Chalcedon in 451. When Amathus and Kourion were abandoned after the Arab raids their sees were folded into that of the new town between them, and Limassol's bishops long carried Amathus and Kourion in their titles.",
+     "w": "Documentary"
+    },
+    {
+     "n": "Panagia Amasgou, Monagri",
+     "p": "12th century, with later layers",
+     "t": "A monastery church on a knoll above the Kouris a short way north of Limassol, whose wall paintings were cleaned and published by Dumbarton Oaks in the 1970s and run in layers from the twelfth century to the sixteenth. The house flourished in the sixteenth and seventeenth centuries, declined in the eighteenth and ended as a parish church.",
+     "w": "In situ, Monagri"
+    },
+    {
+     "n": "The three hundred Alaman saints",
+     "p": "Late 12th to 13th century by tradition",
+     "t": "Cypriot tradition says three hundred hermits crossed from Palestine as the crusader states fell and scattered into caves across the island. A dozen villages and the monastery of Ayios Georgios Alamanos east of Limassol carry their names. Nothing outside the tradition attests any of them.",
+     "w": "Local cults across the Limassol district"
+    },
+    {
+     "n": "Berengaria's ship in the roads",
+     "p": "May 1191",
+     "t": "Two of Richard's ships were wrecked off Cyprus and a third, carrying his sister Joan and his betrothed Berengaria, lay at anchor off Limassol for a week rather than land within Isaac's reach. Richard arrived on 8 May, went ashore in a fury and had the island inside a month.",
+     "w": "Documentary"
+    }
+   ]
+  },
+  {
+   "id": "kourion",
+   "finds": [
+    {
+     "n": "Zenon, bishop of Kourion",
+     "p": "fl. 431",
+     "t": "Kourion's bishop was one of the four Cypriots who went to the Council of Ephesus in 431 and came home with canon 8, the charter of the island church's independence. The others were Rheginos of Constantia, Sapricius of Paphos and Evagrios of Soloi.",
+     "w": "Acts of the Council of Ephesus"
+    },
+    {
+     "n": "The baptistery",
+     "p": "Early 5th century CE",
+     "t": "A building of its own north of the cathedral, with narthex, cross-shaped font and mosaic floors, put up when adults were still baptised by immersion and the bishop did it himself at Easter.",
+     "w": "In situ, Kourion"
+    },
+    {
+     "n": "Extramural basilica and the tomb of Ayios Ermogenis",
+     "p": "5th to 6th century CE",
+     "t": "A second basilica outside the walls to the east, built over an older cemetery around a martyr's tomb. The little chapel of Ayios Ermogenis below the bluff still marks the spot and still draws its feast-day crowd.",
+     "w": "In situ, east of Kourion"
+    },
+    {
+     "n": "The nymphaeum",
+     "p": "2nd to 4th century CE, in use later",
+     "t": "A monumental fountain house at the head of the aqueduct, among the largest such buildings known on the island, still supplying the Christian town after the Roman city fell.",
+     "w": "In situ, Kourion"
+    },
+    {
+     "n": "Episkopi",
+     "p": "Medieval to present",
+     "t": "The village below the site is called Episkopi, the bishop's place, because Kourion's see came down off the bluff when the city was given up. The name is the last working trace of the Christian town.",
+     "w": "Episkopi, Limassol district"
+    }
+   ]
+  },
+  {
+   "id": "salamis",
+   "finds": [
+    {
+     "n": "Constantia",
+     "p": "Refounded c. 342 CE",
+     "t": "Earthquakes in 332 and 342 flattened the Roman city. Constantius II rebuilt a smaller town on the same grid, remitted its taxes for four years and renamed it after himself, and it became the capital and metropolitan see of Cyprus. Its water came fifty kilometres by aqueduct from the spring at Kythrea because its own supply had failed.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "Tomb of Epiphanios",
+     "p": "c. 403 CE",
+     "t": "An empty vaulted chamber under the south apse of his cathedral, where the heresy-hunting bishop who wrote the Panarion was buried. The relics were taken away at some point before the city was abandoned.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "Barnabas's relics in the cathedral",
+     "p": "After c. 478 CE",
+     "t": "The apostle's body was moved from the tomb outside the city into the basilica of Ayios Epiphanios, which made Constantia a stop for pilgrims on the road to Jerusalem and gave the archbishop his standing at court.",
+     "w": "Documentary; the basilica in situ"
+    },
+    {
+     "n": "Campanopetra and the relic question",
+     "p": "5th century CE",
+     "t": "The seaside basilica dug by Georges Roux from 1964 has colonnaded courts at both ends, a bathhouse and a floor of cut marble. The unusual double plan and a cross-shaped setting in the eastern court have led scholars to argue it was built to display a relic of the True Cross, though the case is circumstantial.",
+     "w": "In situ, Salamis"
+    },
+    {
+     "n": "The Vouta cistern",
+     "p": "Roman, in use to the 7th century",
+     "t": "A vast vaulted reservoir west of the city, the terminus of the Kythrea aqueduct, which kept the baths and fountains of Constantia running. The aqueduct was cut in the seventh century and never repaired.",
+     "w": "In situ, west of Salamis"
+    },
+    {
+     "n": "The 649 destruction",
+     "p": "649 and 650 or 654",
+     "t": "Muawiya's fleet met no resistance, went straight for the capital and camped in the bishop's residence, dividing the plunder between the Syrian and Egyptian contingents. A second fleet came a few years later. Constantia limped on into the eighth century, then the people moved to Ammochostos and the dunes came over the ruins.",
+     "w": "Destruction layers in situ"
+    }
+   ]
+  },
+  {
+   "id": "karpasia",
+   "finds": [
+    {
+     "n": "Aphendrika, ancient Urania",
+     "p": "Hellenistic to the 13th century",
+     "t": "A ruined town nine kilometres east of Ayios Philon with three churches standing in a row: Panagia Aphendrika built into the shell of a three-aisled Gothic church, a cross-in-square Orthodox church facing it, and Ayios Georgios. Diodorus says Demetrios Poliorketes took the place, then called Urania, in 307 BCE. Its people ended at Rizokarpaso, about ten kilometres inland.",
+     "w": "In situ, Aphendrika"
+    },
+    {
+     "n": "The small church inside the basilica",
+     "p": "10th century",
+     "t": "When the fifth-century basilica of Ayios Philon fell, a small vaulted church was built inside its east end, reusing the old apse. Keeping the apse and shrinking the church around it is the standard Cypriot response to the raids, and the same thing happened at Kiti, Livadia and Soloi.",
+     "w": "In situ, Ayios Philon"
+    },
+    {
+     "n": "The baptistery",
+     "p": "5th century CE",
+     "t": "A baptistery with a cross-shaped font and mosaic floors on the south side of the basilica, part of the bishop's complex that made this small port a see.",
+     "w": "In situ, Ayios Philon"
+    },
+    {
+     "n": "Ayios Synesios, Rizokarpaso",
+     "p": "12th century, much rebuilt",
+     "t": "The church the refugees built inland, over the tomb of a bishop Synesios. The town around it still holds the largest of the Greek Cypriot communities that stayed in the north after 1974.",
+     "w": "In situ, Rizokarpaso"
+    },
+    {
+     "n": "The raid of 802",
+     "p": "802 CE",
+     "t": "The date usually given for the attack that ended the port. The harbour moles were left standing under the water, the town above was never reoccupied, and the fields over it have still not been dug.",
+     "w": "In situ, Ayios Philon"
+    }
+   ]
+  },
+  {
+   "id": "soli",
+   "finds": [
+    {
+     "n": "Basilica of Ayios Auxibios",
+     "p": "4th to 7th century CE",
+     "t": "The great basilica on the terrace above the theatre is dedicated to Auxibios, whom tradition makes the first bishop of Soloi, baptised by Mark and ordained by Barnabas. In its first form it was among the largest churches on the island, five aisles wide with an atrium.",
+     "w": "In situ, Soli"
+    },
+    {
+     "n": "The second, smaller church",
+     "p": "6th to 7th century CE",
+     "t": "A reduced basilica built inside the walls of the first, reusing its columns and its apse. It is the clearest picture anywhere on Cyprus of a congregation shrinking before the raids ended the town altogether.",
+     "w": "In situ, Soli"
+    },
+    {
+     "n": "Donor inscriptions in the pavement",
+     "p": "5th to 6th century CE",
+     "t": "Greek texts worked into the mosaic floor asking for the salvation of the people who paid for each stretch, alongside the famous swan and the geometric carpets.",
+     "w": "In situ, Soli"
+    },
+    {
+     "n": "The see of Soloi",
+     "p": "4th century to 1191",
+     "t": "Soloi's bishop Evagrios was one of the four Cypriots at Ephesus in 431. When the town was abandoned the see moved inland to Morphou; refounded in 1973, its holder is still titled President of Soloi.",
+     "w": "Documentary; Metropolis of Morphou"
+    }
+   ]
+  },
+  {
+   "id": "lapithos",
+   "finds": [
+    {
+     "n": "Acheiropoietos monastery",
+     "p": "11th century over a 6th-century church",
+     "t": "Built on the ruins of a sixth-century church on the Lambousa headland and rebuilt so often that early Christian, Byzantine, Gothic and Frankish work all show in the same walls; it now has two domes and a Gothic narthex. It was the seat of the bishop of Lambousa, one of the fourteen sees, until 1222. Since 1974 it has stood inside a Turkish army camp and is closed.",
+     "w": "In situ, Lambousa (closed to visitors)"
+    },
+    {
+     "n": "The acheiropoietos icon",
+     "p": "Legend",
+     "t": "The name means not made by human hands. The story is that the Virgin carried the icon across the sea from Asia Minor to save it from destruction. A second tradition, with nothing at all behind it, made the monastery the home of the shroud that went to Turin in 1452.",
+     "w": "Legend; icon lost"
+    },
+    {
+     "n": "Rock-cut fish tanks",
+     "p": "Roman",
+     "t": "Tanks cut into the reef on the Lambousa shore for keeping fish alive until they were wanted, among the best-preserved sets of their kind in the eastern Mediterranean and still filling and emptying with the sea.",
+     "w": "In situ, Lambousa shore"
+    }
+   ]
+  },
+  {
+   "id": "kition",
+   "finds": [
+    {
+     "n": "Byzantine Kition",
+     "p": "4th to 9th century CE",
+     "t": "The Roman city shrank to a small town around the church of Lazarus, its first bishop by tradition. Leo VI's masons building over the rediscovered tomb about 890 give the first firm evidence that anyone was still living here after the Arab raids.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "The empty tomb of Lazarus",
+     "p": "Rediscovered c. 890",
+     "t": "A marble sarcophagus in the crypt under the church, empty: the relics went to Constantinople in 898 and on to Marseilles after the sack of 1204. Human remains found under the altar in 1972 are now shown as a relic of the saint.",
+     "w": "In situ, Church of St Lazarus, Larnaca"
+    },
+    {
+     "n": "The levelling of Bamboula",
+     "p": "1879",
+     "t": "The ancient acropolis mound was carted away in 1879 to fill the marshes and raise the new town, one of the most destructive acts in the island's archaeological history. What is known of Kition's upper city comes from what the diggers happened to notice.",
+     "w": "Site levelled; some finds in the Larnaca District Museum"
+    },
+    {
+     "n": "Larnaka Fort",
+     "p": "1625, on a Lusignan castle",
+     "t": "An Ottoman fort on the seafront built over the medieval castle, later a British prison and a place of execution, now a small museum with the medieval collection.",
+     "w": "In situ, Larnaca"
+    },
+    {
+     "n": "The Kamares aqueduct",
+     "p": "1747",
+     "t": "Bekir Pasha, the Ottoman governor, paid out of his own pocket for an aqueduct bringing water from Arpera to a town that had none. It supplied Larnaca until 1939 and thirty-three of its arches still stand beside the airport road.",
+     "w": "In situ, Larnaca"
+    }
+   ]
+  }
+ ],
+ "era_events": [
+  {
+   "id": "byzantine",
+   "events": [
+    [
+     325,
+     "Bishops of Paphos, Salamis and Trimithous attend the Council of Nicaea, the first Cypriots on record at an ecumenical council"
+    ],
+    [
+     327,
+     "By tradition Helena is driven ashore on her way home from Jerusalem and leaves a fragment of the True Cross on the peak later called Stavrovouni"
+    ],
+    [
+     478,
+     "Zeno grants the archbishop of Cyprus an imperial sceptre, a purple mantle and the right to sign in cinnabar red, the three privileges still used"
+    ],
+    [
+     550,
+     "The apse at Kiti is set with a gold-ground mosaic of the Virgin between two archangels, and Kanakaria in the Karpas gets another"
+    ],
+    [
+     650,
+     "A second Arab fleet takes Constantia and storms Lapithos with mangonels; a garrison from Baalbek is left on the island"
+    ],
+    [
+     692,
+     "The Quinisext Council in Constantinople confirms the exiled archbishop's rank and the title Nea Justinianoupolis that the Church of Cyprus still carries"
+    ],
+    [
+     730,
+     "Cyprus, half outside the empire, is barely touched by Iconoclasm; the plain painted crosses at Geroskipou are a rare local trace"
+    ],
+    [
+     802,
+     "Raiders sack Karpasia; its people abandon the port and move inland to Rizokarpaso"
+    ],
+    [
+     912,
+     "Cypriots are carried off from Chytroi, and Bishop Demetrianos follows them to the caliph's court to argue them free"
+    ],
+    [
+     1042,
+     "The governor Theophilos Erotikos revolts, is beaten and is paraded through the Hippodrome in women's clothes"
+    ],
+    [
+     1091,
+     "Rhapsomates revolts; Alexios I sends John Doukas and Manuel Boutoumites, and Eumathios Philokales stays on as governor"
+    ],
+    [
+     1100,
+     "The chapel of the Holy Trinity at Koutsovendis is painted for the governor Eumathios Philokales, the earliest dated wall painting on the island"
+    ],
+    [
+     1156,
+     "Raynald of Chatillon and Thoros II of Armenia plunder Cyprus for three weeks, sparing neither churches nor convents"
+    ],
+    [
+     1183,
+     "Theodore Apseudis, trained in Constantinople, paints the cave hermitage of Neophytos above Paphos"
+    ],
+    [
+     1191,
+     "Isaac surrenders at Cape St Andreas and is jailed by the Hospitallers at Margat in chains said to be silver, because Richard had promised him no irons"
+    ]
+   ]
+  }
+ ],
+ "rulers": [
+  {
+   "power": "byzantium",
+   "rulers": [
+    {
+     "n": "Constantius II",
+     "d": "337–361",
+     "t": "Rebuilt earthquake-ruined Salamis as Constantia, remitted its taxes and made it the capital of the island."
+    },
+    {
+     "n": "Epiphanius of Salamis",
+     "d": "367–403",
+     "t": "Bishop of Salamis-Constantia and metropolitan of Cyprus; heresy-hunter and author of the Panarion."
+    },
+    {
+     "n": "Rheginos of Constantia",
+     "d": "fl. 431",
+     "t": "Led the Cypriot bishops at Ephesus and won canon 8, the charter of the Church's independence."
+    },
+    {
+     "n": "Anthemios",
+     "d": "fl. c. 478–488",
+     "t": "Found the relics of Barnabas and secured Zeno's confirmation of autocephaly."
+    },
+    {
+     "n": "Zeno",
+     "d": "474–491",
+     "t": "Paid for the basilica over Barnabas's tomb and gave the archbishop the sceptre, the purple and the red ink."
+    },
+    {
+     "n": "Justinian I",
+     "d": "527–565",
+     "t": "Reign of the great mosaic floors and the last generation of five-aisled basilicas; Archbishop Philoxenos enlarged the Barnabas shrine under him."
+    },
+    {
+     "n": "Justinian II",
+     "d": "685–695, 705–711",
+     "t": "Agreed the condominium with Abd al-Malik in 688, then moved much of the population to Nea Justinianoupolis near Cyzicus in 691."
+    },
+    {
+     "n": "John I",
+     "d": "fl. 691–698",
+     "t": "Archbishop deported with his flock to Nea Justinianoupolis; source of the title the Church of Cyprus still uses."
+    },
+    {
+     "n": "Demetrianos of Chytroi",
+     "d": "c. 890–915",
+     "t": "Bishop who is said to have followed his captured flock to the caliph's court and brought them home."
+    },
+    {
+     "n": "Niketas Chalkoutzes",
+     "d": "fl. 965",
+     "t": "Patrician who recovered the island for Nikephoros II Phokas with a small force and made it a theme."
+    },
+    {
+     "n": "Theophilos Erotikos",
+     "d": "fl. 1042",
+     "t": "Governor who rebelled, was captured and was paraded through the Hippodrome dressed as a woman."
+    },
+    {
+     "n": "Rhapsomates",
+     "d": "1090–1093",
+     "t": "Rebel governor put down by John Doukas and Manuel Boutoumites for Alexios I."
+    },
+    {
+     "n": "Eumathios Philokales",
+     "d": "c. 1093–1103, 1110–1118",
+     "t": "The island's most effective Byzantine governor, patron of the paintings at Koutsovendis and scourge of Levantine pirates."
+    },
+    {
+     "n": "Nikolaos Mouzalon",
+     "d": "1107–1110",
+     "t": "Archbishop who resigned in protest at official abuses; later Patriarch of Constantinople."
+    },
+    {
+     "n": "John Doukas Komnenos",
+     "d": "fl. 1156",
+     "t": "Governor captured when Raynald of Chatillon raided the island; his defeat let the Franks plunder it for three weeks."
+    },
+    {
+     "n": "Isaac Komnenos",
+     "d": "1184–1191",
+     "t": "Usurper who ruled the island as a self-styled emperor until Richard I deposed him."
+    }
+   ]
+  }
+ ],
+ "notes_for_owner": [
+  "OVERLAP WARNING, troodos_churches: four of my new settlements (asinou, ayios_nikolaos_stegis, araka, lampadistis) are already named inside the existing troodos_churches entry, and three of them are among its four finds. If you take the new entries, troodos_churches should either lose those finds and become a pure umbrella (a list of the ten with the UNESCO story), or be dropped in favour of named churches. The remaining six of the ten that I have NOT given entries are Moutoullas (1280), Pelendri, Stavros tou Ayiasmati at Platanistasa (1494), Archangelos Michael at Pedoulas (1474), Panagia Podithou at Galata (1502) and Metamorphosis at Palaichori; all but the first are post-Byzantine and belong to a later agent's era.",
+  "OVERLAP, neapaphos: Saranda Kolones is already a find there and I have not duplicated it. It does not stand alone well enough for its own entry: the castle is a shell with no portable finds and one date.",
+  "OVERLAP, lapithos: the Lambousa treasures are already finds on lapithos, so I put the Acheiropoietos monastery and the fish tanks into lapithos extra_finds rather than making a separate Lambousa entry. The monastery is 300 m from the existing lapithos marker.",
+  "OVERLAP, kition: I put the Larnaca material in kition extra_finds as you suggested. A separate larnaca entry would sit 1 km from kition and duplicate its 2026 range; I do not recommend it.",
+  "SHAKY COORDINATE: the English Wikipedia infobox for Agios Neophytos Monastery gives 34.725 N, 32.604 E, which is wrong by about 20 km. I have used the OpenStreetMap position of the monastery itself, 34.847 N, 32.446 E, which matches the description of the site 1 km north of Tala. Worth spot-checking on a satellite view.",
+  "SHAKY COORDINATE: Kanakaria. English Wikipedia gives 35.4767, 34.1669 and OpenStreetMap gives 35.4784, 34.1651 for the same building, about 250 m apart. I used the Wikipedia figure.",
+  "SHAKY DETAIL: the Ayia Trias 'panel of sandals'. Every popular account of Sipahi mentions it and reads it as an instruction to enter barefoot, but the reading is the excavators' inference, not something the mosaic inscription says. Flagged in the find text.",
+  "SHAKY DETAIL: the myrrh-exuding sarcophagus of St Mamas and the Venetian attempt to open it. This is pilgrimage tradition repeated in guidebooks; I could find no archival source and have said so in the text.",
+  "SHAKY DETAIL: 'third most important place of worship for Greek Cypriots' for Ayios Mamas is a claim made on Wikipedia without a citation. I have attributed it to Greek Cypriot reckoning rather than stating it flat.",
+  "SHAKY DETAIL: the founder of Panagia Chrysaliniotissa as Helena Palaiologina, and the date 1450, are traditional rather than documented. Marked 'said to have been'.",
+  "SHAKY DETAIL: the Hala Sultan Tekke mosque's founder. Sources disagree about which Ottoman governor paid for the 1760 building, so I gave the dates without a name. The 'one of the four holiest places in Islam' claim is an Ottoman-period ranking that modern scholars reject, and I have said that.",
+  "DISPUTED READING: the Asinou donor's name. English-language scholarship generally has Nikephoros (often Nikephoros magistros); the Greek Wikipedia and some Greek accounts read the inscription as Nikolaos Ischyrios. The existing atlas entry says 'Nikephoros Ischyrios'. I have flagged the disagreement in the find rather than picking a side.",
+  "DISPUTED READING: the 688 condominium. The atlas's era text already presents it as a shared island taxed by both empires. That is the traditional reading, drawn largely from Theophanes and from al-Baladhuri; a strong current in recent scholarship (following work on the seals, the coinage and the Cypriot basilicas) argues the arrangement was looser and more intermittent than 'condominium' implies, with periods of straightforward Byzantine control and others of Arab occupation. The archaeology of continuous church-building through the eighth century is the main evidence that something unusual was going on. Worth a clause in the era text.",
+  "DISPUTED: the Mardaite and Nova Justinianopolis episode. The number moved in 691 is unknown, ancient estimates are unusable, and Constantine VII's account conflates the Cypriot transfer with the settlement of Mardaites from the Amanus. I have not given figures.",
+  "DATE RANGE CONVENTION: I have run standing monuments to 2026 even where they are not in religious use, including Kanakaria, Antiphonitis, Apsinthiotissa (a roofless ruin) and Acheiropoietos (inside a military camp). If your convention is that a range ends when a building goes out of use, these should be shortened to 1974.",
+  "The Peristerona church has no foundation inscription. Dates offered run from the tenth to the early twelfth century and its relationship to the five-domed church at Geroskipou, usually put a century earlier, is unsettled. I gave a range rather than a date.",
+  "The Byzantine Museum's opening date (1982) and the size of its icon collection are from the Makarios III Foundation's own material; the official site was not reachable when I checked, so verify before printing a number of icons.",
+  "SITES CONSIDERED AND DROPPED as too thin for an entry of their own: Ayios Lazaros at Larnaca (already a find on kition, and the church itself is 890 with Baroque furniture); Saranda Kolones (already a find on neapaphos); Panagia Chryseleousa at Empa (a good twelfth-century church with almost no published detail); Sotira churches (the interesting ones are Venetian); Ayia Napa (sixteenth century); Panagia tis Kyras at Livadia (a genuine sixth-century apse reused in a small church, but nothing else survives and it is hard to source); Apostolos Andreas at the tip of the Karpas (the buildings are fifteenth to nineteenth century). Panagia Amasgou at Monagri and the monastery of St John Chrysostom at Koutsovendis are both strong enough for entries of their own, but I put them into limassol and buffavento extra_finds because each sits within a few kilometres of an existing marker.",
+  "SOURCE NOTE: the Kanakaria court case is cited from OpenJurist's text of 917 F.2d 278 (7th Cir., decided 24 October 1990), which quotes Judge Noland's district judgment at 717 F.Supp. 1374 (S.D. Ind. 1989). The details in that find (four fragments about two feet square, 1,080,000 dollars, Geneva free port, 7 July 1988, Aydin Dikmen) all come from the opinion itself.",
+  "SOURCE NOTE: several of these monuments have no English Wikipedia article, so I have cited the Greek one for Asinou, Ayia Paraskevi Geroskipou, Ayios Ioannis Lampadistis and the see of Soloi. All four URLs are percent-encoded and were checked live.",
+  "The rulers list for byzantium is a full replacement, in chronological order, containing the existing six entries unchanged plus ten additions. If you would rather append, the new ones are Constantius II, Zeno, Justinian I, Justinian II, Demetrianos of Chytroi, Niketas Chalkoutzes, Theophilos Erotikos, Rhapsomates, Eumathios Philokales and John Doukas Komnenos.",
+  "RECONCILED: peristerona was also proposed in 08-ottoman-british-republic.json, which now carries the merged record. This file contributed its finds, ranges and sources to it."
+ ]
+}
