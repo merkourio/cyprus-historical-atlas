@@ -1,0 +1,911 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-13T19:48:14.272225+00:00",
+  "title": "Design System: Cyprus Historical Explorer",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "Ground",
+        "tonalRamp": [
+          "oklch(15% 0.00449 214.33)",
+          "oklch(26% 0.00449 214.33)",
+          "oklch(38% 0.00449 214.33)",
+          "oklch(49% 0.00449 214.33)",
+          "oklch(61% 0.00449 214.33)",
+          "oklch(72% 0.00449 214.33)",
+          "oklch(84% 0.00449 214.33)",
+          "oklch(95% 0.00449 214.33)"
+        ]
+      },
+      "surface": {
+        "role": "neutral",
+        "displayName": "Surface",
+        "tonalRamp": [
+          "oklch(15% 0.00000 89.88)",
+          "oklch(26% 0.00000 89.88)",
+          "oklch(38% 0.00000 89.88)",
+          "oklch(49% 0.00000 89.88)",
+          "oklch(61% 0.00000 89.88)",
+          "oklch(72% 0.00000 89.88)",
+          "oklch(84% 0.00000 89.88)",
+          "oklch(95% 0.00000 89.88)"
+        ]
+      },
+      "surface-2": {
+        "role": "neutral",
+        "displayName": "Surface 2",
+        "tonalRamp": [
+          "oklch(15% 0.00505 228.82)",
+          "oklch(26% 0.00505 228.82)",
+          "oklch(38% 0.00505 228.82)",
+          "oklch(49% 0.00505 228.82)",
+          "oklch(61% 0.00505 228.82)",
+          "oklch(72% 0.00505 228.82)",
+          "oklch(84% 0.00505 228.82)",
+          "oklch(95% 0.00505 228.82)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.03889 237.08)",
+          "oklch(26% 0.03889 237.08)",
+          "oklch(38% 0.03889 237.08)",
+          "oklch(49% 0.03889 237.08)",
+          "oklch(61% 0.03889 237.08)",
+          "oklch(72% 0.03889 237.08)",
+          "oklch(84% 0.03889 237.08)",
+          "oklch(95% 0.03889 237.08)"
+        ]
+      },
+      "ink-2": {
+        "role": "neutral",
+        "displayName": "Ink 2",
+        "tonalRamp": [
+          "oklch(15% 0.03935 238.00)",
+          "oklch(26% 0.03935 238.00)",
+          "oklch(38% 0.03935 238.00)",
+          "oklch(49% 0.03935 238.00)",
+          "oklch(61% 0.03935 238.00)",
+          "oklch(72% 0.03935 238.00)",
+          "oklch(84% 0.03935 238.00)",
+          "oklch(95% 0.03935 238.00)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.03527 235.10)",
+          "oklch(26% 0.03527 235.10)",
+          "oklch(38% 0.03527 235.10)",
+          "oklch(49% 0.03527 235.10)",
+          "oklch(61% 0.03527 235.10)",
+          "oklch(72% 0.03527 235.10)",
+          "oklch(84% 0.03527 235.10)",
+          "oklch(95% 0.03527 235.10)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.01283 228.94)",
+          "oklch(26% 0.01283 228.94)",
+          "oklch(38% 0.01283 228.94)",
+          "oklch(49% 0.01283 228.94)",
+          "oklch(61% 0.01283 228.94)",
+          "oklch(72% 0.01283 228.94)",
+          "oklch(84% 0.01283 228.94)",
+          "oklch(95% 0.01283 228.94)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.21357 263.46)",
+          "oklch(26% 0.21357 263.46)",
+          "oklch(38% 0.21357 263.46)",
+          "oklch(49% 0.21357 263.46)",
+          "oklch(61% 0.21357 263.46)",
+          "oklch(72% 0.21357 263.46)",
+          "oklch(84% 0.21357 263.46)",
+          "oklch(95% 0.21357 263.46)"
+        ]
+      },
+      "sea": {
+        "role": "neutral",
+        "displayName": "Sea",
+        "tonalRamp": [
+          "oklch(15% 0.02297 229.11)",
+          "oklch(26% 0.02297 229.11)",
+          "oklch(38% 0.02297 229.11)",
+          "oklch(49% 0.02297 229.11)",
+          "oklch(61% 0.02297 229.11)",
+          "oklch(72% 0.02297 229.11)",
+          "oklch(84% 0.02297 229.11)",
+          "oklch(95% 0.02297 229.11)"
+        ]
+      },
+      "sea-line": {
+        "role": "neutral",
+        "displayName": "Sea Line",
+        "tonalRamp": [
+          "oklch(15% 0.03741 225.91)",
+          "oklch(26% 0.03741 225.91)",
+          "oklch(38% 0.03741 225.91)",
+          "oklch(49% 0.03741 225.91)",
+          "oklch(61% 0.03741 225.91)",
+          "oklch(72% 0.03741 225.91)",
+          "oklch(84% 0.03741 225.91)",
+          "oklch(95% 0.03741 225.91)"
+        ]
+      },
+      "space": {
+        "role": "neutral",
+        "displayName": "Space",
+        "tonalRamp": [
+          "oklch(15% 0.01618 226.98)",
+          "oklch(26% 0.01618 226.98)",
+          "oklch(38% 0.01618 226.98)",
+          "oklch(49% 0.01618 226.98)",
+          "oklch(61% 0.01618 226.98)",
+          "oklch(72% 0.01618 226.98)",
+          "oklch(84% 0.01618 226.98)",
+          "oklch(95% 0.01618 226.98)"
+        ]
+      },
+      "sea-deep": {
+        "role": "neutral",
+        "displayName": "Sea Deep",
+        "tonalRamp": [
+          "oklch(15% 0.03082 229.28)",
+          "oklch(26% 0.03082 229.28)",
+          "oklch(38% 0.03082 229.28)",
+          "oklch(49% 0.03082 229.28)",
+          "oklch(61% 0.03082 229.28)",
+          "oklch(72% 0.03082 229.28)",
+          "oklch(84% 0.03082 229.28)",
+          "oklch(95% 0.03082 229.28)"
+        ]
+      },
+      "land": {
+        "role": "neutral",
+        "displayName": "Land",
+        "tonalRamp": [
+          "oklch(15% 0.01869 113.35)",
+          "oklch(26% 0.01869 113.35)",
+          "oklch(38% 0.01869 113.35)",
+          "oklch(49% 0.01869 113.35)",
+          "oklch(61% 0.01869 113.35)",
+          "oklch(72% 0.01869 113.35)",
+          "oklch(84% 0.01869 113.35)",
+          "oklch(95% 0.01869 113.35)"
+        ]
+      },
+      "land-line": {
+        "role": "neutral",
+        "displayName": "Land Line",
+        "tonalRamp": [
+          "oklch(15% 0.03154 179.45)",
+          "oklch(26% 0.03154 179.45)",
+          "oklch(38% 0.03154 179.45)",
+          "oklch(49% 0.03154 179.45)",
+          "oklch(61% 0.03154 179.45)",
+          "oklch(72% 0.03154 179.45)",
+          "oklch(84% 0.03154 179.45)",
+          "oklch(95% 0.03154 179.45)"
+        ]
+      },
+      "relief": {
+        "role": "neutral",
+        "displayName": "Relief",
+        "tonalRamp": [
+          "oklch(15% 0.03032 119.44)",
+          "oklch(26% 0.03032 119.44)",
+          "oklch(38% 0.03032 119.44)",
+          "oklch(49% 0.03032 119.44)",
+          "oklch(61% 0.03032 119.44)",
+          "oklch(72% 0.03032 119.44)",
+          "oklch(84% 0.03032 119.44)",
+          "oklch(95% 0.03032 119.44)"
+        ]
+      },
+      "copper": {
+        "role": "secondary",
+        "displayName": "Copper",
+        "tonalRamp": [
+          "oklch(15% 0.12673 46.43)",
+          "oklch(26% 0.12673 46.43)",
+          "oklch(38% 0.12673 46.43)",
+          "oklch(49% 0.12673 46.43)",
+          "oklch(61% 0.12673 46.43)",
+          "oklch(72% 0.12673 46.43)",
+          "oklch(84% 0.12673 46.43)",
+          "oklch(95% 0.12673 46.43)"
+        ]
+      },
+      "verdigris": {
+        "role": "secondary",
+        "displayName": "Verdigris",
+        "tonalRamp": [
+          "oklch(15% 0.07830 181.19)",
+          "oklch(26% 0.07830 181.19)",
+          "oklch(38% 0.07830 181.19)",
+          "oklch(49% 0.07830 181.19)",
+          "oklch(61% 0.07830 181.19)",
+          "oklch(72% 0.07830 181.19)",
+          "oklch(84% 0.07830 181.19)",
+          "oklch(95% 0.07830 181.19)"
+        ]
+      },
+      "slate": {
+        "role": "secondary",
+        "displayName": "Slate",
+        "tonalRamp": [
+          "oklch(15% 0.04109 239.87)",
+          "oklch(26% 0.04109 239.87)",
+          "oklch(38% 0.04109 239.87)",
+          "oklch(49% 0.04109 239.87)",
+          "oklch(61% 0.04109 239.87)",
+          "oklch(72% 0.04109 239.87)",
+          "oklch(84% 0.04109 239.87)",
+          "oklch(95% 0.04109 239.87)"
+        ]
+      },
+      "gold": {
+        "role": "secondary",
+        "displayName": "Gold",
+        "tonalRamp": [
+          "oklch(15% 0.09964 85.57)",
+          "oklch(26% 0.09964 85.57)",
+          "oklch(38% 0.09964 85.57)",
+          "oklch(49% 0.09964 85.57)",
+          "oklch(61% 0.09964 85.57)",
+          "oklch(72% 0.09964 85.57)",
+          "oklch(84% 0.09964 85.57)",
+          "oklch(95% 0.09964 85.57)"
+        ]
+      },
+      "k-town": {
+        "role": "secondary",
+        "displayName": "K Town",
+        "tonalRamp": [
+          "oklch(15% 0.12673 46.43)",
+          "oklch(26% 0.12673 46.43)",
+          "oklch(38% 0.12673 46.43)",
+          "oklch(49% 0.12673 46.43)",
+          "oklch(61% 0.12673 46.43)",
+          "oklch(72% 0.12673 46.43)",
+          "oklch(84% 0.12673 46.43)",
+          "oklch(95% 0.12673 46.43)"
+        ]
+      },
+      "k-village": {
+        "role": "secondary",
+        "displayName": "K Village",
+        "tonalRamp": [
+          "oklch(15% 0.03821 77.19)",
+          "oklch(26% 0.03821 77.19)",
+          "oklch(38% 0.03821 77.19)",
+          "oklch(49% 0.03821 77.19)",
+          "oklch(61% 0.03821 77.19)",
+          "oklch(72% 0.03821 77.19)",
+          "oklch(84% 0.03821 77.19)",
+          "oklch(95% 0.03821 77.19)"
+        ]
+      },
+      "k-sanctuary": {
+        "role": "secondary",
+        "displayName": "K Sanctuary",
+        "tonalRamp": [
+          "oklch(15% 0.10739 85.54)",
+          "oklch(26% 0.10739 85.54)",
+          "oklch(38% 0.10739 85.54)",
+          "oklch(49% 0.10739 85.54)",
+          "oklch(61% 0.10739 85.54)",
+          "oklch(72% 0.10739 85.54)",
+          "oklch(84% 0.10739 85.54)",
+          "oklch(95% 0.10739 85.54)"
+        ]
+      },
+      "k-church": {
+        "role": "secondary",
+        "displayName": "K Church",
+        "tonalRamp": [
+          "oklch(15% 0.09242 304.31)",
+          "oklch(26% 0.09242 304.31)",
+          "oklch(38% 0.09242 304.31)",
+          "oklch(49% 0.09242 304.31)",
+          "oklch(61% 0.09242 304.31)",
+          "oklch(72% 0.09242 304.31)",
+          "oklch(84% 0.09242 304.31)",
+          "oklch(95% 0.09242 304.31)"
+        ]
+      },
+      "k-fort": {
+        "role": "secondary",
+        "displayName": "K Fort",
+        "tonalRamp": [
+          "oklch(15% 0.07712 241.50)",
+          "oklch(26% 0.07712 241.50)",
+          "oklch(38% 0.07712 241.50)",
+          "oklch(49% 0.07712 241.50)",
+          "oklch(61% 0.07712 241.50)",
+          "oklch(72% 0.07712 241.50)",
+          "oklch(84% 0.07712 241.50)",
+          "oklch(95% 0.07712 241.50)"
+        ]
+      },
+      "k-works": {
+        "role": "secondary",
+        "displayName": "K Works",
+        "tonalRamp": [
+          "oklch(15% 0.07830 181.19)",
+          "oklch(26% 0.07830 181.19)",
+          "oklch(38% 0.07830 181.19)",
+          "oklch(49% 0.07830 181.19)",
+          "oklch(61% 0.07830 181.19)",
+          "oklch(72% 0.07830 181.19)",
+          "oklch(84% 0.07830 181.19)",
+          "oklch(95% 0.07830 181.19)"
+        ]
+      },
+      "ground-dark": {
+        "role": "neutral",
+        "displayName": "Ground Dark",
+        "tonalRamp": [
+          "oklch(15% 0.02644 242.26)",
+          "oklch(26% 0.02644 242.26)",
+          "oklch(38% 0.02644 242.26)",
+          "oklch(49% 0.02644 242.26)",
+          "oklch(61% 0.02644 242.26)",
+          "oklch(72% 0.02644 242.26)",
+          "oklch(84% 0.02644 242.26)",
+          "oklch(95% 0.02644 242.26)"
+        ]
+      },
+      "surface-dark": {
+        "role": "neutral",
+        "displayName": "Surface Dark",
+        "tonalRamp": [
+          "oklch(15% 0.03252 238.69)",
+          "oklch(26% 0.03252 238.69)",
+          "oklch(38% 0.03252 238.69)",
+          "oklch(49% 0.03252 238.69)",
+          "oklch(61% 0.03252 238.69)",
+          "oklch(72% 0.03252 238.69)",
+          "oklch(84% 0.03252 238.69)",
+          "oklch(95% 0.03252 238.69)"
+        ]
+      },
+      "surface-2-dark": {
+        "role": "neutral",
+        "displayName": "Surface 2 Dark",
+        "tonalRamp": [
+          "oklch(15% 0.03802 236.23)",
+          "oklch(26% 0.03802 236.23)",
+          "oklch(38% 0.03802 236.23)",
+          "oklch(49% 0.03802 236.23)",
+          "oklch(61% 0.03802 236.23)",
+          "oklch(72% 0.03802 236.23)",
+          "oklch(84% 0.03802 236.23)",
+          "oklch(95% 0.03802 236.23)"
+        ]
+      },
+      "ink-dark": {
+        "role": "neutral",
+        "displayName": "Ink Dark",
+        "tonalRamp": [
+          "oklch(15% 0.00695 219.56)",
+          "oklch(26% 0.00695 219.56)",
+          "oklch(38% 0.00695 219.56)",
+          "oklch(49% 0.00695 219.56)",
+          "oklch(61% 0.00695 219.56)",
+          "oklch(72% 0.00695 219.56)",
+          "oklch(84% 0.00695 219.56)",
+          "oklch(95% 0.00695 219.56)"
+        ]
+      },
+      "ink-2-dark": {
+        "role": "neutral",
+        "displayName": "Ink 2 Dark",
+        "tonalRamp": [
+          "oklch(15% 0.01972 230.74)",
+          "oklch(26% 0.01972 230.74)",
+          "oklch(38% 0.01972 230.74)",
+          "oklch(49% 0.01972 230.74)",
+          "oklch(61% 0.01972 230.74)",
+          "oklch(72% 0.01972 230.74)",
+          "oklch(84% 0.01972 230.74)",
+          "oklch(95% 0.01972 230.74)"
+        ]
+      },
+      "muted-dark": {
+        "role": "neutral",
+        "displayName": "Muted Dark",
+        "tonalRamp": [
+          "oklch(15% 0.02705 235.47)",
+          "oklch(26% 0.02705 235.47)",
+          "oklch(38% 0.02705 235.47)",
+          "oklch(49% 0.02705 235.47)",
+          "oklch(61% 0.02705 235.47)",
+          "oklch(72% 0.02705 235.47)",
+          "oklch(84% 0.02705 235.47)",
+          "oklch(95% 0.02705 235.47)"
+        ]
+      },
+      "line-dark": {
+        "role": "neutral",
+        "displayName": "Line Dark",
+        "tonalRamp": [
+          "oklch(15% 0.03879 239.18)",
+          "oklch(26% 0.03879 239.18)",
+          "oklch(38% 0.03879 239.18)",
+          "oklch(49% 0.03879 239.18)",
+          "oklch(61% 0.03879 239.18)",
+          "oklch(72% 0.03879 239.18)",
+          "oklch(84% 0.03879 239.18)",
+          "oklch(95% 0.03879 239.18)"
+        ]
+      },
+      "focus-dark": {
+        "role": "primary",
+        "displayName": "Focus Dark",
+        "tonalRamp": [
+          "oklch(15% 0.11256 263.36)",
+          "oklch(26% 0.11256 263.36)",
+          "oklch(38% 0.11256 263.36)",
+          "oklch(49% 0.11256 263.36)",
+          "oklch(61% 0.11256 263.36)",
+          "oklch(72% 0.11256 263.36)",
+          "oklch(84% 0.11256 263.36)",
+          "oklch(95% 0.11256 263.36)"
+        ]
+      },
+      "sea-dark": {
+        "role": "neutral",
+        "displayName": "Sea Dark",
+        "tonalRamp": [
+          "oklch(15% 0.05357 233.77)",
+          "oklch(26% 0.05357 233.77)",
+          "oklch(38% 0.05357 233.77)",
+          "oklch(49% 0.05357 233.77)",
+          "oklch(61% 0.05357 233.77)",
+          "oklch(72% 0.05357 233.77)",
+          "oklch(84% 0.05357 233.77)",
+          "oklch(95% 0.05357 233.77)"
+        ]
+      },
+      "sea-line-dark": {
+        "role": "neutral",
+        "displayName": "Sea Line Dark",
+        "tonalRamp": [
+          "oklch(15% 0.05959 232.17)",
+          "oklch(26% 0.05959 232.17)",
+          "oklch(38% 0.05959 232.17)",
+          "oklch(49% 0.05959 232.17)",
+          "oklch(61% 0.05959 232.17)",
+          "oklch(72% 0.05959 232.17)",
+          "oklch(84% 0.05959 232.17)",
+          "oklch(95% 0.05959 232.17)"
+        ]
+      },
+      "space-dark": {
+        "role": "neutral",
+        "displayName": "Space Dark",
+        "tonalRamp": [
+          "oklch(15% 0.04956 236.34)",
+          "oklch(26% 0.04956 236.34)",
+          "oklch(38% 0.04956 236.34)",
+          "oklch(49% 0.04956 236.34)",
+          "oklch(61% 0.04956 236.34)",
+          "oklch(72% 0.04956 236.34)",
+          "oklch(84% 0.04956 236.34)",
+          "oklch(95% 0.04956 236.34)"
+        ]
+      },
+      "sea-deep-dark": {
+        "role": "neutral",
+        "displayName": "Sea Deep Dark",
+        "tonalRamp": [
+          "oklch(15% 0.05013 235.62)",
+          "oklch(26% 0.05013 235.62)",
+          "oklch(38% 0.05013 235.62)",
+          "oklch(49% 0.05013 235.62)",
+          "oklch(61% 0.05013 235.62)",
+          "oklch(72% 0.05013 235.62)",
+          "oklch(84% 0.05013 235.62)",
+          "oklch(95% 0.05013 235.62)"
+        ]
+      },
+      "land-dark": {
+        "role": "neutral",
+        "displayName": "Land Dark",
+        "tonalRamp": [
+          "oklch(15% 0.03135 187.35)",
+          "oklch(26% 0.03135 187.35)",
+          "oklch(38% 0.03135 187.35)",
+          "oklch(49% 0.03135 187.35)",
+          "oklch(61% 0.03135 187.35)",
+          "oklch(72% 0.03135 187.35)",
+          "oklch(84% 0.03135 187.35)",
+          "oklch(95% 0.03135 187.35)"
+        ]
+      },
+      "land-line-dark": {
+        "role": "neutral",
+        "displayName": "Land Line Dark",
+        "tonalRamp": [
+          "oklch(15% 0.02705 165.42)",
+          "oklch(26% 0.02705 165.42)",
+          "oklch(38% 0.02705 165.42)",
+          "oklch(49% 0.02705 165.42)",
+          "oklch(61% 0.02705 165.42)",
+          "oklch(72% 0.02705 165.42)",
+          "oklch(84% 0.02705 165.42)",
+          "oklch(95% 0.02705 165.42)"
+        ]
+      },
+      "relief-dark": {
+        "role": "neutral",
+        "displayName": "Relief Dark",
+        "tonalRamp": [
+          "oklch(15% 0.02689 175.91)",
+          "oklch(26% 0.02689 175.91)",
+          "oklch(38% 0.02689 175.91)",
+          "oklch(49% 0.02689 175.91)",
+          "oklch(61% 0.02689 175.91)",
+          "oklch(72% 0.02689 175.91)",
+          "oklch(84% 0.02689 175.91)",
+          "oklch(95% 0.02689 175.91)"
+        ]
+      },
+      "copper-dark": {
+        "role": "secondary",
+        "displayName": "Copper Dark",
+        "tonalRamp": [
+          "oklch(15% 0.10515 57.01)",
+          "oklch(26% 0.10515 57.01)",
+          "oklch(38% 0.10515 57.01)",
+          "oklch(49% 0.10515 57.01)",
+          "oklch(61% 0.10515 57.01)",
+          "oklch(72% 0.10515 57.01)",
+          "oklch(84% 0.10515 57.01)",
+          "oklch(95% 0.10515 57.01)"
+        ]
+      },
+      "verdigris-dark": {
+        "role": "secondary",
+        "displayName": "Verdigris Dark",
+        "tonalRamp": [
+          "oklch(15% 0.07387 175.76)",
+          "oklch(26% 0.07387 175.76)",
+          "oklch(38% 0.07387 175.76)",
+          "oklch(49% 0.07387 175.76)",
+          "oklch(61% 0.07387 175.76)",
+          "oklch(72% 0.07387 175.76)",
+          "oklch(84% 0.07387 175.76)",
+          "oklch(95% 0.07387 175.76)"
+        ]
+      },
+      "slate-dark": {
+        "role": "secondary",
+        "displayName": "Slate Dark",
+        "tonalRamp": [
+          "oklch(15% 0.02814 241.26)",
+          "oklch(26% 0.02814 241.26)",
+          "oklch(38% 0.02814 241.26)",
+          "oklch(49% 0.02814 241.26)",
+          "oklch(61% 0.02814 241.26)",
+          "oklch(72% 0.02814 241.26)",
+          "oklch(84% 0.02814 241.26)",
+          "oklch(95% 0.02814 241.26)"
+        ]
+      },
+      "gold-dark": {
+        "role": "secondary",
+        "displayName": "Gold Dark",
+        "tonalRamp": [
+          "oklch(15% 0.10654 87.07)",
+          "oklch(26% 0.10654 87.07)",
+          "oklch(38% 0.10654 87.07)",
+          "oklch(49% 0.10654 87.07)",
+          "oklch(61% 0.10654 87.07)",
+          "oklch(72% 0.10654 87.07)",
+          "oklch(84% 0.10654 87.07)",
+          "oklch(95% 0.10654 87.07)"
+        ]
+      },
+      "k-town-dark": {
+        "role": "secondary",
+        "displayName": "K Town Dark",
+        "tonalRamp": [
+          "oklch(15% 0.10515 57.01)",
+          "oklch(26% 0.10515 57.01)",
+          "oklch(38% 0.10515 57.01)",
+          "oklch(49% 0.10515 57.01)",
+          "oklch(61% 0.10515 57.01)",
+          "oklch(72% 0.10515 57.01)",
+          "oklch(84% 0.10515 57.01)",
+          "oklch(95% 0.10515 57.01)"
+        ]
+      },
+      "k-village-dark": {
+        "role": "secondary",
+        "displayName": "K Village Dark",
+        "tonalRamp": [
+          "oklch(15% 0.04176 75.69)",
+          "oklch(26% 0.04176 75.69)",
+          "oklch(38% 0.04176 75.69)",
+          "oklch(49% 0.04176 75.69)",
+          "oklch(61% 0.04176 75.69)",
+          "oklch(72% 0.04176 75.69)",
+          "oklch(84% 0.04176 75.69)",
+          "oklch(95% 0.04176 75.69)"
+        ]
+      },
+      "k-sanctuary-dark": {
+        "role": "secondary",
+        "displayName": "K Sanctuary Dark",
+        "tonalRamp": [
+          "oklch(15% 0.10654 87.07)",
+          "oklch(26% 0.10654 87.07)",
+          "oklch(38% 0.10654 87.07)",
+          "oklch(49% 0.10654 87.07)",
+          "oklch(61% 0.10654 87.07)",
+          "oklch(72% 0.10654 87.07)",
+          "oklch(84% 0.10654 87.07)",
+          "oklch(95% 0.10654 87.07)"
+        ]
+      },
+      "k-church-dark": {
+        "role": "secondary",
+        "displayName": "K Church Dark",
+        "tonalRamp": [
+          "oklch(15% 0.08123 304.46)",
+          "oklch(26% 0.08123 304.46)",
+          "oklch(38% 0.08123 304.46)",
+          "oklch(49% 0.08123 304.46)",
+          "oklch(61% 0.08123 304.46)",
+          "oklch(72% 0.08123 304.46)",
+          "oklch(84% 0.08123 304.46)",
+          "oklch(95% 0.08123 304.46)"
+        ]
+      },
+      "k-fort-dark": {
+        "role": "secondary",
+        "displayName": "K Fort Dark",
+        "tonalRamp": [
+          "oklch(15% 0.06041 240.91)",
+          "oklch(26% 0.06041 240.91)",
+          "oklch(38% 0.06041 240.91)",
+          "oklch(49% 0.06041 240.91)",
+          "oklch(61% 0.06041 240.91)",
+          "oklch(72% 0.06041 240.91)",
+          "oklch(84% 0.06041 240.91)",
+          "oklch(95% 0.06041 240.91)"
+        ]
+      },
+      "k-works-dark": {
+        "role": "secondary",
+        "displayName": "K Works Dark",
+        "tonalRamp": [
+          "oklch(15% 0.07387 175.76)",
+          "oklch(26% 0.07387 175.76)",
+          "oklch(38% 0.07387 175.76)",
+          "oklch(49% 0.07387 175.76)",
+          "oklch(61% 0.07387 175.76)",
+          "oklch(72% 0.07387 175.76)",
+          "oklch(84% 0.07387 175.76)",
+          "oklch(95% 0.07387 175.76)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Selected date with tabular numerals."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Period and settlement headings."
+      },
+      "brand": {
+        "displayName": "Brand",
+        "purpose": "Application title."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Historical subsection headings."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Narrative and evidence prose."
+      },
+      "navigation": {
+        "displayName": "Navigation",
+        "purpose": "Reading-panel tabs."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Filter and disclosure labels."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Supporting metadata."
+      }
+    },
+    "shadows": [
+      {
+        "name": "map-overlay",
+        "value": "0 10px 30px #122e401f",
+        "purpose": "Floating map controls in the light theme."
+      },
+      {
+        "name": "map-overlay-dark",
+        "value": "0 10px 30px #0005",
+        "purpose": "Floating map controls in the dark theme."
+      },
+      {
+        "name": "mobile-record-sheet",
+        "value": "0 -8px 30px #132d402e",
+        "purpose": "Fixed mobile record sheet."
+      },
+      {
+        "name": "range-thumb",
+        "value": "0 2px 6px #0002",
+        "purpose": "WebKit timeline thumb."
+      }
+    ],
+    "motion": [
+      {
+        "name": "camera-duration",
+        "value": "650ms",
+        "purpose": "Interruptible camera movement; reduced motion snaps."
+      },
+      {
+        "name": "camera-easing",
+        "value": "d3.easeCubicInOut",
+        "purpose": "Canvas camera interpolation, not a CSS easing token."
+      },
+      {
+        "name": "control-transition",
+        "value": "color .15s, background .15s",
+        "purpose": "Tabs and language buttons only, with no reduced-motion request."
+      },
+      {
+        "name": "record-arrival",
+        "value": "180ms ease-out",
+        "purpose": "Clip-path record arrival from bottom inset 5% to 0%; omitted for reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-desktop",
+        "value": "1100px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "759px"
+      },
+      {
+        "name": "landscape-desktop-min",
+        "value": "760px"
+      },
+      {
+        "name": "short-landscape-max-height",
+        "value": "500px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Selected language",
+      "kind": "button",
+      "refersTo": "button-selected",
+      "description": "Pressed language or map-view action.",
+      "html": "<button class=\"ds-selected\" aria-pressed=\"true\">English</button>",
+      "css": ".ds-selected{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);background:var(--ink);color:var(--surface);padding:9px 10px;border:0;border-radius:3px;font-size:13px;font-weight:600;cursor:pointer}.ds-selected:hover{color:var(--focus)}.ds-selected:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}@media(prefers-reduced-motion:no-preference){.ds-selected{transition:color .15s,background .15s}}"
+    },
+    {
+      "name": "Era step",
+      "kind": "button",
+      "refersTo": "button-step",
+      "description": "Previous or next era action.",
+      "html": "<button class=\"ds-step\" aria-label=\"Next era\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m9 5 7 7-7 7\"/></svg></button>",
+      "css": ".ds-step{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);width:44px;height:44px;background:var(--surface-2);border:0;border-radius:3px;display:grid;place-items:center;cursor:pointer}.ds-step svg{fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round}.ds-step:hover{color:var(--focus)}.ds-step:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}.ds-step:disabled{opacity:.45;cursor:default}"
+    },
+    {
+      "name": "Direct-date Go",
+      "kind": "button",
+      "refersTo": "button-date",
+      "description": "Submit the year and BCE/CE choice.",
+      "html": "<button class=\"ds-go\">Go</button>",
+      "css": ".ds-go{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);padding:5px;background:var(--surface-2);border:0;border-radius:3px;font-size:14px;font-weight:600;cursor:pointer}.ds-go:hover{color:var(--focus)}.ds-go:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}"
+    },
+    {
+      "name": "Year field",
+      "kind": "input",
+      "refersTo": "input-date",
+      "description": "Direct numeric date entry.",
+      "html": "<label class=\"ds-date-label\" for=\"ds-year\">Go to year</label><input class=\"ds-year\" id=\"ds-year\" type=\"number\" value=\"450\">",
+      "css": ".ds-date-label{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);display:block;color:var(--muted);font-size:12px}.ds-year{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);width:100px;min-width:0;padding:7px;background:var(--surface);border:1px solid var(--line);border-radius:3px;font-size:14px;caret-color:var(--focus)}.ds-year:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}"
+    },
+    {
+      "name": "Information tabs",
+      "kind": "nav",
+      "refersTo": "navigation-tab",
+      "description": "Ruled reading-panel navigation.",
+      "html": "<nav class=\"ds-tabs\" aria-label=\"Historical information\"><button aria-pressed=\"true\">Overview</button><button aria-pressed=\"false\">Places</button><button aria-pressed=\"false\">Sources</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:12px;padding:0 20px;border-bottom:1px solid var(--line);background:var(--surface)}.ds-tabs button{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);padding:16px 6px 13px;border:0;border-bottom:3px solid transparent;background:none;font-size:15px;font-weight:600;cursor:pointer}.ds-tabs button[aria-pressed=true]{border-color:var(--focus);color:var(--focus)}.ds-tabs button:hover{color:var(--focus)}.ds-tabs button:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}@media(prefers-reduced-motion:no-preference){.ds-tabs button{transition:color .15s,background .15s}}"
+    },
+    {
+      "name": "Settlement filter",
+      "kind": "custom",
+      "refersTo": "filter-row",
+      "description": "A category row; excluded categories are struck through.",
+      "html": "<button class=\"ds-filter\" aria-pressed=\"true\"><i aria-hidden=\"true\"></i><b>Towns</b></button><button class=\"ds-filter\" aria-pressed=\"false\"><i aria-hidden=\"true\"></i><b>Towns</b></button>",
+      "css": ".ds-filter{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);display:flex;align-items:center;gap:8px;text-align:left;background:none;border:0;padding:7px 0;font-size:14px;cursor:pointer}.ds-filter b{font-weight:400}.ds-filter i{width:9px;height:9px;border-radius:50%;background:var(--k-town)}.ds-filter[aria-pressed=false]{color:var(--muted)}.ds-filter[aria-pressed=false] b{text-decoration:line-through}.ds-filter:hover{color:var(--focus)}.ds-filter:focus-visible{outline:2px solid var(--focus);outline-offset:4px;}"
+    },
+    {
+      "name": "Map evidence container",
+      "kind": "card",
+      "refersTo": "map-container",
+      "description": "A floating legend surface with structural elevation.",
+      "html": "<section class=\"ds-map-card\"><strong>Areas of control</strong><div class=\"ds-control-row\"><i aria-hidden=\"true\"></i><span>British Sovereign Base Areas</span></div></section>",
+      "css": ".ds-map-card{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);background:var(--surface);padding:12px 14px;border-radius:4px;box-shadow:var(--shadow);font-size:13px;max-width:240px}.ds-control-row{display:flex;align-items:center;gap:8px;margin-top:4px}.ds-control-row i{width:10px;height:10px;flex:0 0 10px;background:#5D7387}"
+    },
+    {
+      "name": "Record status",
+      "kind": "custom",
+      "refersTo": "record-status",
+      "description": "Tonal status block within a ruled record.",
+      "html": "<p class=\"ds-status\">This place is outside its recorded occupation range.</p>",
+      "css": ".ds-status{font-family:var(--font-body,\"Source Sans 3\",Arial,sans-serif);color:var(--ink);background:var(--surface-2);padding:12px 14px;font-size:14px;margin:16px 0}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Archaeological Field Register",
+    "overview": "The archaeological field register is the established visual world: cool writing surfaces, mineral sea, stone land and ruled evidence records. Substantive serif headings lend historical weight; compact sans-serif controls keep exploration direct. The interface is dense enough to operate an atlas while preserving a readable narrative measure.\n\nThis is a code-led system extracted from cyprus-historical-explorer.html and the accepted surface direction. There is no approved image composition or shipping raster asset. Maps, symbols and emblems are drawn with canvas/SVG; historical heraldry retains its actual tinctures.",
+    "keyCharacteristics": [
+      "Cool scholarly material, with explicit light and dark themes.",
+      "Compact rectangular controls and ruled record sections.",
+      "A linked map, continuous time dock and preserved reading context.",
+      "Category symbols, rings and dashed states accompany color."
+    ],
+    "rules": [
+      {
+        "name": "Evidence Color",
+        "body": "Settlement, era and control colors identify data; reserve the focus token for interaction and selection.",
+        "section": "colors"
+      },
+      {
+        "name": "Two Voices",
+        "body": "Use the serif for substantive historical headings and geographic annotation; use the sans serif for prose, labels and controls.",
+        "section": "typography"
+      },
+      {
+        "name": "Floating Tools",
+        "body": "Keep reading surfaces flat and ruled; use elevation to distinguish controls floating over the map and the mobile record sheet.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the cool register palette and its paired dark-theme roles.",
+      "Do retain category symbols, capital rings and dashed out-of-date markers alongside color.",
+      "Do keep direct year entry available at intermediate widths and on mobile.",
+      "Do preserve the selected record and its scroll context while time or filters change.",
+      "Do honor visible focus, reduced motion and coarse-pointer sizing."
+    ],
+    "donts": [
+      "Don't introduce artificial ageing, parchment textures or decorative photography.",
+      "Don't turn record sections into a stack of rounded promotional cards.",
+      "Don't recolor historical heraldry or imply new historical border claims through styling.",
+      "Don't claim performance timing, real-device coverage or WCAG certification from the scoped finish verdict."
+    ]
+  }
+}

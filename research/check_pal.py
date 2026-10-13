@@ -1,10 +1,14 @@
-import sys,json
-sys.path.insert(0,'/tmp/claude-1000/-home-merkourio-whisper-cpp/39b7e747-2e77-4940-b299-245648dc3693/scratchpad')
-from atlas import load
+import sys,json,re
+from pathlib import Path
+sys.path.insert(0,str(Path(__file__).resolve().parent))
+from atlas import load, HTML
 from colour import hex2rgb, over, dE
-ERA=json.load(open(sys.argv[1])); EXT=json.load(open(sys.argv[2]))
-A=json.loads(sys.argv[3])   # alphas
-LAND=[hex2rgb('#F3F0E6'),hex2rgb('#2E4B54')]
+HERE=Path(__file__).resolve().parent
+ERA=json.load(open(sys.argv[1] if len(sys.argv)>1 else HERE/'era-colors.json'))
+EXT=json.load(open(sys.argv[2] if len(sys.argv)>2 else HERE/'extent-colors.json'))
+A=json.loads(sys.argv[3]) if len(sys.argv)>3 else {'overlord':.44,'co-power':.52,'suzerain':.28}
+# Compare over the land colours actually shipped in each theme.
+LAND=[hex2rgb(c) for c in dict.fromkeys(re.findall(r'--land:\s*(#[0-9a-fA-F]{6})',Path(HTML).read_text()))]
 E=load('EXTENTS')
 slots={}
 for e in E:
@@ -39,3 +43,6 @@ for i in range(len(ids)):
             bad2+=1
             print('  %5.1f (need %d) %-12s %-12s %s'%(d,need,ids[i],ids[j],'adjacent' if j==i+1 else ''))
 print('  pairs below threshold: %d'%bad2)
+
+if bad or bad2:
+    sys.exit(1)

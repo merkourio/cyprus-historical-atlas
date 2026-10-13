@@ -1,7 +1,8 @@
+from pathlib import Path
 import asyncio, json
 from playwright.async_api import async_playwright
-HTML='/home/merkourio/Documents/Cyprus history map/cyprus-historical-explorer.html'
-base={s['id'] for s in json.load(open('/home/merkourio/Documents/Cyprus history map/research/atlas-data.json'))['SETTLEMENTS']}
+HTML=str(Path(__file__).resolve().parent.parent / 'cyprus-historical-explorer.html')
+base={s['id'] for s in json.load(open(Path(__file__).resolve().parent / 'atlas-data.json'))['SETTLEMENTS']}
 async def main():
     async with async_playwright() as p:
         b=await p.chromium.launch(); pg=await b.new_page()

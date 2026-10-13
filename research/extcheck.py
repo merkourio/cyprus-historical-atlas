@@ -1,7 +1,8 @@
+from pathlib import Path
 import asyncio
 from itertools import groupby
 from playwright.async_api import async_playwright
-HTML='/home/merkourio/Documents/Cyprus history map/cyprus-historical-explorer.html'
+HTML=str(Path(__file__).resolve().parent.parent / 'cyprus-historical-explorer.html')
 async def main():
     async with async_playwright() as p:
         b=await p.chromium.launch(); pg=await b.new_page(viewport={'width':1400,'height':900})

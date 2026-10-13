@@ -1,7 +1,9 @@
+from pathlib import Path
 import asyncio, sys, json
 from playwright.async_api import async_playwright
-HTML='/home/merkourio/Documents/Cyprus history map/cyprus-historical-explorer.html'
-N='/tmp/claude-1000/-home-merkourio-whisper-cpp/39b7e747-2e77-4940-b299-245648dc3693/scratchpad'
+HTML=str(Path(__file__).resolve().parent.parent / 'cyprus-historical-explorer.html')
+N=str(Path(__file__).resolve().parent.parent / '.impeccable' / 'review')
+Path(N).mkdir(parents=True, exist_ok=True)
 CASES=[('aceramic',-9000),('lba',-1400),('archaic',-600),('classical',-450),
        ('roman',150),('byzantine',700),('lusignan',1300),('ottoman',1700),('republic',2000)]
 async def main():

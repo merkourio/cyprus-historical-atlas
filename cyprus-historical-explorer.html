@@ -1,286 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Explore Cyprus through 16 historical periods, settlements, archaeological finds and their sources.">
 <title>Cyprus Historical Explorer</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif:wght@400;600;700&family=Noto+Sans+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600;700&family=Source+Sans+3:wght@400;500;600;700&family=Noto+Serif:wght@400;600&display=swap">
 <style>
-:root{
-  --ground:#ECEEE9; --surface:#F7F8F5; --surface-2:#E3E7E1; --ink:#1B252C; --ink-2:#44525A; --muted:#6B7A80; --line:#CBD2CD;
-  --sea:#C8D8E0; --sea-line:#A9BFCA; --space:#D9DEDC; --sea-deep:#AFC5D0; --land:#F3F0E6; --land-line:#8A968F; --relief:#DED8C7;
-  --copper:#B4622E; --verdigris:#3B8578; --slate:#5F6F7A; --gold:#C29A3A;
-  --k-town:#B4622E; --k-village:#7A6E5A; --k-sanctuary:#C29A3A; --k-church:#6A5A8C; --k-fort:#46708F; --k-works:#3B8578;
-  --shadow:0 12px 32px rgba(27,37,44,.14);
-  --font-display:"Fraunces","Noto Serif","Iowan Old Style","Palatino Linotype",Georgia,serif;
-  --font-body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
-  --font-mono:"IBM Plex Mono","Noto Sans Mono","SFMono-Regular",Menlo,Consolas,monospace;
-}
-@media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]){
-    --ground:#0E1A21; --surface:#152430; --surface-2:#1D3040; --ink:#E4EAE8; --ink-2:#B7C3C4; --muted:#8C9CA2; --line:#2B3F4E;
-    --sea:#0F2A3A; --sea-line:#24505F; --space:#06101A; --sea-deep:#0A1E2C; --land:#2E4B54; --land-line:#8FAAAE; --relief:#2F4C56;
-    --copper:#D2824B; --verdigris:#5DAA9A; --slate:#9DACB7; --gold:#D6B04F;
-    --k-town:#D2824B; --k-village:#A79A80; --k-sanctuary:#D6B04F; --k-church:#A08BC4; --k-fort:#7FA6C8; --k-works:#5DAA9A;
-    --shadow:0 12px 32px rgba(0,0,0,.45);
-  }
-}
-:root[data-theme="dark"]{
-  --ground:#0E1A21; --surface:#152430; --surface-2:#1D3040; --ink:#E4EAE8; --ink-2:#B7C3C4; --muted:#8C9CA2; --line:#2B3F4E;
-  --sea:#0F2A3A; --sea-line:#24505F; --space:#06101A; --sea-deep:#0A1E2C; --land:#2E4B54; --land-line:#8FAAAE; --relief:#2F4C56;
-  --copper:#D2824B; --verdigris:#5DAA9A; --slate:#9DACB7; --gold:#D6B04F;
-  --k-town:#D2824B; --k-village:#A79A80; --k-sanctuary:#D6B04F; --k-church:#A08BC4; --k-fort:#7FA6C8; --k-works:#5DAA9A;
-  --shadow:0 12px 32px rgba(0,0,0,.45);
-}
-*{box-sizing:border-box}
-html,body{height:100%}
-body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--font-body);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
-button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
-button:focus-visible,input:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--copper);outline-offset:2px}
-.mono{font-family:var(--font-mono);font-variant-numeric:tabular-nums}
-.eyebrow{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-
-.app{display:grid;grid-template-rows:auto auto minmax(0,1fr) auto;height:100vh;height:100dvh;overflow:hidden}
-
-/* header */
-.head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px 24px;padding:14px 22px 10px;border-bottom:1px solid var(--line);flex-wrap:wrap;min-width:0}
-.brand{min-width:0;flex:1 1 260px}
-.langsel{display:flex;gap:2px;background:var(--surface-2);border-radius:3px;padding:3px;align-self:center;flex:0 0 auto}
-.langsel button{font-family:var(--font-mono);font-size:11px;letter-spacing:.04em;padding:5px 9px;border-radius:2px;color:var(--muted)}
-.langsel button:hover{color:var(--ink)}
-.langsel button[aria-pressed="true"]{background:var(--ink);color:var(--surface)}
-@media (pointer: coarse){ .langsel button{padding:8px 11px;font-size:12px} }
-.brand h1{font-family:var(--font-display);font-weight:600;font-size:21px;margin:0;line-height:1.15;letter-spacing:-.01em}
-.brand p{margin:2px 0 0;color:var(--muted);font-size:13px}
-.now{flex:0 0 auto;text-align:right;display:flex;flex-direction:column;align-items:flex-end}
-.now .year{font-family:var(--font-display);font-variant-numeric:tabular-nums;font-weight:700;font-size:38px;line-height:1;letter-spacing:-.02em}
-.now .era{font-family:var(--font-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;margin-top:6px;display:flex;align-items:center;gap:8px;color:var(--ink-2)}
-.now .era i{display:inline-block;width:10px;height:10px;border-radius:2px;background:var(--era)}
-
-/* era bar */
-.erabar{display:flex;height:40px;padding:0 22px;gap:2px;background:var(--ground);min-width:0}
-.erabar button{position:relative;height:100%;min-width:0;flex:var(--eraw,1) 1 0;background:var(--c);opacity:.42;color:#fff;font-family:var(--font-mono);font-size:10px;letter-spacing:.04em;text-transform:uppercase;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;padding:0 6px;text-align:left;transition:opacity .2s;border-radius:2px}
-.erabar button:hover{opacity:.75}
-.erabar button[aria-current="true"]{opacity:1;box-shadow:inset 0 -3px 0 rgba(255,255,255,.7)}
-.erabar button span{text-shadow:0 1px 1px rgba(0,0,0,.35)}
-.erabar.compact{height:26px}
-.erabar.compact button span{display:none}
-.erabar.compact button[aria-current="true"]{flex-grow:7;padding:0 9px;text-align:center}
-.erabar.compact button[aria-current="true"] span{display:inline}
-
-/* main */
-.main{display:grid;grid-template-columns:var(--panelw,340px) 7px minmax(0,1fr);min-height:0;position:relative}
-.panel{overflow-y:auto;padding:22px 22px 26px;background:var(--surface);min-width:0}
-/* the drag handle between the panel and the globe */
-.split{position:relative;background:var(--line);cursor:col-resize;touch-action:none}
-.split::before{content:"";position:absolute;inset:0 -5px;z-index:2}
-.split::after{content:"";position:absolute;top:50%;left:50%;width:3px;height:34px;transform:translate(-50%,-50%);border-radius:3px;background:var(--surface);opacity:.65}
-.split:hover,.split:focus-visible{background:var(--copper)}
-.split:hover::after,.split:focus-visible::after{opacity:1}
-body.resizing{cursor:col-resize}
-body.resizing *{user-select:none}
-.panel .eyebrow{display:flex;align-items:center;gap:8px}
-.panel .eyebrow i{width:10px;height:10px;border-radius:2px;background:var(--era);display:inline-block}
-.panel h2{font-family:var(--font-display);font-weight:600;font-size:28px;line-height:1.1;margin:8px 0 6px;letter-spacing:-.015em;text-wrap:balance}
-.panel .dates{font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-size:13px;color:var(--ink-2)}
-.kv{display:grid;grid-template-columns:auto 1fr;gap:4px 14px;margin:16px 0;padding:12px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line);font-size:13.5px}
-.kv dt{color:var(--muted);font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding-top:3px}
-.kv dd{margin:0;color:var(--ink)}
-.panel p{margin:0 0 12px;max-width:62ch;color:var(--ink)}
-.pnote{font-size:12.5px;color:var(--muted);border-left:2px solid var(--line);padding-left:10px}
-.panel h3{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:20px 0 8px;font-weight:500}
-.events{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
-.events li{display:grid;grid-template-columns:92px 1fr;gap:10px;font-size:13.5px;line-height:1.4}
-.events .y{font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-size:12px;color:var(--era);font-weight:500;padding-top:2px;white-space:nowrap}
-.region{border-left:3px solid var(--era);padding:4px 0 4px 12px;color:var(--ink-2);font-size:13.5px;margin:0}
-
-/* globe */
-.mapwrap{position:relative;min-width:0;min-height:0;background:var(--space);overflow:hidden}
-.stage{position:absolute;inset:0;cursor:grab;touch-action:none}
-.stage:active{cursor:grabbing}
-.stage canvas{position:absolute;inset:0;width:100%;height:100%;display:block}
-.stage svg{position:absolute;inset:0;width:100%;height:100%;display:block;pointer-events:none;overflow:visible}
-.site{cursor:pointer;pointer-events:auto}
-.site circle{stroke:var(--surface);stroke-width:2;transition:r .18s}
-.site.k-town circle{fill:var(--k-town)}
-.site.k-village circle{fill:var(--k-village)}
-.site.k-sanctuary circle{fill:var(--k-sanctuary)}
-.site.k-church circle{fill:var(--k-church)}
-.site.k-fort circle{fill:var(--k-fort)}
-.site.k-works circle{fill:var(--k-works)}
-/* the ring shows only in the years a place actually was a city-kingdom */
-.site circle.ring{display:none;fill:none;stroke:var(--copper);stroke-width:1.6}
-.site.crown circle.ring{display:block}
-.site.crown.ghost circle.ring{display:none}
-.site:hover circle,.site.selected circle{r:9}
-.site.selected circle{stroke:var(--ink);stroke-width:2.5}
-.site text{font-family:var(--font-body);font-size:12px;font-weight:500;fill:var(--ink);paint-order:stroke;stroke:var(--land);stroke-width:3px;stroke-linejoin:round;pointer-events:none}
-.site.ghost{opacity:.3}
-.site.ghost circle{fill:none;stroke:var(--ink-2);stroke-width:1.2;stroke-dasharray:2 2;r:4}
-.site.ghost text{display:none}
-.site.quiet text{display:none}
-.site.quiet:hover text,.site.quiet:focus-visible text,.site.quiet.selected text{display:inline}
-.site.ghost:hover{opacity:.75}
-.site circle.hit{fill:transparent;stroke:none;r:18;opacity:1}
-.views{position:absolute;left:14px;top:12px;display:flex;background:color-mix(in srgb,var(--surface) 88%,transparent);border-radius:3px;padding:3px;gap:2px;backdrop-filter:blur(4px);box-shadow:0 1px 4px rgba(0,0,0,.12)}
-.views button{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:5px 10px;border-radius:2px;color:var(--ink-2)}
-.views button:hover{color:var(--ink)}
-.views button[aria-pressed="true"]{background:var(--ink);color:var(--surface)}
-.legend{position:absolute;left:14px;bottom:12px;max-width:calc(100% - 200px);display:flex;gap:6px 14px;font-size:12px;color:var(--ink-2);background:color-mix(in srgb,var(--surface) 82%,transparent);padding:6px 10px;border-radius:3px;backdrop-filter:blur(4px);flex-wrap:wrap}
-.legend span,.legend .filt{display:inline-flex;align-items:center;gap:6px}
-/* the legend doubles as the filter: each kind can be switched off */
-.legend .filt{font:inherit;color:inherit;cursor:pointer;border-radius:3px;padding:2px 5px;margin:-2px 0}
-.legend .filt:hover{background:color-mix(in srgb,var(--ink) 10%,transparent)}
-.legend .filt[aria-pressed="false"]{opacity:.42}
-.legend .filt[aria-pressed="false"] b{text-decoration:line-through}
-.legend .filt[aria-pressed="false"] i{background:none!important;border:1.2px solid var(--ink-2)}
-.legend .reset{color:var(--copper);font-weight:500}
-.legend .reset::before{content:"↺";margin-right:2px}
-.legend b{font-weight:400}
-.legend i{width:9px;height:9px;border-radius:50%;display:inline-block}
-.legend i.town{background:var(--k-town)} .legend i.village{background:var(--k-village)} .legend i.sanctuary{background:var(--k-sanctuary)}
-.legend i.church{background:var(--k-church)} .legend i.fort{background:var(--k-fort)} .legend i.works{background:var(--k-works)}
-.legend i.ring{background:none;border:1.6px solid var(--copper)}
-.legend i.g{border:1.2px dashed var(--ink-2)}
-.count{position:absolute;right:14px;top:12px;font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-2);background:color-mix(in srgb,var(--surface) 82%,transparent);padding:5px 9px;border-radius:3px}
-
-/* drawer */
-.drawer{position:absolute;top:0;right:0;bottom:0;width:min(400px,100%);background:var(--surface);border-left:1px solid var(--line);box-shadow:var(--shadow);transform:translateX(102%);transition:transform .28s cubic-bezier(.2,.7,.2,1);overflow-y:auto;padding:22px 22px 28px;z-index:3}
-.drawer.open{transform:none}
-.drawer .close{position:absolute;top:12px;right:14px;width:32px;height:32px;border-radius:50%;background:var(--surface-2);font-size:18px;line-height:32px;text-align:center;color:var(--ink-2)}
-.drawer .close:hover{color:var(--ink)}
-.drawer .eyebrow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.pill{display:inline-block;font-family:var(--font-mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:#fff;padding:2px 7px;border-radius:2px}
-.pill.k-town{background:var(--k-town)} .pill.k-village{background:var(--k-village)} .pill.k-sanctuary{background:var(--k-sanctuary)}
-.pill.k-church{background:var(--k-church)} .pill.k-fort{background:var(--k-fort)} .pill.k-works{background:var(--k-works)}
-.pill.kingpill{background:none;color:var(--copper);border:1px solid var(--copper)}
-.drawer h2{font-family:var(--font-display);font-weight:600;font-size:26px;line-height:1.1;margin:8px 40px 4px 0;letter-spacing:-.015em;text-wrap:balance}
-.drawer .modern{color:var(--muted);font-size:13px;margin:0 0 10px}
-.status{font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-size:12.5px;padding:8px 10px;border-radius:3px;background:var(--surface-2);color:var(--ink-2);margin:0 0 14px}
-.status.active{color:var(--ink);box-shadow:inset 3px 0 0 var(--verdigris)}
-.status.inactive{box-shadow:inset 3px 0 0 var(--muted)}
-.drawer p{margin:0 0 12px;max-width:62ch}
-.drawer h3{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:20px 0 8px;font-weight:500}
-.finds{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
-.finds li{padding-left:12px;border-left:2px solid var(--line)}
-.finds b{display:block;font-weight:600;font-size:14px}
-.finds .per{font-family:var(--font-mono);font-size:11.5px;color:var(--muted);letter-spacing:.03em}
-.finds .txt{font-size:13.5px;margin:2px 0}
-.finds .where{font-size:12.5px;color:var(--ink-2)}
-.finds .where::before{content:var(--now-label,"Now: ");color:var(--muted)}
-
-/* power head with emblem */
-.powerhead{display:flex;align-items:center;gap:14px;margin:8px 0 6px}
-.emblem{flex:0 0 auto;width:52px;height:52px;border-radius:6px;background:var(--surface-2);display:grid;place-items:center;color:var(--era)}
-.emblem svg{width:40px;height:40px;display:block}
-.powerhead h2{margin:0}
-.sitelist{display:flex;flex-wrap:wrap;gap:5px;margin:0 0 2px}
-.sitelist .grp{flex:0 0 100%;font-family:var(--font-mono);font-size:10px;letter-spacing:.07em;text-transform:uppercase;color:var(--muted);margin:6px 0 1px}
-.sitelist .grp:first-child{margin-top:0}
-.sitelist button{display:inline-flex;align-items:center;gap:6px;font-family:var(--font-body);font-size:12.5px;color:var(--ink-2);background:var(--surface-2,transparent);border:1px solid var(--line);border-radius:2px;padding:3px 8px;line-height:1.3;text-align:left}
-.sitelist button:hover{color:var(--ink);border-color:var(--ink-2)}
-.sitelist button i{width:7px;height:7px;border-radius:50%;flex:0 0 7px}
-.sitelist button.k-town i{background:var(--k-town)} .sitelist button.k-village i{background:var(--k-village)}
-.sitelist button.k-sanctuary i{background:var(--k-sanctuary)} .sitelist button.k-church i{background:var(--k-church)}
-.sitelist button.k-fort i{background:var(--k-fort)} .sitelist button.k-works i{background:var(--k-works)}
-.onglobe{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
-.onglobe li{display:grid;grid-template-columns:12px 1fr;gap:10px;align-items:baseline;font-size:13px;color:var(--ink-2)}
-.onglobe i{width:12px;height:12px;border-radius:2px;display:inline-block;transform:translateY(2px);border:1px solid rgba(0,0,0,.15)}
-.onglobe b{color:var(--ink);font-weight:600}
-.onglobe .role{font-family:var(--font-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin-left:6px}
-/* map legend for extents and areas of control */
-.ctrl{position:absolute;right:14px;top:44px;max-width:280px;display:flex;flex-direction:column;gap:5px;font-size:12px;color:var(--ink-2);background:color-mix(in srgb,var(--surface) 86%,transparent);padding:8px 10px;border-radius:3px;backdrop-filter:blur(4px)}
-.ctrl:empty{display:none}
-.ctrl div{display:flex;align-items:center;gap:8px;line-height:1.3}
-.ctrl i{flex:0 0 auto;width:12px;height:12px;border-radius:2px;display:inline-block;border:1px solid rgba(0,0,0,.2)}
-.ctrl i.hatch{background:repeating-linear-gradient(135deg,#8E6AA3 0 3px,#3E9C82 3px 6px)}
-.ctrl .h{font-family:var(--font-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-top:2px}
-.ctrl .h:first-child{margin-top:0}
-.snapyr{color:var(--muted)}
-
-.popnote{display:block;font-size:12.5px;color:var(--muted);margin-top:2px}
-.life{margin:0 0 4px;display:grid;grid-template-columns:auto 1fr;gap:6px 14px;font-size:13.5px}
-.life dt{font-family:var(--font-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding-top:3px}
-.life dd{margin:0;color:var(--ink);max-width:60ch}
-
-/* sources */
-.sources{margin-top:18px;font-size:12.5px;color:var(--ink-2)}
-.sources summary{cursor:pointer;font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);list-style:none;display:flex;align-items:center;gap:6px}
-.sources summary::before{content:"";width:0;height:0;border-left:5px solid var(--muted);border-top:3.5px solid transparent;border-bottom:3.5px solid transparent;transition:transform .15s}
-.sources[open] summary::before{transform:rotate(90deg)}
-.sources ul{list-style:none;margin:8px 0 0;padding:0;display:flex;flex-direction:column;gap:5px}
-.sources li{display:flex;gap:8px;align-items:baseline;flex-wrap:wrap}
-.sources a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}
-.sources a:hover{border-color:var(--copper);color:var(--copper)}
-.src-host{font-family:var(--font-mono);font-size:10.5px;color:var(--muted)}
-
-.rulers .finds{margin-top:10px}
-.readlist{list-style:none;margin:10px 0 0;padding:0;display:flex;flex-direction:column;gap:11px}
-.readlist li{padding-left:12px;border-left:2px solid var(--line);display:grid;gap:1px}
-.readlist .rt{font-style:italic;color:var(--ink);font-size:13.5px;line-height:1.35}
-.readlist .ra{font-size:12.5px;color:var(--ink-2)}
-.readlist .rn{font-size:12.5px;color:var(--muted);margin:2px 0 0;line-height:1.4}
-.readlist .rk{justify-self:start;font-family:var(--font-mono);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;padding:1px 5px;border-radius:2px;background:var(--surface-2);color:var(--ink-2);margin-bottom:2px}
-.readlist .rk-fiction{background:color-mix(in srgb,var(--k-church) 22%,var(--surface-2))}
-.readlist .rk-primary{background:color-mix(in srgb,var(--gold) 26%,var(--surface-2))}
-.readlist .rk-academic,.readlist .rk-article,.readlist .rk-essay{background:color-mix(in srgb,var(--k-fort) 18%,var(--surface-2))}
-.rulers .finds li{border-left-color:var(--era)}
-
-/* timeline */
-.timeline{padding:12px 22px 14px;border-top:1px solid var(--line);background:var(--surface);display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;min-width:0}
-.step{width:34px;height:34px;border-radius:50%;background:var(--surface-2);color:var(--ink-2);font-size:16px;display:grid;place-items:center}
-.step:hover{color:var(--ink)}
-.track{position:relative;padding:4px 0 22px}
-input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:14px;margin:0;background:var(--grad);border-radius:3px;cursor:pointer;display:block}
-input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:14px;height:30px;border-radius:3px;background:var(--surface);border:2px solid var(--ink);box-shadow:0 2px 6px rgba(0,0,0,.25);cursor:grab}
-input[type=range]::-moz-range-thumb{width:10px;height:26px;border-radius:3px;background:var(--surface);border:2px solid var(--ink);box-shadow:0 2px 6px rgba(0,0,0,.25);cursor:grab}
-input[type=range]:active::-webkit-slider-thumb{cursor:grabbing}
-.ticks{position:absolute;left:0;right:0;top:22px;height:18px;pointer-events:none}
-.ticks span{position:absolute;transform:translateX(-50%);font-family:var(--font-mono);font-variant-numeric:tabular-nums;font-size:10.5px;color:var(--muted);white-space:nowrap}
-.ticks span::before{content:"";position:absolute;left:var(--mk,50%);top:-6px;width:1px;height:5px;background:var(--line)}
-
-.hint{grid-column:1/-1;min-width:0;font-size:12px;color:var(--muted);margin:-4px 0 0;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
-kbd{font-family:var(--font-mono);font-size:11px;padding:0 5px;border:1px solid var(--line);border-radius:3px;background:var(--surface-2)}
-
-@media (pointer: coarse){
-  input[type=range]{height:18px}
-  input[type=range]::-webkit-slider-thumb{width:26px;height:38px;border-radius:5px}
-  input[type=range]::-moz-range-thumb{width:22px;height:34px;border-radius:5px}
-  .step{width:44px;height:44px;font-size:20px}
-  .views button{padding:9px 12px;font-size:12px}
-  .drawer .close{width:40px;height:40px;line-height:40px;font-size:22px}
-  .erabar{height:44px}
-}
-@media (max-width: 900px){
-  .app{height:auto;overflow:visible;display:flex;flex-direction:column}
-  .head{padding:10px 14px 8px;align-items:center}
-  .brand p{display:none}
-  .erabar{height:14px;padding:0 14px;gap:1px}
-  .erabar button span{display:none}
-  .erabar.compact{height:14px}
-  .erabar.compact button[aria-current="true"]{flex-grow:var(--eraw,1)}
-  .erabar.compact button[aria-current="true"] span{display:none}
-  .erabar button[aria-current="true"]{box-shadow:inset 0 -3px 0 rgba(255,255,255,.9)}
-  .main{display:flex;flex-direction:column}
-  .split{display:none}
-  .mapwrap{order:1;aspect-ratio:auto;display:flex;flex-direction:column}
-  .stage{position:relative;height:min(58vh,440px);flex:0 0 auto}
-  .ctrl,.legend,.count{position:static;max-width:none;border-radius:0;background:var(--surface);backdrop-filter:none;border-top:1px solid var(--line);font-size:11.5px;padding:8px 14px}
-  .count{order:0;text-align:left}
-  .ctrl{gap:4px}
-  .legend{gap:8px 12px}
-  .now .year{font-size:24px;white-space:nowrap}
-  .brand h1{font-size:17px}
-  .site text{font-size:11px}
-  .panel{padding-bottom:120px}
-  .panel{order:2;border-right:0;border-top:1px solid var(--line);max-height:none;padding:18px 16px 24px}
-  .timeline{position:sticky;bottom:0;z-index:6;padding:8px 12px 10px;gap:8px;box-shadow:0 -6px 18px rgba(0,0,0,.18)}
-  .hint{display:none}
-  .views{top:8px;left:8px}
-  .drawer{position:fixed;left:0;right:0;bottom:0;top:auto;width:100%;height:72vh;border-left:0;border-top:1px solid var(--line);border-radius:12px 12px 0 0;transform:translateY(102%);padding:18px 16px 28px}
-  .drawer.open{transform:none}
-}
-@media (prefers-reduced-motion: reduce){
-  .drawer,.erabar button,.site circle{transition:none}
-}
+:root{color-scheme:light;--ground:#edf1f2;--surface:#fff;--surface-2:#eff3f5;--ink:#152c3a;--ink-2:#3e5666;--muted:#536a78;--line:#d2dce1;--focus:#245de4;--sea:#cbdde6;--sea-line:#a0becb;--space:#d8e5eb;--sea-deep:#b8d0dc;--land:#ebeddf;--land-line:#617b75;--relief:#d3d9c3;--copper:#a55021;--verdigris:#28776b;--slate:#536c7e;--gold:#866718;--k-town:#a55021;--k-village:#72634d;--k-sanctuary:#927018;--k-church:#725891;--k-fort:#3b6c8f;--k-works:#28776b;--shadow:0 10px 30px #122e401f;--font-display:"Source Serif 4","Noto Serif",Georgia,serif;--font-body:"Source Sans 3",Arial,sans-serif;--font-mono:var(--font-body)}
+:root[data-theme=dark]{color-scheme:dark;--ground:#14212b;--surface:#192b37;--surface-2:#233a48;--ink:#edf3f5;--ink-2:#c4d3db;--muted:#a8bbc7;--line:#3b5262;--focus:#91b6ff;--sea:#183d50;--sea-line:#386379;--space:#123244;--sea-deep:#123345;--land:#47615e;--land-line:#a5bab0;--relief:#546963;--copper:#efaa77;--verdigris:#82c6b4;--slate:#aabcca;--gold:#e6c474;--k-town:#efaa77;--k-village:#c8b59b;--k-sanctuary:#e6c474;--k-church:#c0a8df;--k-fort:#9ac2e0;--k-works:#82c6b4;--shadow:0 10px 30px #0005}
+*{box-sizing:border-box}html,body{margin:0;height:100%}body{background:var(--ground);color:var(--ink);font:16px/1.55 var(--font-body);-webkit-font-smoothing:antialiased}button,input,select{font:inherit;color:inherit}button{cursor:pointer;background:none;border:0}button:disabled{opacity:.45;cursor:default}button,input,select,[tabindex],summary{outline-offset:4px}button:focus-visible,input:focus-visible,select:focus-visible,[tabindex]:focus-visible,summary:focus-visible,a:focus-visible{outline:2px solid var(--focus)}button:hover{color:var(--focus)}a{color:var(--focus);text-underline-offset:3px;overflow-wrap:anywhere}::selection{background:var(--focus);color:var(--surface)}input{caret-color:var(--focus)}*{scrollbar-width:thin;scrollbar-color:var(--muted) var(--surface-2)}[hidden]{display:none!important}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}.mono{font-variant-numeric:tabular-nums}.skip{position:fixed;top:-100px;left:16px;z-index:20;background:var(--surface);padding:12px}.skip:focus{top:12px}
+.app{height:100vh;height:100dvh;display:grid;grid-template-rows:auto minmax(0,1fr) auto;overflow:hidden}.head{display:flex;align-items:center;gap:24px;padding:15px 24px;border-bottom:1px solid var(--line);background:var(--surface);min-width:0}.brand{flex:1;min-width:0}.brand h1{font:600 23px/1.2 var(--font-display);margin:0}.brand p{margin:4px 0 0;font-size:14px;color:var(--muted)}.langsel{display:flex;gap:2px;flex-shrink:0}.langsel button{padding:9px 10px;border-radius:3px;font-size:13px;font-weight:600}.langsel button[aria-pressed=true]{background:var(--ink);color:var(--surface)}.theme-select{background:var(--surface);border:1px solid var(--line);border-radius:3px;padding:8px;max-width:160px;font-size:13px}.main{display:grid;grid-template-columns:var(--panelw,380px) 7px minmax(0,1fr);min-height:0;position:relative}.panel-shell{position:relative;display:flex;flex-direction:column;min-width:0;min-height:0;background:var(--surface)}.panel-tabs{display:flex;border-bottom:1px solid var(--line);padding:0 20px;flex-shrink:0;gap:12px}.panel-tabs button{padding:16px 6px 13px;border-bottom:3px solid transparent;font-weight:600;font-size:15px}.panel-tabs button[aria-pressed=true]{border-color:var(--focus);color:var(--focus)}.panel{overflow:auto;padding:26px 25px 30px;min-width:0;min-height:0;flex:1}.split{background:var(--line);cursor:col-resize;touch-action:none;position:relative}.split:before{content:"";position:absolute;inset:0 -4px;z-index:4}.split:after{content:"";position:absolute;top:50%;left:2px;width:3px;height:36px;background:var(--muted);border-radius:2px}.split:hover{background:var(--focus)}body.resizing,body.resizing *{cursor:col-resize;user-select:none}
+.panel h2,.drawer h2{font:600 30px/1.16 var(--font-display);margin:0 0 12px;letter-spacing:-.02em;text-wrap:balance}.powerhead{display:flex;align-items:center;gap:12px;margin:0 0 12px}.powerhead h2{margin:0}.emblem{width:44px;height:44px;flex:0 0 44px;color:var(--era);display:grid;place-items:center}.emblem svg{width:40px;height:40px}.dates{font-size:14px;color:var(--muted);margin:0 0 20px}.panel p,.drawer p{max-width:70ch;margin:0 0 16px}.panel h3,.drawer h3{font:600 20px/1.3 var(--font-display);margin:28px 0 12px}.kv{display:grid;grid-template-columns:70px 1fr;gap:10px;margin:24px 0;padding:18px 0;border-block:1px solid var(--line);font-size:14px}.kv dt{color:var(--muted)}.kv dd{margin:0}.section-fold{border-block-end:1px solid var(--line);padding:18px 0}.section-fold>summary{font:600 20px/1.3 var(--font-display);cursor:pointer}.section-fold[open]>summary{margin-bottom:18px}.section-fold h3:first-child{display:none}.life{display:block;margin:0}.life dt{font-size:14px;font-weight:600;margin:20px 0 5px}.life dt:first-child{margin-top:0}.life dd{margin:0;max-width:70ch}.popnote{display:block;color:var(--muted);font-size:14px;margin-top:5px}.pnote{font-size:14px;color:var(--muted)}.events{list-style:none;margin:0;padding:0;display:grid;gap:18px}.events li{display:grid;grid-template-columns:80px 1fr;gap:12px;font-size:15px}.events .y{font-variant-numeric:tabular-nums;font-size:14px;color:var(--muted)}.region{color:var(--ink-2);font-size:15px}.sources{margin-top:22px}.sources summary{cursor:pointer;font-weight:600;min-height:32px}.sources ul{list-style:none;padding:0;margin:14px 0 0;display:grid;gap:12px}.sources li{overflow-wrap:anywhere}.src-host{color:var(--muted);font-size:13px;margin-left:8px}.finds{padding:0;list-style:none;display:grid;gap:22px}.finds li{padding:0 0 20px;border-bottom:1px solid var(--line)}.finds b{display:block;font-size:17px;line-height:1.35;font-weight:600}.finds .per{font-size:14px;color:var(--muted)}.finds .txt{margin:8px 0;font-size:16px}.finds .where{font-size:14px;color:var(--ink-2)}.finds .where:before{content:var(--now-label,"Now: ")}.readlist li{display:grid;gap:4px}.readlist .rt{font:600 19px/1.3 var(--font-display)}.readlist .ra,.readlist .rn{font-size:15px}.readlist .rk{font-size:13px;color:var(--muted)}.onglobe{list-style:none;padding:0;display:grid;gap:14px}.onglobe li{display:grid;grid-template-columns:12px 1fr;gap:10px;font-size:15px}.onglobe i{width:12px;height:12px;margin-top:6px}.onglobe .role{display:block;color:var(--muted);font-size:13px}.snapyr{color:var(--muted)}.sitelist{display:flex;flex-direction:column;gap:0}.sitelist .grp{font-weight:600;color:var(--muted);margin:22px 0 8px;font-size:14px}.sitelist button{display:flex;align-items:center;gap:12px;text-align:left;padding:11px 0;border-bottom:1px solid var(--line);font-size:16px}.sitelist button i{width:9px;height:9px;flex:0 0 9px;background:var(--ink-2);border-radius:50%}.sitelist button:hover{background:var(--surface-2)}.empty{padding:20px 0}.empty button,.back,.sheet-expand{font-size:15px;font-weight:600;color:var(--focus);padding:10px 0}.place-options{display:flex;align-items:center;gap:8px;font-size:14px;margin:0 0 20px}
+.mapwrap{position:relative;min-width:0;min-height:0;background:var(--space);overflow:hidden}.stage{position:absolute;inset:0;cursor:grab;touch-action:none}.stage:active{cursor:grabbing}.stage canvas,.stage svg{position:absolute;inset:0;width:100%;height:100%;display:block}.stage svg{pointer-events:none;overflow:visible}.site{cursor:pointer;pointer-events:auto;outline:none}.site circle{stroke:var(--land);stroke-width:2}.site.k-town circle{fill:var(--k-town)}.site.k-village circle{fill:var(--k-village)}.site.k-sanctuary circle{fill:var(--k-sanctuary)}.site.k-church circle{fill:var(--k-church)}.site.k-fort circle{fill:var(--k-fort)}.site.k-works circle{fill:var(--k-works)}.site .symbol{stroke:var(--surface);stroke-width:1.4;fill:none;pointer-events:none}.site circle.ring{display:none;fill:none;stroke:var(--copper);stroke-width:1.5}.site.crown circle.ring{display:block}.site.crown.ghost circle.ring{display:none}.site.selected circle:not(.hit):not(.ring),.site:focus-visible circle:not(.hit):not(.ring){stroke:var(--focus);stroke-width:3.5;r:9}.site text{font:600 13px var(--font-body);fill:var(--ink);paint-order:stroke;stroke:var(--land);stroke-width:3px;stroke-linejoin:round;pointer-events:none}.site.ghost{opacity:.45}.site.ghost circle:not(.hit){fill:none;stroke:var(--ink-2);stroke-dasharray:2 2}.site.ghost text,.site.ghost .symbol{display:none}.site.quiet text{display:none}.site.quiet:hover text,.site.quiet:focus-visible text,.site.quiet.selected text{display:inline}.site circle.hit{fill:transparent;stroke:none;r:22}.views{position:absolute;left:20px;top:20px;display:flex;gap:2px;padding:4px;background:var(--surface);border-radius:4px;box-shadow:var(--shadow)}.views button{padding:8px 12px;font-size:14px;font-weight:600;border-radius:2px}.views button[aria-pressed=true]{background:var(--ink);color:var(--surface)}.count{position:absolute;left:20px;top:80px;font-size:13px;color:var(--ink-2)}.ctrl{position:absolute;right:20px;top:20px;max-width:240px;background:var(--surface);padding:12px 14px;border-radius:4px;font-size:13px;box-shadow:var(--shadow)}.ctrl:empty{display:none}.ctrl div{display:flex;align-items:center;gap:8px}.ctrl .h{font-weight:600;margin:8px 0 4px}.ctrl .h:first-child{margin-top:0}.ctrl i{width:10px;height:10px;flex:0 0 10px}.ctrl i.hatch{background:repeating-linear-gradient(135deg,#8e6aa3 0 3px,#3e9c82 3px 6px)}.map-tools{position:absolute;right:20px;bottom:72px;display:grid;gap:4px;background:var(--surface);padding:4px;border-radius:4px;box-shadow:var(--shadow)}.map-tools button{width:40px;height:40px;display:grid;place-items:center}.map-tools svg,.step svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round}.filters{position:absolute;left:20px;bottom:20px;max-width:calc(100% - 200px);background:var(--surface);border-radius:4px;padding:10px 14px;box-shadow:var(--shadow)}.filters>summary{cursor:pointer;font-weight:600;font-size:14px}.legend{display:grid;grid-template-columns:1fr 1fr;gap:6px 16px;margin-top:12px}.legend .filt,.legend>span{display:flex;align-items:center;gap:8px;text-align:left;font-size:14px;padding:7px 0}.legend b{font-weight:400}.legend i{display:block;flex:0 0 9px;width:9px;height:9px;border-radius:50%}.legend i.town{background:var(--k-town)}.legend i.village{background:var(--k-village)}.legend i.sanctuary{background:var(--k-sanctuary)}.legend i.church{background:var(--k-church)}.legend i.fort{background:var(--k-fort)}.legend i.works{background:var(--k-works)}.legend .filt[aria-pressed=false]{color:var(--muted)}.legend .filt[aria-pressed=false] b{text-decoration:line-through}.legend .reset{color:var(--focus)}.legend i.ring{border:1px solid var(--copper)}.legend i.g{border:1px dashed var(--ink-2)}
+.drawer{position:absolute;inset:0;background:var(--surface);padding:22px 25px 30px;overflow:auto;z-index:5}.drawer .close{width:44px;height:44px;position:absolute;top:14px;right:12px;display:grid;place-items:center;font-size:24px;background:var(--surface-2);border-radius:3px}.drawer h2{padding-right:30px;margin-top:20px}.drawer .modern{color:var(--muted);font-size:15px}.record-meta{display:flex;gap:10px;flex-wrap:wrap;font-size:14px;color:var(--muted);margin:20px 0 12px}.pill{font-weight:600}.status{background:var(--surface-2);padding:12px 14px;font-size:14px;margin:16px 0}.sheet-expand{display:none}.site-periods{font-size:14px;color:var(--muted)}
+.timeline{background:var(--surface);border-top:1px solid var(--line);padding:14px 24px 16px;display:grid;grid-template-columns:220px auto minmax(0,1fr) auto 210px;align-items:center;gap:16px;min-width:0;z-index:6}.now{min-width:0}.now .year{font:600 32px/1.1 var(--font-display);font-variant-numeric:tabular-nums;white-space:nowrap}.era-picker{font-size:14px;color:var(--ink-2);background:none;border:0;padding:4px 0;max-width:100%;cursor:pointer}.era-picker option{background:var(--surface);color:var(--ink)}.erabar{display:none}.step{width:44px;height:44px;background:var(--surface-2);border-radius:3px;display:grid;place-items:center}.track{position:relative;padding:12px 0 24px;min-width:0}input[type=range]{appearance:none;width:100%;height:12px;background:var(--grad);border-radius:2px;margin:0;cursor:pointer;display:block}input[type=range]::-webkit-slider-thumb{appearance:none;width:15px;height:30px;border-radius:2px;background:var(--surface);border:2px solid var(--ink);box-shadow:0 2px 6px #0002}input[type=range]::-moz-range-thumb{width:12px;height:28px;border-radius:2px;background:var(--surface);border:2px solid var(--ink)}.ticks{position:absolute;inset:32px 0 auto;height:18px;pointer-events:none}.ticks span{position:absolute;transform:translateX(-50%);font-size:12px;white-space:nowrap;color:var(--muted);font-variant-numeric:tabular-nums}.ticks span:before{content:"";position:absolute;left:var(--mk,50%);top:-4px;width:1px;height:4px;background:var(--line)}.date-entry{display:grid;grid-template-columns:1fr 65px 40px;gap:4px;position:relative}.date-entry label{grid-column:1/-1;font-size:12px;color:var(--muted)}.date-entry input,.date-entry select{background:var(--surface);border:1px solid var(--line);border-radius:3px;width:100%;min-width:0;padding:7px;font-size:14px}.date-entry button{padding:5px;background:var(--surface-2);border-radius:3px;font-size:14px;font-weight:600}.date-error{grid-column:1/-1;color:var(--copper);font-size:13px}.scale-note{grid-column:3;font-size:12px;color:var(--muted);margin-top:-12px}.hint{display:none}
+@media(max-width:1100px){.timeline{grid-template-columns:170px auto minmax(0,1fr) auto;gap:12px}.date-entry{display:flex;grid-column:1/-1;grid-row:3;align-items:center;gap:8px}.date-entry label{flex:1;min-width:0}.date-entry input{width:100px}.date-entry select{width:70px}.date-entry button{padding:7px 14px}.scale-note{grid-column:1/-1;grid-row:2;margin:0}.head{padding:14px 18px;gap:12px}.ctrl{max-width:190px;font-size:12px;top:auto;bottom:88px}.main{grid-template-columns:var(--panelw,340px) 7px minmax(0,1fr)}.now .year{font-size:28px}.legend{grid-template-columns:1fr}.filters{max-width:calc(100% - 100px)}}
+@media(max-width:759px){.app{height:auto;min-height:100dvh;overflow:visible;display:flex;flex-direction:column}.head{flex-wrap:wrap;padding:14px 16px;gap:12px}.brand{flex-basis:100%}.brand h1{font-size:24px}.brand p{font-size:13px}.theme-select{margin-left:auto}.main{display:flex;flex-direction:column}.mapwrap{order:0;height:55dvh;min-height:340px;max-height:540px}.panel-shell{order:1}.split{display:none}.panel{overflow:visible;padding:24px 20px 30px}.panel-tabs{padding:0 16px}.views{left:14px;top:14px}.views button{padding:9px 10px}.count{left:14px;top:73px}.ctrl{right:14px;top:auto;bottom:80px;max-width:200px;max-height:110px;overflow:auto}.map-tools{right:14px;bottom:18px;display:flex}.filters{left:14px;bottom:18px;max-width:calc(100% - 160px);padding:10px 12px}.legend{grid-template-columns:1fr;max-height:250px;overflow:auto}.timeline{position:sticky;bottom:0;padding:12px 16px calc(12px + env(safe-area-inset-bottom));grid-template-columns:auto auto 1fr auto;gap:10px}.now{grid-column:1/3}.now .year{font-size:26px}.era-picker{font-size:13px;max-width:170px}.track{grid-column:3;grid-row:1;padding-bottom:22px}.step{width:40px;height:40px}.timeline>#prevEra{grid-column:1;grid-row:2}.timeline>#nextEra{grid-column:4;grid-row:1}.scale-note{grid-column:2/5;grid-row:2;font-size:11px;margin:0}.timeline .date-entry{display:flex;grid-column:1/-1;grid-row:3;align-items:center;gap:6px}.date-entry label{flex:1;font-size:12px}.date-entry input{width:78px}.date-entry select{width:60px}.date-entry button{padding:7px 10px}.date-error{position:absolute;bottom:100%;right:0;background:var(--surface);padding:8px}.ticks span{font-size:10px}.drawer{position:fixed;inset:auto 0 0;height:55dvh;padding:20px 20px calc(24px + env(safe-area-inset-bottom));border-top:1px solid var(--line);box-shadow:0 -8px 30px #132d402e;border-radius:12px 12px 0 0;z-index:10}.drawer.expanded{height:92dvh}.drawer .close{top:12px;right:14px}.sheet-expand{display:inline-block;padding:10px;margin-left:18px}.drawer h2{font-size:30px}.drawer .back{max-width:55%;text-align:left}.events li{grid-template-columns:75px 1fr}.stage{touch-action:pan-y}.drawer .sources{margin-bottom:10px}}
+@media(min-width:760px) and (max-height:500px){.head{padding:10px 18px}.brand p{font-size:12px}.timeline{padding:8px 18px;gap:5px 12px}.timeline .now .year{font-size:26px}.date-entry{grid-template-columns:none}.views{left:10px;top:10px}.views button{font-size:13px;padding:5px 7px}.count{left:10px;top:61px;max-width:150px;font-size:12px}.ctrl{top:10px;bottom:auto;right:10px;max-width:160px;max-height:65px;overflow:auto;padding:8px 10px}.map-tools{display:flex;right:10px;bottom:10px;gap:2px}.map-tools button{width:34px;height:34px}.filters{left:10px;bottom:10px;max-width:calc(100% - 140px);padding:8px 10px}.filters[open]{max-height:calc(100% - 20px);overflow:auto}}
+@media(prefers-reduced-motion:no-preference){.panel-tabs button,.langsel button{transition:color .15s,background .15s}.drawer{animation:record-arrive .18s ease-out}@keyframes record-arrive{from{clip-path:inset(0 0 5%)}to{clip-path:inset(0)}}}
+@media(pointer:coarse){button:not(.site){min-height:44px}input[type=range]::-webkit-slider-thumb{width:22px;height:34px}.site circle.hit{r:22}}
 </style>
+</head><body>
+<a class="skip" href="#panel">Skip to historical information</a>
 
 <div class="app">
   <header class="head">
@@ -289,22 +32,23 @@ kbd{font-family:var(--font-mono);font-size:11px;padding:0 5px;border:1px solid v
       <p data-i18n="tagline">Who held the island, what stood on it, and what the ground has given back. 10,000 BCE to today.</p>
     </div>
     <div class="langsel" id="langsel" role="group" aria-label="Language / Γλώσσα / Dil"></div>
-    <div class="now">
-      <div class="year mono" id="yearNow">—</div>
-      <div class="era" id="eraNow"><i></i><span>—</span></div>
-    </div>
+    <label class="sr-only" for="themeChoice">Theme</label><select id="themeChoice" class="theme-select"><option value="system">System theme</option><option value="light">Light</option><option value="dark">Dark</option></select>
   </header>
 
-  <nav class="erabar" id="erabar" aria-label="Eras"></nav>
+  <nav class="erabar" id="erabar" aria-label="Eras" hidden></nav>
 
   <div class="main">
-    <aside class="panel" id="panel" aria-live="polite"></aside>
+    <div class="panel-shell">
+      <nav class="panel-tabs" aria-label="Historical information"><button data-panel="overview" aria-pressed="true">Overview</button><button data-panel="places" aria-pressed="false">Places</button><button data-panel="sources" aria-pressed="false">Sources</button></nav>
+      <aside class="panel" id="panel" tabindex="-1"><p id="loadStatus">Loading historical information…</p></aside>
+      <aside class="drawer" id="drawer" hidden inert aria-hidden="true" aria-labelledby="siteTitle"></aside>
+    </div>
     <div class="split" id="split" role="separator" aria-orientation="vertical" tabindex="0"
-         aria-label="Resize the panel" aria-valuemin="300" aria-valuemax="680" aria-valuenow="340"
+         aria-label="Resize the panel" aria-valuemin="300" aria-valuemax="560" aria-valuenow="380"
          title="Drag to resize the panel. Double-click to reset."></div>
 
     <section class="mapwrap" id="mapwrap">
-      <div class="stage" id="stage" role="img" aria-label="Rotatable globe centred on Cyprus with historical settlements">
+      <div class="stage" id="stage" role="group" aria-label="Rotatable globe centred on Cyprus with historical settlements">
         <canvas id="globe"></canvas>
         <svg id="overlay"><g id="sites"></g></svg>
       </div>
@@ -315,7 +59,7 @@ kbd{font-family:var(--font-mono);font-size:11px;padding:0 5px;border:1px solid v
       </div>
       <div class="count" id="count"></div>
       <div class="ctrl" id="ctrl" aria-live="polite"></div>
-      <div class="legend">
+      <details class="filters"><summary id="filterSummary">Site types</summary><label class="place-options" for="isolateKind" id="isolateLabel">Show only this type</label><select id="isolateKind" class="theme-select"></select><div class="legend">
         <button type="button" class="filt" data-kind="town" aria-pressed="true"><i class="town"></i><b data-i18n="kind.town">Town or city</b></button>
         <button type="button" class="filt" data-kind="village" aria-pressed="true"><i class="village"></i><b data-i18n="kind.village">Village or burial ground</b></button>
         <button type="button" class="filt" data-kind="sanctuary" aria-pressed="true"><i class="sanctuary"></i><b data-i18n="kind.sanctuary">Sanctuary or temple</b></button>
@@ -326,17 +70,22 @@ kbd{font-family:var(--font-mono);font-size:11px;padding:0 5px;border:1px solid v
         <span><i class="ring"></i><b data-i18n="legend.ring">A city-kingdom at this date</b></span>
         <span><i class="g"></i><b data-i18n="legend.inactive">Not active at this date</b></span>
       </div>
-      <aside class="drawer" id="drawer" aria-hidden="true"></aside>
+      </details>
+      <div class="map-tools"><button id="zoomIn" aria-label="Zoom in"><svg viewBox="0 0 24 24"><path d="M5 12h14M12 5v14"/></svg></button><button id="zoomOut" aria-label="Zoom out"><svg viewBox="0 0 24 24"><path d="M5 12h14"/></svg></button><button id="copyLink" aria-label="Copy link"><svg viewBox="0 0 24 24"><path d="M10 14l4-4m-7 5-2 2a4 4 0 005 5l4-4m3-9 2-2a4 4 0 00-5-5l-4 4"/></svg></button></div>
+      <p class="sr-only" id="actionStatus" role="status"></p>
     </section>
   </div>
 
   <footer class="timeline">
-    <button class="step" id="prevEra" title="Previous era" aria-label="Previous era">‹</button>
+    <div class="now"><div class="year mono" id="yearNow">—</div><div id="eraNow" hidden><span>—</span></div><label class="sr-only" for="eraSelect">Historical period</label><select class="era-picker" id="eraSelect"></select></div>
+    <button class="step" id="prevEra" title="Previous era" aria-label="Previous era"><svg viewBox="0 0 24 24"><path d="m14 6-6 6 6 6"/></svg></button>
     <div class="track">
       <input type="range" id="slider" min="0" max="10000" step="1" value="0" aria-label="Year">
       <div class="ticks" id="ticks"></div>
     </div>
-    <button class="step" id="nextEra" title="Next era" aria-label="Next era">›</button>
+    <button class="step" id="nextEra" title="Next era" aria-label="Next era"><svg viewBox="0 0 24 24"><path d="m10 6 6 6-6 6"/></svg></button>
+    <form class="date-entry" id="dateForm"><label for="dateNumber">Go to a year</label><input id="dateNumber" type="number" min="1" max="10000" required inputmode="numeric"><label class="sr-only" for="dateEpoch">BCE or CE</label><select id="dateEpoch"><option value="bce">BCE</option><option value="ce">CE</option></select><button type="submit" id="dateGo">Go</button><span class="date-error" id="dateError" role="status"></span></form>
+    <div class="scale-note" id="scaleNote">Periods expanded for readability · dates approximate</div>
     <div class="hint">
       <span data-i18n-html="hint.controls">Drag the globe to turn it, scroll or pinch to zoom, double-click to zoom in. Drag the slider or click an era band to travel in time. <kbd>←</kbd> <kbd>→</kbd> step one year, <kbd>Esc</kbd> closes the site panel, and the divider between panel and globe can be dragged.</span>
       <span data-i18n="hint.dates">Dates are approximate. An accessible overview checked against the sources listed under each era and site.</span>
@@ -344,6 +93,15 @@ kbd{font-family:var(--font-mono);font-size:11px;padding:0 5px;border:1px solid v
   </footer>
 </div>
 
+<script>
+window.addEventListener("load",()=>{
+  if(typeof d3!=="undefined"&&typeof topojson!=="undefined") return;
+  const panel=document.querySelector("#panel");
+  panel.innerHTML='<h2>The map could not load</h2><p>A required map library is unavailable. Check your connection and reload. Historical place records are available below.</p>';
+  if(typeof SETTLEMENTS!=="undefined") SETTLEMENTS.forEach(st=>{const record=document.createElement("details"),title=document.createElement("summary"),body=document.createElement("p");title.textContent=st.name;body.textContent=st.desc;record.append(title,body);panel.append(record);});
+  document.querySelector(".mapwrap").setAttribute("aria-label","Map unavailable");
+});
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
 <script>
@@ -736,7 +494,18 @@ const slider=$("#slider"), panel=$("#panel"), drawer=$("#drawer"), erabar=$("#er
 const stage=$("#stage"), canvas=$("#globe"), ctx=canvas.getContext("2d"), overlay=$("#overlay"), sitesG=$("#sites");
 const COUNT=$("#count");
 let year=-300, selected=null, activeCount=0;
-const hash=new URLSearchParams(location.hash.slice(1)); if(hash.has("y")){ const y=parseInt(hash.get("y"),10); if(!isNaN(y)) year=Math.max(Y_MIN,Math.min(Y_MAX,y)); }
+let panelMode="overview", showInactive=false, lastPanelKey="", lastDrawerKey="";
+let savedPageScroll=0;
+let focusReturn=null, panelMemory=new Map(), hashTimer=null, restoringHash=false;
+const smallScreen=()=>matchMedia("(max-width:759px)").matches;
+const escapeHtml=value=>String(value).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const NEW_UI={
+  en:{overview:"Overview",places:"Places",sources:"Sources",siteTypes:"Site types",back:"Back to period",expand:"Expand record",collapse:"Collapse record",includeInactive:"Include inactive places",empty:"No places match these filters.",reset:"Reset filters",dateLabel:"Go to a year",go:"Go",scale:"Periods expanded for readability · dates approximate",badDate:"Enter a whole year from 1 to 10,000 BCE, or 1 to 2026 CE.",copied:"Link copied",copyFallback:"Copy this link",theme:"Theme",system:"System theme",light:"Light",dark:"Dark",close:"Close record",period:"Historical period",zoomIn:"Zoom in",zoomOut:"Zoom out",copy:"Copy link",filterOnly:"Show only this type",all:"All types",inactive:"Inactive at this date",closeFilters:"Close site types"},
+  el:{overview:"Επισκόπηση",places:"Τοποθεσίες",sources:"Πηγές",siteTypes:"Τύποι τοποθεσιών",back:"Επιστροφή στην περίοδο",expand:"Ανάπτυξη εγγραφής",collapse:"Σύμπτυξη εγγραφής",includeInactive:"Και ανενεργές τοποθεσίες",empty:"Δεν υπάρχουν τοποθεσίες με αυτά τα φίλτρα.",reset:"Επαναφορά φίλτρων",dateLabel:"Μετάβαση σε έτος",go:"Μετάβαση",scale:"Οι περίοδοι διευρύνονται για αναγνωσιμότητα · προσεγγιστικές ημερομηνίες",badDate:"Εισαγάγετε ακέραιο έτος: 1–10.000 π.Χ. ή 1–2026 μ.Χ.",copied:"Ο σύνδεσμος αντιγράφηκε",copyFallback:"Αντιγράψτε τον σύνδεσμο",theme:"Θέμα",system:"Θέμα συστήματος",light:"Φωτεινό",dark:"Σκοτεινό",close:"Κλείσιμο εγγραφής",period:"Ιστορική περίοδος",zoomIn:"Μεγέθυνση",zoomOut:"Σμίκρυνση",copy:"Αντιγραφή συνδέσμου",filterOnly:"Μόνο αυτός ο τύπος",all:"Όλοι οι τύποι",inactive:"Ανενεργή αυτή την ημερομηνία",closeFilters:"Κλείσιμο τύπων τοποθεσιών"},
+  tr:{overview:"Genel bakış",places:"Yerler",sources:"Kaynaklar",siteTypes:"Yer türleri",back:"Döneme dön",expand:"Kaydı genişlet",collapse:"Kaydı daralt",includeInactive:"Etkin olmayan yerleri dahil et",empty:"Bu filtrelere uyan yer yok.",reset:"Filtreleri sıfırla",dateLabel:"Bir yıla git",go:"Git",scale:"Okunabilirlik için dönemler genişletildi · tarihler yaklaşık",badDate:"Tam bir yıl girin: MÖ 1–10.000 veya MS 1–2026.",copied:"Bağlantı kopyalandı",copyFallback:"Bu bağlantıyı kopyalayın",theme:"Tema",system:"Sistem teması",light:"Açık",dark:"Koyu",close:"Kaydı kapat",period:"Tarihsel dönem",zoomIn:"Yakınlaştır",zoomOut:"Uzaklaştır",copy:"Bağlantıyı kopyala",filterOnly:"Yalnızca bu tür",all:"Tüm türler",inactive:"Bu tarihte etkin değil",closeFilters:"Yer türlerini kapat"}
+};
+const label=k=>(NEW_UI[lang]||NEW_UI.en)[k]||NEW_UI.en[k];
+const hash=new URLSearchParams(location.hash.slice(1)); if(hash.has("y")){ const y=Number(hash.get("y")); if(Number.isInteger(y)) year=Math.max(Y_MIN,Math.min(Y_MAX,y)); }
 const startView=["world","region","island"].includes(hash.get("v"))?hash.get("v"):null;
 
 /* ---------- BUILD: era bar, slider gradient, ticks ---------- */
@@ -756,7 +525,7 @@ function buildTicks(){
   const host=$("#ticks"), w=host.clientWidth||900;
   host.innerHTML="";
   ctx.save();
-  ctx.font='10.5px "IBM Plex Mono", Menlo, monospace';
+  ctx.font='12px "Source Sans 3", Arial, sans-serif';
   const placed=[];
   for(const y of TICKS){
     const label=fmtYear(y,{circa:false}), tw=ctx.measureText(label).width, x=yearToT(y)*w;
@@ -800,10 +569,7 @@ const sitesAt=()=>Math.min(9000, PRESET.island()*0.85);   /* scale above which i
 const ERA_W_SUM=ERAS.reduce((a,e)=>a+e.w,0), ERA_W_MIN=Math.min(...ERAS.map(e=>e.w));
 /* If the narrowest band cannot hold its label, showing all sixteen truncated to three
    letters helps nobody. Collapse to a strip and let the current era keep its name. */
-function fitEraBar(){
-  const avail=erabar.clientWidth-44-2*(ERAS.length-1);
-  erabar.classList.toggle("compact", avail*ERA_W_MIN/ERA_W_SUM < 46);
-}
+function fitEraBar(){}
 let presetView="island";
 
 SETTLEMENTS.forEach(s=>{
@@ -811,6 +577,8 @@ SETTLEMENTS.forEach(s=>{
   g.appendChild(el("circle",{cx:0,cy:0,r:18,class:"hit"}));
   g.appendChild(el("circle",{cx:0,cy:0,r:11.5,class:"ring"}));
   g.appendChild(el("circle",{cx:0,cy:0,r:7}));
+  const symbols={town:"M-2 -2h4v4h-4Z",village:"M-3 2L0 -3l3 5Z",sanctuary:"M-3 2h6M-3 -1l3-2 3 2",church:"M-3 0h6M0 -3v6",fort:"M-3 3v-6h2v2h2v-2h2v6Z",works:"M-3 0h6M0 -3v6M-2 -2l4 4"};
+  g.appendChild(el("path",{d:symbols[s.kind],class:"symbol","aria-hidden":"true"}));
   const o={r:[12,4,"start"],l:[-12,4,"end"],t:[0,-12,"middle"],b:[0,21,"middle"]}[s.lab||"r"];
   s.label=s.name.split(",")[0];
   s.textEl=el("text",{x:o[0],y:o[1],"text-anchor":o[2]},s.label); g.appendChild(s.textEl);
@@ -831,7 +599,7 @@ new ResizeObserver(resize).observe(stage);
 
 /* ---------- LAYOUT: a panel you can drag wider ---------- */
 const split=$("#split");
-const PANEL_MIN=300, PANEL_MAX=680, PANEL_DEFAULT=340;
+const PANEL_MIN=300, PANEL_MAX=560, PANEL_DEFAULT=380;
 const panelCap=()=>Math.max(PANEL_MIN,Math.min(PANEL_MAX,Math.round(innerWidth*0.56)));
 /* The width the reader asked for is kept apart from the width we can currently give
    them, so narrowing the window borrows space from the panel and widening it again
@@ -880,10 +648,12 @@ addEventListener("resize",layout);
 /* ---------- FILTER: the legend switches kinds of place on and off ---------- */
 const filtReset=$("#filtReset");
 function applyFilter(){
+  const selectedKinds=Object.keys(kindOn).filter(k=>kindOn[k]);
+  $("#isolateKind").value=selectedKinds.length===1?selectedKinds[0]:"all";
   document.querySelectorAll(".legend .filt[data-kind]").forEach(b=>
     b.setAttribute("aria-pressed",kindOn[b.dataset.kind]?"true":"false"));
   filtReset.hidden=!anyFiltered();
-  if(selected&&!shown(SETTLEMENTS.find(s=>s.id===selected))) closeSite();
+  if(selected&&!shown(SETTLEMENTS.find(s=>s.id===selected))) closeSite(false);
   render();
 }
 document.querySelectorAll(".legend .filt[data-kind]").forEach(b=>{
@@ -896,8 +666,7 @@ document.querySelectorAll(".legend .filt[data-kind]").forEach(b=>{
       Object.keys(kindOn).forEach(x=>kindOn[x]=solo||x===k);
     }else{
       /* turning off the last visible kind would empty the map, so treat it as isolate */
-      if(kindOn[k]&&only.length===1) Object.keys(kindOn).forEach(x=>kindOn[x]=true);
-      else kindOn[k]=!kindOn[k];
+      kindOn[k]=!kindOn[k];
     }
     applyFilter();
   });
@@ -915,6 +684,22 @@ LANGS.forEach(([code,abbr,full])=>{
 });
 function applyLanguage(){
   document.documentElement.lang=lang;
+  const eraSelect=$("#eraSelect");eraSelect.innerHTML=ERAS.map(e=>`<option value="${e.id}">${eraName(e)}</option>`).join("");
+  eraSelect.setAttribute("aria-label",label("period"));
+  document.querySelectorAll("[data-panel]").forEach(b=>b.textContent=label(b.dataset.panel));
+  $("#filterSummary").textContent=label("siteTypes");
+  $("#isolateLabel").textContent=label("filterOnly");
+  const onlyKinds=Object.keys(kindOn).filter(k=>kindOn[k]);
+  $("#isolateKind").innerHTML=`<option value="all">${label("all")}</option>`+Object.keys(kindOn).map(k=>`<option value="${k}">${UI("kind."+k,KIND_LABEL[k])}</option>`).join("");
+  $("#isolateKind").value=onlyKinds.length===1?onlyKinds[0]:"all";
+  $("#scaleNote").textContent=label("scale");
+  document.querySelector('label[for="dateNumber"]').textContent=label("dateLabel");
+  $("#dateGo").textContent=label("go");
+  $("#dateEpoch").options[0].textContent=lang==="el"?"π.Χ.":lang==="tr"?"MÖ":"BCE";
+  $("#dateEpoch").options[1].textContent=lang==="el"?"μ.Χ.":lang==="tr"?"MS":"CE";
+  $("#themeChoice").setAttribute("aria-label",label("theme"));
+  [...$("#themeChoice").options].forEach(o=>o.textContent=label(o.value));
+  $("#zoomIn").setAttribute("aria-label",label("zoomIn"));$("#zoomOut").setAttribute("aria-label",label("zoomOut"));$("#copyLink").setAttribute("aria-label",label("copy"));
   document.documentElement.style.setProperty("--now-label",JSON.stringify(UI("finds.now","Now: ")));
   langsel.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed",b.dataset.lang===lang?"true":"false"));
   document.querySelectorAll("[data-i18n]").forEach(el=>{
@@ -929,8 +714,8 @@ function applyLanguage(){
   });
   document.querySelectorAll(".legend .filt[data-kind]").forEach(b=>
     b.title=UI("filter.hint","Click to hide this kind, shift-click to show only it"));
-  $("#prevEra").title=UI("btn.prevEra","Previous era");
-  $("#nextEra").title=UI("btn.nextEra","Next era");
+  $("#prevEra").title=UI("btn.prevEra","Previous era"); $("#prevEra").setAttribute("aria-label",UI("btn.prevEra","Previous era"));
+  $("#nextEra").title=UI("btn.nextEra","Next era"); $("#nextEra").setAttribute("aria-label",UI("btn.nextEra","Next era"));
   slider.setAttribute("aria-label",UI("btn.year","Year"));
   split.setAttribute("aria-label",UI("btn.resize","Resize the panel"));
   /* era bands and site labels are built text, so they have to be remade */
@@ -1096,7 +881,7 @@ function draw(){
   /* empire labels (the shading itself was composited with the land above) */
   if(aX>0){
     act.forEach(x=>{
-      if(s<3500 && visible(x.labelAt)){ const q=projection(x.labelAt); if(q){ ctx.globalAlpha=aX; ctx.font="italic 600 13px Fraunces, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle"; ctx.fillStyle=x.color; ctx.strokeStyle=css("--space"); ctx.lineWidth=3; ctx.lineJoin="round"; const xn=TS("extent",x.name); ctx.strokeText(xn,q[0],q[1]); ctx.fillText(xn,q[0],q[1]); } }
+      if(s<3500 && visible(x.labelAt)){ const q=projection(x.labelAt); if(q){ ctx.globalAlpha=aX; ctx.font="italic 600 13px Source Serif 4, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle"; ctx.fillStyle=x.color; ctx.strokeStyle=css("--space"); ctx.lineWidth=3; ctx.lineJoin="round"; const xn=TS("extent",x.name); ctx.strokeText(xn,q[0],q[1]); ctx.fillText(xn,q[0],q[1]); } }
     });
     ctx.globalAlpha=1;
   }
@@ -1137,13 +922,13 @@ function draw(){
   };
   if(aN>0){
     const e=eraOf(year);
-    ctx.font="italic 13px Fraunces, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle"; ctx.fillStyle=css("--ink-2"); ctx.globalAlpha=aN;
+    ctx.font="italic 13px Source Serif 4, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle"; ctx.fillStyle=css("--ink-2"); ctx.globalAlpha=aN;
     (NEIGHBOURS[e.id]||[]).forEach(([lon,lat,t0])=>{ const p=[lon,lat]; if(!visible(p)) return; const q=projection(p); if(!q) return; const t=TS("nb",t0); roomFor(t,q,15); ctx.fillText(t,q[0],q[1]); });
     ctx.globalAlpha=1;
   }
   /* the remaining polities, smaller and quieter than the era's own labels */
   if(aR>0&&reg.length){
-    ctx.font="italic 11px Fraunces, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle";
+    ctx.font="italic 11px Source Serif 4, Georgia, serif"; ctx.textAlign="center"; ctx.textBaseline="middle";
     ctx.fillStyle=css("--muted"); ctx.globalAlpha=aR*.9;
     reg.forEach(o=>{
       if(!o.n||!o.l||!visible(o.l)) return;
@@ -1157,26 +942,26 @@ function draw(){
   if(aC>0 && visible(CYPRUS_CENTER)){
     const q=projection(CYPRUS_CENTER); const e=eraOf(year);
     ctx.globalAlpha=aC; ctx.strokeStyle=e.color; ctx.lineWidth=2; ctx.beginPath(); ctx.arc(q[0],q[1],Math.max(8,s*CY_W*.6),0,Math.PI*2); ctx.stroke();
-    ctx.font="600 13px IBM Plex Sans, Arial, sans-serif"; ctx.textAlign="center"; ctx.textBaseline="bottom"; ctx.fillStyle=css("--ink");
+    ctx.font="600 13px Source Sans 3, Arial, sans-serif"; ctx.textAlign="center"; ctx.textBaseline="bottom"; ctx.fillStyle=css("--ink");
     ctx.fillText(UI("cyprus","Cyprus"),q[0],q[1]-Math.max(8,s*CY_W*.6)-6); ctx.globalAlpha=1;
   }
   /* island geography */
   const aG=ramp(s,sitesAt(),sitesAt()*1.6);
   if(aG>0){
     ctx.globalAlpha=aG; ctx.fillStyle=css("--muted"); ctx.textAlign="center"; ctx.textBaseline="middle";
-    GEO_LABELS.forEach(([lon,lat,t,sz])=>{ if(!visible([lon,lat])) return; const q=projection([lon,lat]); ctx.font=`italic ${sz}px Fraunces, Noto Serif, Georgia, serif`; ctx.fillText(TS("geo",t),q[0],q[1]); });
+    GEO_LABELS.forEach(([lon,lat,t,sz])=>{ if(!visible([lon,lat])) return; const q=projection([lon,lat]); ctx.font=`italic ${sz}px Source Serif 4, Noto Serif, Georgia, serif`; ctx.fillText(TS("geo",t),q[0],q[1]); });
     ctx.globalAlpha=1;
   }
   /* scale bar */
   const pxPerKm=s/6371; const km=[10,20,50,100,200,500,1000,2000,5000].find(k=>k*pxPerKm>=90)||5000; const bw=km*pxPerKm;
   if(bw<W*.5){
     const x1=W-24-bw, y=H-30; ctx.strokeStyle=css("--ink-2"); ctx.lineWidth=1.2; ctx.beginPath(); ctx.moveTo(x1,y); ctx.lineTo(x1+bw,y); ctx.moveTo(x1,y-5); ctx.lineTo(x1,y+5); ctx.moveTo(x1+bw,y-5); ctx.lineTo(x1+bw,y+5); ctx.stroke();
-    ctx.font="10px IBM Plex Mono, Menlo, monospace"; ctx.fillStyle=css("--ink-2"); ctx.textAlign="center"; ctx.textBaseline="bottom"; ctx.fillText(`${km.toLocaleString("en-GB")} km`,x1+bw/2,y-6);
+    ctx.font="10px Source Sans 3, Menlo, monospace"; ctx.fillStyle=css("--ink-2"); ctx.textAlign="center"; ctx.textBaseline="bottom"; ctx.fillText(`${km.toLocaleString("en-GB")} km`,x1+bw/2,y-6);
   }
   /* settlements on the SVG overlay */
   const showSites=s>=sitesAt();
   SETTLEMENTS.forEach(st=>{
-    const p=[st.lon,st.lat]; const on=showSites&&shown(st)&&visible(p); const q=on?projection(p):null;
+    const p=[st.lon,st.lat]; const on=showSites&&shown(st)&&(showInactive||isActive(st,year)||st.id===selected)&&visible(p); const q=on?projection(p):null;
     st._q=q;
     if(q){ const tr=`translate(${q[0].toFixed(1)},${q[1].toFixed(1)})`; if(st._tr!==tr){ st._tr=tr; st.el.setAttribute("transform",tr); } }
   });
@@ -1185,7 +970,7 @@ function draw(){
      until the reader zooms in far enough to separate them. */
   const MIN_SEP=8, MIN_SEP2=MIN_SEP*MIN_SEP;   /* only drop pins that would sit on top of each other */
   const cand=SETTLEMENTS.filter(st=>st._q);
-  const weight=st=>(st.el.classList.contains("ghost")?4:0)+(isKingdomAt(st,year)?0:st.kind==="town"?1:2);
+  const weight=st=>st.id===selected?-1:(st.el.classList.contains("ghost")?4:0)+(isKingdomAt(st,year)?0:st.kind==="town"?1:2);
   cand.sort((a,b)=>weight(a)-weight(b)||a._q[1]-b._q[1]);
   const kept=[], crowdedNames=[];
   cand.forEach(st=>{
@@ -1218,12 +1003,12 @@ const LABEL_ANCHORS={r:[12,4,"start"],l:[-12,4,"end"],t:[0,-12,"middle"],b:[0,21
 function placeLabels(){
   const shown=SETTLEMENTS.filter(st=>st._q && st.el.style.display!=="none" && !st.el.classList.contains("ghost"));
   if(!shown.length) return;
-  ctx.font="500 12px IBM Plex Sans, Arial, sans-serif";
+  ctx.font="600 13px Source Sans 3, Arial, sans-serif";
   const boxes=shown.map(st=>[st._q[0]-9,st._q[1]-9,st._q[0]+9,st._q[1]+9]);   // dots
   const hits=(b)=>boxes.some(o=>b[0]<o[2]&&b[2]>o[0]&&b[1]<o[3]&&b[3]>o[1]);
   const inView=b=>b[0]>=3&&b[2]<=W-3&&b[1]>=3&&b[3]<=H-3;
   /* majors claim their label slot first, then minor sites, each band top to bottom */
-  const pri=st=>isKingdomAt(st,year)?0:st.kind==="town"?1:2;
+  const pri=st=>st.id===selected?-1:isKingdomAt(st,year)?0:st.kind==="town"?1:2;
   shown.sort((a,b)=>pri(a)-pri(b)||a._q[1]-b._q[1]);
   shown.forEach(st=>{
     const w=(st._w||(st._w=ctx.measureText(st.label).width))+6, h=14;
@@ -1236,15 +1021,16 @@ function placeLabels(){
       if(inView(box)&&!hits(box)){ chosen=k; boxes.push(box); break; }
     }
     /* no free side: keep the dot, drop the label until the reader zooms in or hovers */
-    const quiet=chosen===null; if(st._quiet!==quiet){ st._quiet=quiet; st.el.classList.toggle("quiet",quiet); }
+    const quiet=chosen===null&&st.id!==selected&&document.activeElement!==st.el; if(st._quiet!==quiet){ st._quiet=quiet; st.el.classList.toggle("quiet",quiet); }
     if(chosen&&st._lab!==chosen){ st._lab=chosen; const [dx,dy,anchor]=LABEL_ANCHORS[chosen]; st.textEl.setAttribute("x",dx); st.textEl.setAttribute("y",dy); st.textEl.setAttribute("text-anchor",anchor); }
   });
 }
 
 /* ---------- INTERACTION: drag to rotate, wheel or pinch to zoom ---------- */
+let cameraTimer=null;
 let lastT=d3.zoomIdentity;
 const zoom=d3.zoom().scaleExtent([1e-4,1e4]).filter(ev=>!ev.button&&!ev.target.closest(".site"))
-  .on("start",()=>{ lastT=d3.zoomTransform(stage); interacting=true; })
+  .on("start",()=>{ if(cameraTimer){cameraTimer.stop();cameraTimer=null;} lastT=d3.zoomTransform(stage); interacting=true; })
   .on("end",()=>{ interacting=false; requestDraw(); })
   .on("zoom",ev=>{
     const t=ev.transform;
@@ -1267,24 +1053,25 @@ d3.select(stage).call(zoom).on("dblclick.zoom",ev=>{ zoomAt(2,d3.pointer(ev,stag
 stage.addEventListener("click",ev=>{ if(!ev.target.closest(".site")) closeSite(); });
 panel.addEventListener("click",ev=>{ const b=ev.target.closest("[data-site]"); if(b) openSite(b.dataset.site); });
 
-function flyTo(scale,center,ms=1400){
+function flyTo(scale,center,ms=650){
+  if(cameraTimer){cameraTimer.stop();cameraTimer=null;}
   const r0=view.rotate.slice(), s0=view.scale, r1=center?[-center[0],-center[1]]:r0.slice();
   let dl=r1[0]-r0[0]; dl=((dl+540)%360)-180; r1[0]=r0[0]+dl;
   if(reduceMotion||ms===0){ view.rotate=r1; view.scale=scale; requestDraw(); return; }
   const ease=d3.easeCubicInOut, ls0=Math.log(s0), ls1=Math.log(scale);
-  const timer=d3.timer(t=>{
+  cameraTimer=d3.timer(t=>{
     const u=ease(Math.min(1,t/ms));
     view.rotate=[r0[0]+(r1[0]-r0[0])*u, r0[1]+(r1[1]-r0[1])*u]; view.scale=Math.exp(ls0+(ls1-ls0)*u);
-    requestDraw(); if(t>=ms) timer.stop();
+    requestDraw(); if(t>=ms){cameraTimer.stop();cameraTimer=null;}
   });
 }
 const VIEW_BTNS=[...document.querySelectorAll(".views button")];
 VIEW_BTNS.forEach(b=>b.addEventListener("click",()=>{
-  const v=b.dataset.view; presetView=v; flyTo(PRESET[v](), v==="world"?[30,28]:CYPRUS_CENTER, v==="world"?1600:1200);
+  const v=b.dataset.view; presetView=v; flyTo(PRESET[v](), v==="world"?[30,28]:CYPRUS_CENTER, 650);
 }));
 matchMedia("(prefers-color-scheme: dark)").addEventListener("change",themeChanged);
 new MutationObserver(themeChanged).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
-if(document.fonts&&document.fonts.ready) document.fonts.ready.then(requestDraw);
+if(document.fonts&&document.fonts.ready) document.fonts.ready.then(()=>{SETTLEMENTS.forEach(st=>st._w=null);buildTicks();requestDraw();});
 
 /* ---------- AREAS OF CONTROL ---------- */
 /* Every empire carries several dated outlines. Show the one nearest the year on
@@ -1372,6 +1159,8 @@ const isActive=(s,y)=>s.ranges.some(([a,b])=>y>=a&&y<=b);
    the reader already goes to find out what the colours mean. Session-only: a filter
    that survived a reload would leave sites missing with no visible cause. */
 const kindOn={town:true,village:true,sanctuary:true,church:true,fort:true,works:true};
+(hash.get("f")||"").split(",").forEach(k=>{if(Object.hasOwn(kindOn,k)) kindOn[k]=false;});
+showInactive=hash.get("inactive")==="1";
 const shown=s=>kindOn[s.kind];
 const anyFiltered=()=>Object.values(kindOn).some(v=>!v);
 /* What kind of place this is, which does not change with the year. Political status
@@ -1383,41 +1172,85 @@ const KIND_ORDER=[["town","Towns and cities"],["village","Villages and burial gr
                   ["fort","Fortifications"],["works","Works, mines and landmarks"]];
 const isKingdomAt=(s,y)=>!!s.control && y>=s.control[0] && y<=s.control[1];
 const kindLabel=s=>s.sub?TS("sub",s.sub):(T("ui","kind."+s.kind)||KIND_LABEL[s.kind]);
+function rememberPanel(){
+  if(!lastPanelKey) return;
+  panelMemory.set(lastPanelKey,{scroll:panel.scrollTop,open:[...panel.querySelectorAll("details")].map(d=>d.open)});
+}
+function syncHash(immediate=false){
+  if(restoringHash) return;
+  clearTimeout(hashTimer);
+  const commit=()=>{
+    const h=new URLSearchParams({y:String(year)});
+    if(lang!=="en") h.set("lang",lang);
+    if(presetView&&presetView!=="island") h.set("v",presetView);
+    if(selected) h.set("site",selected);
+    const off=Object.keys(kindOn).filter(k=>!kindOn[k]); if(off.length) h.set("f",off.join(","));
+    if(showInactive) h.set("inactive","1");
+    history.replaceState(null,"","#"+h.toString());
+  };
+  if(immediate) commit(); else hashTimer=setTimeout(commit,200);
+}
+function periodHtml(e,p){
+  return `<div class="powerhead">${emblem(p)}<h2>${powerField(e.power,p,"name")}</h2></div>
+    <div class="dates" id="periodDate"></div>
+    <p lang="en">${p.desc}</p>
+    ${lang==="en"?"":`<p class="pnote">${UI("prose.note","")}</p>`}
+    <dl class="kv"><dt>${UI("panel.origin","Origin")}</dt><dd>${powerField(e.power,p,"origin")}</dd><dt>${UI("panel.seat","Seat")}</dt><dd>${powerField(e.power,p,"seat")}</dd></dl>
+    <details class="section-fold"><summary>${UI("life.title","Life on the island")}</summary>${lifeHtml(e)}</details>
+    <details class="section-fold"><summary>${UI("panel.events","Key events")}</summary><ul class="events">${e.events.map(([y,t])=>`<li><span class="y">${fmtYear(y,{circa:false})}</span><span lang="en">${t}</span></li>`).join("")}</ul></details>
+    <details class="section-fold"><summary>${UI("panel.elsewhere","Elsewhere in the region")}</summary><p lang="en">${e.region}</p></details>
+    ${rulersHtml(p.rulers)}<div id="extentInfo"></div>`;
+}
+function placesHtml(){
+  return `<h2>${label("places")}</h2><p class="dates" id="placesDate"></p>
+    <label class="place-options"><input id="includeInactive" type="checkbox" ${showInactive?"checked":""}>${label("includeInactive")}</label><div id="placesList"></div>`;
+}
+function allSitesHtml(){
+  const sites=SETTLEMENTS.filter(st=>shown(st)&&(showInactive||isActive(st,year))).sort((a,b)=>siteField(a,"name").localeCompare(siteField(b,"name"),lang));
+  if(!sites.length) return `<div class="empty"><p>${label("empty")}</p><button data-reset>${label("reset")}</button></div>`;
+  return `<div class="sitelist">${sites.map(st=>`<button class="k-${st.kind}" data-site="${st.id}"><i></i><span>${escapeHtml(siteField(st,"name"))}${isActive(st,year)?"":`<small class="popnote">${label("inactive")}</small>`}</span></button>`).join("")}</div>`;
+}
 function render(){
   const e=eraOf(year), p=POWERS[e.power];
   document.documentElement.style.setProperty("--era",e.color);
   $("#yearNow").textContent=fmtYear(year);
   $("#eraNow span").textContent=eraName(e);
+  $("#eraSelect").value=e.id;
   erabar.querySelectorAll("button").forEach(b=>b.setAttribute("aria-current",b.dataset.id===e.id?"true":"false"));
   slider.value=Math.round(yearToT(year)*10000);
-  panel.innerHTML=`
-    <div class="eyebrow"><i></i>${eraName(e)} · ${fmtRange(e.start,e.end)}</div>
-    <div class="powerhead">${emblem(p)}<h2>${powerField(e.power,p,"name")}</h2></div>
-    <div class="dates">${UI("panel.ruling","Controlling power at")} ${fmtYear(year)}</div>
-    <dl class="kv"><dt>${UI("panel.origin","Origin")}</dt><dd>${powerField(e.power,p,"origin")}</dd><dt>${UI("panel.seat","Seat")}</dt><dd>${powerField(e.power,p,"seat")}</dd></dl>
-    ${lang==="en"?"":`<p class="pnote">${UI("prose.note","")}</p>`}
-    <p>${p.desc}</p>
-    ${lifeHtml(e)}
-    ${onGlobeHtml()}
-    ${sitesListHtml(year)}
-    <h3>${UI("panel.events","Key events")}</h3>
-    <ul class="events">${e.events.map(([y,t])=>`<li><span class="y">${fmtYear(y,{circa:false})}</span><span>${t}</span></li>`).join("")}</ul>
-    <h3>${UI("panel.elsewhere","Elsewhere in the region")}</h3>
-    <p class="region">${e.region}</p>
-    ${readingHtml(e)}
-    ${rulersHtml(p.rulers)}
-    ${sourcesHtml(e.sources)}`;
+  slider.setAttribute("aria-valuetext",fmtYear(year));
+  if(document.activeElement!==$("#dateNumber")) $("#dateNumber").value=Math.abs(year||1);
+  if(document.activeElement!==$("#dateEpoch")) $("#dateEpoch").value=year<0?"bce":"ce";
+  $("#prevEra").disabled=ERAS.indexOf(e)===0; $("#nextEra").disabled=ERAS.indexOf(e)===ERAS.length-1;
+  const key=`${lang}|${e.id}|${panelMode}`;
+  if(lastPanelKey!==key){
+    rememberPanel();
+    panel.innerHTML=panelMode==="overview"?periodHtml(e,p):panelMode==="places"?placesHtml():`<h2>${label("sources")}</h2><p>${eraName(e)} · ${fmtRange(e.start,e.end)}</p>${sourcesHtml(e.sources)}${readingHtml(e)}`;
+    const memory=panelMemory.get(key); if(memory){ panel.querySelectorAll("details").forEach((d,i)=>d.open=!!memory.open[i]); panel.scrollTop=memory.scroll; }else{panel.scrollTop=0; if(panelMode==="sources") panel.querySelectorAll("details").forEach(d=>d.open=true);}
+    lastPanelKey=key;
+  }
+  if(panelMode==="overview"){
+    $("#periodDate").textContent=`${UI("panel.ruling","Controlling power at")} ${fmtYear(year)} · ${fmtRange(e.start,e.end)}`;
+    const ex=onGlobeHtml(); if($("#extentInfo").innerHTML!==ex) $("#extentInfo").innerHTML=ex;
+  }
+  if(panelMode==="places"){
+    $("#placesDate").textContent=fmtYear(year);
+    const list=allSitesHtml(); if($("#placesList").innerHTML!==list) $("#placesList").innerHTML=list;
+    $("#includeInactive").checked=showInactive;
+  }
   activeCount=0;
-  SETTLEMENTS.forEach(s=>{
-    const a=isActive(s,year); s.el.classList.toggle("ghost",!a); if(a&&shown(s)) activeCount++;
-    s.el.classList.toggle("crown",a&&isKingdomAt(s,year));
-  });
-  $("#ctrl").innerHTML=legendHtml(year);
+  SETTLEMENTS.forEach(st=>{ const active=isActive(st,year); st.el.classList.toggle("ghost",!active); if(active&&shown(st)) activeCount++; st.el.classList.toggle("crown",active&&isKingdomAt(st,year)); });
+  const legend=legendHtml(year); if($("#ctrl").innerHTML!==legend) $("#ctrl").innerHTML=legend;
   requestDraw();
-  if(selected) renderDrawer(SETTLEMENTS.find(s=>s.id===selected));
-  history.replaceState(null,"",lang==="en"?`#y=${year}`:`#y=${year}&lang=${lang}`);
+  if(selected){renderDrawer(SETTLEMENTS.find(st=>st.id===selected));setSheetExpanded(drawer.classList.contains("expanded"));}
+  syncHash();
 }
-function setYear(y){ year=Math.max(Y_MIN,Math.min(Y_MAX,Math.round(y))); render(); }
+function setYear(y){
+  if(!Number.isFinite(y)) return;
+  y=Math.max(Y_MIN,Math.min(Y_MAX,Math.round(y)));
+  if(y===0) y=y<year?-1:1;
+  year=y; render();
+}
 
 function lifeHtml(e){
   const l=e.life, pop=e.pop;
@@ -1426,8 +1259,8 @@ function lifeHtml(e){
   if(!rows.length&&!pop) return "";
   /* The population is the one row that is often honestly blank, so it says so outright
      and gives the reason beside it rather than leaving a gap. */
-  const popRow=pop?`<dt>${UI("life.population","Population")}</dt><dd>${T("pop",e.id,"v")||pop.v}<span class="popnote">${T("pop",e.id,"n")||pop.n}</span></dd>`:"";
-  return `<h3>${UI("life.title","Life on the island")}</h3><dl class="life">${popRow}${rows.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join("")}</dl>`;
+  const popRow=pop?`<dt>${UI("life.population","Population")}</dt><dd>${T("pop",e.id,"v")||pop.v}<span class="popnote" lang="en">${T("pop",e.id,"n")||pop.n}</span></dd>`:"";
+  return `<dl class="life">${popRow}${rows.map(([k,v])=>`<dt>${k}</dt><dd lang="en">${v}</dd>`).join("")}</dl>`;
 }
 
 /* ---------- SOURCES ---------- */
@@ -1446,7 +1279,7 @@ function readingHtml(e){
   const list=e.reading; if(!list||!list.length) return "";
   const yr=y=>y<0?fmtYear(y,{circa:false}):String(y);
   return `<details class="sources reading"><summary>${UI("panel.reading","Recommended reading")} (${list.length})</summary><ul class="readlist">${
-    list.map(r=>`<li><span class="rk rk-${r.k}">${UI("read."+r.k,READ_KIND[r.k]||r.k)}</span><i class="rt">${r.t}</i><span class="ra">${r.a}, ${yr(r.y)}</span><p class="rn">${r.n}</p></li>`).join("")
+    list.map(r=>`<li><span class="rk rk-${r.k}">${UI("read."+r.k,READ_KIND[r.k]||r.k)}</span><i class="rt">${r.t}</i><span class="ra">${r.a}, ${yr(r.y)}</span><p class="rn" lang="en">${r.n}</p></li>`).join("")
   }</ul></details>`;
 }
 function rulersHtml(list){
@@ -1455,35 +1288,79 @@ function rulersHtml(list){
 }
 
 /* ---------- DRAWER ---------- */
-function openSite(id){
+function setSheetExpanded(expanded){
+  drawer.classList.toggle("expanded",expanded);
+  const modal=smallScreen()&&expanded;
+  drawer.setAttribute("role",modal?"dialog":"complementary");
+  if(modal) drawer.setAttribute("aria-modal","true"); else drawer.removeAttribute("aria-modal");
+  document.querySelector(".skip").inert=modal;
+  document.querySelector(".head").inert=modal;
+  document.querySelector(".timeline").inert=modal;
+  document.querySelector(".mapwrap").inert=modal;
+  const coveredPanel=modal||(!smallScreen()&&!!selected);
+  panel.inert=coveredPanel; document.querySelector(".panel-tabs").inert=coveredPanel;
+  document.body.style.overflow=modal?"hidden":"";
+  const expand=drawer.querySelector(".sheet-expand");
+  if(expand){expand.textContent=label(expanded?"collapse":"expand");expand.setAttribute("aria-expanded",String(expanded));}
+}
+function openSite(id,locate=true){
+  const st=SETTLEMENTS.find(s=>s.id===id); if(!st) return;
+  focusReturn=document.activeElement; savedPageScroll=window.scrollY;
   selected=id; SETTLEMENTS.forEach(s=>s.el.classList.toggle("selected",s.id===id));
-  renderDrawer(SETTLEMENTS.find(s=>s.id===id)); drawer.classList.add("open"); drawer.setAttribute("aria-hidden","false");
+  drawer.hidden=false; drawer.inert=false; drawer.setAttribute("aria-hidden","false");
+  renderDrawer(st); setSheetExpanded(false);
+  drawer.querySelector(".back").focus({preventScroll:true});
+  if(locate&&!st._q){presetView=null;flyTo(Math.max(view.scale,PRESET.island()),[st.lon,st.lat],500);}
+  if(locate&&smallScreen()) document.querySelector(".mapwrap").scrollIntoView({block:"start",behavior:"instant"});
+  requestDraw();syncHash();
 }
-function closeSite(){ selected=null; SETTLEMENTS.forEach(s=>s.el.classList.remove("selected")); drawer.classList.remove("open"); drawer.setAttribute("aria-hidden","true"); }
-
-function renderDrawer(s){
-  const active=isActive(s,year);
-  const first=s.ranges[0][0], last=s.ranges[s.ranges.length-1][1];
-  let status;
-  if(active) status=`${UI("status.active","Active at")} ${fmtYear(year)}`;
-  else if(year<first) status=`${UI("status.notyet","Not yet founded at")} ${fmtYear(year)}. ${UI("status.first","First occupied")} ${fmtYear(first)}.`;
-  else if(year>last) status=`${UI("status.gone","Abandoned by")} ${fmtYear(year)}. ${UI("status.last","Last occupied around")} ${fmtYear(last)}.`;
-  else status=`${UI("status.between","Deserted at")} ${fmtYear(year)}${UI("status.between2",", between phases of occupation")}.`;
-  drawer.innerHTML=`
-    <button class="close" aria-label="Close">×</button>
-    <div class="eyebrow"><span class="pill k-${s.kind}">${kindLabel(s)}</span>${isKingdomAt(s,year)?`<span class="pill kingpill">${UI("drawer.kingdomAt","City-kingdom at")} ${fmtYear(year)}</span>`:""}<span>${s.ranges.map(r=>fmtRange(r[0],r[1])).join(" · ")}</span></div>
-    <h2>${siteField(s,"name")}</h2>
-    <p class="modern">${siteField(s,"modern")}</p>
-    <div class="status ${active?"active":"inactive"}">${status}</div>
-    <p>${s.desc}</p>
-    <h3>${UI("drawer.finds","Finds and monuments")}</h3>
-    <ul class="finds">${s.finds.map(f=>`<li><b>${f.n}</b><span class="per">${f.p}</span><p class="txt">${f.t}</p><div class="where">${f.w}</div></li>`).join("")}</ul>
-    ${sourcesHtml(s.sources)}`;
-  drawer.querySelector(".close").addEventListener("click",closeSite);
+function closeSite(restoreFocus=true){
+  if(!selected) return;
+  selected=null; SETTLEMENTS.forEach(s=>s.el.classList.remove("selected"));
+  setSheetExpanded(false); drawer.hidden=true; drawer.inert=true; drawer.setAttribute("aria-hidden","true");
+  if(restoreFocus&&smallScreen()) window.scrollTo({top:savedPageScroll,behavior:"instant"});
+  if(restoreFocus){ const target=focusReturn&&focusReturn.isConnected?focusReturn:document.querySelector(`[data-panel="${panelMode}"]`);target?.focus({preventScroll:true}); }
+  syncHash();requestDraw();
 }
+function statusHtml(st){
+  const first=st.ranges[0][0],last=st.ranges[st.ranges.length-1][1];
+  if(isActive(st,year)) return `${UI("status.active","Active at")} ${fmtYear(year)}`;
+  if(year<first) return `${UI("status.notyet","Not yet founded at")} ${fmtYear(year)}. ${UI("status.first","First occupied")} ${fmtYear(first)}.`;
+  if(year>last) return `${UI("status.gone","Abandoned by")} ${fmtYear(year)}. ${UI("status.last","Last occupied around")} ${fmtYear(last)}.`;
+  return `${UI("status.between","Deserted at")} ${fmtYear(year)}${UI("status.between2",", between phases of occupation")}.`;
+}
+function renderDrawer(st){
+  const key=`${st.id}|${lang}`;
+  if(lastDrawerKey!==key){
+    const priorScroll=lastDrawerKey.startsWith(st.id+"|")?drawer.scrollTop:0;
+    drawer.innerHTML=`<button class="back">${label("back")}</button><button class="sheet-expand" aria-expanded="false">${label("expand")}</button><button class="close" aria-label="${label("close")}"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="m6 6 12 12M6 18 18 6"/></svg></button>
+    <h2 id="siteTitle">${siteField(st,"name")}</h2><p class="modern">${siteField(st,"modern")}</p>
+    <div class="record-meta"><span class="pill">${kindLabel(st)}</span><span id="kingdomStatus"></span></div>
+    <p class="site-periods">${st.ranges.map(r=>fmtRange(r[0],r[1])).join(" · ")}</p>
+    <div class="status" id="siteStatus"></div><p lang="en">${st.desc}</p>
+    <h3>${UI("drawer.finds","Finds and monuments")} (${st.finds.length})</h3>
+    <ul class="finds" lang="en">${st.finds.map(f=>`<li><b>${f.n}</b><span class="per">${f.p}</span><p class="txt">${f.t}</p><div class="where">${f.w}</div></li>`).join("")}</ul>${sourcesHtml(st.sources)}`;
+    drawer.scrollTop=priorScroll;lastDrawerKey=key;
+  }
+  $("#siteStatus").textContent=statusHtml(st);
+  $("#kingdomStatus").textContent=isKingdomAt(st,year)?UI("drawer.kingdomAt","City-kingdom at")+" "+fmtYear(year):"";
+}
+drawer.addEventListener("click",ev=>{
+  if(ev.target.closest(".back,.close")) closeSite();
+  if(ev.target.closest(".sheet-expand")) setSheetExpanded(!drawer.classList.contains("expanded"));
+});
+drawer.addEventListener("keydown",ev=>{
+  if(ev.key!=="Tab"||drawer.getAttribute("aria-modal")!=="true") return;
+  const items=[...drawer.querySelectorAll("button,a[href],summary,input,select,[tabindex]")].filter(e=>!e.hidden&&!e.disabled&&e.getClientRects().length);
+  const first=items[0],last=items[items.length-1];
+  if(ev.shiftKey&&document.activeElement===first){ev.preventDefault();last.focus();}
+  else if(!ev.shiftKey&&document.activeElement===last){ev.preventDefault();first.focus();}
+});
 
 /* ---------- CONTROLS ---------- */
-slider.addEventListener("input",()=>{ year=roundYear(tToYear(slider.value/10000)); render(); });
+let scrubFrame=null;
+slider.addEventListener("input",()=>{ if(scrubFrame!==null) return; scrubFrame=requestAnimationFrame(()=>{scrubFrame=null;setYear(roundYear(tToYear(slider.value/10000)));}); });
+slider.addEventListener("change",()=>syncHash(true));
 slider.addEventListener("keydown",ev=>{
   if(ev.key==="ArrowLeft"||ev.key==="ArrowRight"){ ev.preventDefault(); setYear(year+(ev.key==="ArrowRight"?1:-1)*(ev.shiftKey?10:1)); }
 });
@@ -1491,11 +1368,60 @@ $("#prevEra").addEventListener("click",()=>{ const i=ERAS.indexOf(eraOf(year)); 
 $("#nextEra").addEventListener("click",()=>{ const i=ERAS.indexOf(eraOf(year)); const e=ERAS[Math.min(ERAS.length-1,i+1)]; setYear(Math.round((e.start+e.end)/2)); });
 document.addEventListener("keydown",ev=>{ if(ev.key==="Escape") closeSite(); });
 
+$("#isolateKind").addEventListener("change",ev=>{Object.keys(kindOn).forEach(k=>kindOn[k]=ev.target.value==="all"||k===ev.target.value);applyFilter();});
+function resetFilters(){Object.keys(kindOn).forEach(k=>kindOn[k]=true);applyFilter();}
+panel.addEventListener("change",ev=>{if(ev.target.id==="includeInactive"){showInactive=ev.target.checked;render();}});
+panel.addEventListener("click",ev=>{if(ev.target.closest("[data-reset]")) resetFilters();});
+document.querySelectorAll("[data-panel]").forEach(b=>b.addEventListener("click",()=>{
+  closeSite(false);rememberPanel();panelMode=b.dataset.panel;
+  document.querySelectorAll("[data-panel]").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));render();
+}));
+$("#eraSelect").addEventListener("change",ev=>{const e=ERAS.find(e=>e.id===ev.target.value);if(e) setYear(Math.round((e.start+e.end)/2));});
+$("#dateForm").addEventListener("submit",ev=>{
+  ev.preventDefault();const n=Number($("#dateNumber").value),bce=$("#dateEpoch").value==="bce";
+  if(!Number.isInteger(n)||n<1||n>(bce?Math.abs(Y_MIN):Y_MAX)){ $("#dateError").textContent=label("badDate");return; }
+  $("#dateError").textContent="";setYear(bce?-n:n);syncHash(true);
+});
+function resolveTheme(){
+  const preference=$("#themeChoice").value;
+  document.documentElement.dataset.theme=preference==="system"?(matchMedia("(prefers-color-scheme:dark)").matches?"dark":"light"):preference;
+}
+try{const preference=localStorage.getItem("cy-theme");if(["system","light","dark"].includes(preference)) $("#themeChoice").value=preference;}catch(e){}
+$("#themeChoice").addEventListener("change",()=>{resolveTheme();try{localStorage.setItem("cy-theme",$("#themeChoice").value);}catch(e){}});
+matchMedia("(prefers-color-scheme:dark)").addEventListener("change",resolveTheme);resolveTheme();
+$("#zoomIn").addEventListener("click",()=>{zoomAt(1.5,[W/2,H/2]);presetView=null;requestDraw();});
+$("#zoomOut").addEventListener("click",()=>{zoomAt(1/1.5,[W/2,H/2]);presetView=null;requestDraw();});
+VIEW_BTNS.forEach(b=>b.addEventListener("click",()=>syncHash()));
+$("#copyLink").addEventListener("click",async()=>{
+  syncHash(true);
+  try{await navigator.clipboard.writeText(location.href);$("#actionStatus").textContent=label("copied");}
+  catch(e){window.prompt(label("copyFallback"),location.href);}
+});
+addEventListener("resize",()=>{if(selected) setSheetExpanded(smallScreen()&&drawer.classList.contains("expanded"));});
+function restoreHash(){
+  if(location.hash==="#panel") return;
+  clearTimeout(hashTimer);restoringHash=true;
+  const h=new URLSearchParams(location.hash.slice(1)),n=Number(h.get("y"));
+  if(h.has("y")&&Number.isInteger(n)) year=Math.max(Y_MIN,Math.min(Y_MAX,n))||1;
+  Object.keys(kindOn).forEach(k=>kindOn[k]=!(h.get("f")||"").split(",").includes(k));
+  showInactive=h.get("inactive")==="1";
+  const l=h.get("lang")||"en";if(LANGS.some(x=>x[0]===l)) lang=l;
+  const v=h.get("v")||"island";if(Object.hasOwn(PRESET,v)){presetView=v;flyTo(PRESET[v](),v==="world"?[30,28]:CYPRUS_CENTER,0);}
+  closeSite(false);applyLanguage();applyFilter();
+  if(SETTLEMENTS.some(s=>s.id===h.get("site"))) openSite(h.get("site"),false);
+  restoringHash=false;
+}
+addEventListener("hashchange",restoreHash);
+
 render();
 resize();
 layout();
 applyLanguage();
 applyFilter();
+const initialSite=hash.get("site");
 view.scale=PRESET.region(); view.rotate=[-CYPRUS_CENTER[0],-CYPRUS_CENTER[1]];
-if(startView){ presetView=startView; flyTo(PRESET[startView](), startView==="world"?[30,28]:CYPRUS_CENTER, 0); } else { presetView="island"; flyTo(PRESET.island(),CYPRUS_CENTER,2200); }
+if(startView){ presetView=startView; flyTo(PRESET[startView](), startView==="world"?[30,28]:CYPRUS_CENTER, 0); } else { presetView="island"; flyTo(PRESET.island(),CYPRUS_CENTER,0); }
+if(initialSite&&SETTLEMENTS.some(st=>st.id===initialSite)) openSite(initialSite,false);
 </script>
+
+</body></html>
