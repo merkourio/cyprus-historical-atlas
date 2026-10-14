@@ -1,0 +1,1234 @@
+[
+{
+"en": "May 1191",
+"ctx": "find period/date"
+},
+{
+"en": "Two of Richard's ships were wrecked off Cyprus and a third, carrying his sister Joan and his betrothed Berengaria, lay at anchor off Limassol for a week rather than land within Isaac's reach. Richard arrived on 8 May, went ashore in a fury and had the island inside a month.",
+"ctx": "site Limassol: find \"Berengaria's ship in the roads\" text"
+},
+{
+"en": "Richard and Berengaria, 12 May 1191",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "1191",
+"ctx": "find period/date"
+},
+{
+"en": "Richard I married Berengaria of Navarre at Limassol on 12 May 1191 and had her crowned Queen of England in the same ceremony, by tradition in a chapel where the castle now stands. She saw little or nothing of England in his lifetime, and the wedding took place only because a storm had driven her ship, and Richard's sister Joan, onto a Cypriot shore held by Isaac Komnenos.",
+"ctx": "site Limassol: find \"Richard and Berengaria, 12 May 1191\" text"
+},
+{
+"en": "Tradition places it beneath Limassol Castle",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sale of the island, 1191 to 1192",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "1191–1192",
+"ctx": "find period/date"
+},
+{
+"en": "Richard sold Cyprus to the Templars for 100,000 bezants; after a revolt against them at Nicosia in 1192 they gave it back, and Richard passed the purchase on to Guy de Lusignan, the ousted King of Jerusalem. The last crusader kingdom began as a property transaction.",
+"ctx": "site Limassol: find \"Sale of the island, 1191 to 1192\" text"
+},
+{
+"en": "Cyprus Medieval Museum",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "In the castle since 1987",
+"ctx": "find period/date"
+},
+{
+"en": "Frankish and Venetian tombstones, arms, coins, glazed pottery and architectural fragments gathered from across the island, in the vaults of the castle that was a prison until 1950.",
+"ctx": "site Limassol: find \"Cyprus Medieval Museum\" text"
+},
+{
+"en": "Commandaria and the Battle of the Wines",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "13th century onwards",
+"ctx": "find period/date"
+},
+{
+"en": "The sweet wine of the Hospitallers' Grand Commandery above Limassol, named for the commandery itself. Henri d'Andeli's poem La Bataille des Vins, written about 1224, has the King of France judge the wines of Christendom and give the crown to the wine of Cyprus. A poem is not a tasting note, but Cypriot wine was genuinely a luxury export to western courts.",
+"ctx": "site Limassol: find \"Commandaria and the Battle of the Wines\" text"
+},
+{
+"en": "Documentary; the wine still made in fourteen villages above Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The raid of 1539 and the demolition of the castle",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "1539–1568",
+"ctx": "find period/date"
+},
+{
+"en": "An Ottoman fleet burned Limassol in 1539. Venice, judging that a fort it could not hold would only serve the enemy, demolished the castle in 1567 to 1568; the Ottomans rebuilt it as a squat gun platform around 1590.",
+"ctx": "site Limassol: find \"The raid of 1539 and the demolition of the castle\" text"
+},
+{
+"en": "The Grand Mosque and the Turkish quarter",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "Djami Kebir, the Great Mosque, stands with its bath house a few steps from the castle in what was the Turkish Cypriot quarter of the old town; the quarter emptied in 1975 and its lanes are now bars and workshops. Limassol was a town where the two communities lived most closely mixed.",
+"ctx": "site Limassol: find \"The Grand Mosque and the Turkish quarter\" text"
+},
+{
+"en": "The carob mills",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "Late 19th-20th century",
+"ctx": "find period/date"
+},
+{
+"en": "Stone warehouses on the shore beside the castle where carob pods, the black gold of Cyprus, were stored and shipped; the complex is now a museum, cinema and restaurant quarter. Carobs were among the colony's top three exports for decades.",
+"ctx": "site Limassol: find \"The carob mills\" text"
+},
+{
+"en": "The wineries",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "19th-20th century",
+"ctx": "find period/date"
+},
+{
+"en": "Limassol became the island's wine town: ETKO dates its founding to 1844 and KEO was set up in 1927, with SODAP and LOEL following, all drawing grapes from the Troodos foothills. The Limassol Wine Festival has run since 1961.",
+"ctx": "site Limassol: find \"The wineries\" text"
+},
+{
+"en": "The new port",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "Opened 1973-1974",
+"ctx": "find period/date"
+},
+{
+"en": "A deep-water harbour finished just before the war, which then had to carry almost all the Republic's trade after Famagusta was lost; it remains the island's main port and a Mediterranean transhipment stop.",
+"ctx": "site Limassol: find \"The new port\" text"
+},
+{
+"en": "In situ, west of Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The refugee town",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "After 1974",
+"ctx": "find period/date"
+},
+{
+"en": "Limassol took the largest share of the displaced, and whole quarters of the eastern suburbs began as government refugee estates of identical low houses; the city's population roughly doubled in a decade and it overtook Famagusta as the island's commercial capital.",
+"ctx": "site Limassol: find \"The refugee town\" text"
+},
+{
+"en": "Limassol Marina and the towers",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "2014 onwards",
+"ctx": "find period/date"
+},
+{
+"en": "A marina and residential development beside the old town opened in 2014, followed by a line of high-rise towers along the seafront built partly on investment-for-citizenship money; the most conspicuous physical result of the post-2013 recovery.",
+"ctx": "site Limassol: find \"Limassol Marina and the towers\" text"
+},
+{
+"en": "A tenth-century monastery that the Byzantines fortified in the eleventh century against Arab raiders, one of three castles guarding the northern range with Buffavento and Kantara. It commands the Kyrenia-Nicosia pass and was the prize of the 1228–1232 war between Frederick II's men and the Ibelins. The Lusignans turned the upper ward into a summer palace; Venice, trusting only the towns, stripped it after 1489.",
+"ctx": "site St Hilarion Castle: description"
+},
+{
+"en": "Queen's Window",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "Gothic window of the royal apartments in the upper ward, looking over the north coast.",
+"ctx": "site St Hilarion Castle: find \"Queen's Window\" text"
+},
+{
+"en": "Byzantine church",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "10th–11th century",
+"ctx": "find period/date"
+},
+{
+"en": "The monastery church in the lower ward, the castle's oldest part.",
+"ctx": "site St Hilarion Castle: find \"Byzantine church\" text"
+},
+{
+"en": "Didymos and Dieu d'Amour",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "Byzantine and Frankish",
+"ctx": "find period/date"
+},
+{
+"en": "The Greeks called the twin-peaked ridge Didymos, the twins. The Franks heard it as Dieu d'Amour, the god of love, and that is the name the castle carries through the chronicles of the war of 1229 to 1232.",
+"ctx": "site St Hilarion Castle: find \"Didymos and Dieu d'Amour\" text"
+},
+{
+"en": "The eight-pillared church",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "A ruined and partly restored church with a wide dome on eight pillars stands in the castle, one of only three buildings of the type known on Cyprus; the others are Antiphonitis and the lost church of St John Chrysostom at Koutsovendis.",
+"ctx": "site St Hilarion Castle: find \"The eight-pillared church\" text"
+},
+{
+"en": "In situ, St Hilarion",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The signal chain",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "Byzantine",
+"ctx": "find period/date"
+},
+{
+"en": "St Hilarion, Buffavento and Kantara are spaced so that a fire lit on one summit can be seen from the next, a warning system for a coast that expected raiders from the sea.",
+"ctx": "site St Hilarion Castle: find \"The signal chain\" text"
+},
+{
+"en": "In situ across the Kyrenia range",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Isaac's treasure and family",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "The mountain castles held the usurper's money and his household while he manoeuvred in the plain. They were handed over after he surrendered, and the plate and coin that came down from them helped pay for Richard's crusade.",
+"ctx": "site St Hilarion Castle: find \"Isaac's treasure and family\" text"
+},
+{
+"en": "The siege of 1229 to 1232",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "1229 to 1232",
+"ctx": "find period/date"
+},
+{
+"en": "The Ibelins held the castle for the boy king Henry I against Frederick II's five bailiffs. After the imperial defeat at Agridi in 1232 the garrison here gave in, which ended the war and settled Cyprus on the Lusignans.",
+"ctx": "site St Hilarion Castle: find \"The siege of 1229 to 1232\" text"
+},
+{
+"en": "Documentary; the works in situ",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cisterns of the middle ward",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "Rock-cut tanks and a vaulted cistern that caught the winter rain. Without them the waterless summit could not have held a garrison for a single summer.",
+"ctx": "site St Hilarion Castle: find \"Cisterns of the middle ward\" text"
+},
+{
+"en": "Royal apartments and great hall",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "The upper ward that Hugh IV and Peter I used as a summer palace, with a hall, kitchens and cisterns cut into the crag at about 700 m; the court came up here to escape the heat of Nicosia and to hunt.",
+"ctx": "site St Hilarion Castle: find \"Royal apartments and great hall\" text"
+},
+{
+"en": "Prince John's tower",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "1370s",
+"ctx": "find period/date"
+},
+{
+"en": "The tower from which, the chronicler Leontios Machairas relates, John of Antioch had his Bulgarian bodyguard thrown one by one over the cliff after being persuaded they meant to betray him; a story that captures how the castle was used in the dynasty's civil wars.",
+"ctx": "site St Hilarion Castle: find \"Prince John's tower\" text"
+},
+{
+"en": "The War of the Lombards",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "1229–1232",
+"ctx": "find period/date"
+},
+{
+"en": "St Hilarion was the prize in the fighting between Emperor Frederick II's partisans and the Ibelin regents, and the child king Henry I was held here; the middle ward's barbican and gate belong to this phase.",
+"ctx": "site St Hilarion Castle: find \"The War of the Lombards\" text"
+},
+{
+"en": "Venetian slighting",
+"ctx": "site St Hilarion Castle: find title"
+},
+{
+"en": "After 1489",
+"ctx": "find period/date"
+},
+{
+"en": "Venice trusted only the walled towns, and had the mountain castles stripped of anything useful so that they could not shelter a rebel or a raider. The three castles of the range have been ruins ever since.",
+"ctx": "site St Hilarion Castle: find \"Venetian slighting\" text"
+},
+{
+"en": "The highest of the three mountain castles at about 950 m, 'defier of the winds', a late eleventh-century Byzantine watchtower linking St Hilarion and Kantara by signal fire and guarding the pass from Kythrea to the coast. Under the Lusignans it served chiefly as a prison; Venice abandoned it.",
+"ctx": "site Buffavento Castle: description"
+},
+{
+"en": "Upper and lower wards",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Vaulted rooms and pointed-arch towers cut to the rock.",
+"ctx": "site Buffavento Castle: find \"Upper and lower wards\" text"
+},
+{
+"en": "Cisterns",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Rainwater tanks that made the summit habitable for a garrison.",
+"ctx": "site Buffavento Castle: find \"Cisterns\" text"
+},
+{
+"en": "Monastery of St John Chrysostom, Koutsovendis",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Founded c. 1090; chapel painted c. 1100",
+"ctx": "find period/date"
+},
+{
+"en": "At the foot of the mountain below the castle stands the monastery founded about 1090 by the monk George, later bishop of Paphos. Its chapel of the Holy Trinity keeps wall paintings of about 1100 made for Eumathios Philokales, the imperial governor of the island, among the earliest closely dated Byzantine paintings on Cyprus. The main church was rebuilt at the end of the nineteenth century, and the site now lies inside a military zone.",
+"ctx": "site Buffavento Castle: find \"Monastery of St John Chrysostom, Koutsovendis\" text"
+},
+{
+"en": "In situ, Koutsovendis (closed to visitors)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Neophytos the novice",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "1152 to 1158",
+"ctx": "find period/date"
+},
+{
+"en": "The future recluse of Paphos fled an arranged marriage to Koutsovendis, was tonsured there in 1152, learned to read and write and served as assistant sacristan. His abbot refused to let him go off and be a hermit on the ground that he was too young.",
+"ctx": "site Buffavento Castle: find \"Neophytos the novice\" text"
+},
+{
+"en": "A watch post, not a fortress",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Late 11th century",
+"ctx": "find period/date"
+},
+{
+"en": "The summit at about 950 m held a signal station rather than a garrison town: Byzantine masonry survives in the lower ward, and the six rock-cut cisterns were what made the place habitable at all.",
+"ctx": "site Buffavento Castle: find \"A watch post, not a fortress\" text"
+},
+{
+"en": "In situ, Buffavento",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Queen's Prison",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Frankish legend",
+"ctx": "find period/date"
+},
+{
+"en": "A local story makes the highest chamber the cell of a leper princess called Regina, walled up by her father. The name is on the signs at the top of the path and there is nothing whatever behind it.",
+"ctx": "site Buffavento Castle: find \"The Queen's Prison\" text"
+},
+{
+"en": "The prison of John Visconti",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "1362",
+"ctx": "find period/date"
+},
+{
+"en": "Machairas records that Sir John Visconti, the knight who told Peter I of Queen Eleanor's infidelity while the king was abroad, was walled up at Buffavento and starved to death. The castle's chief Lusignan use was as a place to make people disappear.",
+"ctx": "site Buffavento Castle: find \"The prison of John Visconti\" text"
+},
+{
+"en": "Signal-fire chain",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Byzantine to Lusignan",
+"ctx": "find period/date"
+},
+{
+"en": "At about 950 m Buffavento can see both St Hilarion to the west and Kantara to the east, which is the point of it; the three castles worked as one warning system along the range.",
+"ctx": "site Buffavento Castle: find \"Signal-fire chain\" text"
+},
+{
+"en": "The Templar prisoner of 1308",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "1308",
+"ctx": "find period/date"
+},
+{
+"en": "A Templar was held here during the arrest of the order in Cyprus, two years before the trials at Nicosia.",
+"ctx": "site Buffavento Castle: find \"The Templar prisoner of 1308\" text"
+},
+{
+"en": "Chateau du Lion",
+"ctx": "site Buffavento Castle: find title"
+},
+{
+"en": "Frankish period",
+"ctx": "find period/date"
+},
+{
+"en": "The Franks also called it the Castle of the Lion, and Cypriot folklore attached to it a queen with leprosy cured by the mountain's water; the name and the tale are both medieval, the cure is not.",
+"ctx": "site Buffavento Castle: find \"Chateau du Lion\" text"
+},
+{
+"en": "The easternmost of the three mountain castles, 600 m above the Karpas, probably Byzantine of the late tenth or eleventh century. Isaac Komnenos fled here in 1191; it withstood the Ibelin siege of 1229 and the Genoese in 1373. Venice declared it obsolete in 1519 and had dismantled it by 1560.",
+"ctx": "site Kantara Castle: description"
+},
+{
+"en": "Horseshoe tower and barbican",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "1208–1228",
+"ctx": "find period/date"
+},
+{
+"en": "Lusignan entrance works with arrow slits.",
+"ctx": "site Kantara Castle: find \"Horseshoe tower and barbican\" text"
+},
+{
+"en": "Six rock-cut cisterns supplying the hilltop.",
+"ctx": "site Kantara Castle: find \"Cisterns\" text"
+},
+{
+"en": "Isaac's last stand",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "Beaten by Richard at Tremetousia, Isaac Komnenos rode for the Karpas and held out from Kantara before surrendering at Cape St Andreas. The Hospitallers jailed him at Margat in chains that the chroniclers insist were silver, because Richard had promised not to put him in irons.",
+"ctx": "site Kantara Castle: find \"Isaac's last stand\" text"
+},
+{
+"en": "The thirteen monks of Kantara",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "1228 to 1231",
+"ctx": "find period/date"
+},
+{
+"en": "Thirteen Orthodox monks from a house near the castle refused the Latin use of unleavened bread in the Eucharist, were tried for heresy, held for three years and burned in 1231. It is the sharpest single episode in the Latin church's dealings with the Cypriot Orthodox, and the Church of Cyprus still keeps them as martyrs.",
+"ctx": "site Kantara Castle: find \"The thirteen monks of Kantara\" text"
+},
+{
+"en": "Documentary; commemorated by the Church of Cyprus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Byzantine core",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "Late 10th to 11th century",
+"ctx": "find period/date"
+},
+{
+"en": "The oldest masonry belongs to the chain of watch posts built after the reconquest of 965, when Byzantium had to defend a coast it had just recovered. A beacon here could be read from Buffavento.",
+"ctx": "site Kantara Castle: find \"The Byzantine core\" text"
+},
+{
+"en": "In situ, Kantara",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The siege of 1229",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "1229 and 1373",
+"ctx": "find period/date"
+},
+{
+"en": "The garrison held out against the Ibelins in 1229 and turned back the Genoese in 1373, which is the best evidence for how strong a small mountain castle could be before gunpowder.",
+"ctx": "site Kantara Castle: find \"The siege of 1229\" text"
+},
+{
+"en": "Vaulted guardrooms and cisterns",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "Barrel-vaulted chambers and six rock-cut cisterns strung along the ridge at about 600 m, enough to keep a small garrison through a siege.",
+"ctx": "site Kantara Castle: find \"Vaulted guardrooms and cisterns\" text"
+},
+{
+"en": "The Genoese war",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "1373–1374",
+"ctx": "find period/date"
+},
+{
+"en": "Kantara held out when Genoa overran the island and took Famagusta; the eastern castle covered the Karpas and the road to the Genoese-held port.",
+"ctx": "site Kantara Castle: find \"The Genoese war\" text"
+},
+{
+"en": "Venetian demolition",
+"ctx": "site Kantara Castle: find title"
+},
+{
+"en": "1519–1560",
+"ctx": "find period/date"
+},
+{
+"en": "Venice declared the castle obsolete in 1519 and had it dismantled by 1560; what stands is what was not worth the labour of pulling down.",
+"ctx": "site Kantara Castle: find \"Venetian demolition\" text"
+},
+{
+"en": "The Grand Commandery of the Knights of St John, granted by Hugh I around 1210 and, after Acre fell in 1291, the order's headquarters until it moved to Rhodes. The Templars held it in 1306–1313. The square keep of 1454 stands beside a sugar refinery and aqueduct, and the knights' estates gave their name to Commandaria, the sweet wine still made in the villages above.",
+"ctx": "site Kolossi Castle: description"
+},
+{
+"en": "Keep of Louis de Magnac",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "1454",
+"ctx": "find period/date"
+},
+{
+"en": "A 21-metre three-storey Gothic tower with the commander's arms and a fresco of the Crucifixion.",
+"ctx": "site Kolossi Castle: find \"Keep of Louis de Magnac\" text"
+},
+{
+"en": "In situ, Kolossi",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sugar mill and aqueduct",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "14th–16th century",
+"ctx": "find period/date"
+},
+{
+"en": "Vaulted refinery where cane from the plain was boiled and cast, fed by a stone aqueduct from the Kouris river; sugar was one of the island's chief exports.",
+"ctx": "site Kolossi Castle: find \"Sugar mill and aqueduct\" text"
+},
+{
+"en": "The excavated refinery",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "Excavation of the Hospitallers' sugar works, prompted by the Kouklia-Stavros project, exposed the mill room, furnaces and boiling floor and quantities of conical sugar moulds and syrup jars. Kolossi, Kouklia and Episkopi together make Cyprus the best-documented sugar landscape of the medieval Mediterranean.",
+"ctx": "site Kolossi Castle: find \"The excavated refinery\" text"
+},
+{
+"en": "In situ, Kolossi; finds in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Arms of Louis de Magnac and Jacques de Milly",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "Carved coats of arms on the keep, including those of the commander who built it and of the Grand Master of Rhodes, dating the tower to the year and naming the order that owned the plain.",
+"ctx": "site Kolossi Castle: find \"Arms of Louis de Magnac and Jacques de Milly\" text"
+},
+{
+"en": "Fresco of the Crucifixion",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "15th century",
+"ctx": "find period/date"
+},
+{
+"en": "A wall painting on the first floor of the keep, all that is left of the decoration of a knight's residence rather than a church.",
+"ctx": "site Kolossi Castle: find \"Fresco of the Crucifixion\" text"
+},
+{
+"en": "The Mamluk sack",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "1425–1426",
+"ctx": "find period/date"
+},
+{
+"en": "Mamluk raiders burned the commandery in the campaign that ended with King Janus captured at Khirokitia; the keep of 1454 is a replacement for what they destroyed.",
+"ctx": "site Kolossi Castle: find \"The Mamluk sack\" text"
+},
+{
+"en": "The Grand Commandery estate",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "1291–1570",
+"ctx": "find period/date"
+},
+{
+"en": "After Acre fell the Hospitallers ran their order's western headquarters from here until they took Rhodes, and the commandery held some forty villages of the Kouris plain; the name Commandaria comes from this estate.",
+"ctx": "site Kolossi Castle: find \"The Grand Commandery estate\" text"
+},
+{
+"en": "Documentary; the vineyards in situ",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The estate as an Ottoman chiftlik",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "1571-1878",
+"ctx": "find period/date"
+},
+{
+"en": "After 1570 the commandery's lands passed into Ottoman hands as a farm estate whose revenues went to state and pious foundations, and the keep became a store and a farmhouse. The sugar industry it had been built for was already dead, undercut by Atlantic and Madeiran sugar.",
+"ctx": "site Kolossi Castle: find \"The estate as an Ottoman chiftlik\" text"
+},
+{
+"en": "The labour of the sugar works",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "14th-16th century",
+"ctx": "find period/date"
+},
+{
+"en": "The cane fields and refinery were worked by a mixed force of Cypriot serfs, Syrian and Arab labourers and slaves, and the mill was driven by water brought by the aqueduct; the documentary record of this workforce is one of the fuller pictures of medieval Mediterranean plantation labour.",
+"ctx": "site Kolossi Castle: find \"The labour of the sugar works\" text"
+},
+{
+"en": "Documentary; in situ, Kolossi",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Consolidation as an ancient monument",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "1930s onwards",
+"ctx": "find period/date"
+},
+{
+"en": "The Department of Antiquities took the castle in hand in the colonial period, cleared and consolidated the keep and the mill and opened them; the flat roof and its view over the Akrotiri plain date from that work.",
+"ctx": "site Kolossi Castle: find \"Consolidation as an ancient monument\" text"
+},
+{
+"en": "Commandaria today",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "Modern",
+"ctx": "find period/date"
+},
+{
+"en": "The sweet wine named for the knights' commandery is now a protected designation of origin made in fourteen named villages above Limassol from sun-dried xynisteri and mavro grapes; the claim that it is the oldest named wine still in production rests on the medieval documents rather than on continuity of practice.",
+"ctx": "site Kolossi Castle: find \"Commandaria today\" text"
+},
+{
+"en": "In situ, Commandaria villages",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Kolossi and the base area",
+"ctx": "site Kolossi Castle: find title"
+},
+{
+"en": "After 1960 and 1974",
+"ctx": "find period/date"
+},
+{
+"en": "The village sits on the edge of the Akrotiri Sovereign Base Area, and part of its land was used to house Greek Cypriots displaced in 1974, so a Hospitaller estate now shares its fields with British sovereign territory and a refugee estate.",
+"ctx": "site Kolossi Castle: find \"Kolossi and the base area\" text"
+},
+{
+"en": "Founded around 1100 under Emperor Alexios I Komnenos around an icon of the Virgin attributed to St Luke, Kykkos is the richest and most famous monastery in Cyprus. Burned and rebuilt several times, its present church dates from 1745. Makarios III began as a novice here in 1926 and is buried at Throni nearby.",
+"ctx": "site Kykkos Monastery: description"
+},
+{
+"en": "Icon of the Panagia Kykkotissa",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "Byzantine; by tradition 1st century",
+"ctx": "find period/date"
+},
+{
+"en": "Silver-covered icon of the Virgin, never shown uncovered.",
+"ctx": "site Kykkos Monastery: find \"Icon of the Panagia Kykkotissa\" text"
+},
+{
+"en": "Kykkos church",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Kykkos Museum",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "Opened 1990s",
+"ctx": "find period/date"
+},
+{
+"en": "Treasury of icons, manuscripts and vestments.",
+"ctx": "site Kykkos Monastery: find \"Kykkos Museum\" text"
+},
+{
+"en": "Kykkos Monastery",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Stavropegic independence",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "12th century onwards",
+"ctx": "find period/date"
+},
+{
+"en": "Kykkos answered to Constantinople, not to the local bishop, and that status carried it through the abolition of the Greek archbishopric in 1260 and the Latin centuries with its lands and its abbot intact.",
+"ctx": "site Kykkos Monastery: find \"Stavropegic independence\" text"
+},
+{
+"en": "Documentary; monastery archive",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The fires and rebuildings",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "1365, 1541, 1751, 1813",
+"ctx": "find period/date"
+},
+{
+"en": "The monastery burned repeatedly, which is why nothing medieval stands above ground and the present church dates from 1745; the icon was carried out each time, and each rebuilding was paid for by appeals across the Orthodox world.",
+"ctx": "site Kykkos Monastery: find \"The fires and rebuildings\" text"
+},
+{
+"en": "In situ, Kykkos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Library and archive",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "12th–19th century",
+"ctx": "find period/date"
+},
+{
+"en": "Manuscripts, printed books, chrysobulls and firmans documenting the monastery's estates and its dealings with emperors, sultans and Latin archbishops; among the richest ecclesiastical archives in Cyprus.",
+"ctx": "site Kykkos Monastery: find \"Library and archive\" text"
+},
+{
+"en": "Restoration of Panagia tou Sinti",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "1994–1997",
+"ctx": "find period/date"
+},
+{
+"en": "Kykkos took on the conservation of the ruined Venetian-period monastery on the Xeros, work that won a Europa Nostra award in 1997; the wealthiest house in Cyprus still acts as patron to the poorest.",
+"ctx": "site Kykkos Monastery: find \"Restoration of Panagia tou Sinti\" text"
+},
+{
+"en": "Panagia tou Sinti, Pentalia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Throni and the tomb of Makarios III",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "1977",
+"ctx": "find period/date"
+},
+{
+"en": "The first president of the Republic, who began here as a novice in 1926, was buried on 3 August 1977 on the hilltop of Throni above the monastery at his own wish; a shrine to the Virgin stands beside the grave and the site draws pilgrims and tourists in equal numbers.",
+"ctx": "site Kykkos Monastery: find \"Throni and the tomb of Makarios III\" text"
+},
+{
+"en": "In situ, Throni, above Kykkos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The execution of Abbot Josef",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "1821",
+"ctx": "find period/date"
+},
+{
+"en": "Kykkos was caught in the reprisals of 1821: its abbot was among those put to death and the monastery's property was seized, a reminder that the richest Orthodox house on the island held its wealth entirely at the sultan's pleasure.",
+"ctx": "site Kykkos Monastery: find \"The execution of Abbot Josef\" text"
+},
+{
+"en": "Documentary; monastery archives",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The metochia and the schools",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "17th-20th century",
+"ctx": "find period/date"
+},
+{
+"en": "Kykkos ran dependencies, farms and urban properties across Cyprus and beyond, and the income paid for village schools, scholarships and the printing of books; monastic estates were the main Greek Cypriot institution that survived the Ottoman centuries intact.",
+"ctx": "site Kykkos Monastery: find \"The metochia and the schools\" text"
+},
+{
+"en": "Kykkos Monastery and its metochia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The forest as EOKA ground",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "1955-1959",
+"ctx": "find period/date"
+},
+{
+"en": "The Kykkos and Machairas forests sheltered EOKA groups and their caches, and the monastery is widely held to have helped them; British forces mounted repeated searches in the area. The monastery museum and the nearby memorials present the campaign from the Greek Cypriot side.",
+"ctx": "site Kykkos Monastery: find \"The forest as EOKA ground\" text"
+},
+{
+"en": "In situ, Kykkos forest",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The rain processions",
+"ctx": "site Kykkos Monastery: find title"
+},
+{
+"en": "Ottoman period to the 20th century",
+"ctx": "find period/date"
+},
+{
+"en": "In drought the icon of the Panagia Kykkotissa was carried out of the mountains in procession to the parched villages, a practice recorded from the Ottoman centuries into living memory, and one of the clearest links between the island's religion and its water.",
+"ctx": "site Kykkos Monastery: find \"The rain processions\" text"
+},
+{
+"en": "Ten small Byzantine and post-Byzantine churches under steep timber roofs, inscribed by UNESCO in 1985 for five centuries of wall painting: Ayios Nikolaos tis Stegis at Kakopetria, Asinou (1105/06), Panagia tou Araka at Lagoudera (1192), Ayios Ioannis Lampadistis, Moutoullas (1280), Pelendri, Platanistasa, Pedoulas (1474), Galata (1502) and Palaichori.",
+"ctx": "site Troodos painted churches: description"
+},
+{
+"en": "Asinou frescoes",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1105/06 and 14th century",
+"ctx": "find period/date"
+},
+{
+"en": "Komnenian and Palaiologan cycles donated by Nikephoros Ischyrios.",
+"ctx": "site Troodos painted churches: find \"Asinou frescoes\" text"
+},
+{
+"en": "In situ, Nikitari",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Panagia tou Araka frescoes",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1192",
+"ctx": "find period/date"
+},
+{
+"en": "The most complete late Komnenian painted programme in Cyprus.",
+"ctx": "site Troodos painted churches: find \"Panagia tou Araka frescoes\" text"
+},
+{
+"en": "In situ, Lagoudera",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Agios Nikolaos tis Stegis",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "11th century; paintings 11th–17th century",
+"ctx": "find period/date"
+},
+{
+"en": "A domed church near Kakopetria with a second pitched roof against the snow and layers of painting across six centuries.",
+"ctx": "site Troodos painted churches: find \"Agios Nikolaos tis Stegis\" text"
+},
+{
+"en": "In situ, Kakopetria",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Panagia Podithou, Galata",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1502",
+"ctx": "find period/date"
+},
+{
+"en": "Painted for Dimitre de Coron, a Greek in Venetian service, in the fully Italo-Byzantine manner: Renaissance architecture in the backgrounds, Latin as well as Greek inscriptions, and a Crucifixion with a kneeling donor. The clearest single statement of what two centuries of Latin rule did to Cypriot painting.",
+"ctx": "site Troodos painted churches: find \"Panagia Podithou, Galata\" text"
+},
+{
+"en": "In situ, Galata",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Archangelos Michael, Pedoulas",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1474",
+"ctx": "find period/date"
+},
+{
+"en": "Painted for the priest Basil Chamados by an artist who signs himself Minas of Myrianthousa; a small barn-roofed church whose donor panel shows the priest, his wife and their children in fifteenth-century dress.",
+"ctx": "site Troodos painted churches: find \"Archangelos Michael, Pedoulas\" text"
+},
+{
+"en": "In situ, Pedoulas",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Timios Stavros, Pelendri",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "A church of the manor of Pelendri, held by John of Lusignan, son of Hugh IV, with a Tree of Jesse in the vault and painting of high Palaiologan quality; proof that the court itself commissioned Greek painters.",
+"ctx": "site Troodos painted churches: find \"Timios Stavros, Pelendri\" text"
+},
+{
+"en": "In situ, Pelendri",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Panagia tou Moutoulla",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1280",
+"ctx": "find period/date"
+},
+{
+"en": "The earliest dated timber-roofed church of the Troodos type, painted for Ioannis Moutoullas and his wife Irene, whose portraits and inscription fix the year; the painting is provincial, forceful and untouched by Gothic taste.",
+"ctx": "site Troodos painted churches: find \"Panagia tou Moutoulla\" text"
+},
+{
+"en": "In situ, Moutoullas",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Latin chapel of Ayios Ioannis Lampadistis",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "c. 1500",
+"ctx": "find period/date"
+},
+{
+"en": "A chapel added to the Kalopanagiotis monastery holding the fullest Akathist cycle in Cyprus, painted in a frankly Italianate style with Renaissance settings; Greek subject, Italian handling, Latin patron.",
+"ctx": "site Troodos painted churches: find \"Latin chapel of Ayios Ioannis Lampadistis\" text"
+},
+{
+"en": "In situ, Kalopanagiotis",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ayios Mamas, Louvaras",
+"ctx": "site Troodos painted churches: find title"
+},
+{
+"en": "1495",
+"ctx": "find period/date"
+},
+{
+"en": "Signed by Philippos Goul the year after he finished Stavros tou Ayiasmati, and the second half of the only securely identified painter's career in late medieval Cyprus.",
+"ctx": "site Troodos painted churches: find \"Ayios Mamas, Louvaras\" text"
+},
+{
+"en": "In situ, Louvaras",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A village more than twenty centuries older than Khirokitia. Hunter-cultivators grew emmer wheat brought from the mainland, kept dogs, hunted the island's introduced wild boar, and gathered in a sunken circular communal building about ten metres across, the earliest of its kind found on an island. Excavated by a French-Cypriot team from 2009.",
+"ctx": "site Ayios Tychonas-Klimonas: description"
+},
+{
+"en": "Communal building",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "c. 8800 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A semi-subterranean round structure about 10 m in diameter, comparable to the communal buildings of the earliest Levantine villages.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Communal building\" text"
+},
+{
+"en": "In situ, Klimonas",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Chipped stone and plant remains",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "Projectile points, sickle elements and charred emmer showing that cultivation had already reached the island.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Chipped stone and plant remains\" text"
+},
+{
+"en": "Wild boar bones and Sus scrofa circeus",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "Over five hundred specimens, some 97 per cent of the animal remains from the village. Geometric morphometrics on teeth and heel bones, published in 2021, showed these boar were an island subspecies descended from animals brought from the northern Levant, and named it Sus scrofa circeus after the goddess who turned Odysseus's crew into pigs. They were 10 to 16 per cent smaller than their mainland ancestors, and the pigs of later Shillourokambos are their domesticated descendants: Cyprus domesticated its own pigs rather than importing them.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Wild boar bones and Sus scrofa circeus\" text"
+},
+{
+"en": "Department of Antiquities; study collections, Muséum national d'Histoire naturelle, Paris",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Dog remains",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "The earliest dogs on Cyprus, shipped over with the first cultivators. Dogs and cereals arrived together, before any of the herd animals, which suggests the first colonists came as hunters who farmed rather than as herders.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Dog remains\" text"
+},
+{
+"en": "How the boar were killed",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "The age and sex profile of the bones shows the hunters targeting females and their young. That is a pattern of management, not opportunism, and it is one of the reasons the Klimonas boar are read as a stocked and tended resource rather than simply wild game.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"How the boar were killed\" text"
+},
+{
+"en": "Four pieces of obsidian",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "Three bladelets and one blade of Cappadocian obsidian, the sum of the village's imported stone. It is enough to prove the crossing was being made, and little enough to show it was not yet routine.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Four pieces of obsidian\" text"
+},
+{
+"en": "Small houses and storage",
+"ctx": "site Ayios Tychonas-Klimonas: find title"
+},
+{
+"en": "Besides the great communal building there were several small round houses and dedicated storage, so this was a real settlement with granaries and not a camp. The sea crossing that supplied it was 60 to 90 km of open water.",
+"ctx": "site Ayios Tychonas-Klimonas: find \"Small houses and storage\" text"
+},
+{
+"en": "An early Neolithic village on a low plateau, excavated by Jean Guilaine's French mission from 1992 to 2004. Its early phases had post-built enclosures, deep wells and pens for cattle, with sheep, goat and pig arriving over time; about 300 blades of Anatolian obsidian show sea contact. Its most famous find is the burial of a man with a young cat beside him.",
+"ctx": "site Parekklisha-Shillourokambos: description"
+},
+{
+"en": "Human-and-cat burial",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "c. 7500 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A man over thirty buried with shells, a stone pendant, flints and ochre, and beside him an eight-month-old cat: the oldest evidence of cat taming.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Human-and-cat burial\" text"
+},
+{
+"en": "c. 8200–7500 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "About 300 imported Anatolian blades.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Obsidian blades\" text"
+},
+{
+"en": "The wells",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "c. 8400–7000 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Deep shafts cut into the bedrock, dug from the earliest phase onwards and, with those at Kissonerga-Mylouthkia, among the oldest water wells known anywhere in the world. Cypriot wells span the second half of the ninth millennium to the middle of the seventh. Nothing comparable is known on the Levantine mainland until considerably later, so this looks like an island invention forced by island conditions.",
+"ctx": "site Parekklisha-Shillourokambos: find \"The wells\" text"
+},
+{
+"en": "In situ, Shillourokambos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cattle",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "c. 8500–7500 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Aurochs-sized cattle ferried across from the mainland and kept in post-built enclosures. Whether they arrived already domesticated or as managed wild animals is argued from morphology on one side and culling patterns on the other. What is certain is that cattle then died out on Cyprus during the eighth millennium and were not seen again for thousands of years, so the first herds could not sustain themselves.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Cattle\" text"
+},
+{
+"en": "Sea bass and grouper",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "Ninety per cent of the identified fish from Sector 1 are sea bass and large groupers weighing between four and seventeen kilograms. Fish that size are not caught from the beach, and the village sits several kilometres inland.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Sea bass and grouper\" text"
+},
+{
+"en": "Picrolite micro-cups",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "c. 8400–7500 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Small hollow cups of blue-green picrolite under 3 cm across, incised with vertical and horizontal hatching. Two near-identical pieces come from Akanthou on the north coast. Jean Guilaine and others have suggested they are models of boats, which would make them the earliest images of watercraft in the region; most specialists reserve judgement.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Picrolite micro-cups\" text"
+},
+{
+"en": "Shell ornaments and grooved stones",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "372 pieces of fossil and marine shell used as ornaments and tools, together with grooved stones carrying carved geometric motifs that may have served as net sinkers. The same engraved patterns turn up later at Khirokitia and Kholetria-Ortos, and in the Levant.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Shell ornaments and grooved stones\" text"
+},
+{
+"en": "Byblos points and composite sickles",
+"ctx": "site Parekklisha-Shillourokambos: find title"
+},
+{
+"en": "The projectile points of the early phases are straight out of the Levantine Pre-Pottery Neolithic B, and the first sickles were made of several small elements set in a haft. Around 7500 BCE the points vanish and the sickles become single robust blades, which is why the later Khirokitia-culture villages have no arrowheads at all: Cyprus had begun to go its own way.",
+"ctx": "site Parekklisha-Shillourokambos: find \"Byblos points and composite sickles\" text"
+},
+{
+"en": "A small Aceramic village on a low hill in the Vasilikos valley, dug by Ian Todd in 1976–84. Some forty round buildings of stone and mudbrick housed perhaps 150 people; around 7500 BCE the hill was ringed by a wall and ditch, and pillared round buildings on the summit anticipate those of Khirokitia. A conical shelter has protected the remains since 1995.",
+"ctx": "site Kalavasos-Tenta: description"
+},
+{
+"en": "Wall painting",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "Traces of at least two human figures with upraised arms, one in red and one in outline, on a wall of Structure 11: the earliest painting known from Cyprus.",
+"ctx": "site Kalavasos-Tenta: find \"Wall painting\" text"
+},
+{
+"en": "In situ under the shelter",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ground-stone tools, pendants and beads",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "About a thousand stone, bone and shell artefacts, some covered in ochre.",
+"ctx": "site Kalavasos-Tenta: find \"Ground-stone tools, pendants and beads\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Larnaca District Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The pillared buildings on the summit",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "c. 6950–6200 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Three circular buildings with internal pillars, Structures 36, 17 and 14, each rebuilt on the ruins of the last on the western top of the hill. The form has its ancestors in the mainland Pre-Pottery Neolithic A, and only Tenta and Khirokitia have it on Cyprus. Whether they were the houses of important people or communal buildings for the village is unresolved.",
+"ctx": "site Kalavasos-Tenta: find \"The pillared buildings on the summit\" text"
+},
+{
+"en": "The wall and the rock-cut ditch",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "In its fourth period the village ringed the hill with a substantial wall and an outer ditch cut into the havara, the soft local limestone. It was a large piece of communal labour and it is rare in Neolithic Cyprus, which is why Tenta keeps being described as fortified even though nobody can say against whom.",
+"ctx": "site Kalavasos-Tenta: find \"The wall and the rock-cut ditch\" text"
+},
+{
+"en": "In situ, Kalavasos-Tenta",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Fourteen burials",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "Fourteen graves holding at least eighteen people, adults, children and infants. Six were buried in pits under house floors, seven in pits outside the buildings and sometimes in rubbish layers, and grave goods are essentially absent. Against Khirokitia's 254 burials with their necklaces and querns, the contrast between two villages a few hours' walk apart is hard to explain.",
+"ctx": "site Kalavasos-Tenta: find \"Fourteen burials\" text"
+},
+{
+"en": "White marble rings",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "Rings of white marble, a material not native to the island. Along with the obsidian and the carnelian at Khirokitia they show that the Late Aceramic Neolithic, usually painted as an inward-looking period, was still receiving things from across the sea.",
+"ctx": "site Kalavasos-Tenta: find \"White marble rings\" text"
+},
+{
+"en": "Larnaca District Archaeological Museum; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "471 marine shells",
+"ctx": "site Kalavasos-Tenta: find title"
+},
+{
+"en": "Including perforated dove and cone shells and the lips of two helmet shells, cut to be worn. The sea is three kilometres away down the Vasilikos valley.",
+"ctx": "site Kalavasos-Tenta: find \"471 marine shells\" text"
+}
+]

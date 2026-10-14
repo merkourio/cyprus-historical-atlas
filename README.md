@@ -10,7 +10,7 @@ Open `cyprus-historical-explorer.html` in a browser — no build step, no server
 - Era-aware city-kingdom territories, empire borders, and neighbouring polities, each drawn from the snapshot nearest the year on screen.
 - A site drawer with 1,145+ archaeological finds, sourced events, rulers, and a "Life on the island" panel (population, economy, language, religion) per era.
 - Recommended reading per era, fact-checked against Open Library / Crossref.
-- English, Greek, and Turkish interface (site names, eras, powers); scholarly prose stays English.
+- English, Greek, and Turkish throughout: interface, names, and all long-form prose (descriptions, finds, events, rulers, Life on the island, reading notes). The Greek and Turkish prose lives in `i18n/prose-el.js` / `i18n/prose-tr.js`, loaded only when that language is chosen; a lone copy of the HTML falls back to English prose.
 - Kind-based filtering via the legend, zoom-aware label decluttering, and a resizable side panel.
 
 ## Visual overhaul
@@ -46,6 +46,7 @@ work. Deployment uses the existing GitHub Pages configuration: `main`, repositor
 ## Repo layout
 
 - `cyprus-historical-explorer.html` — the deliverable: a self-contained page with all data, styles, and logic inline.
+- `i18n/` — lazy-loaded Greek and Turkish prose packs, built by `research/i18n/build_prose.py` from `research/i18n/prose/` (glossaries, chunked source strings, translations, overrides).
 - `research/` — the data pipeline and working notes behind the atlas: per-era research JSON, merge/reconcile/roundtrip scripts, empire-extent and neighbouring-region builders, palette and emblem checkers, i18n sources, and planning docs (`BRIEF.md`, `EXPANSION-PLAN.md`, `ROADMAP.md`).
 
 ## Status

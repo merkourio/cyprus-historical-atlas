@@ -1,0 +1,882 @@
+[
+{
+"en": "The L-shaped building of Area A",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "c. 1200-1180 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A multi-room house on a rock terrace with storage vessels set into its floors, the only dwelling of Late Bronze Age Cypriot copper miners ever excavated. The jars are usually read as rations and supplies issued to a workforce rather than as a family's own stores.",
+"ctx": "site Apliki-Karamallos: find \"The L-shaped building of Area A\" text"
+},
+{
+"en": "Destroyed by modern mining; recorded in du Plat Taylor's plans",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Slag and furnace debris",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "The settlement sat on terraces of its own waste. Smelting was done at the mine head, where the fuel and the ore were, and the metal then travelled to the coast as ingots rather than as rock.",
+"ctx": "site Apliki-Karamallos: find \"Slag and furnace debris\" text"
+},
+{
+"en": "In situ, Apliki",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ivory cylinder, steatite cylinder seal and gold earring",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "Small valuables from the houses. Even a company village at the pit head had objects worth keeping, and a seal implies somebody there had to authorise something.",
+"ctx": "site Apliki-Karamallos: find \"Ivory cylinder, steatite cylinder seal and gold earring\" text"
+},
+{
+"en": "The Uluburun cargo",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "The ship wrecked off Uluburun in Turkey carried 354 oxhide ingots, about ten tonnes of copper, with roughly a tonne of tin and nine Cypriot storage jars packed with pottery, oil or pomegranates. The lead isotopes of the copper point back to the Solea mines. Excavated by the Institute of Nautical Archaeology from 1984 to 1994.",
+"ctx": "site Apliki-Karamallos: find \"The Uluburun cargo\" text"
+},
+{
+"en": "Bodrum Museum of Underwater Archaeology, Turkey",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Oxhide ingots abroad",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "Copper cast in slabs the shape of a stretched hide, with a handhold at each corner and weighing around 30 kg, has been found from Sardinia to Anatolia and inland into Bulgaria. Every analysed ingot of fourteenth-century date or later is isotopically Cypriot, which is as close as archaeology comes to a trademark.",
+"ctx": "site Apliki-Karamallos: find \"Oxhide ingots abroad\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Bodrum Museum; National Archaeological Museum, Cagliari",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The modern open pit",
+"ctx": "site Apliki-Karamallos: find title"
+},
+{
+"en": "1938 onwards",
+"ctx": "find period/date"
+},
+{
+"en": "This district produced more than four-fifths of the copper concentrate Cyprus exported in modern times. The pit that revealed the Bronze Age village is also what destroyed it, and the working landscape of terraces and red spoil is what a visitor sees.",
+"ctx": "site Apliki-Karamallos: find \"The modern open pit\" text"
+},
+{
+"en": "In situ, Apliki mine",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A sanctuary in the hills south of Myrtou, used from about 1650 BCE to the end of the Bronze Age and excavated in 1949 and 1950 by Joan du Plat Taylor and Veronica Seton-Williams for the Department of Antiquities. Its courtyard holds a stepped altar of dressed stone crowned with carved horns, the Cretan sign of sanctity known as horns of consecration, rebuilt on the spot by the excavators. The wells that give the place its name, pigadhes, supplied the rites. Bones of sheep, goat and deer, hearths and a mass of drinking vessels point to sacrifice and feasting in the open rather than to a temple with a resident priesthood.",
+"ctx": "site Myrtou-Pigadhes: description"
+},
+{
+"en": "The horned altar",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "A stepped block-built altar in the west court, re-erected by the excavators with a pair of stone horns on top. It is the largest and best preserved of its kind on Cyprus and the plainest borrowing of Minoan religious symbolism on the island; what stands today is a reconstruction, and its exact original height is not certain.",
+"ctx": "site Myrtou-Pigadhes: find \"The horned altar\" text"
+},
+{
+"en": "In situ, Myrtou-Pigadhes",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The wells and the west court",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "Late Cypriot I-III",
+"ctx": "find period/date"
+},
+{
+"en": "Rock-cut wells and a paved court with hearths for burnt offerings, built and rebuilt over some six centuries. The sanctuary began as a modest platform and was monumentalised in stages.",
+"ctx": "site Myrtou-Pigadhes: find \"The wells and the west court\" text"
+},
+{
+"en": "Terracotta bulls and figurines",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "Small clay bulls and human figures left as offerings, part of a Cypriot cult of the bull that runs from the Vounous models of the third millennium to the Enkomi Horned God.",
+"ctx": "site Myrtou-Pigadhes: find \"Terracotta bulls and figurines\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Ashmolean Museum, Oxford",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sacrificial and feasting debris",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "Bones of sheep, goat and deer with shells and quantities of eating and drinking vessels, the residue of communal meals. Cypriot Bronze Age religion is legible mostly through what was eaten at it.",
+"ctx": "site Myrtou-Pigadhes: find \"Sacrificial and feasting debris\" text"
+},
+{
+"en": "Imported Mycenaean and Minoan pottery",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "Aegean stirrup jars and fine ware among the offerings, showing that even an inland country sanctuary in the north received goods from the sea trade.",
+"ctx": "site Myrtou-Pigadhes: find \"Imported Mycenaean and Minoan pottery\" text"
+},
+{
+"en": "Bronze knives and chisels",
+"ctx": "site Myrtou-Pigadhes: find title"
+},
+{
+"en": "Metal tools from the sanctuary deposits, likely used in butchering the sacrifices, alongside the copper that paid for everything else on the island.",
+"ctx": "site Myrtou-Pigadhes: find \"Bronze knives and chisels\" text"
+},
+{
+"en": "The Late Bronze Age town of the lower Kouris valley, on a low hill by Episkopi a short way inland from the sea, excavated by the University of Pennsylvania Museum from 1934 under Bertram Hill, George McFadden and John Franklin Daniel. Six hectares of planned housing with streets and wells, an outer town and a fortified inner town on the hill, and the dead buried among the living in single-chamber tombs. Its seals and writing tools give the best stratified sequence for Cypriot administration and for the island's earliest writing; it was never sacked, but drifted into abandonment by the later twelfth century BCE, and the population later gathered on the cliff at Kourion above.",
+"ctx": "site Episkopi-Bamboula: description"
+},
+{
+"en": "Bamboula hill and its circuit wall",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "A fortification wall thrown round the inner town in the thirteenth century BCE, with the open outer town spreading beyond it. The hill is the visible remnant of a place that once functioned as the harbour arm of an inland polity, probably centred at Alassa.",
+"ctx": "site Episkopi-Bamboula: find \"Bamboula hill and its circuit wall\" text"
+},
+{
+"en": "In situ, Episkopi",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Tripartite houses",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "Late Cypriot II",
+"ctx": "find period/date"
+},
+{
+"en": "Rectangular dwellings of five or six rooms on stone footings with mudbrick above, each a distinct household unit on a laid-out street grid rather than an organic huddle.",
+"ctx": "site Episkopi-Bamboula: find \"Tripartite houses\" text"
+},
+{
+"en": "Cylinder seals and bronze writing styli",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "Seals used both as administrative devices and as personal ornaments, found with the metal styli used to cut Cypro-Minoan signs into clay. Because they come from a stratified settlement rather than from looted tombs, they underpin the dating of Cypriot seals and of the script.",
+"ctx": "site Episkopi-Bamboula: find \"Cylinder seals and bronze writing styli\" text"
+},
+{
+"en": "Penn Museum, Philadelphia; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Gold bull-head earrings",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "Hoop earrings finished with the head of a bull, a characteristic Cypriot type, from the intramural tombs. The bull runs through Cypriot Bronze Age imagery from ploughing models to the Horned God.",
+"ctx": "site Episkopi-Bamboula: find \"Gold bull-head earrings\" text"
+},
+{
+"en": "Hippopotamus tusks, an ostrich egg and a glass pomegranate",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "Exotica from the tombs: raw ivory from the Nile, an ostrich egg, and a small pomegranate of glass, along with faience beads, alabaster and Egyptian scarabs. A short list of one tomb group maps most of the eastern Mediterranean.",
+"ctx": "site Episkopi-Bamboula: find \"Hippopotamus tusks, an ostrich egg and a glass pomegranate\" text"
+},
+{
+"en": "Mycenaean and Red Lustrous Wheelmade pottery",
+"ctx": "site Episkopi-Bamboula: find title"
+},
+{
+"en": "Greek drinking and oil vessels alongside the hard, thin-walled red spindle bottles traded all over the Levant, whose place of manufacture, Cyprus or Anatolia, is still disputed.",
+"ctx": "site Episkopi-Bamboula: find \"Mycenaean and Red Lustrous Wheelmade pottery\" text"
+},
+{
+"en": "A cemetery of some seven square kilometres west of the city, where nine great built chamber tombs of the late eighth to early sixth centuries BCE were approached by long ramps. Horses in harness were killed at the ramp mouth and left where they fell, sometimes still yoked to a chariot or a hearse, and the burials were furnished with ivory furniture, bronze cauldrons, jars of oil and honey and imported Levantine and Greek pottery. Vassos Karageorghis and Porphyrios Dikaios began systematic excavation in 1957; every chamber had already been robbed, so almost everything known comes from the ramps and the forecourts. The resemblance to the funeral of Patroklos in the Iliad has been argued over ever since, some reading it as living Homeric practice and others as eighth-century kings deliberately staging an ancestral past.",
+"ctx": "site Salamis, the Royal Necropolis: description"
+},
+{
+"en": "Tomb 79 and its chariot burials",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "The richest of the tombs, used twice within a few years. Two horses lay in the ramp with the impressions of a chariot and a hearse in the soil beside them, along with bronze harness, iron bits and a yoke.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Tomb 79 and its chariot burials\" text"
+},
+{
+"en": "In situ; contents in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ivory throne and bed from Tomb 79",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "Furniture of wood faced with carved ivory plaques, some inlaid with blue glass and gold leaf, in a Phoenician and Egyptianising manner. A throne of the same kind is what Homer's Penelope sits on, and the parallel has kept the tomb in the literature for seventy years.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Ivory throne and bed from Tomb 79\" text"
+},
+{
+"en": "Bronze horse trappings with blinkers and frontlets",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "Embossed bronze blinkers and forehead plates showing a lion attacking a bull and a sphinx before a sacred tree, made for the sacrificed teams. The nearest parallels come from Assyrian sites, and whether they were imported or made on the island is still argued.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Bronze horse trappings with blinkers and frontlets\" text"
+},
+{
+"en": "Tomb 3 and its silver-studded sword",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "7th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "One of only two tombs in the necropolis covered by an earth tumulus. Its iron weapons include a sword with silver rivets in the hilt, a large spearhead and arrowheads, an armoury rather than a set of ornaments.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Tomb 3 and its silver-studded sword\" text"
+},
+{
+"en": "In situ; weapons in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Amphorae of oil and honey",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "Rows of large storage jars stacked in the forecourts, some with the residue of olive oil and honey still detectable. They are the physical trace of the funeral feast and of offerings poured for the dead.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Amphorae of oil and honey\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; some in situ",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Cellarka cemetery",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "A crowded field of small rock-cut tombs cut into the soft limestone a little south of the royal tombs, reached by steep stepped passages, used by ordinary Salaminians for four centuries. Many held cremations in jars, and the contrast with the ramped tombs is the clearest picture of social rank the island offers.",
+"ctx": "site Salamis, the Royal Necropolis: find \"The Cellarka cemetery\" text"
+},
+{
+"en": "In situ, Salamis necropolis",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Tumulus 77, the cenotaph of Nikokreon",
+"ctx": "site Salamis, the Royal Necropolis: find title"
+},
+{
+"en": "A mound over a mudbrick platform on which clay heads and torsos of near life size stood among burnt offerings, but with no burial beneath. It is usually read as an empty memorial to Nikokreon, the last king of Salamis, whose family killed themselves in the palace around 311 BCE, though the identification rests on argument rather than an inscription.",
+"ctx": "site Salamis, the Royal Necropolis: find \"Tumulus 77, the cenotaph of Nikokreon\" text"
+},
+{
+"en": "In situ; clay figures in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The main cemetery of Palaepaphos at the moment the Bronze Age ended and the Iron Age began, about a kilometre south-east of the town. Bulldozing for farmland exposed the tombs, and more than fifty chamber graves were dug in the winter and spring of 1979 under Vassos Karageorghis, with further rescue work down to 2011. The dead were laid in chambers reached by long sloping passages, with bronze bowls, gold and faience jewellery, iron weapons and the roasting spits that mark a meat-eating warrior elite. Because one of those spits carries a Greek name in the local syllabary, Skales is the single site most often cited for the arrival of Greek speakers on Cyprus.",
+"ctx": "site Palaepaphos-Skales: description"
+},
+{
+"en": "Tomb 49",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "A chamber tomb holding three bronze roasting spits, one of them inscribed in the syllabary with the genitive of a Greek personal name, Opheltas. The tomb is the find context for the earliest Greek text from the island, and the reading of the last sign is still discussed.",
+"ctx": "site Palaepaphos-Skales: find \"Tomb 49\" text"
+},
+{
+"en": "In situ (backfilled); contents in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Bimetallic knives",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "11th–10th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Knives with iron blades riveted into bronze or ivory handles, among the earliest worked iron on Cyprus. They show local smiths mastering the new metal while the old one was still the prestige material.",
+"ctx": "site Palaepaphos-Skales: find \"Bimetallic knives\" text"
+},
+{
+"en": "Proto-White Painted pottery",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "c. 1100–1050 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The first pottery of the Iron Age, decorated with Aegean-derived motifs but made in Cypriot shapes, in quantity here for the first time. Skales gave the type its stratigraphic anchor.",
+"ctx": "site Palaepaphos-Skales: find \"Proto-White Painted pottery\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Kouklia Local Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Gold and faience jewellery",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "Gold spiral earrings, embossed sheet-gold mouthpieces and diadems, and faience and glass beads of Egyptian and Levantine type. They show that Paphos was still trading east while the Aegean palaces were in ruins.",
+"ctx": "site Palaepaphos-Skales: find \"Gold and faience jewellery\" text"
+},
+{
+"en": "Cremation burials",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "11th–9th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A minority of the dead were burned and their bones gathered into jars, a practice new to Cyprus at this date. Recent osteological work on the cremated bone is being used to test whether the rite marks incomers or a new fashion among locals.",
+"ctx": "site Palaepaphos-Skales: find \"Cremation burials\" text"
+},
+{
+"en": "Studied material with the Department of Antiquities, Cyprus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Tomb 277",
+"ctx": "site Palaepaphos-Skales: find title"
+},
+{
+"en": "11th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "One of the later-excavated graves, unusually well furnished with bronze vessels and weapons and published in 2021. Its contents strengthened the case that a small hereditary elite at Paphos survived the Bronze Age collapse intact.",
+"ctx": "site Palaepaphos-Skales: find \"Tomb 277\" text"
+},
+{
+"en": "The cemetery on the saddle below the Kourion bluff, and for a long time the only real evidence for the early history of the kingdom, since the Iron Age town itself has never been found. The University of Pennsylvania Museum expedition dug here in the 1930s, and its tombs run from the eleventh century BCE to Classical times, with the Cypro-Geometric graves the richest. Their bronze vessels and Aegean-style pottery were once read as the graves of Argive founders arriving after the Trojan War; the current reading is more cautious, and speaks of local elites who chose Aegean things.",
+"ctx": "site Kourion-Kaloriziki: description"
+},
+{
+"en": "The Kourion sceptre",
+"ctx": "site Kourion-Kaloriziki: find title"
+},
+{
+"en": "A short gold staff whose head is a globe of cloisonné enamel surmounted by two falcons, about 16 cm long. The enamelling has no Aegean parallel and looks Egyptian in technique, and it is one of the earliest true enamels anywhere; it is usually called royal, though the tomb was disturbed and the claim cannot be proved.",
+"ctx": "site Kourion-Kaloriziki: find \"The Kourion sceptre\" text"
+},
+{
+"en": "Tomb 40",
+"ctx": "site Kourion-Kaloriziki: find title"
+},
+{
+"en": "First half of the 11th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A shaft grave holding a cremation in a bronze vessel, two bronze rod tripod stands, the remains of a shield and the gold sceptre. Once described as the tomb of the Achaean founder of Kourion, it is now more often read as the grave of a Cypriot or Phoenician notable.",
+"ctx": "site Kourion-Kaloriziki: find \"Tomb 40\" text"
+},
+{
+"en": "In situ (backfilled); contents in the Cyprus Museum, Nicosia, and the Penn Museum, Philadelphia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Bronze rod tripod stands",
+"ctx": "site Kourion-Kaloriziki: find title"
+},
+{
+"en": "12th–11th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Openwork stands of cast bronze rods made to carry a bowl, a Cypriot speciality of the very end of the Bronze Age. Examples travelled to Crete and the Greek mainland, and they are the clearest sign that Cypriot smiths were still exporting skill after the palaces fell.",
+"ctx": "site Kourion-Kaloriziki: find \"Bronze rod tripod stands\" text"
+},
+{
+"en": "Cypro-Geometric chamber tombs",
+"ctx": "site Kourion-Kaloriziki: find title"
+},
+{
+"en": "c. 1050–750 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Rock-cut chambers entered from short passages, reused over generations, with painted pottery, iron weapons and imported Levantine flasks. Their gold and silver point to a community growing steadily richer on the copper and timber of the Kouris valley.",
+"ctx": "site Kourion-Kaloriziki: find \"Cypro-Geometric chamber tombs\" text"
+},
+{
+"en": "In situ, Kaloriziki ridge",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Aegean and East Greek imports",
+"ctx": "site Kourion-Kaloriziki: find title"
+},
+{
+"en": "10th–6th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Painted cups and jugs from Euboea, Attica and the East Greek islands, in higher proportion here than at any other Cypriot cemetery of the period. Kourion looked west while Kition looked east.",
+"ctx": "site Kourion-Kaloriziki: find \"Aegean and East Greek imports\" text"
+},
+{
+"en": "A small country sanctuary on the northern approaches to the Troodos, near the copper ground of Mitsero, excavated by the Department of Antiquities under Vassos Karageorghis in the early 1970s and published with a second shrine in 1977. It matters because the deity worshipped in it was not Greek: the cult statuary is of the Phoenician Baal Hamman, the bearded god enthroned between rams, in a village well inland from Phoenician Kition. Meniko is the standard evidence that Phoenician religion reached the Cypriot countryside and not only the coastal city, probably along the road to the mines.",
+"ctx": "site Meniko-Litharkes: description"
+},
+{
+"en": "Limestone statue of an enthroned bearded god",
+"ctx": "site Meniko-Litharkes: find title"
+},
+{
+"en": "Later 6th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A seated male figure with a long squared beard on a throne whose arms end in rams' heads, the standard image of Baal Hamman. No inscription names him, so the identification rests on the iconography, which is why some prefer the neutral 'enthroned god'.",
+"ctx": "site Meniko-Litharkes: find \"Limestone statue of an enthroned bearded god\" text"
+},
+{
+"en": "Second cult statue",
+"ctx": "site Meniko-Litharkes: find title"
+},
+{
+"en": "A companion figure of the same god at smaller scale, found in the same rooms. Two images of one deity in one small shrine is unusual and has been read as an old statue kept in service beside its replacement.",
+"ctx": "site Meniko-Litharkes: find \"Second cult statue\" text"
+},
+{
+"en": "Stone incense altar",
+"ctx": "site Meniko-Litharkes: find title"
+},
+{
+"en": "A block cut with a shallow burning hollow, of the type used for aromatics in Phoenician cult. Burnt residue on such altars is the plainest surviving trace of what actually happened in these shrines.",
+"ctx": "site Meniko-Litharkes: find \"Stone incense altar\" text"
+},
+{
+"en": "The shrine building",
+"ctx": "site Meniko-Litharkes: find title"
+},
+{
+"en": "A modest rectangular structure of rubble and mudbrick with a court and inner rooms, not a temple in the Greek sense but a walled house for the god and his offerings. It went out of use around the end of the Archaic period and was not rebuilt.",
+"ctx": "site Meniko-Litharkes: find \"The shrine building\" text"
+},
+{
+"en": "In situ, Meniko (unroofed and largely reburied)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Terracotta votives",
+"ctx": "site Meniko-Litharkes: find title"
+},
+{
+"en": "Mould-made and handmade clay figures, including horse-and-rider groups and bulls, left by ordinary visitors. They are the same repertoire found at Greek-dedicated shrines on the island, which is the point: the offerings were Cypriot even when the god was not.",
+"ctx": "site Meniko-Litharkes: find \"Terracotta votives\" text"
+},
+{
+"en": "A cave shrine to a Nymph on a conical hill south-east of Nicosia, dug in 1939 and again between 1949 and 1955 and published by Terence Mitford in 1980. It produced some 310 inscribed pots and terracottas, of which 269 were dedicated by one man: Onesagoras son of Philounios, a barber who gave himself the title dekatephoros, tithe-bringer. The dedications are dated between 225 and 218 BCE and many are written out twice, once in the Cypriot syllabary and once in the Greek alphabet, which pushed the survival of the old script down to the end of the third century BCE. It is the best evidence anywhere for how an ordinary Cypriot under the Ptolemies actually spoke to a god.",
+"ctx": "site Kafizin: description"
+},
+{
+"en": "The inscribed vessels of Onesagoras",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "225–218 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "About 310 pots, of which 269 were dedicated by Onesagoras, inscribed before and after firing with dates, quantities and addresses to the Nymph. They read like a working ledger crossed with prayer, and they carry precise regnal dates, which is why the group anchors so much Cypriot chronology.",
+"ctx": "site Kafizin: find \"The inscribed vessels of Onesagoras\" text"
+},
+{
+"en": "Syllabic and alphabetic texts side by side",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "Some vessels carry the Cypriot syllabary, some the Greek alphabet, and some both, occasionally mixing the two in one word. Nowhere else can the retreat of the syllabary be watched at this resolution.",
+"ctx": "site Kafizin: find \"Syllabic and alphabetic texts side by side\" text"
+},
+{
+"en": "The cave and the conical hill",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "3rd century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A rock cavity on a steep isolated cone, called simply 'the conical hill' in the inscriptions themselves, a phrase attested at no other Cypriot site. The hill is a landmark from the Mesaoria and needs no signpost.",
+"ctx": "site Kafizin: find \"The cave and the conical hill\" text"
+},
+{
+"en": "In situ, Kafizin hill",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The title dekatephoros",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "Onesagoras styles himself tithe-bearer, apparently a man who brought a tenth of a crop or a trade to the goddess. Whether this was a priesthood, a tax office or a private vow he invented for himself is still argued.",
+"ctx": "site Kafizin: find \"The title dekatephoros\" text"
+},
+{
+"en": "Texts in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Dedications by named companions",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "A smaller group of pots names other dedicants, among them relatives and men described as fellow workers, so the shrine was not a one-man affair. The names are a rare census of ordinary Hellenistic Cypriots.",
+"ctx": "site Kafizin: find \"Dedications by named companions\" text"
+},
+{
+"en": "The dedications of Onesagoras",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "225-218 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "269 of the roughly 310 inscribed vessels from the shrine were given by a single barber, an intensity of devotion that has led scholars to call him a nympholept, a man seized by the Nymph. No other Greek sanctuary has anything comparable from one hand.",
+"ctx": "site Kafizin: find \"The dedications of Onesagoras\" text"
+},
+{
+"en": "The digraphic inscriptions",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "Texts written in both the Cypriot syllabary and the Greek alphabet on the same vessel. They are the latest securely dated syllabic writing on the island and they killed the older view that the script died out with the city-kingdoms.",
+"ctx": "site Kafizin: find \"The digraphic inscriptions\" text"
+},
+{
+"en": "The Nymph of the conical hill",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "The goddess is addressed as dwelling in the conical hill itself and given epithets such as mountain-ranging and sister. She has no name, no temple and no statue: the hill is the cult.",
+"ctx": "site Kafizin: find \"The Nymph of the conical hill\" text"
+},
+{
+"en": "Attested in the inscriptions",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The unread vocabulary",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "The texts are full of rare or otherwise unknown words whose meanings are still argued over, which is why a small rural shrine has a bibliography out of all proportion to its size.",
+"ctx": "site Kafizin: find \"The unread vocabulary\" text"
+},
+{
+"en": "Vessels of unusual form",
+"ctx": "site Kafizin: find title"
+},
+{
+"en": "Alongside ordinary jugs the shrine produced ceramic and terracotta objects of shapes not found elsewhere, apparently made for the cult rather than adapted from household ware.",
+"ctx": "site Kafizin: find \"Vessels of unusual form\" text"
+},
+{
+"en": "A rural sanctuary of Aphrodite in the eastern Mesaoria, known from inscriptions that call the goddess Golgia, the Aphrodite of Golgoi, so the shrine belonged to a cult network rather than standing alone. Its votive deposit was unusual for containing mostly female statues, which makes it the best single source for how Cypriot sculptors handled women, from stiff Archaic figures in heavy jewellery to softened Hellenistic types. The finds were dispersed in the nineteenth and early twentieth centuries and the shrine has never been properly excavated or securely located on the ground.",
+"ctx": "site Arsos, sanctuary of Aphrodite: description"
+},
+{
+"en": "Limestone female votaries",
+"ctx": "site Arsos, sanctuary of Aphrodite: find title"
+},
+{
+"en": "6th–2nd century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Standing women in long chitons with earrings, necklaces and flower-held-to-the-breast gestures, a series long enough to trace three centuries of changing style. They are the counterweight to the male votaries that dominate almost every other Cypriot sanctuary.",
+"ctx": "site Arsos, sanctuary of Aphrodite: find \"Limestone female votaries\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; British Museum, London; other European collections",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Dedications to Aphrodite Golgia",
+"ctx": "site Arsos, sanctuary of Aphrodite: find title"
+},
+{
+"en": "Inscriptions naming the goddess as Golgia, the epithet that ties Arsos to the great sanctuary town of Golgoi some twelve kilometres west. They are the reason the site is identified as Aphrodite's at all.",
+"ctx": "site Arsos, sanctuary of Aphrodite: find \"Dedications to Aphrodite Golgia\" text"
+},
+{
+"en": "Terracotta offerings",
+"ctx": "site Arsos, sanctuary of Aphrodite: find title"
+},
+{
+"en": "Mould-made clay figures of women, some holding infants or tambourines, cheap versions of the stone votaries. They show who was actually paying: villagers, not kings.",
+"ctx": "site Arsos, sanctuary of Aphrodite: find \"Terracotta offerings\" text"
+},
+{
+"en": "Archaic heads of the 'Cypro-Ionian' style",
+"ctx": "site Arsos, sanctuary of Aphrodite: find title"
+},
+{
+"en": "c. 550–480 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Limestone heads with the almond eyes and pressed smile borrowed from East Greek sculpture, wearing wreaths and diadems. Arsos is one of the sites used to date the moment Cypriot carvers turned from Egyptian to Ionian models.",
+"ctx": "site Arsos, sanctuary of Aphrodite: find \"Archaic heads of the 'Cypro-Ionian' style\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; dispersed collections",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A country shrine in the plain between Kition and Salamis, usually said to be Artemis's, emptied in 1882 by Max Ohnefalsch-Richter working for the British Museum. More than a thousand stone and terracotta figures came out of it, and almost nothing was recorded about where any of them lay, so Achna has become the standard example of how much Cypriot archaeology was lost while it was being collected. The finds were divided between sponsors and are now spread across the British Museum, the Louvre, the Pierides Museum and the Cyprus Museum.",
+"ctx": "site Achna, rural sanctuary: description"
+},
+{
+"en": "The votive deposit",
+"ctx": "site Achna, rural sanctuary: find title"
+},
+{
+"en": "c. 750–310 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Over a thousand limestone and terracotta figures dug out in a single season of 1882. The sheer number shows a shrine used continuously for four centuries, but with no plan and no stratigraphy nothing can be said about how the cult worked.",
+"ctx": "site Achna, rural sanctuary: find \"The votive deposit\" text"
+},
+{
+"en": "British Museum, London; Louvre, Paris; Pierides Museum, Larnaca; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Mould-made 'Astarte' plaque figurine",
+"ctx": "site Achna, rural sanctuary: find title"
+},
+{
+"en": "A clay female figure about 40 cm high, pressed from a mould with the hands to the breasts in the Levantine Astarte pose. Mass production of this kind put a goddess within reach of anyone who could pay a potter.",
+"ctx": "site Achna, rural sanctuary: find \"Mould-made 'Astarte' plaque figurine\" text"
+},
+{
+"en": "Limestone votaries in Egyptianising dress",
+"ctx": "site Achna, rural sanctuary: find title"
+},
+{
+"en": "Male figures in the pleated kilt and double crown borrowed from Egypt, a fashion that swept Cypriot sculpture while the island paid tribute to the Saite pharaohs. Achna supplied a large part of the series now in London and Paris.",
+"ctx": "site Achna, rural sanctuary: find \"Limestone votaries in Egyptianising dress\" text"
+},
+{
+"en": "British Museum, London; Louvre, Paris",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Terracotta horse-and-rider figures",
+"ctx": "site Achna, rural sanctuary: find title"
+},
+{
+"en": "6th–5th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Small clay riders on stiff-legged horses, a type found at almost every Cypriot country shrine and probably a soldier's or a traveller's offering. Achna produced them in quantity.",
+"ctx": "site Achna, rural sanctuary: find \"Terracotta horse-and-rider figures\" text"
+},
+{
+"en": "The unlocated shrine",
+"ctx": "site Achna, rural sanctuary: find title"
+},
+{
+"en": "Dug 1882",
+"ctx": "find period/date"
+},
+{
+"en": "The sanctuary itself has never been relocated on the ground; the village was abandoned in 1974 and no modern survey has fixed the temenos. It is the clearest case on the island of a major site known only from its objects.",
+"ctx": "site Achna, rural sanctuary: find \"The unlocated shrine\" text"
+},
+{
+"en": "Site location unrecorded, Achna village lands",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "An unwalled town spread over the neck and southern slope of Cape Drepanon, busy in the Roman period and at its height under Justinian, when three basilicas and a bath house stood on the headland. Its position at the island's north-west corner made it a natural call for ships carrying Egyptian grain to Constantinople, and the sherd dumps show it shipped wine of its own as well. The Department of Antiquities dug the churches between 1952 and 1955; the Aristotle University of Thessaloniki from 1992 and the Greek Archaeological Expedition since 1999 have worked on the settlement itself, which turned what had looked like a pilgrimage complex into a proper town.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): description"
+},
+{
+"en": "Basilica A and its baptistery",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "6th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "The largest of the three churches, three-aisled with a baptistery against its west end, standing on the neck of the cape where the main street ran. Its floors are laid with mosaic panels of geometric patterns and animals.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"Basilica A and its baptistery\" text"
+},
+{
+"en": "In situ, Agios Georgios-Pegeia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Basilica B",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "A three-aisled church lower down the southern slope, close to the shore and the anchorage that the town used.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"Basilica B\" text"
+},
+{
+"en": "Basilica C, with its oil press and hostel",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "The smallest church, with a range of working buildings attached: an oil press and a block the excavators read as lodging for travellers. It is the clearest sign that the cape served people passing through.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"Basilica C, with its oil press and hostel\" text"
+},
+{
+"en": "The bath house",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "A small bath complex beside Basilica A, generous for a settlement of this size and one of the reasons the site is read as a watering and victualling stop for shipping.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"The bath house\" text"
+},
+{
+"en": "Rock-cut necropolis on the cliff edge",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "Roman to Early Christian",
+"ctx": "find period/date"
+},
+{
+"en": "Chamber tombs cut into the soft rock along the cliff, with a further cemetery inland in the Meletis forest above the cape.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"Rock-cut necropolis on the cliff edge\" text"
+},
+{
+"en": "The amphora dump",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "More than 700 kg of amphora sherds recorded under Stella Demesticha of the University of Cyprus, dominated by Late Roman 1 jars made near Paphos and in Cilicia, with Gaza and Palestinian imports among them. It is one of the plainest pictures anywhere of what a Cypriot port actually handled.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"The amphora dump\" text"
+},
+{
+"en": "Study collection, University of Cyprus and site store",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Chapel of Agios Georgios",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find title"
+},
+{
+"en": "Late 13th to early 14th century",
+"ctx": "find period/date"
+},
+{
+"en": "A small vaulted chapel raised over part of the abandoned town, the reason the cape still carries the saint's name and still draws pilgrims on his feast day.",
+"ctx": "site Agios Georgios-Pegeia (Cape Drepanon): find \"Chapel of Agios Georgios\" text"
+},
+{
+"en": "A flat-topped islet of about 2.6 hectares rising some 21 m out of the sea a short way off Cape Drepanon, its name meaning Holy Island. Sophocles Hadjisavvas began digging in 1982 when a hotel was proposed for it, and Joan Breton Connelly of New York University has directed the excavation since 1990. In the last decades of Ptolemaic rule, under Cleopatra VII, a striking amount of money went into turning the rock into a sanctuary of Apollo with its own kitchens, stores and lookout; it was abandoned after an earthquake around the turn of the era. Chalcolithic remains lie beneath the Hellenistic buildings and a Byzantine reservoir and animal shelters above them.",
+"ctx": "site Yeronisos: description"
+},
+{
+"en": "The 'Apollo' ostrakon",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "A potsherd inscribed with the god's name, and the only object that actually names the divinity of Holy Island. The identification of the sanctuary rests on this sherd and on amulets that match ones from Apollo shrines elsewhere on Cyprus.",
+"ctx": "site Yeronisos: find \"The 'Apollo' ostrakon\" text"
+},
+{
+"en": "Paphos District Archaeological Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ptolemaic ostraka",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "The only Ptolemaic ostraka found on Cyprus, written in Greek and concerned with the running of the sanctuary and its stores. Ostraka of this kind are common in Egypt and almost unknown on the island.",
+"ctx": "site Yeronisos: find \"Ptolemaic ostraka\" text"
+},
+{
+"en": "Stone parapegma",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "A slab pierced with a row of holes for a peg to be shifted along through the days of the month, a working calendar of a kind rare anywhere in the Greek world.",
+"ctx": "site Yeronisos: find \"Stone parapegma\" text"
+},
+{
+"en": "Limestone amulets",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "Small pierced amulets shaped rather like miniature loom weights, cut with a mixture of old Cypriot and Ptolemaic Egyptian motifs. Twenty-five years of digging have produced a whole series, and they are the strongest argument for what kind of cult was practised here.",
+"ctx": "site Yeronisos: find \"Limestone amulets\" text"
+},
+{
+"en": "The circular platform",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "A paved circle in the middle of the island that Connelly reads as a dance floor used in rites of passage for boys. That is an interpretation and not a certainty, and other readings are possible.",
+"ctx": "site Yeronisos: find \"The circular platform\" text"
+},
+{
+"en": "In situ, Yeronisos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The southern service range",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "A complex of rooms for preparing, distributing and storing food, built along the island's southern edge in the final years of Ptolemaic rule; in one room the plaster of the ground floor is still on the wall.",
+"ctx": "site Yeronisos: find \"The southern service range\" text"
+},
+{
+"en": "Chalcolithic pestles and mortars",
+"ctx": "site Yeronisos: find title"
+},
+{
+"en": "c. 3800 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Stone tools from the island's first occupation, many found in the Hellenistic food-preparation area where they appear to have been picked up and put back to work three and a half thousand years later.",
+"ctx": "site Yeronisos: find \"Chalcolithic pestles and mortars\" text"
+},
+{
+"en": "A church complex about 100 m long standing on its own in the western forest of the Akrotiri peninsula, surveyed from 2007 and excavated by Eleni Procopiou for the Department of Antiquities. Its main church is a three-aisled basilica 36 m wide and 29 m long crossed by a transverse aisle, a transept plan otherwise unknown on Cyprus and rare in the eastern Mediterranean. Pottery and inscriptions place its building in the first years of the reign of Heraclius, about 616 to 619, and its destruction shortly before the middle of the seventh century. Why so grand and so unusual a building was raised on an empty headland is still argued over.",
+"ctx": "site Akrotiri-Katalymata ton Plakoton: description"
+},
+{
+"en": "The transept basilica",
+"ctx": "site Akrotiri-Katalymata ton Plakoton: find title"
+},
+{
+"en": "c. 616-619 CE",
+"ctx": "find period/date"
+}
+]

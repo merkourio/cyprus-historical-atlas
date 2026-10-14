@@ -1,0 +1,1058 @@
+[
+{
+"en": "Paphos District Museum; Department of Antiquities, Cyprus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "An Early and Middle Bronze Age village on a terrace between two streams in the Troodos foothills, at the exact seam between the grain land of the Mesaoria and the copper-bearing pillow lavas. Steven Falconer and Patricia Fall have dug it since 2004, and twenty-five radiocarbon dates put its six occupation phases between about 2050 and 1850 BCE. It is the clearest picture available of ordinary households that mined and smelted their own copper.",
+"ctx": "site Politiko-Troullia: description"
+},
+{
+"en": "The stone plank figure",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "c. 2000–1850 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The largest stone plank figure excavated on Cyprus, recovered not from a tomb but from an open public space in the middle of the village, which is why it matters: it puts these figures into communal life rather than the grave.",
+"ctx": "site Politiko-Troullia: find \"The stone plank figure\" text"
+},
+{
+"en": "Household smelting workshops",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "c. 2050–1850 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Copper ore, slag and casting debris in ordinary courtyards, with the blades, chisels and axe-heads that came out of them. Metallurgy here was domestic work, not a separate industry.",
+"ctx": "site Politiko-Troullia: find \"Household smelting workshops\" text"
+},
+{
+"en": "The intramural well",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "Phases 5 to 3",
+"ctx": "find period/date"
+},
+{
+"en": "A well inside the settlement, giving the villagers drinking water without leaving the built-up area.",
+"ctx": "site Politiko-Troullia: find \"The intramural well\" text"
+},
+{
+"en": "In situ, Politiko-Troullia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Feasting deposits of fallow deer",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "Concentrations of Mesopotamian fallow deer bone in courtyards alongside sheep, goat, pig and cattle, read as communal feasting on hunted rather than herded meat.",
+"ctx": "site Politiko-Troullia: find \"Feasting deposits of fallow deer\" text"
+},
+{
+"en": "Red Polished plank figures",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "Flat clay figures with incised faces and ornament, found across the site in patterns that let the excavators map where they were actually used.",
+"ctx": "site Politiko-Troullia: find \"Red Polished plank figures\" text"
+},
+{
+"en": "Courtyards, alleys and mudbrick houses",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "Six stratified phases of rectangular courtyard houses linked by lanes, rebuilt on the same lines for two hundred years.",
+"ctx": "site Politiko-Troullia: find \"Courtyards, alleys and mudbrick houses\" text"
+},
+{
+"en": "Orchard crops and woodland fuel",
+"ctx": "site Politiko-Troullia: find title"
+},
+{
+"en": "Charred olive and grape remains beside charcoal from surviving woodland, which was the fuel that made the smelting possible.",
+"ctx": "site Politiko-Troullia: find \"Orchard crops and woodland fuel\" text"
+},
+{
+"en": "A small industrial hamlet west of Ambelikou village, in the northern Troodos foothills beside Skouriotissa, one of the richest orebodies on the island. In 1942 modern miners broke into an ancient shaft and found pottery of about 2000 BCE in it, which brought Porphyrios Dikaios to the spot. Ambelikou remains the earliest place on Cyprus where copper mining itself, rather than the copper, can be proved, and it also produced a potter's workshop abandoned mid-job.",
+"ctx": "site Ambelikou-Aletri: description"
+},
+{
+"en": "The ancient mine gallery",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "A shaft found during twentieth-century mining, containing Middle Bronze Age pots left by the men who dug it. This is the oldest direct evidence for copper mining on Cyprus, as against copper objects, which are older.",
+"ctx": "site Ambelikou-Aletri: find \"The ancient mine gallery\" text"
+},
+{
+"en": "In situ (inaccessible); pottery in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Crucible and casting mould",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "A crucible, a mould and slag from the settlement itself, so the ore was being smelted and cast within sight of the mine rather than carried away raw.",
+"ctx": "site Ambelikou-Aletri: find \"Crucible and casting mould\" text"
+},
+{
+"en": "The potter's workshop",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "shortly after 2000 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A workshop abandoned suddenly with its installations in place and roughly four dozen jugs still stacked from the last kiln load, a rare snapshot of a craft interrupted.",
+"ctx": "site Ambelikou-Aletri: find \"The potter's workshop\" text"
+},
+{
+"en": "Copper ore and slag heaps",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "Broken ore awaiting the furnace and the waste left after it, the industrial rubbish that lets metallurgists reconstruct the process.",
+"ctx": "site Ambelikou-Aletri: find \"Copper ore and slag heaps\" text"
+},
+{
+"en": "Stone mining tools",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "Heavy hammers and picks of the kind used to break ore out of a gallery by hand and firesetting.",
+"ctx": "site Ambelikou-Aletri: find \"Stone mining tools\" text"
+},
+{
+"en": "Red Polished and White Painted pottery",
+"ctx": "site Ambelikou-Aletri: find title"
+},
+{
+"en": "The domestic pottery of the miners, which is what dates the whole operation to the very start of the Middle Bronze Age.",
+"ctx": "site Ambelikou-Aletri: find \"Red Polished and White Painted pottery\" text"
+},
+{
+"en": "The largest Bronze Age burial ground known on Cyprus, spread over about six hectares of hard limestone crust on the south side of the Ovgos valley. It is also the most comprehensively robbed. When David Frankel and Jennifer Webb surveyed it in 2003 and 2004 they mapped 1,286 pillaged tombs, and argued that even a cemetery this badly damaged still carries readable information about population and wealth, and should not be written off to the bulldozer.",
+"ctx": "site Deneia (Kafkalla): description"
+},
+{
+"en": "1,286 looted tombs",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "recorded 2003–2004",
+"ctx": "find period/date"
+},
+{
+"en": "The survey's central figure, and the reason so many unprovenanced Cypriot Bronze Age pots in world collections are labelled simply 'Deneia'. Tomb architecture and the sherds left behind still gave a curve of rising population and rising funerary spending through the Bronze Age.",
+"ctx": "site Deneia (Kafkalla): find \"1,286 looted tombs\" text"
+},
+{
+"en": "In situ, Kafkalla plateau",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Rock-cut chamber tombs with dromoi",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "Chambers entered down a sloping passage cut into the kafkalla, each holding several burials, the standard form of the island-wide extramural cemetery tradition.",
+"ctx": "site Deneia (Kafkalla): find \"Rock-cut chamber tombs with dromoi\" text"
+},
+{
+"en": "Red Polished and Black Polished vessels",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "Early and Middle Bronze Age",
+"ctx": "find period/date"
+},
+{
+"en": "Burnished jugs, bowls and bottles, many of them decorated with incised lattice and zigzag, published as tomb groups by Frankel and Webb in 2007.",
+"ctx": "site Deneia (Kafkalla): find \"Red Polished and Black Polished vessels\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; and in private and public collections worldwide through the antiquities trade",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Zoomorphic askoi",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "Pouring vessels modelled as animals or given animal spouts and horns, a favourite of the Red Polished potters and of collectors.",
+"ctx": "site Deneia (Kafkalla): find \"Zoomorphic askoi\" text"
+},
+{
+"en": "Bronze daggers",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "Tanged blades from the tombs, the standard male grave gift and a reminder that the valley sat on the route from the mines to the north coast.",
+"ctx": "site Deneia (Kafkalla): find \"Bronze daggers\" text"
+},
+{
+"en": "The Late Cypriot II tomb",
+"ctx": "site Deneia (Kafkalla): find title"
+},
+{
+"en": "A tomb recorded by Sophocles Hadjisavvas in 1985 showing that burial here continued long after the Middle Bronze Age peak.",
+"ctx": "site Deneia (Kafkalla): find \"The Late Cypriot II tomb\" text"
+},
+{
+"en": "A north-coast cemetery of tombs cut into soft gypsum, dug by James Stewart in 1955. Its material is unlike anything at other Philia-phase sites and includes weapons that were made outside Cyprus, which is why the site sits at the centre of the argument about whether the Philia horizon means Anatolian migrants or only Anatolian fashions. Stewart thought the Philia style survived at Vasilia long after it had ended elsewhere, a view still contested.",
+"ctx": "site Vasilia-Kafkallia: description"
+},
+{
+"en": "The Tomb 1 dromos deposit",
+"ctx": "site Vasilia-Kafkallia: find title"
+},
+{
+"en": "Philia phase, c. 2400 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Nine metal objects hidden beneath the plaster lining of a tomb passage, one of the largest metal groups of its date on the island and evidently placed there deliberately rather than dropped.",
+"ctx": "site Vasilia-Kafkallia: find \"The Tomb 1 dromos deposit\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Nicholson Museum, University of Sydney",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The imported spearhead and sword",
+"ctx": "site Vasilia-Kafkallia: find title"
+},
+{
+"en": "Philia phase",
+"ctx": "find period/date"
+},
+{
+"en": "A rat-tang spearhead and a sword whose forms have no Cypriot ancestry, and whose lead isotope ratios point to copper from the central Taurus mountains. The likeliest reading is that both arrived as finished weapons.",
+"ctx": "site Vasilia-Kafkallia: find \"The imported spearhead and sword\" text"
+},
+{
+"en": "The ring ingot",
+"ctx": "site Vasilia-Kafkallia: find title"
+},
+{
+"en": "A hoop of metal of a type used as portable value in Anatolia and the Cyclades, and further evidence that the north coast was plugged into a mainland metals trade.",
+"ctx": "site Vasilia-Kafkallia: find \"The ring ingot\" text"
+},
+{
+"en": "Philia Red Polished ware",
+"ctx": "site Vasilia-Kafkallia: find title"
+},
+{
+"en": "c. 2400–2200 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The distinctive jugs and bowls of the Philia horizon, with their long cutaway spouts, mostly made on the island but shaped to Anatolian taste.",
+"ctx": "site Vasilia-Kafkallia: find \"Philia Red Polished ware\" text"
+},
+{
+"en": "Chamber tombs cut in gypsum",
+"ctx": "site Vasilia-Kafkallia: find title"
+},
+{
+"en": "Tombs whose contents span much of the prehistoric Bronze Age, which makes them hard to date and is the root of the long dispute over how late the Philia style lasted here.",
+"ctx": "site Vasilia-Kafkallia: find \"Chamber tombs cut in gypsum\" text"
+},
+{
+"en": "In situ (inaccessible since 1974)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "An Early Bronze Age cemetery near the south coast, found in advance of building and excavated in a single rescue campaign in 2008 by Giorgos Georgiou for the Department of Antiquities with Jennifer Webb and David Frankel of Melbourne. It was published in full in 2011, which makes it rare and valuable: an early cemetery dug complete, and therefore the yardstick against which plundered cemeteries such as Deneia have to be measured.",
+"ctx": "site Psematismenos-Trelloukkas: description"
+},
+{
+"en": "The complete cemetery plan",
+"ctx": "site Psematismenos-Trelloukkas: find title"
+},
+{
+"en": "excavated 2008",
+"ctx": "find period/date"
+},
+{
+"en": "Every grave in the excavated area recorded, with its position, form and contents, at a period otherwise known almost entirely from robbed tombs and museum purchases.",
+"ctx": "site Psematismenos-Trelloukkas: find \"The complete cemetery plan\" text"
+},
+{
+"en": "Department of Antiquities, Cyprus (archive)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Collective burials",
+"ctx": "site Psematismenos-Trelloukkas: find title"
+},
+{
+"en": "Early Cypriot",
+"ctx": "find period/date"
+},
+{
+"en": "Graves holding several people rather than one, including a group large enough to be called a mass burial. Psematismenos is a key data point for the shift from single to collective burial in the early Bronze Age.",
+"ctx": "site Psematismenos-Trelloukkas: find \"Collective burials\" text"
+},
+{
+"en": "Red Polished South Coast ware",
+"ctx": "site Psematismenos-Trelloukkas: find title"
+},
+{
+"en": "c. 2400–2100 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The regional Early Cypriot fabric of this coastline, whose tight dating here helps anchor the sequence for the whole south.",
+"ctx": "site Psematismenos-Trelloukkas: find \"Red Polished South Coast ware\" text"
+},
+{
+"en": "The human and animal bone reports",
+"ctx": "site Psematismenos-Trelloukkas: find title"
+},
+{
+"en": "Kirsi Lorentz's study of the skeletons and Paul Croft's of the animal bone, giving age, sex and health for a whole burying community rather than a few showpiece graves.",
+"ctx": "site Psematismenos-Trelloukkas: find \"The human and animal bone reports\" text"
+},
+{
+"en": "Not a village but an industrial quarter, now hemmed in by the villas of modern Pyrgos, excavated from 1998 by Maria Rosaria Belgiorno for Italy's National Research Council. Copper smelting, olive pressing, weaving, wine and perfumed oil were all carried on in one complex, with the olive oil apparently doubling as furnace fuel. An earthquake flattened it around 1850 BCE and thereby preserved the equipment where it stood.",
+"ctx": "site Pyrgos-Mavroraki: description"
+},
+{
+"en": "The perfume workshop",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "A press hall with funnels, maceration juglets, small perfume bottles and amphorae found in place, excavated between 2000 and 2003 and described by its excavator as the oldest perfume production site in the world. The superlative is contested; the installation is not.",
+"ctx": "site Pyrgos-Mavroraki: find \"The perfume workshop\" text"
+},
+{
+"en": "In situ, Pyrgos-Mavroraki; finds in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The alembic",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "A vessel identified as distillation apparatus. If the reading holds it is among the earliest distillation equipment anywhere, which is exactly why other specialists want a second explanation for the shape.",
+"ctx": "site Pyrgos-Mavroraki: find \"The alembic\" text"
+},
+{
+"en": "The scent recipes",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "Chemical and pollen analysis identified rosemary, lavender, marjoram and myrtle steeped in olive and almond oil, matching methods later described by Theophrastus, Pliny and Dioscorides. Working replicas of the fragrances have been made from the results.",
+"ctx": "site Pyrgos-Mavroraki: find \"The scent recipes\" text"
+},
+{
+"en": "Reconstructions shown at Musei Capitolini, Rome (2007), Officina Profumo Santa Maria Novella, Florence (2008) and the Pierides Museum, Larnaca (2009–2010)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The metallurgical workshop",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "c. 2350–1850 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Furnaces, slag and casting waste in the same complex as the presses, with evidence that olive oil was burnt as fuel. Copper and cosmetics were run as one business.",
+"ctx": "site Pyrgos-Mavroraki: find \"The metallurgical workshop\" text"
+},
+{
+"en": "In situ, Pyrgos-Mavroraki",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Olive and wine installations",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "Presses, vats and storage jars for oil and wine, the agricultural half of the operation that supplied both the perfumers and the smiths.",
+"ctx": "site Pyrgos-Mavroraki: find \"Olive and wine installations\" text"
+},
+{
+"en": "Worked marine shell",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "Large quantities of molluscs that were not eaten, studied as raw material for dye, ornament or lime rather than as food waste.",
+"ctx": "site Pyrgos-Mavroraki: find \"Worked marine shell\" text"
+},
+{
+"en": "The earthquake destruction",
+"ctx": "site Pyrgos-Mavroraki: find title"
+},
+{
+"en": "c. 1850 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Collapsed walls and roofs that buried the workshops with their tools still in position, which is the only reason so fragile an industry can be reconstructed at all.",
+"ctx": "site Pyrgos-Mavroraki: find \"The earthquake destruction\" text"
+},
+{
+"en": "A fifteen-hectare promontory just north-west of Kalavasos, next to the thirty-five-hectare terrace of Arkhangelos, both thick with Middle Bronze Age surface finds. The Kalavasos-Laroumena and Arkhangelos Archaeological Research Project began surveying in 2022 and digging in 2023 to fill the one gap in a valley otherwise excavated end to end, the centuries between the Chalcolithic villages and the Late Bronze Age town at Ayios Dhimitrios downstream.",
+"ctx": "site Kalavasos-Laroumena: description"
+},
+{
+"en": "Middle Bronze Age terracing",
+"ctx": "site Kalavasos-Laroumena: find title"
+},
+{
+"en": "c. 2000–1650 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The excavators found a building wall running under a modern terrace wall, which suggests the hillside was first cut into terraces to carry houses rather than crops.",
+"ctx": "site Kalavasos-Laroumena: find \"Middle Bronze Age terracing\" text"
+},
+{
+"en": "In situ, Kalavasos-Laroumena",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The ash-filled room",
+"ctx": "site Kalavasos-Laroumena: find title"
+},
+{
+"en": "Three walls forming a small room packed with thick ash and charcoal, the first securely dated Middle Bronze Age architecture from the site.",
+"ctx": "site Kalavasos-Laroumena: find \"The ash-filled room\" text"
+},
+{
+"en": "Storage pithos fragments",
+"ctx": "site Kalavasos-Laroumena: find title"
+},
+{
+"en": "Pieces of large storage jars, which the project reads as evidence of families competing in surplus and display, a habit that leads towards the state society of the Late Bronze Age.",
+"ctx": "site Kalavasos-Laroumena: find \"Storage pithos fragments\" text"
+},
+{
+"en": "A five-thousand-year sherd scatter",
+"ctx": "site Kalavasos-Laroumena: find title"
+},
+{
+"en": "Late Chalcolithic to Iron Age",
+"ctx": "find period/date"
+},
+{
+"en": "Pottery of the late Chalcolithic, Early, Middle and Late Bronze Age and the Iron Age in the same soil, showing people returned to this promontory again and again.",
+"ctx": "site Kalavasos-Laroumena: find \"A five-thousand-year sherd scatter\" text"
+},
+{
+"en": "A settlement and cemetery on the ridge less than a kilometre east of Episkopi, above the mouth of the Kouris. J.R. Carpenter and then Stuart Swiny dug it for Kent State University between 1975 and 1978, with a survey of the surrounding country. Because the village runs from the Early Bronze Age through to the very start of the Late Bronze Age and then stops, it is the standard case study for how a southern farming community met, and did not survive, the changes of about 1600 BCE.",
+"ctx": "site Episkopi-Phaneromeni: description"
+},
+{
+"en": "The Area A settlement",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "Agglomerated rooms and courtyards of the Middle Cypriot III and Late Cypriot IA village, among the very few settlements of that transitional moment ever properly excavated in southern Cyprus.",
+"ctx": "site Episkopi-Phaneromeni: find \"The Area A settlement\" text"
+},
+{
+"en": "In situ, Episkopi-Phaneromeni",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The earlier Area G settlement",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "c. 2400–1800 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Earlier buildings on the same ridge, so that the two areas together give an Early and Middle Bronze Age sequence in one place.",
+"ctx": "site Episkopi-Phaneromeni: find \"The earlier Area G settlement\" text"
+},
+{
+"en": "The chamber tomb cemetery",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "Rock-cut tombs with Red Polished and White Painted grave goods belonging to the same community as the houses, which is unusual: settlement and cemetery are rarely both available.",
+"ctx": "site Episkopi-Phaneromeni: find \"The chamber tomb cemetery\" text"
+},
+{
+"en": "The abandonment",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "c. 1550 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The village was given up in Late Cypriot IA, and the reasons, whether coastal insecurity, drought or the pull of new towns, are still argued.",
+"ctx": "site Episkopi-Phaneromeni: find \"The abandonment\" text"
+},
+{
+"en": "Querns, rubbers and textile tools",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "The grinding equipment and spindle whorls of an ordinary household economy, published as a full assemblage rather than as selected pieces.",
+"ctx": "site Episkopi-Phaneromeni: find \"Querns, rubbers and textile tools\" text"
+},
+{
+"en": "Kourion Museum, Episkopi",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The regional survey",
+"ctx": "site Episkopi-Phaneromeni: find title"
+},
+{
+"en": "1975–1978",
+"ctx": "find period/date"
+},
+{
+"en": "Swiny's walk over south-west Cyprus around the excavation, which produced the first real map of Bronze Age settlement in the region and is still cited.",
+"ctx": "site Episkopi-Phaneromeni: find \"The regional survey\" text"
+},
+{
+"en": "Published, Department of Antiquities, Cyprus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A cluster of fortified sites on the plateau above the meeting of the Alykos and Yialias rivers in the middle of the Mesaoria, built and given up inside about a century and a half around 1750 to 1600 BCE. Barsak, on the cliff edge, had a double circuit wall with a ditch outside it; Nikolidhes, two kilometres to the south-west, was ringed by a wall some 900 metres long with a rectangular tower. Einar Gjerstad dug at Glyka Vrysi in 1924, Hector Catling surveyed the group in the 1950s, and Despina Pilides has excavated here in recent years. Whether these works were raised against raiders from the sea or against each other is the central unresolved question of the period.",
+"ctx": "site Ayios Sozomenos: description"
+},
+{
+"en": "The Barsak fort",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "c. 1750–1600 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A double circuit wall with a deep ditch cut outside it, contemporary with the first phase of the settlement at Dzirpoulos and then given up.",
+"ctx": "site Ayios Sozomenos: find \"The Barsak fort\" text"
+},
+{
+"en": "In situ, Agios Sozomenos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Nikolidhes circuit",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "c. 1600–1400 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "An enclosure wall some 920 metres long and over three metres thick in places, built of squared blocks with a rubble core, with substantial walls running inwards to divide the interior.",
+"ctx": "site Ayios Sozomenos: find \"The Nikolidhes circuit\" text"
+},
+{
+"en": "The ashlar tower",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "Late Cypriot I to II",
+"ctx": "find period/date"
+},
+{
+"en": "A tower fifteen metres by seven and a half, of large dressed blocks laid flat, standing clear of the main wall and added later. Somebody decided the fort was not strong enough.",
+"ctx": "site Ayios Sozomenos: find \"The ashlar tower\" text"
+},
+{
+"en": "Cypro-Minoan signs on pottery",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "Signs painted and incised on sherds and on storage jars, among the earliest writing on the island and a surprise from a supposedly rural fort.",
+"ctx": "site Ayios Sozomenos: find \"Cypro-Minoan signs on pottery\" text"
+},
+{
+"en": "Copper pendant and workshop debris from Dzirpoulos",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "Metalworking areas and a copper pendant from the valley settlement, announced in 2022, which tie the forts to the business of moving copper out of the foothills.",
+"ctx": "site Ayios Sozomenos: find \"Copper pendant and workshop debris from Dzirpoulos\" text"
+},
+{
+"en": "Middle Cypriot III",
+"ctx": "find period/date"
+},
+{
+"en": "A deep ditch quarried out of the plateau edge in front of the Barsak wall, the plainest statement of intent among all the Cypriot forts: this was built against people.",
+"ctx": "site Ayios Sozomenos: find \"The rock-cut ditch\" text"
+},
+{
+"en": "Barsak double circuit wall",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "c. 1750-1600 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Two concentric walls, each about two metres thick, along the top of cliffs 40 to 50 metres high, with a deep ditch cut outside them. It is the most heavily defended of the group and commands the whole confluence.",
+"ctx": "site Ayios Sozomenos: find \"Barsak double circuit wall\" text"
+},
+{
+"en": "In situ, Ayios Sozomenos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Nikolidhes enclosure and tower",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "A wall roughly 900 metres in circuit with a rectangular tower about 15 by 7.5 metres, enclosing far more ground than the population is likely to have needed, which suggests refuge for people and animals from a wider district.",
+"ctx": "site Ayios Sozomenos: find \"Nikolidhes enclosure and tower\" text"
+},
+{
+"en": "Dhali-Kafkallia enclosures",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "Two conjoined walled areas on the plateau containing ordinary domestic buildings, showing that some of these places were lived in rather than manned only in emergencies.",
+"ctx": "site Ayios Sozomenos: find \"Dhali-Kafkallia enclosures\" text"
+},
+{
+"en": "In situ, Dhali",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Glyka Vrysi outpost",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "A fortified post at the foot of the plateau beside fresh water, dug by the Swedish Cyprus Expedition under Einar Gjerstad in 1924, the first of the group to be investigated.",
+"ctx": "site Ayios Sozomenos: find \"Glyka Vrysi outpost\" text"
+},
+{
+"en": "In situ; finds in Medelhavsmuseet, Stockholm",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Canaanite jars and Aegean vases",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "c. 1700-1600 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Levantine transport jars and Late Helladic pottery from the settlement areas at Tzirpoulos and Ampelia. Inland forts in the middle of the plain were nonetheless plugged into the sea trade.",
+"ctx": "site Ayios Sozomenos: find \"Canaanite jars and Aegean vases\" text"
+},
+{
+"en": "Faience and ivory",
+"ctx": "site Ayios Sozomenos: find title"
+},
+{
+"en": "Small imported prestige objects from the settlements, the kind of thing that in this period starts to separate some households from others and gives the forts their point.",
+"ctx": "site Ayios Sozomenos: find \"Faience and ivory\" text"
+},
+{
+"en": "A square fortress of cyclopean masonry on a hill above the south coast of the Karpass, with towers at three corners and flanking the gate and a cistern in its courtyard. The Swedish Cyprus Expedition dug it in 1929 and published it in 1935; tombs nearby date to about 1725 to 1600 BCE. It belongs to a group of forts thrown up as Cyprus turned from a society of villages into one with copper worth defending. The usual reading is that they guarded the routes from the mines to the coast, but whether they watched the sea, the roads or each other is still argued.",
+"ctx": "site Nitovikla: description"
+},
+{
+"en": "The cyclopean circuit and gate",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "c. 1725–1600 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Walls of huge unworked blocks on a square plan, with corner towers and a gate passage flanked by two more, a design without Cypriot precedent and with Levantine and Anatolian relatives.",
+"ctx": "site Nitovikla: find \"The cyclopean circuit and gate\" text"
+},
+{
+"en": "In situ, Nitovikla (inaccessible since 1974)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The courtyard cistern",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "Middle to Late Cypriot",
+"ctx": "find period/date"
+},
+{
+"en": "A cut cistern in the internal courtyard, which is what allowed the garrison to sit out a siege on a waterless hilltop.",
+"ctx": "site Nitovikla: find \"The courtyard cistern\" text"
+},
+{
+"en": "In situ, Nitovikla",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Burning and rebuilding",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "c. 1700–1450 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Destruction layers between building phases. Whether they mean warfare, earthquake or accident is not settled, but the fort was twice thought worth rebuilding.",
+"ctx": "site Nitovikla: find \"Burning and rebuilding\" text"
+},
+{
+"en": "The Middle Cypriot III tombs",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "Tombs found by the Swedish team near the fort, which supplied the pottery that dates its foundation.",
+"ctx": "site Nitovikla: find \"The Middle Cypriot III tombs\" text"
+},
+{
+"en": "The Swedish Cyprus Expedition archive",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "1929",
+"ctx": "find period/date"
+},
+{
+"en": "Photographs, plans and finds from Erik Sjoqvist's season, part of the great division of material between Nicosia and Stockholm that still governs where Cypriot antiquities sit.",
+"ctx": "site Nitovikla: find \"The Swedish Cyprus Expedition archive\" text"
+},
+{
+"en": "The view",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "The fort's whole logic is visible from it: the plateau routes inland on one side, the sea approach on the other. Whatever it was watching for could come from either.",
+"ctx": "site Nitovikla: find \"The view\" text"
+},
+{
+"en": "The cyclopean walls",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "c. 1725-1450 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A square enclosure built of huge unworked blocks, the earliest monumental defensive architecture on Cyprus. Nothing on the island before this needed walls of this kind.",
+"ctx": "site Nitovikla: find \"The cyclopean walls\" text"
+},
+{
+"en": "Gate and flanking towers",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "Towers at three corners and a pair guarding the entrance, a scheme with Levantine and Anatolian parallels rather than Cypriot ones, which is part of why the forts are read as a response to something from outside.",
+"ctx": "site Nitovikla: find \"Gate and flanking towers\" text"
+},
+{
+"en": "The Nitovikla tombs",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "c. 1725-1600 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Chamber tombs on the slopes below, excavated in 1929, with Middle Cypriot pottery that supplies the fort's date. The Swedish expedition's Cypriot material forms the core of the Medelhavsmuseet's collection in Stockholm.",
+"ctx": "site Nitovikla: find \"The Nitovikla tombs\" text"
+},
+{
+"en": "The Karpass sea lane",
+"ctx": "site Nitovikla: find title"
+},
+{
+"en": "The fort looks out over the shortest crossing between Cyprus and the Cilician and Syrian coasts. It has not been excavated again since 1929 and lies today in the north, so almost everything known about it rests on one season's work.",
+"ctx": "site Nitovikla: find \"The Karpass sea lane\" text"
+},
+{
+"en": "A mound of collapsed mudbrick on the west side of the Ovgos river, on what was then the shore of Morphou bay. Emily Vermeule dug it for Harvard and the Museum of Fine Arts, Boston, with Florence Wolsky, in 1971 to 1973; the events of 1974 ended the work and the team left the island for good. Under the mound lay a potters' quarter with kilns and clay-working floors, and rich rock-cut tombs whose Cretan, Egyptian and Levantine imports have made the site one of the fixed points for tying the Cypriot Bronze Age sequence to the Aegean one.",
+"ctx": "site Toumba tou Skourou: description"
+},
+{
+"en": "The Tomb 1 and Tomb 2 assemblages",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "c. 1600–1450 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Aegean pots, Egyptian bronze razors, imported seals, ostrich eggs and objects of faience, ivory, silver, gold, carnelian, amethyst and rock crystal from a handful of chamber tombs. Nothing earlier on Cyprus is so international.",
+"ctx": "site Toumba tou Skourou: find \"The Tomb 1 and Tomb 2 assemblages\" text"
+},
+{
+"en": "Middle Minoan Kamares ware",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "Fine eggshell-thin Cretan pottery, among the earliest Minoan imports on the island. Which mound and context individual pieces came from is not always clear from the record.",
+"ctx": "site Toumba tou Skourou: find \"Middle Minoan Kamares ware\" text"
+},
+{
+"en": "The hybrid cups",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "Late Cypriot I",
+"ctx": "find period/date"
+},
+{
+"en": "Locally made cups whose handles copy Minoan shapes, a potter's own answer to the imports arriving in the harbour. They are the reason the site is discussed in every account of Cretan influence on Cyprus.",
+"ctx": "site Toumba tou Skourou: find \"The hybrid cups\" text"
+},
+{
+"en": "The potters' quarter",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "Working areas, clay preparation basins and firing installations on the mounds, which gave Vermeule's final report its subtitle and make this the best-known Bronze Age pottery workshop on the island.",
+"ctx": "site Toumba tou Skourou: find \"The potters' quarter\" text"
+},
+{
+"en": "White Painted and Proto White Slip pottery",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "The local sequence across the Middle to Late Bronze Age join, which is what allows the imports to be dated against Cypriot and Aegean chronologies.",
+"ctx": "site Toumba tou Skourou: find \"White Painted and Proto White Slip pottery\" text"
+},
+{
+"en": "The mudbrick mounds",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "The site's name means the mound of the slag heap, and the mounds themselves are made of collapsed and rebuilt mudbrick, metres deep. Vermeule spent two years working down through them.",
+"ctx": "site Toumba tou Skourou: find \"The mudbrick mounds\" text"
+},
+{
+"en": "The mound itself",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "A tell of decayed mudbrick that Vermeule's first report called the mound of darkness, on the edge of what is now the town of Guzelyurt. The shore it once stood on has moved: the Ovgos delta silted the bay out, and the site is well inland today.",
+"ctx": "site Toumba tou Skourou: find \"The mound itself\" text"
+},
+{
+"en": "In situ, Toumba tou Skourou",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The chamber tombs",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "16th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Multi-chamber rock-cut tombs holding hundreds of vessels, dug into the settlement's own ground. Their contents were published in 1990 with roughly 2,000 photographs and drawings, which is why the site remains usable evidence despite the excavation being cut short.",
+"ctx": "site Toumba tou Skourou: find \"The chamber tombs\" text"
+},
+{
+"en": "Minoan imports",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "16th-15th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Cretan pottery in the tombs, closely datable within the Late Minoan sequence, which lets Cypriot phases be pinned against Aegean ones. Vermeule's stratified groups are still cited in arguments about absolute Bronze Age chronology.",
+"ctx": "site Toumba tou Skourou: find \"Minoan imports\" text"
+},
+{
+"en": "Egyptian and Levantine goods",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "Scarabs and imported juglets from Egypt and the Syro-Palestinian coast. Vermeule described the site as the meeting of three foreign strands, Levantine, Egyptian and Minoan, laid over an entirely Cypriot industry.",
+"ctx": "site Toumba tou Skourou: find \"Egyptian and Levantine goods\" text"
+},
+{
+"en": "The interrupted excavation",
+"ctx": "site Toumba tou Skourou: find title"
+},
+{
+"en": "1974",
+"ctx": "find period/date"
+},
+{
+"en": "Work stopped mid-season and was never resumed; the trenches were left as they were and the site now lies inside a modern town in the north. Vermeule published a preliminary account in 1974 and the full report only in 1990.",
+"ctx": "site Toumba tou Skourou: find \"The interrupted excavation\" text"
+},
+{
+"en": "Excavation archive, Harvard University",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A Late Bronze Age town in the lower Maroni valley about 500 metres from the sea, with a coastal twin at Maroni-Tsaroukkas and an open anchorage offshore; taken together the localities cover something like 35 hectares. The British Museum opened tombs here in 1897, Gerald Cadogan excavated the settlement for the University of Cincinnati between 1982 and 1989, and Sturt Manning worked on the coastal site and its seabed in the 1990s. Its centre was an ashlar building given over to pressing and storing olive oil on a scale far beyond any household's needs, abandoned around 1200 BCE and then reoccupied as a sanctuary in the Iron Age.",
+"ctx": "site Maroni-Vournes: description"
+},
+{
+"en": "c. 1300-1200 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A tripartite building roughly 30.5 by 21 metres, built partly of large finely cut and closely fitted blocks, with pressing installations and storerooms for olive oil. It is one of a small group of monumental buildings, with Kalavasos and Alassa, that mark the appearance of something like regional administration on Cyprus.",
+"ctx": "site Maroni-Vournes: find \"The Ashlar Building\" text"
+},
+{
+"en": "In situ, Maroni-Vournes",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The West Building",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "A four-aisled hall separated from the Ashlar Building by a street 4.5 metres wide, of a plan with no close parallel on the island. Whether it was a store, a workshop or a hall of assembly is unsettled; Jan Driessen has argued for reading the whole complex as a seat of power.",
+"ctx": "site Maroni-Vournes: find \"The West Building\" text"
+},
+{
+"en": "Four Cypro-Minoan inscriptions",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "Four short texts in the island's undeciphered Bronze Age script, published together in 2016 by Cadogan, Driessen and Silvia Ferrara. They put Maroni among the handful of Cypriot places whose officials wrote things down.",
+"ctx": "site Maroni-Vournes: find \"Four Cypro-Minoan inscriptions\" text"
+},
+{
+"en": "Department of Antiquities, Cyprus (exact museum unconfirmed)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Stone anchors on the seabed off Tsaroukkas",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "Dozens of pierced stone anchors and large carved sandstone blocks lie in shallow water off the coastal site, first recorded in the 1990s and re-surveyed for a 2022 study of the coastscape. They mark a working roadstead rather than a built harbour: ships anchored off and lightered their cargo ashore.",
+"ctx": "site Maroni-Vournes: find \"Stone anchors on the seabed off Tsaroukkas\" text"
+},
+{
+"en": "In situ, seabed off Maroni-Tsaroukkas",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Clay model of a ship",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "A pottery model of a vessel from one of the 26 tombs the British Museum emptied at the coastal site in 1897, a rare Cypriot picture of the ships that carried the island's copper.",
+"ctx": "site Maroni-Vournes: find \"Clay model of a ship\" text"
+},
+{
+"en": "Bull-shaped rhyton",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "Base Ring II, 14th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A hollow pouring vessel in the form of a bull, of a class used to pour liquid offerings, from the Tsaroukkas cemetery. The tombs also gave up Mycenaean vases and gold and faience earrings.",
+"ctx": "site Maroni-Vournes: find \"Bull-shaped rhyton\" text"
+},
+{
+"en": "The Iron Age sanctuary in the ruins",
+"ctx": "site Maroni-Vournes: find title"
+},
+{
+"en": "The ashlar building was not left to decay after 1200 BCE. By at least the seventh century BCE people were making offerings among its standing walls, one of the clearest Cypriot cases of a Bronze Age ruin becoming holy ground.",
+"ctx": "site Maroni-Vournes: find \"The Iron Age sanctuary in the ruins\" text"
+},
+{
+"en": "Two localities on a triangular plateau in the Troodos foothills, unknown to archaeology until a salvage survey in 1983 ahead of the Kouris dam. Sophocles Hadjisavvas dug them from 1984 to 2000 and published the final report in 2017. Paliotaverna, on the upper plateau, held a group of three monumental ashlar buildings, the largest a great pi-shaped complex; Pano Mandilaris, 250 metres to the south-east, was a crowded residential quarter with metalworking going on among the houses. Petrographic work on the clay of the Alashiya letters points to this stretch of the south coast rather than to Enkomi, which makes Alassa one of the candidates for where the king of Alashiya actually sat.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: description"
+},
+{
+"en": "Building II",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "A pi-shaped complex of about 1,410 square metres built largely of finely cut ashlar blocks, one of the largest Late Bronze Age buildings known on the island. Ashlar masonry on Cyprus is almost always a sign of high status, and this is its fullest display outside Enkomi.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"Building II\" text"
+},
+{
+"en": "In situ, Alassa-Paliotaverna",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Pithoi with relief friezes and seal impressions",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "Some 200 fragments of giant storage jars decorated with raised bands and with friezes rolled on by cylinder seals, the great majority of all such vessels known from Cyprus. The impressions are usually read as marking whose stores the contents were, or which occasions they were kept for.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"Pithoi with relief friezes and seal impressions\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Limassol District Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Wine press",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "A treading floor and vat inside one of the ashlar buildings, so far the only Late Bronze Age wine press found on Cyprus. Its neighbours at Kalavasos and Maroni pressed olive oil; Alassa also made wine.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"Wine press\" text"
+},
+{
+"en": "Copper-working installations at Pano Mandilaris",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "Furnace fragments, slag and crucibles set among ordinary houses and small domestic shrines. Metalworking here was neighbourhood work carried on beside cooking and cult, not something shut away in a palace quarter.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"Copper-working installations at Pano Mandilaris\" text"
+},
+{
+"en": "In situ, Alassa-Pano Mandilaris",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Mycenaean stirrup jars",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "Two imported Greek oil jars from Pano Mandilaris, the standard container for perfumed oil moving around the eastern Mediterranean, found in a residential quarter rather than in an elite building.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"Mycenaean stirrup jars\" text"
+},
+{
+"en": "Limassol District Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Kouris reservoir",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find title"
+},
+{
+"en": "1988",
+"ctx": "find period/date"
+},
+{
+"en": "The dam that prompted the rescue excavation now fills the valley below. The old village was moved uphill and the ancient buildings survive above the waterline, which is why a visitor can still walk the ashlar walls.",
+"ctx": "site Alassa-Paliotaverna and Pano Mandilaris: find \"The Kouris reservoir\" text"
+},
+{
+"en": "In situ, Alassa",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A miners' village on the north-western flank of the Troodos, in the Solea copper district beside Skouriotissa and Mavrovouni. It came to light in 1938 when the Cyprus Mines Corporation began to open the Apliki orebody, and Joan du Plat Taylor was asked to dig it in haste in 1938 and 1939. Lead isotope analysis has since matched almost every oxhide ingot yet tested, on Cyprus and abroad, to ores of this district and above all to Apliki, which makes this small and short-lived settlement the source of the metal the Bronze Age world was buying. Most of it has been eaten by modern open-cast mining; Taylor's notebooks were finally published in full in 2012.",
+"ctx": "site Apliki-Karamallos: description"
+}
+]

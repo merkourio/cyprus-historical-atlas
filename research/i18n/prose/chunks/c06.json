@@ -1,0 +1,1322 @@
+[
+{
+"en": "Prism in the British Museum, London",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Archaic votive deposit of Apollo Hylates",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "8th–6th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A great pit of offerings including gold and silver bull figurines, East Greek painted pottery and Egyptian bronze bowls, with the burnt bone of large-scale animal sacrifice. The imports show a country sanctuary plugged into the whole eastern Mediterranean.",
+"ctx": "site Kourion: find \"The Archaic votive deposit of Apollo Hylates\" text"
+},
+{
+"en": "Kourion Museum, Episkopi; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The circular monument",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "5th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A paved ring with a low kerb and post-holes in the Apollo sanctuary, usually explained as a place for ritual dancing around a planted tree or a sacred grove. No other Cypriot sanctuary has one.",
+"ctx": "site Kourion: find \"The circular monument\" text"
+},
+{
+"en": "In situ, Sanctuary of Apollo Hylates",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Stesenor's desertion",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "497 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Herodotus names Stesenor of Kourion as the commander who changed sides in the middle of the battle against the Persians, taking his chariots with him and losing the Cypriot revolt. No inscription or coin of him is known, which is itself telling.",
+"ctx": "site Kourion: find \"Stesenor's desertion\" text"
+},
+{
+"en": "Literary source",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The East aqueduct",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "A conduit running some 22 km from a spring near Souni and crossing a 60 m bridge to reach the city, one of two aqueducts built as Kourion outgrew its rainwater cisterns.",
+"ctx": "site Kourion: find \"The East aqueduct\" text"
+},
+{
+"en": "In situ, fragments between Souni and Kourion",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The rock-cut cistern in the agora",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "A large colonnaded reservoir cut into the bedrock of the agora, part of the same programme as the aqueducts. Water, not marble, was the expensive part of building a Roman city on a dry limestone bluff.",
+"ctx": "site Kourion: find \"The rock-cut cistern in the agora\" text"
+},
+{
+"en": "The forum",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "The civic square formalised in the second century with long colonnaded stoas on its north, west and south sides, the setting for the inscriptions that name Kourion's proconsuls.",
+"ctx": "site Kourion: find \"The forum\" text"
+},
+{
+"en": "House of the Apsed Triclinium",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "Late 3rd century CE",
+"ctx": "find period/date"
+},
+{
+"en": "A large house built in the same generation as the House of the Gladiators, with an apsed dining room and mosaic floors. Both were standing when the earthquake struck.",
+"ctx": "site Kourion: find \"House of the Apsed Triclinium\" text"
+},
+{
+"en": "The theatre's beast arena",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "c. 214-217 CE",
+"ctx": "find period/date"
+},
+{
+"en": "Under Caracalla the Greek theatre was rebuilt so that wild beast hunts could be staged in it, with the lower seats removed and a barrier put up. Later in the same century it was turned back into a theatre, a rare case of a Roman city changing its mind about blood sports.",
+"ctx": "site Kourion: find \"The theatre's beast arena\" text"
+},
+{
+"en": "Zenon, bishop of Kourion",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "Kourion's bishop was one of the four Cypriots who went to the Council of Ephesus in 431 and came home with canon 8, the charter of the island church's independence. The others were Rheginos of Constantia, Sapricius of Paphos and Evagrios of Soloi.",
+"ctx": "site Kourion: find \"Zenon, bishop of Kourion\" text"
+},
+{
+"en": "Acts of the Council of Ephesus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The baptistery",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "A building of its own north of the cathedral, with narthex, cross-shaped font and mosaic floors, put up when adults were still baptised by immersion and the bishop did it himself at Easter.",
+"ctx": "site Kourion: find \"The baptistery\" text"
+},
+{
+"en": "Extramural basilica and the tomb of Ayios Ermogenis",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "5th to 6th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "A second basilica outside the walls to the east, built over an older cemetery around a martyr's tomb. The little chapel of Ayios Ermogenis below the bluff still marks the spot and still draws its feast-day crowd.",
+"ctx": "site Kourion: find \"Extramural basilica and the tomb of Ayios Ermogenis\" text"
+},
+{
+"en": "In situ, east of Kourion",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The nymphaeum",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "2nd to 4th century CE, in use later",
+"ctx": "find period/date"
+},
+{
+"en": "A monumental fountain house at the head of the aqueduct, among the largest such buildings known on the island, still supplying the Christian town after the Roman city fell.",
+"ctx": "site Kourion: find \"The nymphaeum\" text"
+},
+{
+"en": "Episkopi",
+"ctx": "site Kourion: find title"
+},
+{
+"en": "Medieval to present",
+"ctx": "find period/date"
+},
+{
+"en": "The village below the site is called Episkopi, the bishop's place, because Kourion's see came down off the bluff when the city was given up. The name is the last working trace of the Christian town.",
+"ctx": "site Kourion: find \"Episkopi\" text"
+},
+{
+"en": "Episkopi, Limassol district",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The kingdom of the Eteocypriots, who kept a pre-Greek language into the fourth century BCE. Amathus stayed loyal to Persia during the revolt of Onesilos and later prospered under the Ptolemies and Rome, with a temple of Aphrodite on its acropolis. Abandoned after the Arab raids.",
+"ctx": "site Amathus: description"
+},
+{
+"en": "The colossal stone vase",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "6th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A limestone vase 1.85 m tall and 3.2 m across, weighing about fourteen tonnes, carved with a walking bull on each of its four handles. One of a pair; the other lies broken on the acropolis. Removed by Edmond Duthoit in 1865.",
+"ctx": "site Amathus: find \"The colossal stone vase\" text"
+},
+{
+"en": "Louvre, Paris",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Eteocypriot inscriptions",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "Texts in the Cypriot syllabary in a non-Greek language that has never been read.",
+"ctx": "site Amathus: find \"Eteocypriot inscriptions\" text"
+},
+{
+"en": "Cyprus Museum; Limassol Archaeological Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Temple of Aphrodite",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "Late 1st century CE",
+"ctx": "find period/date"
+},
+{
+"en": "A Roman temple with Nabataean-style capitals, begun in the last quarter of the first century CE over a Hellenistic predecessor and a far older sanctuary; demolished in the sixth century for a basilica.",
+"ctx": "site Amathus: find \"Temple of Aphrodite\" text"
+},
+{
+"en": "In situ, Amathus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Hellenistic harbour",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "c. 315 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Breakwaters built for Demetrios Poliorketes around 315 BCE and abandoned under Ptolemy I, probably never used; now under the waves.",
+"ctx": "site Amathus: find \"Hellenistic harbour\" text"
+},
+{
+"en": "Submerged, Amathus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Amathus sarcophagus",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "c. 475–450 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A painted limestone coffin from the north cemetery showing a chariot procession, with Astarte and Bes figures on the ends; probably a royal burial and the star of the Cesnola collection.",
+"ctx": "site Amathus: find \"The Amathus sarcophagus\" text"
+},
+{
+"en": "Agora and baths",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "Hellenistic to Roman",
+"ctx": "find period/date"
+},
+{
+"en": "A colonnaded market square below the acropolis with a nymphaeum and bath complex, rebuilt after the earthquake of 77 CE.",
+"ctx": "site Amathus: find \"Agora and baths\" text"
+},
+{
+"en": "Acropolis basilica",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "6th–7th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "A Christian basilica built over the demolished temple of Aphrodite, marking the site's last phase before the Arab raids.",
+"ctx": "site Amathus: find \"Acropolis basilica\" text"
+},
+{
+"en": "In situ, Amathus acropolis",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Amathus bowl",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "c. 700 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A silver bowl, gilded and worked in repoussé, taken from a looted Amathus tomb by Luigi Palma di Cesnola before 1877. Concentric bands show sphinxes, Assyrian-dressed worshippers at a sacred tree, and an outer scene of a city under siege by soldiers in Greek, Egyptian and Urartian gear, the fullest picture of a siege to survive from the Phoenician world.",
+"ctx": "site Amathus: find \"The Amathus bowl\" text"
+},
+{
+"en": "The Archaic acropolis sanctuary",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "8th century BCE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "Under the Roman temple of Aphrodite lie earlier cult terraces with a great rock-cut cistern and votive deposits, the shrine of the goddess the Amathusians worshipped before Greek names were attached to her. The French mission traced the sequence from the 1970s.",
+"ctx": "site Amathus: find \"The Archaic acropolis sanctuary\" text"
+},
+{
+"en": "Lion coinage of the Amathusian kings",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "c. 460–360 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Sigloi of Rhoikos I with a recumbent lion, followed by issues of Rhoikos II, Pyrrhos, Zotimos, Lysandros and Epipalos, several of them known only from their coins. The mint kept a local weight standard long after its neighbours changed.",
+"ctx": "site Amathus: find \"Lion coinage of the Amathusian kings\" text"
+},
+{
+"en": "The Archaic city wall",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "A massive circuit of mudbrick on stone footings around the lower town, one of the earliest fortifications of the Cypriot kingdoms. It is why Onesilos had to besiege the place in 498 BCE instead of walking in.",
+"ctx": "site Amathus: find \"The Archaic city wall\" text"
+},
+{
+"en": "The plundered north cemetery",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "8th–4th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The tombs that produced the Amathus sarcophagus and the silver bowl were dug out by Cesnola and by the British in the nineteenth century, with two chambers alone yielding fragments of fifteen sarcophagi. Almost nothing of that context was recorded.",
+"ctx": "site Amathus: find \"The plundered north cemetery\" text"
+},
+{
+"en": "In situ (emptied); objects in the Metropolitan Museum, New York, and the British Museum, London",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Hellenistic collapse and the Antonine revival",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "3rd century BCE to 2nd century CE",
+"ctx": "find period/date"
+},
+{
+"en": "Under the Ptolemies Amathus lost out to Paphos: the harbour silted, the acropolis was largely abandoned and the city shrank. It was rebuilt in the second century CE, when the gates, fountains, nymphaea and agora were all renewed. The stratigraphy of that gap is the clearest thing on the site.",
+"ctx": "site Amathus: find \"The Hellenistic collapse and the Antonine revival\" text"
+},
+{
+"en": "The basilica of St Tychon",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "5th century CE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "Amathus became a bishopric, and its most famous bishop, Tychon, gave his name to the modern village of Agios Tychonas beside the ruins. The church built at his tomb was one of a cluster of basilicas that mark the city's Christian centuries.",
+"ctx": "site Amathus: find \"The basilica of St Tychon\" text"
+},
+{
+"en": "In situ, Agios Tychonas",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Roman copper of Amathus",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "Amathus was one of only three cities, with Tamassos and Soli, still named as producing copper under Rome. The slag from its workings lies as much as 3 km from the mines, so ore was hauled to the fuel.",
+"ctx": "site Amathus: find \"The Roman copper of Amathus\" text"
+},
+{
+"en": "In situ, the hills north of Amathus",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The quarrying of the ruins",
+"ctx": "site Amathus: find title"
+},
+{
+"en": "12th to 19th century",
+"ctx": "find period/date"
+},
+{
+"en": "Amathus was already almost deserted when Richard I took the island in 1191, and its cut stone went into the buildings of Limassol and, in 1869, into the works of the Suez Canal. A large part of the city is not lost but relocated.",
+"ctx": "site Amathus: find \"The quarrying of the ruins\" text"
+},
+{
+"en": "Dispersed; some blocks reused in Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A city-kingdom on two acropolis hills near the copper mines, with temples to Athena and Aphrodite. In the mid-fifth century BCE (c. 470–450) it was conquered by the Phoenician kings of Kition and administered from a palace archive. The site was one of the first ever excavated on Cyprus, by Cesnola and Lang in the 1860s.",
+"ctx": "site Idalion: description"
+},
+{
+"en": "The Idalion Tablet",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "c. 478–470 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A bronze plaque in the Cypriot syllabary recording the city's contract with a physician who treated the wounded during the siege by Persians and Kitians. The longest syllabic text known.",
+"ctx": "site Idalion: find \"The Idalion Tablet\" text"
+},
+{
+"en": "Bibliothèque nationale de France, Paris",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Phoenician administrative archive",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "5th–4th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "More than 730 inscriptions, mostly Phoenician ink on sherds, from the palace on the west acropolis, excavated by the Department of Antiquities in 1991–2012: the largest Phoenician archive anywhere.",
+"ctx": "site Idalion: find \"Phoenician administrative archive\" text"
+},
+{
+"en": "Department of Antiquities; Idalion Local Museum, Dali",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Temple of Athena",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "Archaic",
+"ctx": "find period/date"
+},
+{
+"en": "A fortified sanctuary of Athena on the west acropolis, excavated by the Swedish Cyprus Expedition in 1928.",
+"ctx": "site Idalion: find \"Temple of Athena\" text"
+},
+{
+"en": "In situ; finds in the Medelhavsmuseet, Stockholm, and the Cyprus Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Idalion bilingual",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "388 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A limestone pedestal dedicated to Apollo Amyklos and Reshef-Mikal in both Phoenician and Cypriot syllabic, found by Robert Hamilton Lang in 1869; it provided the key to deciphering the syllabary.",
+"ctx": "site Idalion: find \"The Idalion bilingual\" text"
+},
+{
+"en": "Lang's limestone votive statues",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "Some 142 limestone worshippers and deities from the sanctuary of Apollo on the east hill, dug in 1868–69 and shipped to London.",
+"ctx": "site Idalion: find \"Lang's limestone votive statues\" text"
+},
+{
+"en": "Palace and administrative centre",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "7th–3rd century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A fortified complex of courts and storerooms where the kings of Idalion and later the governors from Kition kept their records.",
+"ctx": "site Idalion: find \"Palace and administrative centre\" text"
+},
+{
+"en": "In situ, Dali; finds in Idalion Local Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Crowned head of Apollo from Potamia-Ellines",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "A limestone head wearing a laurel crown, found in 1933 in the Ellines locality of Potamia, the next village east of Dali, and long the best-known object from Idalion's hinterland. Later trenching at Ellines confirmed a settlement there within the kingdom's territory.",
+"ctx": "site Idalion: find \"Crowned head of Apollo from Potamia-Ellines\" text"
+},
+{
+"en": "The destruction layer of the west acropolis",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "c. 470–450 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A burnt horizon across the fortified summit at Ambelleri, marking the day the Phoenician army of Kition took the city. Everything above it is Kitian administration; everything below is an independent kingdom.",
+"ctx": "site Idalion: find \"The destruction layer of the west acropolis\" text"
+},
+{
+"en": "In situ, Dali",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Coins of Stasikypros",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "Small silver thirds and twelfths of a siglos with a syllabic legend, the last coins struck by an independent Idalion. Stasikypros is the king named on the Idalion Tablet.",
+"ctx": "site Idalion: find \"Coins of Stasikypros\" text"
+},
+{
+"en": "Sanctuary of Aphrodite on the east acropolis",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "The hill opposite the Athena temple carried shrines of Aphrodite and Apollo, cleared by Cesnola and Lang in the 1860s. Idalion is where the myth of Adonis dying in Aphrodite's arms was localised, and the Cypriot Aphrodite was worshipped here as much as at Paphos.",
+"ctx": "site Idalion: find \"Sanctuary of Aphrodite on the east acropolis\" text"
+},
+{
+"en": "In situ, Dali; sculpture in the British Museum, London, and the Metropolitan Museum, New York",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The double acropolis and the lower town wall",
+"ctx": "site Idalion: find title"
+},
+{
+"en": "Two flat-topped hills flanking the Yialias river, joined by a walled lower town, the clearest plan of a Cypriot city-kingdom anywhere. Copper from the Troodos passed through it on the way to the coast.",
+"ctx": "site Idalion: find \"The double acropolis and the lower town wall\" text"
+},
+{
+"en": "The copper kingdom. Homer's Temese, where Athena in disguise sails to trade iron for copper, is usually identified with Tamassos. Its wealth came from the mines of the north-east Troodos, its royal tombs are among the finest built on the island, and it lived on as a bishopric into Byzantine times.",
+"ctx": "site Tamassos: description"
+},
+{
+"en": "Royal tombs",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Two ashlar-built chamber tombs with carved pilasters and false windows imitating a wooden house or a Phoenician shrine.",
+"ctx": "site Tamassos: find \"Royal tombs\" text"
+},
+{
+"en": "In situ, Politiko",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Chatsworth Head",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "c. 460 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A life-size bronze head of Apollo from a statue found by villagers in 1836; the body was broken up for scrap.",
+"ctx": "site Tamassos: find \"The Chatsworth Head\" text"
+},
+{
+"en": "Copper slag heaps",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Bronze Age to Roman",
+"ctx": "find period/date"
+},
+{
+"en": "Heaps of smelting waste around the mines record extraction from the Bronze Age to Roman times.",
+"ctx": "site Tamassos: find \"Copper slag heaps\" text"
+},
+{
+"en": "In situ, Troodos foothills",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sanctuary of Aphrodite-Astarte",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "6th century BCE to Hellenistic",
+"ctx": "find period/date"
+},
+{
+"en": "A temple built around 600 BCE, twice destroyed and rebuilt in the Hellenistic period, with copper furnaces and slag beside it: metal and goddess were tended together.",
+"ctx": "site Tamassos: find \"Sanctuary of Aphrodite-Astarte\" text"
+},
+{
+"en": "In situ, Tamassos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sphinxes and lions of Tamassos",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Six intact life-size limestone guardians, two sphinxes and four lions with traces of red and blue paint, found in 1997 near the royal tombs.",
+"ctx": "site Tamassos: find \"Sphinxes and lions of Tamassos\" text"
+},
+{
+"en": "Sanctuary of Apollo at Frangissa",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "7th–6th century BCE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "A rural sanctuary packed with votive statues, some colossal, dug by Ohnefalsch-Richter in 1885 and then lost; relocated in 2021 by the Universities of Frankfurt and Kiel.",
+"ctx": "site Tamassos: find \"Sanctuary of Apollo at Frangissa\" text"
+},
+{
+"en": "In situ, Pera valley; 1885 finds in the Cyprus Museum and Berlin",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Monastery of Agios Irakleidios",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Early Christian; present church 1773",
+"ctx": "find period/date"
+},
+{
+"en": "Built over the tomb of Herakleidios, first bishop of Tamassos, marking the city's Christian afterlife.",
+"ctx": "site Tamassos: find \"Monastery of Agios Irakleidios\" text"
+},
+{
+"en": "Tomb 12 and its silver-studded sword",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "7th–6th century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "One of the built ashlar tombs, its grave goods including an iron sword with silver rivets in the hilt. Tamassian tombs are smaller than those at Salamis but their masonry is finer.",
+"ctx": "site Tamassos: find \"Tomb 12 and its silver-studded sword\" text"
+},
+{
+"en": "In situ, Politiko; sword in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Tamassos bilinguals",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Dedications inscribed in both Phoenician and the Cypriot syllabary, set up after the kingdom passed to Kition. They are the documents historians use to work out what actually changed for a Cypriot city when a Phoenician king bought it.",
+"ctx": "site Tamassos: find \"The Tamassos bilinguals\" text"
+},
+{
+"en": "Sanctuary of the Mother of the Gods",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "A shrine inside the city walls, distinct from the Aphrodite sanctuary and the Apollo shrine at Frangissa, showing three separate cults served by one small town. Its votives are mostly terracotta.",
+"ctx": "site Tamassos: find \"Sanctuary of the Mother of the Gods\" text"
+},
+{
+"en": "Dedications to Apollo Alasiotas",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Syllabic texts from the Frangissa sanctuary that call the god Alasiotas, 'of Alashiya', the Bronze Age name of the island still attached to a deity a thousand years later. It is the longest survival of that name anywhere.",
+"ctx": "site Tamassos: find \"Dedications to Apollo Alasiotas\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Staatliche Museen zu Berlin",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Copper smelting workshops beside the goddess",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "Furnaces and slag from the smelting of copper sulphide ores, and casting debris, immediately next to the Aphrodite sanctuary. The technical detail matters: sulphide ore needs roasting before smelting, and Tamassos was doing it at scale.",
+"ctx": "site Tamassos: find \"Copper smelting workshops beside the goddess\" text"
+},
+{
+"en": "The sale of the kingdom",
+"ctx": "site Tamassos: find title"
+},
+{
+"en": "342/341 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Duris of Samos records that Pasikypros, king of Tamassos, sold his city and his royal title to Pumayyaton of Kition for fifty talents and went to grow old at Amathus. Pumayyaton's dated coins confirm he held Tamassos from his twenty-first year.",
+"ctx": "site Tamassos: find \"The sale of the kingdom\" text"
+},
+{
+"en": "Literary source; coins in the Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A city-kingdom of the north-west with close Athenian ties and a lively trade in painted pottery. Ptolemy I destroyed it in 312 BCE for siding with Antigonus and moved its people to Paphos. It was refounded as Arsinoe and lived on into Byzantine times.",
+"ctx": "site Marion, later Arsinoe: description"
+},
+{
+"en": "Attic red-figure pottery",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "Thousands of imported Greek vases from the cemeteries, one of the largest groups on Cyprus; much of the 1880s material went abroad.",
+"ctx": "site Marion, later Arsinoe: find \"Attic red-figure pottery\" text"
+},
+{
+"en": "Local Museum of Marion-Arsinoe, Polis Chrysochous; Cyprus Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Archaic sculpture and terracottas",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "Limestone votaries and lively terracotta figures from the sanctuaries.",
+"ctx": "site Marion, later Arsinoe: find \"Archaic sculpture and terracottas\" text"
+},
+{
+"en": "Local Museum of Marion-Arsinoe, Polis Chrysochous",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Arsinoe basilicas",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "5th–6th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "Two early Christian churches, one with fragments of early Byzantine wall painting, excavated by Princeton University in 1983–2007.",
+"ctx": "site Marion, later Arsinoe: find \"Arsinoe basilicas\" text"
+},
+{
+"en": "In situ, Polis",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Sanctuary of 'the Goddess' at Peristeries",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "A hilltop shrine burned around 500 BCE, packed with thousands of terracotta votaries, bronze bowls and an iron roasting spit.",
+"ctx": "site Marion, later Arsinoe: find \"Sanctuary of 'the Goddess' at Peristeries\" text"
+},
+{
+"en": "Emergency wall of 312 BCE",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "A wall three metres wide thrown hastily across a sanctuary as Ptolemy's army approached, sealed under ash.",
+"ctx": "site Marion, later Arsinoe: find \"Emergency wall of 312 BCE\" text"
+},
+{
+"en": "Marble kouros",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "A rare marble youth in Greek style from Ohnefalsch-Richter's 1880s digs.",
+"ctx": "site Marion, later Arsinoe: find \"Marble kouros\" text"
+},
+{
+"en": "Gold staters of Stasioikos II",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "c. 330–312 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "The first gold struck at Marion, by the king Ptolemy arrested in 312 BCE, with legends in both the Cypriot syllabary and Greek letters. They were minted within a few years of the city's destruction.",
+"ctx": "site Marion, later Arsinoe: find \"Gold staters of Stasioikos II\" text"
+},
+{
+"en": "The Sasmas coin with Phrixos and the ram",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "A silver issue of an early Marion king showing Phrixos riding the golden ram, the only appearance of that myth on Cypriot coinage. Why a north-western Cypriot king chose it is unexplained.",
+"ctx": "site Marion, later Arsinoe: find \"The Sasmas coin with Phrixos and the ram\" text"
+},
+{
+"en": "British Museum, London; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Limni copper mines",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "Bronze Age to 20th century",
+"ctx": "find period/date"
+},
+{
+"en": "The ore body a few kilometres east of Polis, worked from antiquity and again industrially until 1979, which gave Marion its wealth and its reason to exist. Ancient galleries and slag heaps survive around the modern workings.",
+"ctx": "site Marion, later Arsinoe: find \"The Limni copper mines\" text"
+},
+{
+"en": "In situ, Limni, Polis Chrysochous",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Classical town grid",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "Princeton University's excavations from 1983 traced streets and houses of the kingdom's town beneath the later Arsinoe, including workshops and a paved square. It is the best-planned Cypriot Classical townscape yet exposed.",
+"ctx": "site Marion, later Arsinoe: find \"The Classical town grid\" text"
+},
+{
+"en": "In situ, Polis Chrysochous",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Arsinoe of the north-west",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "c. 270 BCE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "After Ptolemy I destroyed Marion in 312 BCE and moved its people to Paphos, Ptolemy II refounded the place as Arsinoe, one of the string of towns he named for Arsinoe II. The new name stuck for a thousand years, and Byzantine sources still use it.",
+"ctx": "site Marion, later Arsinoe: find \"Arsinoe of the north-west\" text"
+},
+{
+"en": "Beneath Polis Chrysochous",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Hellenistic and Roman town quarters",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "3rd century BCE to 7th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "Princeton University's excavations between 1983 and 2007 found streets, houses and workshops of the Hellenistic to Late Roman town under the modern streets of Polis. Digging a living town in small plots is slow, and the plan is still patchy.",
+"ctx": "site Marion, later Arsinoe: find \"The Hellenistic and Roman town quarters\" text"
+},
+{
+"en": "Hellenistic and Roman burials",
+"ctx": "site Marion, later Arsinoe: find title"
+},
+{
+"en": "3rd century BCE to 4th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "The cemeteries that produced the famous Classical Attic pottery stayed in use for centuries afterwards, yielding mould-made bowls, glass and lamps of the Ptolemaic and Roman periods. These later graves attracted far less nineteenth-century looting than the painted vases did.",
+"ctx": "site Marion, later Arsinoe: find \"Hellenistic and Roman burials\" text"
+},
+{
+"en": "A Greek city-kingdom on Morphou bay, said, doubtfully, to have been renamed for the Athenian lawgiver Solon. It joined the revolt of 498 BCE and held out for five months. On the hill beside it stands Vouni, a palace of the Persian period that its excavator thought pro-Persian Marion built to watch Soli.",
+"ctx": "site Soli: description"
+},
+{
+"en": "Aphrodite of Soli",
+"ctx": "site Soli: find title"
+},
+{
+"en": "1st century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A marble statue of the goddess, probably a Roman copy of a Hellenistic type, found by a farmer ploughing in 1902; it has become the island's emblem, appearing on its coins and stamps.",
+"ctx": "site Soli: find \"Aphrodite of Soli\" text"
+},
+{
+"en": "Roman theatre",
+"ctx": "site Soli: find title"
+},
+{
+"en": "A theatre for about 3,500, rebuilt in 1962–64 after most of its stone had been carted off in the nineteenth century to build the harbour at Port Said.",
+"ctx": "site Soli: find \"Roman theatre\" text"
+},
+{
+"en": "In situ, Soli",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Basilica mosaics",
+"ctx": "site Soli: find title"
+},
+{
+"en": "Floors of an early Christian cathedral with a famous swan among geometric patterns.",
+"ctx": "site Soli: find \"Basilica mosaics\" text"
+},
+{
+"en": "Roman agora and nymphaeum",
+"ctx": "site Soli: find title"
+},
+{
+"en": "A colonnaded market square with a monumental fountain, excavated by Université Laval in 1964–74 and in use until the seventh century.",
+"ctx": "site Soli: find \"Roman agora and nymphaeum\" text"
+},
+{
+"en": "Sanctuary sculptures from Cholades",
+"ctx": "site Soli: find title"
+},
+{
+"en": "1st–2nd century CE",
+"ctx": "find period/date"
+},
+{
+"en": "Marble statues of Aphrodite, Isis and other gods from the hillside temples west of the theatre.",
+"ctx": "site Soli: find \"Sanctuary sculptures from Cholades\" text"
+},
+{
+"en": "Soli-Mersinaki sanctuary",
+"ctx": "site Soli: find title"
+},
+{
+"en": "7th century BCE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "A sanctuary of Apollo on the coast west of the city, excavated by the Swedish Cyprus Expedition in 1929, with limestone and terracotta votaries running from the Archaic period into Roman times. Half the sculpture went to Stockholm under the division of finds.",
+"ctx": "site Soli: find \"Soli-Mersinaki sanctuary\" text"
+},
+{
+"en": "Medelhavsmuseet, Stockholm; Cyprus Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The siege of 498 BCE",
+"ctx": "site Soli: find title"
+},
+{
+"en": "Herodotus says Soli held out five months against the Persians, longer than any other Cypriot city, and fell only when they undermined the wall. Traces of the Archaic circuit survive on the acropolis above the theatre.",
+"ctx": "site Soli: find \"The siege of 498 BCE\" text"
+},
+{
+"en": "In situ, Soli acropolis",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Gold coins of Eunostos",
+"ctx": "site Soli: find title"
+},
+{
+"en": "Issues with Apollo and Aphrodite struck by the last king of Soloi, who married Eirene, a daughter of Ptolemy I, and so outlasted every other Cypriot dynasty. He was still on his throne after 312 BCE, when the rest were gone.",
+"ctx": "site Soli: find \"Gold coins of Eunostos\" text"
+},
+{
+"en": "Erisu, king of Soloi",
+"ctx": "site Soli: find title"
+},
+{
+"en": "The kingdom's first appearance in history is as 'Erisu king of Sillu' on Esarhaddon's prism, among the ten Cypriot kings who sent building materials to Nineveh. The Greek story that Soli was renamed after Solon of Athens cannot be reconciled with a kingdom already there in the seventh century.",
+"ctx": "site Soli: find \"Erisu, king of Soloi\" text"
+},
+{
+"en": "The inscription of the proconsul Paulus",
+"ctx": "site Soli: find title"
+},
+{
+"en": "1st century CE, or later",
+"ctx": "find period/date"
+},
+{
+"en": "An inscription found at Soli in 1887 naming a proconsul called Paulus, long taken as the Sergius Paulus who heard Paul at Paphos in Acts 13. D. G. Hogarth dated it to the first century; Terence Mitford argued on epigraphic grounds that it is considerably later, and the identification remains open.",
+"ctx": "site Soli: find \"The inscription of the proconsul Paulus\" text"
+},
+{
+"en": "The copper of Soli's territory",
+"ctx": "site Soli: find title"
+},
+{
+"en": "The Skouriotissa mines lay in Soli's hinterland, and Soli was one of three Cypriot cities still named as producing copper under Rome. The city's wealth and its position on Morphou bay both come from the ore behind it.",
+"ctx": "site Soli: find \"The copper of Soli's territory\" text"
+},
+{
+"en": "In situ, Skouriotissa and Katydata",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The see of St Auxibios",
+"ctx": "site Soli: find title"
+},
+{
+"en": "1st century CE by tradition; basilica 4th to 6th century",
+"ctx": "find period/date"
+},
+{
+"en": "Cypriot tradition makes Auxibios the first bishop of Soli, ordained in the generation of Barnabas and Mark, and the great basilica on the site is usually identified as his church. The tradition rests on a Life written centuries later and cannot be checked.",
+"ctx": "site Soli: find \"The see of St Auxibios\" text"
+},
+{
+"en": "Basilica of Ayios Auxibios",
+"ctx": "site Soli: find title"
+},
+{
+"en": "4th to 7th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "The great basilica on the terrace above the theatre is dedicated to Auxibios, whom tradition makes the first bishop of Soloi, baptised by Mark and ordained by Barnabas. In its first form it was among the largest churches on the island, five aisles wide with an atrium.",
+"ctx": "site Soli: find \"Basilica of Ayios Auxibios\" text"
+},
+{
+"en": "The second, smaller church",
+"ctx": "site Soli: find title"
+},
+{
+"en": "6th to 7th century CE",
+"ctx": "find period/date"
+},
+{
+"en": "A reduced basilica built inside the walls of the first, reusing its columns and its apse. It is the clearest picture anywhere on Cyprus of a congregation shrinking before the raids ended the town altogether.",
+"ctx": "site Soli: find \"The second, smaller church\" text"
+},
+{
+"en": "Donor inscriptions in the pavement",
+"ctx": "site Soli: find title"
+},
+{
+"en": "Greek texts worked into the mosaic floor asking for the salvation of the people who paid for each stretch, alongside the famous swan and the geometric carpets.",
+"ctx": "site Soli: find \"Donor inscriptions in the pavement\" text"
+},
+{
+"en": "The see of Soloi",
+"ctx": "site Soli: find title"
+},
+{
+"en": "4th century to 1191",
+"ctx": "find period/date"
+},
+{
+"en": "Soloi's bishop Evagrios was one of the four Cypriots at Ephesus in 431. When the town was abandoned the see moved inland to Morphou; refounded in 1973, its holder is still titled President of Soloi.",
+"ctx": "site Soli: find \"The see of Soloi\" text"
+},
+{
+"en": "Documentary; Metropolis of Morphou",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A settlement since the Early Bronze Age and a city-kingdom of the north coast said to have been founded by Spartans. Its Bronze Age and Iron Age cemeteries are among the richest on Cyprus, and it kept its royal line until Ptolemy deposed King Praxippos in 312 BCE. Two hoards of Byzantine silver, the Lambousa treasures, were found here in 1897 and 1902.",
+"ctx": "site Lapithos: description"
+},
+{
+"en": "Vrysi tou Barba Bronze Age cemetery",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Rock-cut chamber tombs with Red Polished pottery, bronze weapons and gold ornaments, dug by the Swedes in 1927 and the Penn Museum in 1931.",
+"ctx": "site Lapithos: find \"Vrysi tou Barba Bronze Age cemetery\" text"
+},
+{
+"en": "Medelhavsmuseet, Stockholm; Cyprus Museum; Penn Museum, Philadelphia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cypro-Geometric tombs",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Chamber tombs with bronze vessels, iron weapons and fine painted pottery excavated by the Swedish Cyprus Expedition and the Penn Museum.",
+"ctx": "site Lapithos: find \"Cypro-Geometric tombs\" text"
+},
+{
+"en": "Cyprus Museum; Medelhavsmuseet, Stockholm; Penn Museum",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Second Cyprus Treasure and the David Plates",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "c. 613–630 CE",
+"ctx": "find period/date"
+},
+{
+"en": "Nine silver plates telling the story of David, stamped in Constantinople under Heraclius, plus gold jewellery, found at Lambousa in 1902.",
+"ctx": "site Lapithos: find \"Second Cyprus Treasure and the David Plates\" text"
+},
+{
+"en": "Metropolitan Museum, New York (six plates); Cyprus Museum, Nicosia (three plates)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "First Cyprus Treasure",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Twenty-eight silver liturgical pieces, including 25 spoons and a censer, probably buried before the Arab raids; found in 1897.",
+"ctx": "site Lapithos: find \"First Cyprus Treasure\" text"
+},
+{
+"en": "The Vrysi tou Barba cemetery",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "c. 2300–1650 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "One of the largest Early and Middle Bronze Age cemeteries on the island, whose settlement has never been found. Buxton dug 47 tombs for Oxford in 1913 and Menelaos Markides, the first curator of the Cyprus Museum, another eighteen in 1917.",
+"ctx": "site Lapithos: find \"The Vrysi tou Barba cemetery\" text"
+},
+{
+"en": "In situ, Lapithos; finds in the Cyprus Museum, Nicosia and the Ashmolean Museum, Oxford",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The first plank figurines",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "found 1913",
+"ctx": "find period/date"
+},
+{
+"en": "The flat clay figures came to light here, cut from slabs up to 35 cm high and incised with faces, headdresses, necklaces, earrings and patterned clothes. Lapithos remains the main centre of the tradition.",
+"ctx": "site Lapithos: find \"The first plank figurines\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Ashmolean Museum, Oxford; Metropolitan Museum of Art, New York",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Gold jewellery and masses of copper",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "The plank figures were laid in tombs alongside gold ornaments and large quantities of copper, at the moment when Cyprus was becoming the eastern Mediterranean's main source of the metal.",
+"ctx": "site Lapithos: find \"Gold jewellery and masses of copper\" text"
+},
+{
+"en": "Webb's re-publication",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "2018 onwards",
+"ctx": "find period/date"
+},
+{
+"en": "Jennifer Webb has reconstructed the 1913 and 1917 tomb groups from scattered records and museum stores, with metals analysis by Marcos Martinon-Torres. A hundred-year-old excavation has effectively been dug again on paper.",
+"ctx": "site Lapithos: find \"Webb's re-publication\" text"
+},
+{
+"en": "Published, Studies in Mediterranean Archaeology 148",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Coins of Demonikos I",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "c. 500 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Silver with the head of Athena on both faces, one of the earliest coinages of the north coast. Lapethos struck under Greek, then Phoenician, then Greek names again, and the mint is the main record of who was in charge.",
+"ctx": "site Lapithos: find \"Coins of Demonikos I\" text"
+},
+{
+"en": "The Phoenician kings of Lapethos",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Ba'alzakor, Sidqmilk and Barik Shamash struck coins with Phoenician legends, and the issue of Sidqmilk is the one Cypriot coin that names both the king and his kingdom. A Greek-founded city with Phoenician rulers is a reminder that the island's two cultures were not neatly divided by geography.",
+"ctx": "site Lapithos: find \"The Phoenician kings of Lapethos\" text"
+},
+{
+"en": "Bronze coins of Praxippos",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "c. 320–312 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Small bronzes inscribed in Greek letters, struck by the last king, whom Ptolemy I arrested in 312 BCE for dealing with Antigonus. The kingdom was abolished with him.",
+"ctx": "site Lapithos: find \"Bronze coins of Praxippos\" text"
+},
+{
+"en": "The Larnax Lapethou bilinguals",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "3rd–2nd century BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Dedications from the site in Phoenician and Greek, equating Melqart with Herakles and Anat with Athena, among the latest Phoenician inscriptions on Cyprus. They show the language surviving here long after Kition had gone over to Greek.",
+"ctx": "site Lapithos: find \"The Larnax Lapethou bilinguals\" text"
+},
+{
+"en": "Acheiropoietos monastery",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "11th century over a 6th-century church",
+"ctx": "find period/date"
+},
+{
+"en": "Built on the ruins of a sixth-century church on the Lambousa headland and rebuilt so often that early Christian, Byzantine, Gothic and Frankish work all show in the same walls; it now has two domes and a Gothic narthex. It was the seat of the bishop of Lambousa, one of the fourteen sees, until 1222. Since 1974 it has stood inside a Turkish army camp and is closed.",
+"ctx": "site Lapithos: find \"Acheiropoietos monastery\" text"
+},
+{
+"en": "In situ, Lambousa (closed to visitors)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The acheiropoietos icon",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Legend",
+"ctx": "find period/date"
+},
+{
+"en": "The name means not made by human hands. The story is that the Virgin carried the icon across the sea from Asia Minor to save it from destruction. A second tradition, with nothing at all behind it, made the monastery the home of the shroud that went to Turin in 1452.",
+"ctx": "site Lapithos: find \"The acheiropoietos icon\" text"
+},
+{
+"en": "Legend; icon lost",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Rock-cut fish tanks",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Roman",
+"ctx": "find period/date"
+},
+{
+"en": "Tanks cut into the reef on the Lambousa shore for keeping fish alive until they were wanted, among the best-preserved sets of their kind in the eastern Mediterranean and still filling and emptying with the sea.",
+"ctx": "site Lapithos: find \"Rock-cut fish tanks\" text"
+},
+{
+"en": "In situ, Lambousa shore",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Acheiropoiitos Monastery",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "11th–16th century",
+"ctx": "find period/date"
+},
+{
+"en": "The monastery of the icon 'not made by hands' at Lambousa, a domed Byzantine church given a Gothic porch, refectory and vaulted ranges in the Lusignan and Venetian centuries; it stands inside a military zone and is effectively inaccessible.",
+"ctx": "site Lapithos: find \"Acheiropoiitos Monastery\" text"
+},
+{
+"en": "In situ, Lambousa (military area)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Lapithos glazed pottery",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "13th–16th century",
+"ctx": "find period/date"
+},
+{
+"en": "Lapithos was one of the main centres making Cypriot sgraffito ware, lead-glazed bowls and jugs incised through a white slip with birds, fish, knights and dancing figures. It is the everyday art of the Lusignan kingdom and turns up on every medieval site on the island.",
+"ctx": "site Lapithos: find \"Lapithos glazed pottery\" text"
+},
+{
+"en": "Cyprus Museum, Nicosia; Medieval Museum, Limassol Castle",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Springs, silk and water mills",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Medieval to 20th century",
+"ctx": "find period/date"
+},
+{
+"en": "The Lapithos springs drove a string of mills and watered terraced gardens; the casale was known for silk, lemons and its pottery, and its water made it one of the richest villages of the north coast.",
+"ctx": "site Lapithos: find \"Springs, silk and water mills\" text"
+},
+{
+"en": "In situ, Lapithos",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Lambousa in the Latin centuries",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "The ancient city site became a monastic and quarry landscape, its cut blocks reused in the abbeys and castles of the coast; rock-cut fish tanks by the shore were still in use.",
+"ctx": "site Lapithos: find \"Lambousa in the Latin centuries\" text"
+},
+{
+"en": "In situ, Lambousa",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Acheiropoietos Monastery at Lambousa",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Byzantine and later; closed since 1974",
+"ctx": "find period/date"
+},
+{
+"en": "A monastery on the shore beside ancient Lambousa, with a domed church of Byzantine and Gothic phases, whose name means 'made without hands'. It stands inside a Turkish military area and has been inaccessible and largely unmaintained since 1974.",
+"ctx": "site Lapithos: find \"Acheiropoietos Monastery at Lambousa\" text"
+},
+{
+"en": "The potters of Lapithos",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Ottoman and British periods",
+"ctx": "find period/date"
+},
+{
+"en": "Lapithos was the island's best-known pottery town, turning out glazed and slip-decorated earthenware jugs, bowls and storage jars on the wheel; museum collections of Cypriot folk pottery are largely Lapithos work, and the craft died with the displacement of 1974.",
+"ctx": "site Lapithos: find \"The potters of Lapithos\" text"
+}
+]

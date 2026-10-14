@@ -1,0 +1,1754 @@
+[
+{
+"en": "Hunters camped on the island around 10,000 BCE, but Cyprus was settled around 8800 BCE by cultivators who shipped in wheat, barley and dogs; wild boar had been introduced by earlier hunters, and cattle, sheep and goats followed by boat over the next few centuries. They built round stone houses in tight villages and made bowls from grey andesite rather than clay. There was no ruler above the village.",
+"ctx": "power first: description"
+},
+{
+"en": "After the Aceramic villages emptied, the island was quiet until new farming communities appeared around 4500 BCE. They made the first Cypriot pottery, painted in the north and combed in the south, and lived in scattered villages that rarely lasted more than a few generations.",
+"ctx": "power sotira: description"
+},
+{
+"en": "The first copper appears, hammered native metal made into small ornaments and then into hooks and chisels, and a striking figurine tradition in blue-green picrolite stone. Villages grew larger and buildings more formal, but the island was still a world of villages.",
+"ctx": "power erimi: description"
+},
+{
+"en": "Around 2400 BCE new arrivals from Anatolia brought the cattle-drawn plough, rectangular mudbrick houses, and the island's first real copper industry; tin bronze became common only later, in the Middle Bronze Age. Copper from the Troodos foothills began to be worked in quantity, and the Red Polished pottery of this age is among the most inventive the island ever made.",
+"ctx": "power philia: description"
+},
+{
+"en": "By the Late Bronze Age Cyprus was Alashiya, a copper-exporting kingdom whose king addressed the pharaoh as 'my brother' in the Amarna letters. Towns had ashlar buildings, a script of their own (Cypro-Minoan) and warehouses of oxhide copper ingots. Mycenaean pottery arrived in quantity from the fourteenth century BCE, carried mostly by Cypriot and Levantine ships; Aegean settlers came only after 1200 BCE, and the collapse that ended the Bronze Age remade the island.",
+"ctx": "power alashiya: description"
+},
+{
+"en": "No king of Alashiya is known by name",
+"ctx": "power alashiya: ruler name/heading"
+},
+{
+"en": "c. 1600–1050 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The Alashiya letters never name their sender. Kinyras, the Cypriot king of the Iliad, is legend.",
+"ctx": "ruler note (No king of Alashiya is known by name)"
+},
+{
+"en": "Kushmeshusha",
+"ctx": "power alashiya: ruler name/heading"
+},
+{
+"en": "13th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The only king of Alashiya whose name survives, from letters found at Ugarit; the kings who wrote to Egypt in the Amarna archive are all anonymous, and this attribution should be checked against a specialist edition before publication.",
+"ctx": "ruler note (Kushmeshusha)"
+},
+{
+"en": "After 1050 BCE Greek-speakers founded new towns, and by the seventh century the island held about ten small kingdoms. They wrote Greek in the old Cypriot syllabary, and they shared the island with a Phoenician colony at Kition, settled from Tyre around 850 BCE. At the very end of this age the kings of Salamis began to be buried with horses and chariots. No one power ruled the whole island.",
+"ctx": "power kingdoms: description"
+},
+{
+"en": "No Cypriot king is attested by name before 673 BCE",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "1050–750 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The earliest named kings are the ten of Esarhaddon's prism, listed under the Archaic era.",
+"ctx": "ruler note (No Cypriot king is attested by name before 673 BCE)"
+},
+{
+"en": "Kinyras",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Legendary",
+"ctx": "ruler dates"
+},
+{
+"en": "The Cypriot king of the Iliad, who gave Agamemnon a breastplate; a figure of myth attached to Paphos, not a historical ruler.",
+"ctx": "ruler note (Kinyras)"
+},
+{
+"en": "The ten kings of Esarhaddon's prism",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "673/672 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Ekishtura of Idalion, Pilagura of Chytroi, Kisu of Salamis, Ituandar of Paphos, Erisu of Soloi, Damasu of Kourion, Admesu of Tamassos, Damusi of Qartihadasti, Unasagusu of Ledra and Bususu of Marion: the first roll-call of Cypriot kings, most of them Greek names in Assyrian spelling.",
+"ctx": "ruler note (The ten kings of Esarhaddon's prism)"
+},
+{
+"en": "Evelthon of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 560–525 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Struck the first Cypriot coins, silver with a recumbent ram and his name in the syllabary, and dedicated a censer at Delphi.",
+"ctx": "ruler note (Evelthon of Salamis)"
+},
+{
+"en": "Gorgos of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 500–498 and 497–? BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Shut out of his own city by his brother Onesilos, he fled to the Persians and was restored when the revolt collapsed.",
+"ctx": "ruler note (Gorgos of Salamis)"
+},
+{
+"en": "Onesilos of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "498–497 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Led the island into the Ionian Revolt, besieged loyalist Amathus, and was killed in battle; the Amathusians hung his head over their gate.",
+"ctx": "ruler note (Onesilos of Salamis)"
+},
+{
+"en": "Stesenor of Kourion",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 497 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Deserted to the Persians during the decisive battle, taking his chariots with him, and handed them the war.",
+"ctx": "ruler note (Stesenor of Kourion)"
+},
+{
+"en": "Baalmilk I of Kition",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "After 480 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "First of the Phoenician kings of Kition known from coins, with Herakles for Melqart on the obverse.",
+"ctx": "ruler note (Baalmilk I of Kition)"
+},
+{
+"en": "Stasikypros of Idalion",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Mid-5th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The last independent king of Idalion, named on the bronze tablet that hires a physician during the siege; his city fell to Kition around 450 BCE.",
+"ctx": "ruler note (Stasikypros of Idalion)"
+},
+{
+"en": "Rhoikos I of Amathus",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 460–430 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Struck the recumbent lion coinage of Amathus on a stubbornly local weight standard.",
+"ctx": "ruler note (Rhoikos I of Amathus)"
+},
+{
+"en": "Evagoras I of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "411–374/373 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Seized his throne at twenty, extended his rule over most of the island, fought Persia for a decade and kept his crown as a king to a king; Isocrates wrote an encomium for him.",
+"ctx": "ruler note (Evagoras I of Salamis)"
+},
+{
+"en": "Milkyaton of Kition",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "392/391–362/361 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Set up a trophy to Baal Oz for a victory in his first year, probably over Evagoras, and struck the first gold at Kition.",
+"ctx": "ruler note (Milkyaton of Kition)"
+},
+{
+"en": "Nikokles of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "374/373–361 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Son of Evagoras; reformed the coinage on a new standard and abandoned the Cypriot syllabary on his money.",
+"ctx": "ruler note (Nikokles of Salamis)"
+},
+{
+"en": "Pumayyaton of Kition",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "362/361–312 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Ruled Kition, Idalion and, from 342/341 BCE, Tamassos, numbering his regnal years on his coins for more than forty-five years; Ptolemy I had him executed.",
+"ctx": "ruler note (Pumayyaton of Kition)"
+},
+{
+"en": "Evagoras II of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 361–351 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Driven out by his own people, he took service with the Persian king and tried to win the throne back with Persian help.",
+"ctx": "ruler note (Evagoras II of Salamis)"
+},
+{
+"en": "Pasikypros of Tamassos",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Mid-4th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Sold his city and his royal title to Pumayyaton of Kition for fifty talents and grew old at Amathus on the proceeds.",
+"ctx": "ruler note (Pasikypros of Tamassos)"
+},
+{
+"en": "Pnytagoras of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "351–332 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Held Salamis through a Persian siege, then sent ships to Alexander at Tyre and was rewarded with Tamassos.",
+"ctx": "ruler note (Pnytagoras of Salamis)"
+},
+{
+"en": "Nikokreon of Salamis",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "332–311/310 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Alexander's man and then Ptolemy's, the last king of Salamis; his family killed themselves in the palace, and an empty mound in the necropolis is thought to be his memorial.",
+"ctx": "ruler note (Nikokreon of Salamis)"
+},
+{
+"en": "Nikokles of Paphos",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "c. 330–309/308 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Moved his capital to the new harbour town of Nea Paphos and was forced by Ptolemy to take his own life.",
+"ctx": "ruler note (Nikokles of Paphos)"
+},
+{
+"en": "Stasioikos II of Marion",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "?–312 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The first Marion king to strike gold; Ptolemy arrested him for siding with Antigonus, razed his city and moved its people to Paphos.",
+"ctx": "ruler note (Stasioikos II of Marion)"
+},
+{
+"en": "Praxippos of Lapithos",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Last king of Lapethos, deposed and arrested by Ptolemy I in the same sweep, along with the ruler of Kyrenia.",
+"ctx": "ruler note (Praxippos of Lapithos)"
+},
+{
+"en": "Androkles of Amathus",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Late 4th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The last Amathusian king in the record; he dedicated a gold wreath to Apollo on Delos in 313 BCE.",
+"ctx": "ruler note (Androkles of Amathus)"
+},
+{
+"en": "Eunostos of Soloi",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "Late 4th century BCE, before 306 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Married Eirene, a daughter of Ptolemy I, and so outlived every other Cypriot dynasty; his gold shows Apollo and Aphrodite.",
+"ctx": "ruler note (Eunostos of Soloi)"
+},
+{
+"en": "Menelaos",
+"ctx": "power kingdoms: ruler name/heading"
+},
+{
+"en": "310/309–306 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Brother of Ptolemy I, governor at Salamis and the first man to strike coin on Cyprus as an outsider rather than a king; the kingdoms were over.",
+"ctx": "ruler note (Menelaos)"
+},
+{
+"en": "Seven Cypriot kings submitted to Sargon II of Assyria around 709–707 BCE, and Esarhaddon's scribes listed ten kings of the island in 673. Egypt made Cyprus tributary under Amasis around 560 BCE, and by about 545 the Persians had taken it into their empire. Cyprus lay within a Persian province, but the city-kingdoms kept their own dynasties, coinage and quarrels.",
+"ctx": "power overlords: description"
+},
+{
+"en": "673–672 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Ekishtura of Idalion, Pilagura of Chytroi, Kisu of Salamis, Ituandar of Paphos, Eresu of Soli, Damasu of Kourion, Admesu of Tamassos, Damusi of Qart-hadasht (Kition), Unasagusu of Ledra and Bususu of Nure (Amathus?). Some identifications are debated.",
+"ctx": "ruler note (The ten kings of Esarhaddon's prism)"
+},
+{
+"en": "Founder of the Salamis dynasty known to Herodotus; first Cypriot king to strike coins.",
+"ctx": "ruler note (Evelthon of Salamis)"
+},
+{
+"en": "Siromos and Chersis of Salamis",
+"ctx": "power overlords: ruler name/heading"
+},
+{
+"en": "late 6th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Son and grandson of Evelthon, known from Herodotus's genealogy.",
+"ctx": "ruler note (Siromos and Chersis of Salamis)"
+},
+{
+"en": "c. 500–498 and 497–c. 480 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Refused to join the Ionian Revolt, was ousted by his brother and restored by the Persians.",
+"ctx": "ruler note (Gorgos of Salamis)"
+},
+{
+"en": "Seized Salamis, led the island's revolt against Persia and was killed in battle; Amathus displayed his skull.",
+"ctx": "ruler note (Onesilos of Salamis)"
+},
+{
+"en": "Philokypros and Aristokypros of Soli",
+"ctx": "power overlords: ruler name/heading"
+},
+{
+"en": "c. 570s and to 498 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Philokypros was praised by Solon; his son Aristokypros fell fighting for Onesilos.",
+"ctx": "ruler note (Philokypros and Aristokypros of Soli)"
+},
+{
+"en": "Stasanor of Kourion",
+"ctx": "power overlords: ruler name/heading"
+},
+{
+"en": "fl. 498 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Deserted to the Persians during the battle near Salamis, deciding it.",
+"ctx": "ruler note (Stasanor of Kourion)"
+},
+{
+"en": "Cyprus lay within a Persian satrapy but the city-kingdoms retained local dynasties. Salamis under Evagoras I became a centre of Greek culture and a thorn in the Persian side, and Greek fleets came three times, in 478, around 460 and in 450, to pull the island into the Greek world. Persian control was real but never total.",
+"ctx": "power persia: description"
+},
+{
+"en": "411–374 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Expelled the Phoenician usurper Abdemon, Hellenised Salamis, fought Persia from 391 to about 380; murdered in 374.",
+"ctx": "ruler note (Evagoras I of Salamis)"
+},
+{
+"en": "374–c. 361 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Son of Evagoras I; Isocrates addressed two speeches to him.",
+"ctx": "ruler note (Nikokles of Salamis)"
+},
+{
+"en": "Pro-Persian; deposed by his nephew Pnytagoras, later Persian governor of Sidon.",
+"ctx": "ruler note (Evagoras II of Salamis)"
+},
+{
+"en": "Joined the anti-Persian revolt of the 340s, survived, then fought for Alexander at Tyre and received Tamassos.",
+"ctx": "ruler note (Pnytagoras of Salamis)"
+},
+{
+"en": "332–c. 310 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Last king of Salamis; backed Ptolemy and became governor of the island.",
+"ctx": "ruler note (Nikokreon of Salamis)"
+},
+{
+"en": "Baalmilk I, Azbaal, Baalmilk II of Kition",
+"ctx": "power persia: ruler name/heading"
+},
+{
+"en": "c. 479–392 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Phoenician dynasty of Kition; Azbaal captured Idalion and ruled as 'king of Kition and Idalion'.",
+"ctx": "ruler note (Baalmilk I, Azbaal, Baalmilk II of Kition)"
+},
+{
+"en": "Melekiathon of Kition",
+"ctx": "power persia: ruler name/heading"
+},
+{
+"en": "392–362 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Fought Evagoras I; struck the first gold and bronze coins of Kition.",
+"ctx": "ruler note (Melekiathon of Kition)"
+},
+{
+"en": "362–312 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Last king of Kition; sold Tamassos to Pnytagoras; executed by Ptolemy.",
+"ctx": "ruler note (Pumayyaton of Kition)"
+},
+{
+"en": "c. 470s–450s BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Last king of Idalion, named on the bronze Idalion Tablet.",
+"ctx": "ruler note (Stasikypros of Idalion)"
+},
+{
+"en": "c. 325–309 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Last king of Paphos; refounded Nea Paphos; forced to suicide by Ptolemy.",
+"ctx": "ruler note (Nikokles of Paphos)"
+},
+{
+"en": "Androkles of Amathus, Pasikrates of Kourion, Stasioikos II of Marion, Stasikrates and Eunostos of Soli",
+"ctx": "power persia: ruler name/heading"
+},
+{
+"en": "late 4th century BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "The last kings of their cities, most of whom sailed with the Cypriot fleet to Alexander's siege of Tyre in 332.",
+"ctx": "ruler note (Androkles of Amathus, Pasikrates of Kourion, Stasioikos II of Marion, Stasikrates and Eunostos of Soli)"
+},
+{
+"en": "After Alexander the city-kingdoms were abolished by Ptolemy I, and for two and a half centuries Cyprus was Egypt's timber yard, copper mine, grain store and naval base. A Ptolemaic governor ruled from Nea Paphos. Greek koine became the language of government, and the old Cypriot syllabary faded out by the end of the third century BCE.",
+"ctx": "power ptolemies: description"
+},
+{
+"en": "312–c. 310 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Last king of Salamis, made Ptolemy's governor of the whole island; died by suicide or murder.",
+"ctx": "ruler note (Nikokreon of Salamis)"
+},
+{
+"en": "Menelaos, son of Lagos",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "310–306 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Ptolemy I's brother; governed Cyprus until Demetrius took Salamis in 306.",
+"ctx": "ruler note (Menelaos, son of Lagos)"
+},
+{
+"en": "Pelops, son of Pelops",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "c. 217–203 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Earliest governor (strategos) attested by inscriptions, under Ptolemy IV; based at Salamis.",
+"ctx": "ruler note (Pelops, son of Pelops)"
+},
+{
+"en": "Polykrates of Argos",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "c. 203–197 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Strategos under the boy-king Ptolemy V; later chancellor in Alexandria.",
+"ctx": "ruler note (Polykrates of Argos)"
+},
+{
+"en": "Ptolemaios Makron",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "c. 180–168 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Strategos who handed Cyprus to Antiochus IV in 168 and defected to the Seleucids.",
+"ctx": "ruler note (Ptolemaios Makron)"
+},
+{
+"en": "Seleukos, son of Bithys",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "c. 144–130 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Strategos and high priest of the island under Ptolemy VIII.",
+"ctx": "ruler note (Seleukos, son of Bithys)"
+},
+{
+"en": "Ptolemy of Cyprus",
+"ctx": "power ptolemies: ruler name/heading"
+},
+{
+"en": "80–58 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Younger brother of Ptolemy XII of Egypt, king of Cyprus as a separate kingdom; killed himself when Cato arrived.",
+"ctx": "ruler note (Ptolemy of Cyprus)"
+},
+{
+"en": "Annexed in 58 BCE, Cyprus was a quiet, wealthy province of theatres, baths and villas. Paul and Barnabas preached here around 45 CE and the island claims the first Christian governor. Salamis was ruined in the Jewish revolt of 115–117, and a Christian island was already taking shape when the earthquakes of the 340s brought the ancient cities down.",
+"ctx": "power rome: description"
+},
+{
+"en": "Marcus Porcius Cato",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "58 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Special commissioner who carried out the annexation; not a governor.",
+"ctx": "ruler note (Marcus Porcius Cato)"
+},
+{
+"en": "Cicero",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "51–50 BCE",
+"ctx": "ruler dates"
+},
+{
+"en": "Governed Cilicia with Cyprus attached and wrote about the island's debts.",
+"ctx": "ruler note (Cicero)"
+},
+{
+"en": "Publius Paquius Scaeva",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "under Augustus",
+"ctx": "ruler dates"
+},
+{
+"en": "Twice proconsul of Cyprus, known from his tomb inscription at Histonium.",
+"ctx": "ruler note (Publius Paquius Scaeva)"
+},
+{
+"en": "Sergius Paulus",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "c. 45–47 CE",
+"ctx": "ruler dates"
+},
+{
+"en": "The proconsul who heard Paul at Paphos according to Acts 13.",
+"ctx": "ruler note (Sergius Paulus)"
+},
+{
+"en": "Quintus Julius Cordus",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "c. 57–65 CE",
+"ctx": "ruler dates"
+},
+{
+"en": "Proconsul who rebuilt the Kourion theatre after an earthquake.",
+"ctx": "ruler note (Quintus Julius Cordus)"
+},
+{
+"en": "Lucius Annius Bassus",
+"ctx": "power rome: ruler name/heading"
+},
+{
+"en": "65–66 CE",
+"ctx": "ruler dates"
+},
+{
+"en": "Proconsul named on a Kourion inscription for a statue of Nero.",
+"ctx": "ruler note (Lucius Annius Bassus)"
+},
+{
+"en": "Cyprus was a Christian island with an independent church from 431 CE. Arab fleets raided from 649, and from 688 to 965 the island was a strange shared possession, paying tax to both the Caliphate and Constantinople. In 965 Nikephoros II Phokas's general Niketas Chalkoutzes recovered it, Cyprus became a Byzantine theme, and inland Nicosia became the capital.",
+"ctx": "power byzantium: description"
+},
+{
+"en": "Epiphanius of Salamis",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "367–403",
+"ctx": "ruler dates"
+},
+{
+"en": "Bishop of Salamis-Constantia and metropolitan of Cyprus; heresy-hunter and author of the Panarion.",
+"ctx": "ruler note (Epiphanius of Salamis)"
+},
+{
+"en": "Rheginos of Constantia",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. 431",
+"ctx": "ruler dates"
+},
+{
+"en": "Led the Cypriot bishops at Ephesus and won canon 8, the charter of the Church's independence.",
+"ctx": "ruler note (Rheginos of Constantia)"
+},
+{
+"en": "Anthemios",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. c. 478–488",
+"ctx": "ruler dates"
+},
+{
+"en": "Found the relics of Barnabas and secured Zeno's confirmation of autocephaly.",
+"ctx": "ruler note (Anthemios)"
+},
+{
+"en": "John I",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. 691–698",
+"ctx": "ruler dates"
+},
+{
+"en": "Archbishop deported with his flock to Nea Justinianoupolis; source of the title the Church of Cyprus still uses.",
+"ctx": "ruler note (John I)"
+},
+{
+"en": "Nikolaos Mouzalon",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "1107–1110",
+"ctx": "ruler dates"
+},
+{
+"en": "Archbishop who resigned in protest at official abuses; later Patriarch of Constantinople.",
+"ctx": "ruler note (Nikolaos Mouzalon)"
+},
+{
+"en": "Isaac Komnenos",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "1184–1191",
+"ctx": "ruler dates"
+},
+{
+"en": "Usurper who ruled the island as a self-styled emperor until Richard I deposed him.",
+"ctx": "ruler note (Isaac Komnenos)"
+},
+{
+"en": "Constantius II",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "337–361",
+"ctx": "ruler dates"
+},
+{
+"en": "Rebuilt earthquake-ruined Salamis as Constantia, remitted its taxes and made it the capital of the island.",
+"ctx": "ruler note (Constantius II)"
+},
+{
+"en": "Zeno",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "474–491",
+"ctx": "ruler dates"
+},
+{
+"en": "Paid for the basilica over Barnabas's tomb and gave the archbishop the sceptre, the purple and the red ink.",
+"ctx": "ruler note (Zeno)"
+},
+{
+"en": "Justinian I",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "527–565",
+"ctx": "ruler dates"
+},
+{
+"en": "Reign of the great mosaic floors and the last generation of five-aisled basilicas; Archbishop Philoxenos enlarged the Barnabas shrine under him.",
+"ctx": "ruler note (Justinian I)"
+},
+{
+"en": "Justinian II",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "685–695, 705–711",
+"ctx": "ruler dates"
+},
+{
+"en": "Agreed the condominium with Abd al-Malik in 688, then moved much of the population to Nea Justinianoupolis near Cyzicus in 691.",
+"ctx": "ruler note (Justinian II)"
+},
+{
+"en": "Demetrianos of Chytroi",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "c. 890–915",
+"ctx": "ruler dates"
+},
+{
+"en": "Bishop who is said to have followed his captured flock to the caliph's court and brought them home.",
+"ctx": "ruler note (Demetrianos of Chytroi)"
+},
+{
+"en": "Niketas Chalkoutzes",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. 965",
+"ctx": "ruler dates"
+},
+{
+"en": "Patrician who recovered the island for Nikephoros II Phokas with a small force and made it a theme.",
+"ctx": "ruler note (Niketas Chalkoutzes)"
+},
+{
+"en": "Theophilos Erotikos",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. 1042",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor who rebelled, was captured and was paraded through the Hippodrome dressed as a woman.",
+"ctx": "ruler note (Theophilos Erotikos)"
+},
+{
+"en": "Rhapsomates",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "1090–1093",
+"ctx": "ruler dates"
+},
+{
+"en": "Rebel governor put down by John Doukas and Manuel Boutoumites for Alexios I.",
+"ctx": "ruler note (Rhapsomates)"
+},
+{
+"en": "Eumathios Philokales",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "c. 1093–1103, 1110–1118",
+"ctx": "ruler dates"
+},
+{
+"en": "The island's most effective Byzantine governor, patron of the paintings at Koutsovendis and scourge of Levantine pirates.",
+"ctx": "ruler note (Eumathios Philokales)"
+},
+{
+"en": "John Doukas Komnenos",
+"ctx": "power byzantium: ruler name/heading"
+},
+{
+"en": "fl. 1156",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor captured when Raynald of Chatillon raided the island; his defeat let the Franks plunder it for three weeks.",
+"ctx": "ruler note (John Doukas Komnenos)"
+},
+{
+"en": "Richard the Lionheart took the island in 1191 and it passed to Guy de Lusignan. His dynasty ruled for three centuries, building Gothic cathedrals and castles and putting the Greek Church under a Latin archbishop. It grew rich on Famagusta's trade after Acre fell, then slowly bled to Genoese and Mamluk pressure. Cyprus was the last crusader kingdom.",
+"ctx": "power lusignan: description"
+},
+{
+"en": "Guy de Lusignan",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1192–1194",
+"ctx": "ruler dates"
+},
+{
+"en": "Lord of Cyprus, never crowned king; former King of Jerusalem.",
+"ctx": "ruler note (Guy de Lusignan)"
+},
+{
+"en": "Aimery",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1194–1205",
+"ctx": "ruler dates"
+},
+{
+"en": "Guy's brother; crowned first King of Cyprus in 1197; also King of Jerusalem 1197–1205.",
+"ctx": "ruler note (Aimery)"
+},
+{
+"en": "Hugh I",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1205–1218",
+"ctx": "ruler dates"
+},
+{
+"en": "Son of Aimery; child king under regency.",
+"ctx": "ruler note (Hugh I)"
+},
+{
+"en": "Henry I",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1218–1253",
+"ctx": "ruler dates"
+},
+{
+"en": "Long minority; Ibelin regents fight Frederick II's supporters 1228–1233.",
+"ctx": "ruler note (Henry I)"
+},
+{
+"en": "Hugh II",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1253–1267",
+"ctx": "ruler dates"
+},
+{
+"en": "Died aged about fourteen; end of the direct male line.",
+"ctx": "ruler note (Hugh II)"
+},
+{
+"en": "Hugh III",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1267–1284",
+"ctx": "ruler dates"
+},
+{
+"en": "Of Antioch-Lusignan; also King of Jerusalem from 1268.",
+"ctx": "ruler note (Hugh III)"
+},
+{
+"en": "1284–1285",
+"ctx": "ruler dates"
+},
+{
+"en": "Reigned one year.",
+"ctx": "ruler note (John I)"
+},
+{
+"en": "Henry II",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1285–1324",
+"ctx": "ruler dates"
+},
+{
+"en": "Lost Acre in 1291; deposed 1306–1310 by his brother Amalric of Tyre.",
+"ctx": "ruler note (Henry II)"
+},
+{
+"en": "Hugh IV",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1324–1358",
+"ctx": "ruler dates"
+},
+{
+"en": "Peak of prosperity; patron of Bellapais.",
+"ctx": "ruler note (Hugh IV)"
+},
+{
+"en": "Peter I",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1358–1369",
+"ctx": "ruler dates"
+},
+{
+"en": "Crusader king; sacked Alexandria in 1365; murdered by his knights in 1369.",
+"ctx": "ruler note (Peter I)"
+},
+{
+"en": "Peter II",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1369–1382",
+"ctx": "ruler dates"
+},
+{
+"en": "Coronation riot 1372; Genoese invasion 1373–1374.",
+"ctx": "ruler note (Peter II)"
+},
+{
+"en": "James I",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1382–1398",
+"ctx": "ruler dates"
+},
+{
+"en": "Held hostage in Genoa until 1385; titular King of Armenia from 1393.",
+"ctx": "ruler note (James I)"
+},
+{
+"en": "Janus",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1398–1432",
+"ctx": "ruler dates"
+},
+{
+"en": "Defeated and captured by the Mamluks at Khirokitia in 1426.",
+"ctx": "ruler note (Janus)"
+},
+{
+"en": "John II",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1432–1458",
+"ctx": "ruler dates"
+},
+{
+"en": "Married Helena Palaiologina.",
+"ctx": "ruler note (John II)"
+},
+{
+"en": "Charlotte",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1458–1464",
+"ctx": "ruler dates"
+},
+{
+"en": "Queen regnant, driven out by her half-brother; died in Rome in 1487.",
+"ctx": "ruler note (Charlotte)"
+},
+{
+"en": "James II",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1464–1473",
+"ctx": "ruler dates"
+},
+{
+"en": "Seized the crown with Mamluk backing; recovered Famagusta from Genoa; married Caterina Cornaro.",
+"ctx": "ruler note (James II)"
+},
+{
+"en": "James III",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1473–1474",
+"ctx": "ruler dates"
+},
+{
+"en": "Infant king, died aged one.",
+"ctx": "ruler note (James III)"
+},
+{
+"en": "Caterina Cornaro",
+"ctx": "power lusignan: ruler name/heading"
+},
+{
+"en": "1474–1489",
+"ctx": "ruler dates"
+},
+{
+"en": "Venetian-born last queen; forced to abdicate in 1489.",
+"ctx": "ruler note (Caterina Cornaro)"
+},
+{
+"en": "Venice acquired the island through Queen Caterina Cornaro and ran it as a heavily taxed colony and a forward base against the Ottomans. Its lasting legacy is stone: the star-shaped walls of Nicosia and the vast ramparts of Famagusta. Famagusta's were complete by 1562; Nicosia's were still unfinished when the Ottomans landed in 1570.",
+"ctx": "power venice: description"
+},
+{
+"en": "The Luogotenente and his Consiglieri",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "1489–1571",
+"ctx": "ruler dates"
+},
+{
+"en": "Cyprus was governed from Nicosia by a lieutenant sent out from Venice, normally for two years, advised by two counsellors, with a Capitano commanding Famagusta, rectors in the lesser towns and a Provveditore Generale sent out in emergencies.",
+"ctx": "ruler note (The Luogotenente and his Consiglieri)"
+},
+{
+"en": "Francesco Barbarigo",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "from 1489",
+"ctx": "ruler dates"
+},
+{
+"en": "First lieutenant of Cyprus, appointed in the year Caterina Cornaro abdicated.",
+"ctx": "ruler note (Francesco Barbarigo)"
+},
+{
+"en": "Marcantonio Trevisan",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "from 1531",
+"ctx": "ruler dates"
+},
+{
+"en": "Lieutenant of Cyprus, later Doge of Venice from 1553 to 1554.",
+"ctx": "ruler note (Marcantonio Trevisan)"
+},
+{
+"en": "Agostino Barbarigo",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "from 1566",
+"ctx": "ruler dates"
+},
+{
+"en": "Lieutenant of Cyprus, later second in command of the Christian fleet and mortally wounded at Lepanto in 1571.",
+"ctx": "ruler note (Agostino Barbarigo)"
+},
+{
+"en": "Nicolo Dandolo",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "from 1567",
+"ctx": "ruler dates"
+},
+{
+"en": "Lieutenant during the invasion; blamed by contemporaries for a timid defence and killed when Nicosia was stormed on 9 September 1570.",
+"ctx": "ruler note (Nicolo Dandolo)"
+},
+{
+"en": "Sebastiano Venier",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "from 1569",
+"ctx": "ruler dates"
+},
+{
+"en": "Lieutenant of Cyprus, then Capitano Generale da Mar who commanded the Venetian fleet at Lepanto, and Doge from 1577 to 1578.",
+"ctx": "ruler note (Sebastiano Venier)"
+},
+{
+"en": "Daniele Barbarigo",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "appointed 1570",
+"ctx": "ruler dates"
+},
+{
+"en": "Last lieutenant appointed; never reached the island.",
+"ctx": "ruler note (Daniele Barbarigo)"
+},
+{
+"en": "Marcantonio Bragadin",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "1569–1571",
+"ctx": "ruler dates"
+},
+{
+"en": "Capitano of Famagusta, who held the fortress for ten and a half months and was flayed alive on 17 August 1571 after the surrender terms were broken.",
+"ctx": "ruler note (Marcantonio Bragadin)"
+},
+{
+"en": "Astorre Baglione",
+"ctx": "power venice: ruler name/heading"
+},
+{
+"en": "Umbrian condottiere and governor of the island's troops, who ran the fighting defence of Famagusta and was killed at the surrender.",
+"ctx": "ruler note (Astorre Baglione)"
+},
+{
+"en": "After the sieges of 1570 and 1571 Cyprus became an Ottoman province for three centuries. Latin rule ended and the Orthodox Church was restored, its archbishop becoming the leader of the Greek community. Turkish settlers formed the island's Muslim population. Neglect, locusts and heavy taxation marked much of the period.",
+"ctx": "power ottoman: description"
+},
+{
+"en": "Lala Mustafa Pasha",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1570–1571",
+"ctx": "ruler dates"
+},
+{
+"en": "Commander of the conquest and the island's first governor; he had Bragadin flayed at Famagusta and gave his name to its cathedral-mosque.",
+"ctx": "ruler note (Lala Mustafa Pasha)"
+},
+{
+"en": "Muzaffer Pasha",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1571–1573",
+"ctx": "ruler dates"
+},
+{
+"en": "First beylerbeyi of the new province of Cyprus, credited with building the Buyuk Han in Nicosia; some scholars give the han to his successor Sinan Pasha.",
+"ctx": "ruler note (Muzaffer Pasha)"
+},
+{
+"en": "The beylerbeyis",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1571–1670",
+"ctx": "ruler dates"
+},
+{
+"en": "Cyprus was a full eyalet under a governor of pasha rank with sanjaks on the mainland; some seventy governors came and went, few staying more than two years.",
+"ctx": "ruler note (The beylerbeyis)"
+},
+{
+"en": "The Kapudan Pasha's mutesellims",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1670–1703",
+"ctx": "ruler dates"
+},
+{
+"en": "The island was downgraded to a sanjak assigned to the Ottoman admiral, who sent a deputy; real power passed to local aghas and tax farmers, and revolts followed.",
+"ctx": "ruler note (The Kapudan Pasha's mutesellims)"
+},
+{
+"en": "The muhassils of the Grand Vizier",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1703–1745 and 1748–1785",
+"ctx": "ruler dates"
+},
+{
+"en": "Cyprus was granted to the Grand Vizier as a source of income and run by a muhassil who bought the right to collect its taxes, the arrangement that made both extortion and the Church's power possible.",
+"ctx": "ruler note (The muhassils of the Grand Vizier)"
+},
+{
+"en": "Ebubekir Pasha",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1746–1748",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor of the brief restored eyalet, remembered for good order and for beginning the aqueduct to Larnaca in 1747.",
+"ctx": "ruler note (Ebubekir Pasha)"
+},
+{
+"en": "Cil Osman Aga",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "to 1764",
+"ctx": "ruler dates"
+},
+{
+"en": "Muhassil who doubled the tax demand; Greeks and Turks together stormed the palace in Nicosia and killed him, one of the few joint risings of the period.",
+"ctx": "ruler note (Cil Osman Aga)"
+},
+{
+"en": "Kucuk Mehmed",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "c. 1820–1821",
+"ctx": "ruler dates"
+},
+{
+"en": "Muhassil who ordered the hanging of Archbishop Kyprianos and the beheading of the three bishops on 9 July 1821 and the executions and confiscations that followed.",
+"ctx": "ruler note (Kucuk Mehmed)"
+},
+{
+"en": "The mutasarrifs",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1839–1878",
+"ctx": "ruler dates"
+},
+{
+"en": "After the Tanzimat reforms Cyprus was governed by a mutasarrif under the Archipelago province and then, from 1861 and again from 1870, as a separate mutasarrifate until the British took over the administration.",
+"ctx": "ruler note (The mutasarrifs)"
+},
+{
+"en": "Archbishop Nikiforos",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1641–1674",
+"ctx": "ruler dates"
+},
+{
+"en": "Archbishop under whom the Porte came to treat the prelates as spokesmen of the Orthodox flock, the step conventionally dated to 1660.",
+"ctx": "ruler note (Archbishop Nikiforos)"
+},
+{
+"en": "Archbishop Philotheos",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1734–1759",
+"ctx": "ruler dates"
+},
+{
+"en": "Consolidated the archbishop's standing as head of the Greek community, with the right to petition Constantinople over the governor's head.",
+"ctx": "ruler note (Archbishop Philotheos)"
+},
+{
+"en": "Archbishop Chrysanthos",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1767–1810",
+"ctx": "ruler dates"
+},
+{
+"en": "Presided over the years when the archbishop and the four bishops collected the Christians' taxes and were, in practice, the island's civil government.",
+"ctx": "ruler note (Archbishop Chrysanthos)"
+},
+{
+"en": "Hadjigeorgakis Kornesios, dragoman",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1779–1809",
+"ctx": "ruler dates"
+},
+{
+"en": "Interpreter to the governor and tax intermediary, the richest man on the island; executed at Constantinople in 1809 after complaints from both communities.",
+"ctx": "ruler note (Hadjigeorgakis Kornesios, dragoman)"
+},
+{
+"en": "Archbishop Kyprianos",
+"ctx": "power ottoman: ruler name/heading"
+},
+{
+"en": "1810–1821",
+"ctx": "ruler dates"
+},
+{
+"en": "Founder of the Hellenic School of Nicosia in 1812; hanged from a tree outside the palace on 9 July 1821 in the reprisals for the Greek revolt.",
+"ctx": "ruler note (Archbishop Kyprianos)"
+},
+{
+"en": "Britain took over the administration in 1878 under the Cyprus Convention, keeping the island as a base on the road to India and Suez. It annexed Cyprus in 1914 and made it a Crown Colony in 1925. Roads, schools and courts were built and the population doubled, but the Greek majority's demand for union with Greece grew louder, exploding in the riots of 1931 and the armed EOKA campaign of 1955–59, which ended in independence rather than union.",
+"ctx": "power britain: description"
+},
+{
+"en": "Sir Garnet Wolseley",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1878–1879",
+"ctx": "ruler dates"
+},
+{
+"en": "First High Commissioner, who landed at Larnaca in July 1878 and set up the administration.",
+"ctx": "ruler note (Sir Garnet Wolseley)"
+},
+{
+"en": "Sir Ronald Storrs",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1926–1932",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor whose Government House was burned in the October 1931 riots.",
+"ctx": "ruler note (Sir Ronald Storrs)"
+},
+{
+"en": "Sir Richmond Palmer",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1933–1939",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor of the authoritarian 'Palmerocracy' after 1931, with the legislature abolished.",
+"ctx": "ruler note (Sir Richmond Palmer)"
+},
+{
+"en": "Field Marshal Sir John Harding",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1955–1957",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor during the EOKA emergency; exiled Archbishop Makarios to the Seychelles in 1956.",
+"ctx": "ruler note (Field Marshal Sir John Harding)"
+},
+{
+"en": "Sir Hugh Foot",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1957–1960",
+"ctx": "ruler dates"
+},
+{
+"en": "Last Governor, who handed over power at independence on 16 August 1960.",
+"ctx": "ruler note (Sir Hugh Foot)"
+},
+{
+"en": "Rear-Admiral Lord John Hay",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1878 (acting, 12–22 July)",
+"ctx": "ruler dates"
+},
+{
+"en": "Raised the British flag at Nicosia on 12 July 1878 and held the administration for ten days.",
+"ctx": "ruler note (Rear-Admiral Lord John Hay)"
+},
+{
+"en": "Sir Robert Biddulph",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1879–1886",
+"ctx": "ruler dates"
+},
+{
+"en": "Built the first roads, courts and schools and the summer residence on the Troodos; the longest-serving of the early administrators.",
+"ctx": "ruler note (Sir Robert Biddulph)"
+},
+{
+"en": "Sir Henry Bulwer",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1886–1892",
+"ctx": "ruler dates"
+},
+{
+"en": "Presided over the first stirrings of organised enosis politics in the Legislative Council.",
+"ctx": "ruler note (Sir Henry Bulwer)"
+},
+{
+"en": "Sir Walter Sendall",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1892–1898",
+"ctx": "ruler dates"
+},
+{
+"en": "High Commissioner during years of locust campaigns, agricultural debt and emigration.",
+"ctx": "ruler note (Sir Walter Sendall)"
+},
+{
+"en": "Sir William Haynes Smith",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1898–1904",
+"ctx": "ruler dates"
+},
+{
+"en": "Faced deadlock in the Legislative Council between Greek and Turkish members and the British bloc.",
+"ctx": "ruler note (Sir William Haynes Smith)"
+},
+{
+"en": "Sir Charles King-Harman",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1904–1911",
+"ctx": "ruler dates"
+},
+{
+"en": "Opened the Cyprus Government Railway in 1905 and the rebuilt harbour at Famagusta.",
+"ctx": "ruler note (Sir Charles King-Harman)"
+},
+{
+"en": "Sir Hamilton Goold-Adams",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1911–1915",
+"ctx": "ruler dates"
+},
+{
+"en": "In office when Britain annexed Cyprus in November 1914 after the Ottoman entry into the war.",
+"ctx": "ruler note (Sir Hamilton Goold-Adams)"
+},
+{
+"en": "Sir John Clauson",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1915–1918",
+"ctx": "ruler dates"
+},
+{
+"en": "Administered the island through the war, when Britain offered Cyprus to Greece and Athens declined.",
+"ctx": "ruler note (Sir John Clauson)"
+},
+{
+"en": "Sir Malcolm Stevenson",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1918–1926",
+"ctx": "ruler dates"
+},
+{
+"en": "Last High Commissioner and first Governor when Cyprus became a Crown Colony in 1925.",
+"ctx": "ruler note (Sir Malcolm Stevenson)"
+},
+{
+"en": "Sir Reginald Stubbs",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1932–1933",
+"ctx": "ruler dates"
+},
+{
+"en": "Held the governorship for a year in the immediate repression after the riots.",
+"ctx": "ruler note (Sir Reginald Stubbs)"
+},
+{
+"en": "Sir William Battershill",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1939–1941",
+"ctx": "ruler dates"
+},
+{
+"en": "Relaxed some of Palmer's restrictions as war began and raised the Cyprus Regiment.",
+"ctx": "ruler note (Sir William Battershill)"
+},
+{
+"en": "Sir Charles Woolley",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1941–1946",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor through the war years, when trade unions and communal politics revived.",
+"ctx": "ruler note (Sir Charles Woolley)"
+},
+{
+"en": "Lord Winster",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1946–1949",
+"ctx": "ruler dates"
+},
+{
+"en": "Offered a Consultative Assembly and a constitution which the Greek Cypriot leadership boycotted; resigned when the offer failed.",
+"ctx": "ruler note (Lord Winster)"
+},
+{
+"en": "Sir Andrew Wright",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1949–1954",
+"ctx": "ruler dates"
+},
+{
+"en": "In office for the 1950 enosis plebiscite and the election of Makarios III as archbishop.",
+"ctx": "ruler note (Sir Andrew Wright)"
+},
+{
+"en": "Sir Robert Armitage",
+"ctx": "power britain: ruler name/heading"
+},
+{
+"en": "1954–1955",
+"ctx": "ruler dates"
+},
+{
+"en": "Governor when the constitution was again refused and EOKA opened its campaign on 1 April 1955.",
+"ctx": "ruler note (Sir Robert Armitage)"
+},
+{
+"en": "Cyprus became independent on 16 August 1960 with Archbishop Makarios III as president and a power-sharing constitution guaranteed by Greece, Turkey and Britain, which kept two Sovereign Base Areas. The constitution broke down in 1963, United Nations peacekeepers arrived in 1964, and in 1974 a coup backed by the Greek junta was answered by a Turkish invasion that has divided the island since. The Republic joined the European Union in 2004 and adopted the euro in 2008; talks on reunification continue.",
+"ctx": "power republic: description"
+},
+{
+"en": "Makarios III",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "1960–1977",
+"ctx": "ruler dates"
+},
+{
+"en": "Archbishop and first president; survived the 1974 coup and returned to office until his death.",
+"ctx": "ruler note (Makarios III)"
+},
+{
+"en": "Spyros Kyprianou",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "1977–1988",
+"ctx": "ruler dates"
+},
+{
+"en": "President through the aftermath of division and the 1983 declaration in the north.",
+"ctx": "ruler note (Spyros Kyprianou)"
+},
+{
+"en": "George Vassiliou",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "1988–1993",
+"ctx": "ruler dates"
+},
+{
+"en": "Businessman-president who applied for European Community membership in 1990.",
+"ctx": "ruler note (George Vassiliou)"
+},
+{
+"en": "Glafcos Clerides",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "1993–2003",
+"ctx": "ruler dates"
+},
+{
+"en": "Veteran negotiator who led accession talks with the European Union.",
+"ctx": "ruler note (Glafcos Clerides)"
+},
+{
+"en": "Tassos Papadopoulos",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "2003–2008",
+"ctx": "ruler dates"
+},
+{
+"en": "President when Cyprus joined the EU; opposed the Annan reunification plan in the 2004 referendum.",
+"ctx": "ruler note (Tassos Papadopoulos)"
+},
+{
+"en": "Demetris Christofias",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "2008–2013",
+"ctx": "ruler dates"
+},
+{
+"en": "Communist-party president; the euro was adopted and the 2012–13 banking crisis struck.",
+"ctx": "ruler note (Demetris Christofias)"
+},
+{
+"en": "Nicos Anastasiades",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "2013–2023",
+"ctx": "ruler dates"
+},
+{
+"en": "Steered the bailout and recovery; the Crans-Montana talks of 2017 ended without agreement.",
+"ctx": "ruler note (Nicos Anastasiades)"
+},
+{
+"en": "Nikos Christodoulides",
+"ctx": "power republic: ruler name/heading"
+},
+{
+"en": "2023–",
+"ctx": "ruler dates"
+},
+{
+"en": "Former foreign minister, elected president in February 2023.",
+"ctx": "ruler note (Nikos Christodoulides)"
+},
+{
+"en": "Hunters camp at Akrotiri-Aetokremnos, the earliest trace of people on Cyprus",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -10000"
+},
+{
+"en": "Hunters quarry and grind red ochre at Ayia Varvara-Asprokremnos and carve the oldest human figurine known from Cyprus",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -8850"
+},
+{
+"en": "Klimonas, near Amathus, is the oldest known village on Cyprus, with a ten-metre communal round building",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -8800"
+},
+{
+"en": "A well eight metres deep is cut into bedrock at Kissonerga-Mylouthkia, among the oldest water wells known anywhere",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -8600"
+},
+{
+"en": "Cattle, goats and Mesopotamian fallow deer are ferried across from the mainland; sheep follow within a few centuries",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -8500"
+},
+{
+"en": "Cappadocian obsidian comes ashore at Akanthou-Arkosykos on the north coast, which handles more of it than every other Cypriot site put together",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -8200"
+},
+{
+"en": "At Shillourokambos a man is buried beside a cat, the world's oldest evidence of cat taming; villagers at Kalavasos-Tenta ring their hilltop with a wall and ditch",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -7500"
+},
+{
+"en": "Khirokitia founded, a walled village of round stone houses",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -7000"
+},
+{
+"en": "Cattle vanish from the island and are not seen again until the Bronze Age; fallow deer become the mainstay of the meat supply",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -7000"
+},
+{
+"en": "Fishermen at Cape Andreas-Kastros, at the tip of the Karpas, take tuna and grouper from deep water",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -6500"
+},
+{
+"en": "The Aceramic villages are abandoned and the island falls quiet",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: event in year -5500"
+},
+{
+"en": "Farming spreads through the Fertile Crescent. Jericho and Çatalhöyük are large towns. There is no pottery yet anywhere in the Near East when the first Cypriots arrive.",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: elsewhere in the region"
+},
+{
+"en": "Almost everything the first farmers lived on came by boat: emmer and einkorn wheat, barley, lentils and pulses as seed grain, and sheep, goats, cattle and dogs as breeding stock, with Mesopotamian fallow deer released to be hunted rather than herded. Cattle failed and died out during the period and were not seen on the island again for some three thousand years, so meat came from deer, sheep, goats and pigs, while olives, figs, pistachios, plums and pears were gathered wild. There was no metal and no pottery; the only imports that survive are blades of Anatolian obsidian, about three hundred of them at Shillourokambos alone, and vessels were carved instead from hard grey andesite.",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: life/economy"
+},
+{
+"en": "The language of these people is unrecoverable. Writing would not be invented anywhere for another five thousand years and no later text preserves a word of what was spoken here, so the most that can be said is that the settlers came from the Levant and Anatolia and are likely to have spoken something related to the pre-Semitic and pre-Indo-European languages of the Near East. It has occasionally been suggested that the non-Greek Eteocypriot still spoken at Amathus in the fourth century BCE descends from this earliest layer, but the suggestion is untestable and most scholars will not press it back beyond the Bronze Age.",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: life/language"
+},
+{
+"en": "There are no temples, no shrines and no unambiguous cult buildings; ritual, so far as it can be seen at all, happened in and under the house. At Khirokitia the dead were laid in shallow pits beneath the plastered floors with the knees drawn up, and a quern or another heavy stone was often placed on the body, adults and children alike, before a new floor was laid over them. Schematic stone heads and figurines were carved, and at Shillourokambos a man was buried with a cat laid beside him, but what any of it meant is guesswork.",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: life/religion"
+},
+{
+"en": "Villages were small and tightly packed: Khirokitia, the largest known, is thought never to have held more than three hundred to six hundred people at a time in round stone houses inside a perimeter wall, and Klimonas, almost two thousand years older, had a communal round building ten metres across. The Khirokitia skeletons give a mean age at death of about thirty-five for men and thirty-three for women among those who survived childhood, with very high infant mortality, and men stood around 160 centimetres, women around 150. Diet was overwhelmingly terrestrial, with little or no marine food in the isotope record even at coastal sites, and the whole population descends from a deliberate seaborne migration that must have moved people, seed and livestock in organised boatloads.",
+"ctx": "era Epipalaeolithic and Aceramic Neolithic: life/people"
+}
+]

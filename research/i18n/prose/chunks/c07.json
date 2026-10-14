@@ -1,0 +1,1110 @@
+[
+{
+"en": "Cyprus Museum and Folk Art Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Silk, lemons and water",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "Springs on the Kyrenia range fed terraced gardens of lemons, mulberries for silk and vegetables, made the town unusually prosperous and gave it a reputation for water in a dry island; the channels and washing places survive in the lanes.",
+"ctx": "site Lapithos: find \"Silk, lemons and water\" text"
+},
+{
+"en": "Displacement and resettlement",
+"ctx": "site Lapithos: find title"
+},
+{
+"en": "1974-1976",
+"ctx": "find period/date"
+},
+{
+"en": "Lapithos's Greek Cypriot population, several thousand strong, fled or was expelled in 1974 and now lives scattered in the south; the town, renamed Lapta, was settled by Turkish Cypriots from the south and by families from Turkey and is today a tourist village. Both displacements are documented village by village in the PRIO displacement project.",
+"ctx": "site Lapithos: find \"Displacement and resettlement\" text"
+},
+{
+"en": "In situ, Lapta; PRIO Cyprus Displacement Centre",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "A small ancient kingdom, first named among the city-kingdoms in the fourth century BCE, that grew into a walled Byzantine harbour town with a great castle rebuilt by Lusignans and Venetians. The castle houses the Kyrenia ship, one of the best-preserved ancient Greek merchant ships ever found.",
+"ctx": "site Kyrenia: description"
+},
+{
+"en": "The Kyrenia Ship",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Sank c. 290–280 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "A 14-metre merchant ship, built in the later fourth century BCE and already old and much repaired when she sank. Found by the diver Andreas Cariolou in 1965 and excavated in 1967–69 with about 380 wine amphorae, most from Rhodes, more than 9,000 almonds and 29 millstones as ballast. More than half her hull survived.",
+"ctx": "site Kyrenia: find \"The Kyrenia Ship\" text"
+},
+{
+"en": "Shipwreck Museum, Kyrenia Castle",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "7th century, rebuilt 1208–1211 and 1540",
+"ctx": "find period/date"
+},
+{
+"en": "A Byzantine fort against Arab raids, enlarged by John of Ibelin and turned into a gun fortress with round towers by Venice; it surrendered to the Ottomans in 1570 without a fight.",
+"ctx": "site Kyrenia: find \"Kyrenia Castle\" text"
+},
+{
+"en": "In situ, Kyrenia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The kingdom's brief appearance",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Kyrenia is not among the ten kings of Esarhaddon's prism and surfaces only in the late fourth century, when Diodorus has Ptolemy I remove its ruler along with Praxippos of Lapithos in 312 BCE. It may never have been more than a dependency of its larger neighbour.",
+"ctx": "site Kyrenia: find \"The kingdom's brief appearance\" text"
+},
+{
+"en": "The ancient harbour",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Iron Age onwards",
+"ctx": "find period/date"
+},
+{
+"en": "The rock-cut and built moles under the modern quays enclose the same small basin the Iron Age town used, one of the few natural harbours on the north coast. The line of the ancient works can be seen from the castle wall in calm water.",
+"ctx": "site Kyrenia: find \"The ancient harbour\" text"
+},
+{
+"en": "In situ, Kyrenia harbour",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cypro-Archaic and Classical tombs in the town",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Chamber tombs with painted pottery have been found in and around Kyrenia during building work, the main evidence that the site was occupied throughout the age of the kingdoms. There has been no systematic excavation of the ancient settlement.",
+"ctx": "site Kyrenia: find \"Cypro-Archaic and Classical tombs in the town\" text"
+},
+{
+"en": "Kyrenia and Cyprus Museum collections",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Byzantine castle",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "7th to 11th century",
+"ctx": "find period/date"
+},
+{
+"en": "The first fort on the rock was thrown up against the Arab raids. Stretches of its curtain and a horseshoe tower survive inside the later Lusignan and Venetian shells, and it was still the strongpoint of the north coast when Richard I's men took it in 1191.",
+"ctx": "site Kyrenia: find \"The Byzantine castle\" text"
+},
+{
+"en": "In situ, Kyrenia Castle",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Byzantine chapel of St George",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "12th century",
+"ctx": "find period/date"
+},
+{
+"en": "A small domed church of the Byzantine town, swallowed by the Venetian north-west bastion and now standing in the castle courtyard with its columns reused around it.",
+"ctx": "site Kyrenia: find \"Byzantine chapel of St George\" text"
+},
+{
+"en": "The surrender of 1191",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "May and June 1191",
+"ctx": "find period/date"
+},
+{
+"en": "While Richard chased Isaac Komnenos east, Guy de Lusignan took Kyrenia, where Isaac's wife and daughter were lodged. The daughter, whom the chroniclers call the Damsel of Cyprus, passed into Richard's household, and Isaac gave up the island soon after at Cape St Andreas.",
+"ctx": "site Kyrenia: find \"The surrender of 1191\" text"
+},
+{
+"en": "Recorded by Neophytos the Recluse and the Latin chroniclers",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Shipwreck Museum",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Opened 1976",
+"ctx": "find period/date"
+},
+{
+"en": "The ship's hull is shown in a climate-controlled hall with the cargo she went down with: hundreds of amphorae, thousands of almonds, and the millstones that ballasted her. It is one of the few places in the world where a whole ancient merchant hull can be walked around.",
+"ctx": "site Kyrenia: find \"The Shipwreck Museum\" text"
+},
+{
+"en": "Kyrenia II, the sailing replica",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Built 1985",
+"ctx": "find period/date"
+},
+{
+"en": "A full-scale working copy built from the excavation drawings, which sailed from Piraeus to Cyprus in 1986 and later crossed to Japan and America to prove what the original could do. She now lies in the south of the island, on the far side of the line from the wreck she copies.",
+"ctx": "site Kyrenia: find \"Kyrenia II, the sailing replica\" text"
+},
+{
+"en": "Thalassa Museum, Ayia Napa",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Icon museum in the church of the Archangel Michael",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "Church 1860; museum since 1990",
+"ctx": "find period/date"
+},
+{
+"en": "The old parish church on the bluff above the harbour now displays icons gathered from the churches of the Kyrenia district after 1974.",
+"ctx": "site Kyrenia: find \"Icon museum in the church of the Archangel Michael\" text"
+},
+{
+"en": "Kyrenia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Venetian bastions of 1540",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "c. 1540",
+"ctx": "find period/date"
+},
+{
+"en": "Venice buried John of Ibelin's square and horseshoe towers inside squat rounded bastions with walls thick enough to take cannon and gun ports at three levels, one of the first fully artillery-age reworkings of a crusader castle in the Levant. It surrendered to the Ottomans in 1570 without being fired on.",
+"ctx": "site Kyrenia: find \"Venetian bastions of 1540\" text"
+},
+{
+"en": "Church of Saint George",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "11th–12th century",
+"ctx": "find period/date"
+},
+{
+"en": "A small domed Byzantine church, once outside the walls, swallowed whole by the Venetian north-west bastion and now standing inside the fortress with reused Roman columns holding up its dome.",
+"ctx": "site Kyrenia: find \"Church of Saint George\" text"
+},
+{
+"en": "Lusignan works of John of Ibelin",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "1208–1211",
+"ctx": "find period/date"
+},
+{
+"en": "A new entrance, square and horseshoe towers, archers' embrasures and the dungeons, built by the regent who made Kyrenia the crown's strongest harbour; the castle stood a siege in 1232 during the war between Frederick II's men and the Ibelins, and again in the 1460s.",
+"ctx": "site Kyrenia: find \"Lusignan works of John of Ibelin\" text"
+},
+{
+"en": "Tomb of Sadik Pasha",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "1570",
+"ctx": "find period/date"
+},
+{
+"en": "The grave of the Ottoman commander who took the castle in 1570, in the courtyard; a rare case of the conqueror buried inside the prize.",
+"ctx": "site Kyrenia: find \"Tomb of Sadik Pasha\" text"
+},
+{
+"en": "Kyrenia II",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "A full-scale sailing reconstruction of the Kyrenia ship built by the Hellenic Institute for the Preservation of Nautical Tradition, which sailed to Greece, Cyprus, New York and Japan and settled long-running arguments about how such a hull handled.",
+"ctx": "site Kyrenia: find \"Kyrenia II\" text"
+},
+{
+"en": "Thalassa Museum, Ayia Napa (verify current display)",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Aga Cafer Pasha Mosque",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "1580",
+"ctx": "find period/date"
+},
+{
+"en": "The oldest Ottoman building in the town, a small stone mosque with a squat minaret and a fountain, built for the garrison a decade after the conquest, just above the old harbour.",
+"ctx": "site Kyrenia: find \"Aga Cafer Pasha Mosque\" text"
+},
+{
+"en": "The castle as a colonial prison",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "1878-1950s",
+"ctx": "find period/date"
+},
+{
+"en": "The British used the Venetian fortress as a prison and, during the 1955 to 1959 emergency, as a detention centre for EOKA suspects; the cells and the exercise yards are shown to visitors alongside the medieval work.",
+"ctx": "site Kyrenia: find \"The castle as a colonial prison\" text"
+},
+{
+"en": "Pentemili landing beach",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "20 July 1974",
+"ctx": "find period/date"
+},
+{
+"en": "Turkish forces came ashore on Five Mile Beach west of Kyrenia at dawn on 20 July 1974 and pushed inland to link with the Turkish Cypriot enclave in Nicosia. A monument and a museum now stand at the landing point, and the anniversary is a public holiday in the north.",
+"ctx": "site Kyrenia: find \"Pentemili landing beach\" text"
+},
+{
+"en": "In situ, west of Kyrenia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Bitter Lemons and the house at Bellapais",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "1953-1956",
+"ctx": "find period/date"
+},
+{
+"en": "Lawrence Durrell bought a house in Bellapais, taught in Nicosia and worked for the colonial information service, and wrote Bitter Lemons about watching the island slide into the emergency; the book shaped how a generation of British readers understood Cyprus, and the house is still pointed out.",
+"ctx": "site Kyrenia: find \"Bitter Lemons and the house at Bellapais\" text"
+},
+{
+"en": "In situ, Bellapais",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The harbour and the tourist town",
+"ctx": "site Kyrenia: find title"
+},
+{
+"en": "20th century onwards",
+"ctx": "find period/date"
+},
+{
+"en": "The horseshoe harbour with its carob warehouses converted to restaurants was the postcard image of Cyprus before 1974 and is now the tourist centre of the north, ringed by hotels and casinos serving visitors from Turkey.",
+"ctx": "site Kyrenia: find \"The harbour and the tourist town\" text"
+},
+{
+"en": "A minor Iron Age kingdom called Ledra, listed on Esarhaddon's prism in 673 BCE, then a village and a bishopric, Nicosia became the capital when the Arab raids drove life inland. Lusignan kings built its Gothic cathedral and palaces, Venice ringed it with eleven bastions, and it has been the seat of every government since.",
+"ctx": "site Ledra, later Nicosia: description"
+},
+{
+"en": "Venetian walls",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1567–1570",
+"ctx": "find period/date"
+},
+{
+"en": "A near-circle of ramparts about 5 km round, with eleven heart-shaped bastions and three gates, designed by Giulio Savorgnan and Francesco Barbaro. Still unfinished when the Ottomans stormed the Podocattaro bastion on 9 September 1570, and still complete today.",
+"ctx": "site Ledra, later Nicosia: find \"Venetian walls\" text"
+},
+{
+"en": "In situ, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cathedral of Saint Sophia",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1209–1326",
+"ctx": "find period/date"
+},
+{
+"en": "The coronation church of the Lusignan kings, in French Gothic style, where the Templars were tried in 1310. A mosque since 1570, named Selimiye in 1954.",
+"ctx": "site Ledra, later Nicosia: find \"Cathedral of Saint Sophia\" text"
+},
+{
+"en": "Famagusta Gate",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1567",
+"ctx": "find period/date"
+},
+{
+"en": "The grandest of the three Venetian gates, a vaulted passage through the Caraffa bastion modelled on Sanmicheli's gate at Candia; now a cultural centre.",
+"ctx": "site Ledra, later Nicosia: find \"Famagusta Gate\" text"
+},
+{
+"en": "Büyük Han",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1572",
+"ctx": "find period/date"
+},
+{
+"en": "One of the first Ottoman buildings on the island and its largest caravanserai, 68 rooms around a courtyard with a small mosque.",
+"ctx": "site Ledra, later Nicosia: find \"Büyük Han\" text"
+},
+{
+"en": "The Cyprus Museum",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Founded 1882",
+"ctx": "find period/date"
+},
+{
+"en": "The national archaeological museum, holding most of the finds named in this atlas; present building 1924.",
+"ctx": "site Ledra, later Nicosia: find \"The Cyprus Museum\" text"
+},
+{
+"en": "Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Onasagoras, king of Ledrai",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "The only ruler of Ledra known by name, listed on Esarhaddon's prism as Unasagusu among the ten kings of Iadnana who sent tribute to Nineveh. After that the kingdom vanishes from the record, absorbed by stronger neighbours.",
+"ctx": "site Ledra, later Nicosia: find \"Onasagoras, king of Ledrai\" text"
+},
+{
+"en": "The lost site of Ledra",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "c. 1050–300 BCE",
+"ctx": "find period/date"
+},
+{
+"en": "Nobody knows where the Iron Age town stood. It is assumed to lie under the walled city or on the banks of the Pedieos, and only chance finds during building work ever touch it.",
+"ctx": "site Ledra, later Nicosia: find \"The lost site of Ledra\" text"
+},
+{
+"en": "Presumed in situ beneath Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Cypro-Archaic and Classical tombs under the modern city",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Rock-cut chamber tombs with painted pottery turn up regularly in rescue excavations across Nicosia and its suburbs. They are the strongest argument that a substantial settlement of the kingdoms' age lies beneath the capital.",
+"ctx": "site Ledra, later Nicosia: find \"Cypro-Archaic and Classical tombs under the modern city\" text"
+},
+{
+"en": "Capital by default",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "From the 10th century",
+"ctx": "find period/date"
+},
+{
+"en": "Nicosia was a minor bishopric called Ledra until the coast became dangerous. The governor of the new theme settled inland after 965, and the island's capital has sat ten miles from the sea ever since, which is why Cyprus is the one Mediterranean country whose capital has no harbour.",
+"ctx": "site Ledra, later Nicosia: find \"Capital by default\" text"
+},
+{
+"en": "The Byzantine Museum",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Opened 1982",
+"ctx": "find period/date"
+},
+{
+"en": "The Archbishop Makarios III Foundation's gallery beside the archbishopric holds the largest icon collection in Cyprus, running from the ninth century onwards, together with the recovered fragments of the Kanakaria mosaic and the icons brought back from the Netherlands and Athens.",
+"ctx": "site Ledra, later Nicosia: find \"The Byzantine Museum\" text"
+},
+{
+"en": "Byzantine Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Bedestan",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Byzantine core, rebuilt from the 14th century",
+"ctx": "find period/date"
+},
+{
+"en": "A tangle of six building phases next to Selimiye that began as a small Byzantine church, grew into the Orthodox metropolitan cathedral of Nicosia under Frankish rule, and ended as an Ottoman cloth market. Restored between 2004 and 2009, it is now a concert hall.",
+"ctx": "site Ledra, later Nicosia: find \"The Bedestan\" text"
+},
+{
+"en": "The medieval walls and the diverted river",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Demolished 1567",
+"ctx": "find period/date"
+},
+{
+"en": "The Lusignan circuit was far larger and looser than the Venetian one. In 1567 Venice pulled it down along with the royal palace and a great many churches and monasteries, and turned the Pedieos river out of the city, in order to fit the town inside eleven bastions it could actually hold.",
+"ctx": "site Ledra, later Nicosia: find \"The medieval walls and the diverted river\" text"
+},
+{
+"en": "Traces beneath modern Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Panagia Chrysaliniotissa",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Traditionally 1450",
+"ctx": "find period/date"
+},
+{
+"en": "The oldest church still in use inside the walls, said to have been founded by Helena Palaiologina, the Greek queen of Cyprus, and until 1974 the home of a celebrated icon collection now in the Byzantine Museum.",
+"ctx": "site Ledra, later Nicosia: find \"Panagia Chrysaliniotissa\" text"
+},
+{
+"en": "The Bedesten",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Byzantine core, rebuilt 14th–15th century",
+"ctx": "find period/date"
+},
+{
+"en": "The church beside the cathedral, identified by T. C. Papacostas as the site of the first Saint Sophia and proposed by Camille Enlart as a Latin church of Saint Nicholas served by English followers of Thomas Becket, a reading not universally accepted. Under Venice it was the seat of the Orthodox metropolitan as Panagia Hodegetria; the Ottomans turned it into the covered market that gave it its present name. Restored between 2004 and 2009.",
+"ctx": "site Ledra, later Nicosia: find \"The Bedesten\" text"
+},
+{
+"en": "Savorgnan's demolitions of 1567",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "To build the new walls Venice pulled down the Lusignan fortifications and, inside and outside the new line, houses, palaces, churches and monasteries of both rites, including the royal palace, partly for a clear field of fire and partly for cut stone. The Pedieos was diverted out of the city into the new moat in the same year. Nicosia lost most of its medieval fabric to the defence that then failed.",
+"ctx": "site Ledra, later Nicosia: find \"Savorgnan's demolitions of 1567\" text"
+},
+{
+"en": "Documentary; the walls in situ",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Eleven bastions named for eleven families",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Pentagonal bastions with rounded orillons, on the model of Palmanova, each named for an Italian noble house of the city that paid towards it: Caraffa, Podocattaro, Constanza, D'Avila, Tripoli, Roccas, Mula, Quirini, Barbaro, Loredan and Flatro. The upper half of the curtain was left unfaced so it would absorb shot, and the gates were tucked beside the bastions.",
+"ctx": "site Ledra, later Nicosia: find \"Eleven bastions named for eleven families\" text"
+},
+{
+"en": "The storming of the Podocattaro bastion",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "9 September 1570",
+"ctx": "find period/date"
+},
+{
+"en": "The walls were still unfinished, without piazze basse, cavaliers or outworks, and the curtains were low. After seven weeks the Ottomans broke in on the fourth assault; contemporaries put the dead at some twenty thousand, and the luogotenente Nicolo Dandolo was killed. Kyrenia surrendered days later without a fight.",
+"ctx": "site Ledra, later Nicosia: find \"The storming of the Podocattaro bastion\" text"
+},
+{
+"en": "Omeriye Mosque, the Augustinian church of Saint Mary",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "14th century",
+"ctx": "find period/date"
+},
+{
+"en": "One of the few Latin churches to survive the 1567 clearances, converted to a mosque after 1571 on the belief that the caliph Umar had prayed on the spot; medieval Frankish tombstones are reused in its floor.",
+"ctx": "site Ledra, later Nicosia: find \"Omeriye Mosque, the Augustinian church of Saint Mary\" text"
+},
+{
+"en": "The Venetian Column",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Set up 1550s",
+"ctx": "find period/date"
+},
+{
+"en": "A grey granite column brought from the ruins of Salamis and raised in the square outside the governor's palace under the Lion of Saint Mark. Thrown down after 1570 and re-erected by the British in 1915, now carrying a globe instead of the lion.",
+"ctx": "site Ledra, later Nicosia: find \"The Venetian Column\" text"
+},
+{
+"en": "Sarayonu Square, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Omeriye Mosque and baths",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Church 14th century; converted 1571; baths 1570s",
+"ctx": "find period/date"
+},
+{
+"en": "The Augustinian church of Saint Mary, wrecked in the siege, was converted by Lala Mustafa Pasha in 1571 in the belief that the Caliph Omar had rested on the spot; Lusignan tomb slabs are reused in its floor. The hamam of the same complex was restored in 2002 to 2004 under the Nicosia Master Plan, still works as a bath house, and won the top Europa Nostra conservation prize in 2006.",
+"ctx": "site Ledra, later Nicosia: find \"Omeriye Mosque and baths\" text"
+},
+{
+"en": "House of Hadjigeorgakis Kornesios",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1793",
+"ctx": "find period/date"
+},
+{
+"en": "The sandstone mansion of the dragoman, the Greek interpreter and tax intermediary who was the richest and most hated man on the island, built round a courtyard with its own three-room hamam. Kornesios was executed at Constantinople in 1809. Saved from demolition in the 1950s, opened as a museum in 1960 and given a Europa Nostra award in 1988, it is the best surviving picture of how power actually worked in late Ottoman Cyprus.",
+"ctx": "site Ledra, later Nicosia: find \"House of Hadjigeorgakis Kornesios\" text"
+},
+{
+"en": "Ethnological Museum, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Bedesten and the Bandabuliya",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1573 and 1932",
+"ctx": "find period/date"
+},
+{
+"en": "The Ottoman authorities gave a ruined Byzantine and Gothic church beside Selimiye to the Haramayn foundation in 1573 for use as a covered cloth market; it fell out of use when the municipal covered market, the Bandabuliya, opened in 1932 next door. The two buildings, forty metres and 360 years apart, are the Ottoman and the colonial versions of the same function.",
+"ctx": "site Ledra, later Nicosia: find \"The Bedesten and the Bandabuliya\" text"
+},
+{
+"en": "In situ, north Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Faneromeni church and the Marble Mausoleum",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Church 1872; mausoleum from 1873",
+"ctx": "find period/date"
+},
+{
+"en": "The largest church of the walled city, rebuilt in 1872 on the site of an older convent, with a marble mausoleum to its east holding the relics of Archbishop Kyprianos, the three bishops and the clergy executed by the Ottoman authorities on 9 July 1821. Faneromeni School opposite is one of the oldest on the island.",
+"ctx": "site Ledra, later Nicosia: find \"Faneromeni church and the Marble Mausoleum\" text"
+},
+{
+"en": "Pancyprian Gymnasium",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "Founded 1812; named 1893",
+"ctx": "find period/date"
+},
+{
+"en": "Founded by Archbishop Kyprianos as the Hellenic School, on a site that had held a school since 1753, and reorganised as the Pancyprian Gymnasium in 1893; the present neoclassical building followed a fire in 1920. Its pupils include Makarios III, Glafcos Clerides, Tassos Papadopoulos, Georgios Grivas and the Nobel economist Christopher Pissarides, and its classrooms were a nursery of both enosis and the 1931 and 1955 movements.",
+"ctx": "site Ledra, later Nicosia: find \"Pancyprian Gymnasium\" text"
+},
+{
+"en": "Government House, now the Presidential Palace",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1878, 1932-1937",
+"ctx": "find period/date"
+},
+{
+"en": "The first Government House was a prefabricated building shipped from England in 1878, intended for Ceylon and carried up from the coast by camel. A crowd of about 5,000 burned it on 21 October 1931 and the cost was charged back to the population; Maurice Webb designed the sandstone replacement, built between 1932 and 1937 for £70,000. It became the Presidential Palace in 1960, was burned again in the coup of July 1974 and was rebuilt in 1977 with Greek money.",
+"ctx": "site Ledra, later Nicosia: find \"Government House, now the Presidential Palace\" text"
+},
+{
+"en": "In situ, Strovolos, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Imprisoned Graves",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1956-1962",
+"ctx": "find period/date"
+},
+{
+"en": "Thirteen graves in the yard of the Central Prison holding the men the British hanged during the emergency, among them Michalakis Karaolis and Andreas Demetriou on 10 May 1956 and the eighteen-year-old Evagoras Pallikaridis on 14 March 1957, together with fighters killed in action including Markos Drakos, Grigoris Afxentiou, Stylianos Lenas and Kyriakos Matsis. The gallows and cells are shown as a national monument.",
+"ctx": "site Ledra, later Nicosia: find \"The Imprisoned Graves\" text"
+},
+{
+"en": "In situ, Central Prison, Nicosia",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The Green Line through the city",
+"ctx": "site Ledra, later Nicosia: find title"
+},
+{
+"en": "1963, and after 1974",
+"ctx": "find period/date"
+},
+{
+"en": "Major-General Peter Young drew the ceasefire line across Nicosia with a green chinagraph pencil on a map on 30 December 1963; the buffer zone it became runs 180 km across the island and covers 346 square kilometres, from twenty metres wide in the old city to seven kilometres in the plain. Nicosia has been the last divided capital in Europe since 1974. The Ledra Palace hotel, opened in 1949 and shell-scarred in 1974, has served as the United Nations barracks, and the crossing beside it was the first to open, in April 2003, followed by the pedestrian crossing on Ledra Street in the old city in 2008.",
+"ctx": "site Ledra, later Nicosia: find \"The Green Line through the city\" text"
+},
+{
+"en": "Founded as Arsinoe by the Ptolemies around 274 BCE, a fishing town that inherited the people of Salamis after the Arab raids, Famagusta exploded into one of the richest cities in Christendom after Acre fell in 1291. Lusignan kings were crowned Kings of Jerusalem in its cathedral. Genoa held it for ninety years, Venice fortified it, and the Ottoman siege of 1571 left it a ghost town within its walls.",
+"ctx": "site Famagusta: description"
+},
+{
+"en": "Cathedral of Saint Nicholas",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1298–1312, consecrated 1328",
+"ctx": "find period/date"
+},
+{
+"en": "A Rayonnant Gothic cathedral often compared to Reims, where the Lusignans took the crown of Jerusalem until 1372. A mosque since 1571, named Lala Mustafa Pasha in 1954.",
+"ctx": "site Famagusta: find \"Cathedral of Saint Nicholas\" text"
+},
+{
+"en": "In situ, Famagusta",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Venetian walls and Martinengo bastion",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1490s–1560s",
+"ctx": "find period/date"
+},
+{
+"en": "About 3 km of ramparts up to 18 m high and 9 m thick, with fourteen bastions; the Martinengo bastion by Sanmicheli (1550–62) was among the most advanced fortifications of its day.",
+"ctx": "site Famagusta: find \"Venetian walls and Martinengo bastion\" text"
+},
+{
+"en": "The Citadel (Othello's Tower)",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "14th century, remodelled 1492",
+"ctx": "find period/date"
+},
+{
+"en": "A Lusignan castle refaced by Venice under Captain Nicolò Foscarini, later linked to Shakespeare's 'seaport in Cyprus' by nineteenth-century visitors.",
+"ctx": "site Famagusta: find \"The Citadel (Othello's Tower)\" text"
+},
+{
+"en": "Sea Gate",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1496",
+"ctx": "find period/date"
+},
+{
+"en": "Venetian harbour gate with a marble Lion of St Mark and an iron portcullis.",
+"ctx": "site Famagusta: find \"Sea Gate\" text"
+},
+{
+"en": "Church of St George of the Greeks",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "c. 1360s",
+"ctx": "find period/date"
+},
+{
+"en": "The Orthodox cathedral of Famagusta, a Gothic-Byzantine hybrid whose apse still carries wall paintings and cannonball scars from 1571; one of more than a dozen ruined churches within the walls.",
+"ctx": "site Famagusta: find \"Church of St George of the Greeks\" text"
+},
+{
+"en": "Venetian Palace",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "13th century, rebuilt 1550s",
+"ctx": "find period/date"
+},
+{
+"en": "The Lusignan royal palace refronted by Venice with columns from Salamis; later an Ottoman prison where the poet Namık Kemal was held.",
+"ctx": "site Famagusta: find \"Venetian Palace\" text"
+},
+{
+"en": "Arsinoe of the Ptolemies",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "c. 274 BCE onwards",
+"ctx": "find period/date"
+},
+{
+"en": "Ptolemy II founded a town called Arsinoe here, one of several he named for his sister and wife Arsinoe II, and it lived quietly in the shadow of Salamis for nine hundred years. Practically none of it has been excavated: it lies under the medieval walled city, and Famagusta's ancient phase is known almost entirely from texts.",
+"ctx": "site Famagusta: find \"Arsinoe of the Ptolemies\" text"
+},
+{
+"en": "Beneath the walled city, Famagusta",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ancient stone in the medieval city",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "Reused 13th to 16th century",
+"ctx": "find period/date"
+},
+{
+"en": "Granite and marble columns and cut blocks from Salamis and from Arsinoe itself were carried into Famagusta's churches, palace and walls. The Venetian Palace front stands on columns from Salamis, so the ancient city is visible in the medieval one.",
+"ctx": "site Famagusta: find \"Ancient stone in the medieval city\" text"
+},
+{
+"en": "The natural harbour",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "Hellenistic to modern",
+"ctx": "find period/date"
+},
+{
+"en": "The reef-sheltered anchorage that made Arsinoe worth founding is the same basin that made Famagusta the richest port in Christendom after 1291 and is still the harbour today. Salamis, 6 km north, lost its harbour to silt; this one never silted.",
+"ctx": "site Famagusta: find \"The natural harbour\" text"
+},
+{
+"en": "In use, Famagusta",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Ammochostos, heir of Salamis",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "After 649",
+"ctx": "find period/date"
+},
+{
+"en": "Ptolemaic Arsinoe was a fishing village with a good roadstead until Constantia was given up. Its Greek name means hidden in the sand, and it took in the refugees from up the coast and, in time, their bishop.",
+"ctx": "site Famagusta: find \"Ammochostos, heir of Salamis\" text"
+},
+{
+"en": "Salamis's stones",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "13th to 16th century",
+"ctx": "find period/date"
+},
+{
+"en": "Famagusta was quarried out of Constantia. Granite columns carted down from Salamis stand in the Venetian palace, and reused ancient blocks turn up throughout the walls and the churches, which is why the ruins of Salamis are so much barer than their size suggests.",
+"ctx": "site Famagusta: find \"Salamis's stones\" text"
+},
+{
+"en": "Ayios Georgios Exorinos",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "c. 1359",
+"ctx": "find period/date"
+},
+{
+"en": "The church of the Syrian and Nestorian merchants, built by the brothers Francis and Nicholas Lakhas, whose walls carry paintings and layers of graffiti in Greek, Syriac and Armenian left by pilgrims and prisoners. The nickname means George the exiler, from a story that dust from the floor would drive an enemy off the island within a year.",
+"ctx": "site Famagusta: find \"Ayios Georgios Exorinos\" text"
+},
+{
+"en": "Ayia Zoni",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "14th to 15th century",
+"ctx": "find period/date"
+},
+{
+"en": "A tiny single-aisled domed church in the ruined Greek quarter, one of the few buildings inside the walls built to a Byzantine rather than a Gothic plan, with fragments of painting still on the vault.",
+"ctx": "site Famagusta: find \"Ayia Zoni\" text"
+},
+{
+"en": "The twin churches of the military orders",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "Two small churches side by side near the palace, built for the Templars and the Hospitallers and joined by a common wall. Both have been restored and serve now as a theatre and a gallery.",
+"ctx": "site Famagusta: find \"The twin churches of the military orders\" text"
+},
+{
+"en": "Church of Saints Peter and Paul",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "c. 1360",
+"ctx": "find period/date"
+},
+{
+"en": "One of the largest Gothic churches in the city, said to have been paid for out of a third of the profit of a single trading voyage to Syria by the Famagusta merchant Simone Nostrano. Massive flying buttresses were added after the sixteenth-century earthquakes. A mosque from 1571 as Sinan Pasha, a British grain and potato store, then a library and exhibition hall.",
+"ctx": "site Famagusta: find \"Church of Saints Peter and Paul\" text"
+},
+{
+"en": "Nestorian church of Saint George the Exiler",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "Built by the Lakhas brothers, Syriac Christian merchants rich enough to found their own cathedral, with three apses, frescoes of the fourteenth and fifteenth centuries and Syriac inscriptions. Reduced to a camel stable after 1571 and opened once a year for the saint's feast; a cultural centre of the Eastern Mediterranean University since 1989.",
+"ctx": "site Famagusta: find \"Nestorian church of Saint George the Exiler\" text"
+},
+{
+"en": "Armenian church of Ganchvor",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1346",
+"ctx": "find period/date"
+},
+{
+"en": "A small fortress-like church raised by Armenian refugees from Cilicia in Armenian style but Cypriot masonry, part of a monastic and teaching centre. Unused after 1571, leased back to the Armenian community in 1936 and reconsecrated in 1945; restored with the Carmelite church by the UNDP and handed over on 26 May 2018.",
+"ctx": "site Famagusta: find \"Armenian church of Ganchvor\" text"
+},
+{
+"en": "Carmelite church and the tomb of Peter Thomas",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "The church of the Carmelite friars, opposite the Armenian church, where Peter Thomas was buried. A Carmelite from Perigord, papal legate and Latin Patriarch of Constantinople, he pressed the Greeks hard towards Latin obedience, sailed on Peter I's Alexandria crusade in 1365 and died of his wounds at Famagusta in January 1366; he was canonised in 1628.",
+"ctx": "site Famagusta: find \"Carmelite church and the tomb of Peter Thomas\" text"
+},
+{
+"en": "Twin churches of the military orders",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "Early 14th century",
+"ctx": "find period/date"
+},
+{
+"en": "Two small churches built shoulder to shoulder, traditionally the Templars' and the Hospitallers'; the Templar house and its Cypriot lands passed to the Hospitallers after the order was suppressed in 1312. Later used as a store, a theatre and an art gallery. The attribution is traditional rather than documented.",
+"ctx": "site Famagusta: find \"Twin churches of the military orders\" text"
+},
+{
+"en": "The Ravelin, the Arsenal bastion and the siege of 1570 to 1571",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "The outworks where the ten and a half month siege was decided: the Ottomans filled the ditch to the top of the walls, mined the Ravelin and stormed the Arsenal bastion, losing tens of thousands of men, while the huge Martinengo bastion was never even attacked. The Turkish name of the Ravelin, Akkule or White Gate, records the white flag raised there on 1 August 1571.",
+"ctx": "site Famagusta: find \"The Ravelin, the Arsenal bastion and the siege of 1570 to 1571\" text"
+},
+{
+"en": "The skin of Marcantonio Bragadin",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1571; recovered 1580",
+"ctx": "find period/date"
+},
+{
+"en": "Famagusta's captain was mutilated at the surrender ceremony on 5 August 1571 and flayed alive in the square on 17 August; his skin was stuffed with straw and paraded. A young Venetian seaman, Girolamo Polidori, stole it from the arsenal at Constantinople in 1580 and brought it home, and it lies in an urn under Bragadin's monument in Venice.",
+"ctx": "site Famagusta: find \"The skin of Marcantonio Bragadin\" text"
+},
+{
+"en": "Basilica of Santi Giovanni e Paolo, Venice",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The emptied walled city",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1571-19th century",
+"ctx": "find period/date"
+},
+{
+"en": "After the siege the Ottoman authorities settled the walled city with Muslims and largely excluded Orthodox Cypriots from living inside it, which is why the Greek town grew as Varosha outside the gates. Travellers through the eighteenth century describe a garrison town of a few hundred people among two dozen ruined churches.",
+"ctx": "site Famagusta: find \"The emptied walled city\" text"
+},
+{
+"en": "Cafer Pasha fountain and baths",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1597",
+"ctx": "find period/date"
+},
+{
+"en": "Cafer Pasha brought water into the walled city and built a domed bath house and a street fountain, the main Ottoman civic works in Famagusta; the fountain still stands near the cathedral square and the bath survives in part.",
+"ctx": "site Famagusta: find \"Cafer Pasha fountain and baths\" text"
+},
+{
+"en": "Famagusta harbour and the railway terminus",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "1903-1906; railway from 1905",
+"ctx": "find period/date"
+},
+{
+"en": "The British dredged and walled the silted harbour and made it the colony's main port, with the Cyprus Government Railway running from the quay to Nicosia from 21 October 1905. Locomotive No. 1 is preserved at the station.",
+"ctx": "site Famagusta: find \"Famagusta harbour and the railway terminus\" text"
+},
+{
+"en": "The closed port",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "The Republic declared Famagusta a closed port after 1974, so the busiest harbour on the island trades only with Turkey; the resulting legal argument about direct trade with the north has run through the European courts for decades.",
+"ctx": "site Famagusta: find \"The closed port\" text"
+},
+{
+"en": "Othello's Tower restored",
+"ctx": "site Famagusta: find title"
+},
+{
+"en": "2014-2015",
+"ctx": "find period/date"
+},
+{
+"en": "The citadel was consolidated and reopened by the bicommunal Technical Committee on Cultural Heritage with United Nations and European Union funding, the most visible product of the one negotiating track that has kept working through every political freeze.",
+"ctx": "site Famagusta: find \"Othello's Tower restored\" text"
+},
+{
+"en": "Neapolis, later Nemesos and Lemesos, grew up between Amathus and Kourion and took over as they declined; a bishop of the town sat at the Council of Chalcedon in 451. Richard the Lionheart landed here in 1191, married Berengaria of Navarre, by tradition in a chapel on the site of the later castle, and destroyed Amathus. The Knights Templar and Hospitallers made the surrounding plain their estate, and it is the home of Commandaria, often called the world's oldest named wine still made.",
+"ctx": "site Limassol: description"
+},
+{
+"en": "Limassol Castle",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "c. 1193, rebuilt c. 1590",
+"ctx": "find period/date"
+},
+{
+"en": "A fort built by Guy de Lusignan on a Byzantine site, demolished by Venice in 1567–68 and rebuilt as an Ottoman fort; a prison until 1950 and the Cyprus Medieval Museum since 1987.",
+"ctx": "site Limassol: find \"Limassol Castle\" text"
+},
+{
+"en": "In situ, Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Early Christian basilica",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "4th–7th century",
+"ctx": "find period/date"
+},
+{
+"en": "Remains of a basilica and later Byzantine buildings found beneath the castle, evidence of the town before the Lusignans.",
+"ctx": "site Limassol: find \"Early Christian basilica\" text"
+},
+{
+"en": "Beneath Limassol Castle",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The town under the town",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "5th to 12th century",
+"ctx": "find period/date"
+},
+{
+"en": "Almost nothing of Limassol's Late Roman and Byzantine beginnings has been excavated, because the ancient settlement lies directly under the modern city centre. What is known comes from rescue work on building plots, and there is no excavated urban core to visit.",
+"ctx": "site Limassol: find \"The town under the town\" text"
+},
+{
+"en": "Beneath the old town of Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The inheritance of Amathus and Kourion",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "c. 650-700 CE",
+"ctx": "find period/date"
+},
+{
+"en": "Both of the district's ancient cities failed within a couple of generations, Kourion after the earthquakes and Amathus after the Arab raids, and their people moved to the small town between them. Limassol's rise is not a founding but a consolidation.",
+"ctx": "site Limassol: find \"The inheritance of Amathus and Kourion\" text"
+},
+{
+"en": "Settlement pattern, Limassol district",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Present building opened 1975",
+"ctx": "find period/date"
+},
+{
+"en": "The district's collection, running from the Neolithic to the Roman period, and the place where much of the material from Amathus, Kourion and the Vasilikos valley sites is kept.",
+"ctx": "site Limassol: find \"Limassol District Archaeological Museum\" text"
+},
+{
+"en": "Limassol",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The see of Nemesos",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "451 onwards",
+"ctx": "find period/date"
+},
+{
+"en": "A bishop from the district sat at the Council of Chalcedon in 451. When Amathus and Kourion were abandoned after the Arab raids their sees were folded into that of the new town between them, and Limassol's bishops long carried Amathus and Kourion in their titles.",
+"ctx": "site Limassol: find \"The see of Nemesos\" text"
+},
+{
+"en": "Panagia Amasgou, Monagri",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "12th century, with later layers",
+"ctx": "find period/date"
+},
+{
+"en": "A monastery church on a knoll above the Kouris a short way north of Limassol, whose wall paintings were cleaned and published by Dumbarton Oaks in the 1970s and run in layers from the twelfth century to the sixteenth. The house flourished in the sixteenth and seventeenth centuries, declined in the eighteenth and ended as a parish church.",
+"ctx": "site Limassol: find \"Panagia Amasgou, Monagri\" text"
+},
+{
+"en": "In situ, Monagri",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "The three hundred Alaman saints",
+"ctx": "site Limassol: find title"
+},
+{
+"en": "Late 12th to 13th century by tradition",
+"ctx": "find period/date"
+},
+{
+"en": "Cypriot tradition says three hundred hermits crossed from Palestine as the crusader states fell and scattered into caves across the island. A dozen villages and the monastery of Ayios Georgios Alamanos east of Limassol carry their names. Nothing outside the tradition attests any of them.",
+"ctx": "site Limassol: find \"The three hundred Alaman saints\" text"
+},
+{
+"en": "Local cults across the Limassol district",
+"ctx": "find location (museum/in situ)"
+},
+{
+"en": "Berengaria's ship in the roads",
+"ctx": "site Limassol: find title"
+}
+]
