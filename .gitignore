@@ -3,3 +3,4 @@
 .impeccable/config.local.json
 research/__pycache__/
 research/baseline-data.json
+/dist/

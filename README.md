@@ -41,7 +41,17 @@ checks require Node.js. The existing browser research scripts require Playwright
 their paths now resolve from this checkout.
 
 See [VALIDATION.md](VALIDATION.md) for recorded checks and remaining acceptance
-work. Deployment uses the existing GitHub Pages configuration: `main`, repository root.
+work.
+
+## Deployment
+
+Cloudflare Pages publishes `main` at https://cyprus.markos.pm/. Set the build
+command to `sh build.sh` and the output directory to `dist`. The build copies
+both HTML entry points and the Greek and Turkish prose packs into the published
+directory. Copying only the HTML files leaves translated long-form content
+unavailable. GitHub Pages is no longer used.
+
+Run `sh build.sh` locally to inspect the deployment files in `dist/`.
 
 ## Repo layout
 
