@@ -53,8 +53,8 @@ evidence and are not part of the single-file deliverable. No raster artwork ship
 
 The HTML is 1,366,640 bytes (394,283 bytes with gzip level 9), below the
 1,500,000-byte budget, and retains its external CDN
-dependencies. New UI changes are on `codex/atlas-visual-overhaul`; Pages has not
-been updated. The historical datasets and the original local atlas remain intact.
+dependencies. The overhaul was prepared on `codex/atlas-visual-overhaul`; the owner authorised
+publication on 14 October 2026. GitHub Pages publishes `main`, repository root. The historical datasets and the original local atlas remain intact.
 
 The original browser research scripts were made portable but were not executed
 in this session. Geography was validated through unchanged-payload comparisons;

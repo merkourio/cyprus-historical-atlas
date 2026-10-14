@@ -41,7 +41,7 @@ checks require Node.js. The existing browser research scripts require Playwright
 their paths now resolve from this checkout.
 
 See [VALIDATION.md](VALIDATION.md) for recorded checks and remaining acceptance
-work. This branch has been reviewed locally; it has not been published to Pages.
+work. Deployment uses the existing GitHub Pages configuration: `main`, repository root.
 
 ## Repo layout
 
