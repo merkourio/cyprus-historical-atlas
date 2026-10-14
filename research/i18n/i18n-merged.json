@@ -3,6 +3,7 @@
   "ui": {
    "title": "Ιστορικός Εξερευνητής της Κύπρου",
    "tagline": "Ποιος κατείχε το νησί, τι στεκόταν πάνω του και τι έχει δώσει πίσω το χώμα. Από το 10.000 π.Χ. έως σήμερα.",
+   "byline": "Δημιουργία:",
    "cyprus": "Κύπρος",
    "view.world": "Κόσμος",
    "view.region": "Περιοχή",
@@ -1034,6 +1035,7 @@
   "ui": {
    "title": "Kıbrıs Tarih Rehberi",
    "tagline": "Adayı kimin yönettiği, üzerinde ne durduğu ve toprağın geri verdikleri. MÖ 10.000'den bugüne.",
+   "byline": "Hazırlayan:",
    "cyprus": "Kıbrıs",
    "view.world": "Dünya",
    "view.region": "Bölge",
